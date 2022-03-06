@@ -1,3 +1,10 @@
+```markdown
+---
+title: "Example Title"
+disableToc: false 
+---
+```
+
 # Artificial Intelligence
 - The expression _artificial intelligence_ today is therefore an umbrella term. It refers to a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
