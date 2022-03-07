@@ -9,6 +9,11 @@
         },
         {
           "source": "/",
+          "target": "/AI/Deep-Learning/Deep-Learning",
+          "text": "Deep Learning"
+        },
+        {
+          "source": "/",
           "target": "/AI/Data-Science-Data-Engineering/Data-Science",
           "text": "Data Science"
         }
@@ -65,14 +70,12 @@
           "text": "Automated planning"
         }
       ],
-      "/AI/Active-learning": [
-        {
-          "source": "/AI/Active-learning",
-          "target": "/Anomaly-and-Outlier-Detection",
-          "text": "Anomaly and Outlier Detection"
-        }
-      ],
       "/AI/Anomaly-and-Outlier-Detection": [
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Active-learning.md",
+          "text": "Active learning for anomaly discovery"
+        },
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/Unsupervised-learning",
@@ -755,7 +758,7 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Feature-selection",
+          "target": "/AI/Supervised-Learning/Feature-selection",
           "text": "Feature selection"
         },
         {
@@ -790,7 +793,7 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Deep-learning",
+          "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
         },
         {
@@ -1349,6 +1352,13 @@
           "text": "Artificial Intelligence"
         }
       ],
+      "/AI/Active-learning.md": [
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Active-learning.md",
+          "text": "Active learning for anomaly discovery"
+        }
+      ],
       "/AI/Anomaly-and-Outlier-Detection": [
         {
           "source": "/AI/Machine-Learning",
@@ -1437,9 +1447,21 @@
           "text": "Visualization"
         }
       ],
+      "/AI/Deep-Learning/Deep-Learning": [
+        {
+          "source": "/",
+          "target": "/AI/Deep-Learning/Deep-Learning",
+          "text": "Deep Learning"
+        }
+      ],
       "/AI/Deep-learning/Deep-learning": [
         {
           "source": "/AI/AI",
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
+        },
+        {
+          "source": "/AI/Machine-Learning",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
         }
@@ -1491,6 +1513,13 @@
           "text": "Problem Solving and Search"
         }
       ],
+      "/AI/Supervised-Learning/Feature-selection": [
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/Supervised-Learning/Feature-selection",
+          "text": "Feature selection"
+        }
+      ],
       "/Active-learning": [
         {
           "source": "/AI/Machine-Learning",
@@ -1506,13 +1535,6 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/Active-learning",
           "text": "Active learning"
-        }
-      ],
-      "/Anomaly-and-Outlier-Detection": [
-        {
-          "source": "/AI/Active-learning",
-          "target": "/Anomaly-and-Outlier-Detection",
-          "text": "Anomaly and Outlier Detection"
         }
       ],
       "/AutoML": [
@@ -1762,11 +1784,6 @@
           "text": "Deep learning"
         },
         {
-          "source": "/AI/Machine-Learning",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
-        },
-        {
           "source": "/AI/NLP",
           "target": "/Deep-learning",
           "text": "Deep learning"
@@ -1835,13 +1852,6 @@
           "source": "/AI/Machine-Learning",
           "target": "/Feature-learning",
           "text": "Feature learning"
-        }
-      ],
-      "/Feature-selection": [
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/Feature-selection",
-          "text": "Feature selection"
         }
       ],
       "/Forecasting": [
@@ -2575,9 +2585,9 @@
       "text": "Automated planning"
     },
     {
-      "source": "/AI/Active-learning",
-      "target": "/Anomaly-and-Outlier-Detection",
-      "text": "Anomaly and Outlier Detection"
+      "source": "/AI/Anomaly-and-Outlier-Detection",
+      "target": "/AI/Active-learning.md",
+      "text": "Active learning for anomaly discovery"
     },
     {
       "source": "/AI/Anomaly-and-Outlier-Detection",
@@ -3201,7 +3211,7 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Feature-selection",
+      "target": "/AI/Supervised-Learning/Feature-selection",
       "text": "Feature selection"
     },
     {
@@ -3236,7 +3246,7 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Deep-learning",
+      "target": "/AI/Deep-learning/Deep-learning",
       "text": "Deep learning"
     },
     {
@@ -3628,6 +3638,11 @@
       "source": "/",
       "target": "/AI/AI",
       "text": "Artificial Intelligence"
+    },
+    {
+      "source": "/",
+      "target": "/AI/Deep-Learning/Deep-Learning",
+      "text": "Deep Learning"
     },
     {
       "source": "/",
