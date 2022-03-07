@@ -955,7 +955,7 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Learning-to-rank",
+          "target": "/AI/Learning-to-rank",
           "text": "Learning to rank"
         },
         {
@@ -1699,6 +1699,13 @@
           "text": "Forecasting"
         }
       ],
+      "/AI/Learning-to-rank": [
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/Learning-to-rank",
+          "text": "Learning to rank"
+        }
+      ],
       "/AI/Machine-Learning": [
         {
           "source": "/AI/AI",
@@ -2327,11 +2334,6 @@
         }
       ],
       "/Learning-to-rank": [
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/Learning-to-rank",
-          "text": "Learning to rank"
-        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/Learning-to-rank",
@@ -3770,7 +3772,7 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Learning-to-rank",
+      "target": "/AI/Learning-to-rank",
       "text": "Learning to rank"
     },
     {
