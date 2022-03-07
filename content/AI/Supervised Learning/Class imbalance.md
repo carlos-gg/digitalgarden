@@ -3,6 +3,7 @@ title: "Class imbalance"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis
 - http://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation
 - http://www.alfredo.motta.name/cross-validation-done-wrong/

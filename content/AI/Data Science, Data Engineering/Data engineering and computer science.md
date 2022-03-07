@@ -3,6 +3,7 @@ title: "Data Engineering and Computer Science"
 disableToc: false 
 ---
 
+# Resources
 - https://github.com/ossu/computer-science
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications.
 - https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY
@@ -48,7 +49,7 @@ disableToc: false
 	- https://developer.nvidia.com/cuda-education
 	- https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA
 
-## Books
+# Books
 - #BOOK Problem Solving with Algorithms and Data Structures using Python (Interactive book): https://runestone.academy/runestone/books/published/pythonds/index.html
 - #BOOK Large Scale Machine Learning with Python (Sjandin 2016, PACKT): https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python
 - #BOOK Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE): http://www.mmds.org/
@@ -57,7 +58,7 @@ disableToc: false
 	- https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf
 - #BOOK Pandas cookbook (Petrou, 2017 PACKT): packtpub.com/big-data-and-business-intelligence/pandas-cookbook
 
-## Courses
+# Courses
 - #COURSE Data Structures & Algorithms - Python: https://pythonschool.net/category/data-structures-algorithms.html
 - #COURSE Intro to Hadoop and MapReduce: https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
 - #COURSE Mining Massive Data Sets (CS246 Stanford): http://web.stanford.edu/class/cs246/
@@ -69,7 +70,7 @@ disableToc: false
 		- https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
-## Code
+# Code
 See [[MLops]]
 
 - #CODE ABSL.flags - defines a distributed command line system and manual argument parsing: https://abseil.io/docs/python/guides/flags
@@ -156,7 +157,7 @@ See [[MLops]]
 
 # Subtopics
 
-## Open datasets (for [[Machine Learning]] and [[Data Science]])
+## Open datasets (for ML and DS)
 - https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 - OpenML (open-source datasets): http://www.openml.org/
 	- API: https://docs.openml.org/APIs/
@@ -179,7 +180,7 @@ See [[MLops]]
 - https://tech.zalando.com/blog/feature-extraction-science-or-engineering/
 
 ### Feature extraction
-See [[feature learning]] techniques in [[Computer vision]].
+See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision](AI/Computer%20Vision/Computer%20vision.md).
 
 
 ## Data mining
@@ -239,8 +240,6 @@ See [[feature learning]] techniques in [[Computer vision]].
 	- A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash.
 	- Dictionaries contain a collection of objects, or records, which in turn have many different fields within them, each containing data. These records are stored and retrieved using a key that uniquely identifies the record, and is used to quickly find the data within the database.
 - Document: https://en.wikipedia.org/wiki/Document-oriented_database
-
-### Data replication
 
 ## Data munging
 https://www.coursera.org/learn/data-cleaning

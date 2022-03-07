@@ -6,12 +6,11 @@ disableToc: false
 See  [[AutoML]]
 See [[Data engineering and computer science#Workflow managers distributed ML]]
 
+# Resources
 - Model selection and evaluation: https://scikit-learn.org/stable/model_selection.html
 
-
-## Code
-- #CODE Weights & Biases: https://docs.wandb.com/
-	- Library that -helps you keep track of your machine learning projects. Use our tool to log hyperparameters and output metrics from your runs, then visualize and compare results and quickly share findings with your colleagues.
+# Code
+See [MLops](AI/Data%20Science,%20Data%20Engineering/MLops.md)
 - #CODE Optuna - A hyperparameter optimization framework: https://github.com/optuna/optuna
 	- https://optuna.org/
 - #CODE Yellowbrick. Visual analysis and diagnostic tools to facilitate machine learning model selection: http://www.scikit-yb.org/en/latest/
@@ -27,8 +26,7 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 	- #PAPER https://arxiv.org/abs/1603.06560
 	- http://fastml.com/tuning-hyperparams-fast-with-hyperband/
 
-
-## Bias-variance trade-off
+# Bias-variance trade-off
 - Problem of minimizing two sources of errors that prevent a supervised learning algorithm from generalizing beyond the training set:
 	- High bias  ->  underfitting
 	- High variance  ->  overfitting
@@ -42,8 +40,7 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 	- https://www.quora.com/How-can-I-avoid-overfitting
 	- https://www.quora.com/How-do-we-detect-overfitting-and-under-fitting-in-Machine-Learning
 
-
-## Cross-validation
+# Cross-validation
 - Cross-validation
 	- Train, test and validation: https://machinelearningmastery.com/difference-test-validation-datasets/
 	- http://scikit-learn.org/stable/modules/cross_validation.html (also about train, test, validation)

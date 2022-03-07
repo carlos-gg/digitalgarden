@@ -3,6 +3,7 @@ title: "Supervised Learning"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/Supervised_learning
 - Supervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 - http://scikit-learn.org/stable/supervised_learning.html
@@ -13,18 +14,23 @@ disableToc: false
 		- http://corysimon.github.io/articles/what-is-an-roc-curve/
 
 
-## [[Classification]]
+## Classification
+See [Classification](Classification.md)
 
-## [[Regression]]
+## Regression
+See [Regression](Regression.md)
 
 ## Structured learning
-https://en.wikipedia.org/wiki/Structured_prediction
+- https://en.wikipedia.org/wiki/Structured_prediction
 
-## [[Ensemble learning]]
+## Ensemble learning
+See [Ensemble learning](Ensemble%20learning.md)
 
-## [[Class imbalance]]
+## Class imbalance
+See [Class imbalance](Class%20imbalance.md)
 
-## [[Model selection and tuning]]
+## Model selection and tuning
+See [Model selection and tuning](Model%20selection%20and%20tuning.md)
 
 ## Probability calibration
 - https://en.wikipedia.org/wiki/Calibration_(statistics)

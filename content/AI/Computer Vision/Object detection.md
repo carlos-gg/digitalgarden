@@ -3,9 +3,7 @@ title: "Object detection"
 disableToc: false 
 ---
 
-See:
-[[EO]] for applications
-[[Semantic segmentation]]
+See [Semantic segmentation](Semantic%20segmentation.md)
  
 # Code
 - https://github.com/microsoft/computervision-recipes/tree/master/scenarios/detection

@@ -3,13 +3,18 @@ title: "Multimodal learning"
 disableToc: false 
 ---
 
+# Resources
 - General-purpose neural networks capable of handling diverse inputs and output tasks
+- Multimodal Deep Learning: https://multimodal-dl.mpi-inf.mpg.de/
 
 # Code
 - #CODE Pykale (in pytorch): https://github.com/pykale/pykale
 	- [[#^pykale]]
 
 # References
+Review papers:
+- #PAPER Recent Advances and Trends in Multimodal Deep Learning: A Review (Summaira 2021): https://arxiv.org/abs/2105.11087
+
 - #PAPER Multi-modal Transformer for Video Retrieval (Gabeur 2020): https://arxiv.org/abs/2007.10639
 - #PAPER DALL-E - Creating Images from Text (Ramesh 2021): https://openai.com/blog/dall-e/ ^dall-e
 	- https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/

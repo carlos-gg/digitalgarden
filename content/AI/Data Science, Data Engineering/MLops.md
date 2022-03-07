@@ -1,8 +1,21 @@
-# ML ops
+---
+title: "ML ops"
+disableToc: false 
+---
 
+
+# Resources
+- https://en.wikipedia.org/wiki/MLOps
+- Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently. The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field
+- https://github.com/GokuMohandas/MadeWithML
+- https://github.com/visenger/awesome-mlops
+- https://github.com/EthicalML/awesome-production-machine-learning
+
+# Code
 ## Experiment tracking
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools
-- Weights and biases: https://wandb.ai/site
+- #CODE Weights & Biases: https://docs.wandb.com/
+	- Library that -helps you keep track of your machine learning projects. Use our tool to log hyperparameters and output metrics from your runs, then visualize and compare results and quickly share findings with your colleagues.
 - #CODE Aim: https://github.com/aimhubio/aim
 	- The open-source tool for ML experiment comparison
 	- https://aimstack.io/

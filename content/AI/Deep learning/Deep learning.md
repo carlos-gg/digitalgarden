@@ -151,9 +151,11 @@ State of ML frameworks:
 	- http://neupy.com/pages/home.html
 - #CODE Chainer - Chainer is a Python-based deep learning framework aiming at flexibility
 	- https://github.com/chainer/chainer
+- #CODE Neural Network Console (Sony): https://dl.sony.com/
 - #CODE PySyft: https://github.com/OpenMined/PySyft
 	- PySyft is a Python library for secure and private Deep Learning. PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
 	- #PAPER A generic framework for privacy preserving deep learning: https://arxiv.org/abs/1811.04017
+- #CODE Deep cognition: https://deepcognition.ai/
 
 
 # References

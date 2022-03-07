@@ -3,6 +3,7 @@ title: "Jupyter"
 disableToc: false 
 ---
 
+# Resources
 - #CODE Jupyter: https://github.com/jupyter
 	- #CODE Jupyterlab: https://github.com/jupyterlab/jupyterlab 
 	- #CODE Jupyter(hub): https://jupyter.org/hub 

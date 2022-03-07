@@ -3,6 +3,7 @@ title: "Recurrent Neural Networks (RNNs)"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
 - https://github.com/kjw0612/awesome-rnn
 - Recurrent Neural Networks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
@@ -18,6 +19,7 @@ disableToc: false
 - When Recurrent Models Don't Need to be Recurrent (recurrent vs feed-forward models): http://www.offconvex.org/2018/07/27/approximating-recurrent/
 
 
+# References
 - #PAPER Neural Turing Machines (Graves 2014): http://arxiv.org/abs/1410.5401
 - #PAPER Attention and Augmented Recurrent Neural Networks (Olah 2016): http://distill.pub/2016/augmented-rnns/
 - #PAPER Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks (Laptev 2017): https://eng.uber.com/neural-networks/

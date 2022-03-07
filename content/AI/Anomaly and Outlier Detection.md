@@ -44,7 +44,7 @@ See [Active learning for anomaly discovery](AI/Active%20learning.md#Active%20lea
 - #PAPER Bayesian Anomaly Detection and Classification (2019): https://arxiv.org/abs/1902.08627  
 
 
-## [[Deep learning]] based
+## DL-based
 See [GANs for anomaly detection](AI/Deep%20learning/GANs.md#GANs%20for%20anomaly%20detection)
 
 - #PAPER Learning Deep Features for One-Class Classification (Perera 2018): https://arxiv.org/abs/1801.05365

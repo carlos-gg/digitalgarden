@@ -5,6 +5,7 @@ disableToc: false
 
 See [[Image-to-image translation]]
 
+# Resources
 - https://github.com/ptkin/Awesome-Super-Resolution
 - https://github.com/ChaofWang/Awesome-Super-Resolution
 - https://keras.io/examples/vision/super_resolution_sub_pixel/
@@ -12,7 +13,7 @@ See [[Image-to-image translation]]
 - #TALK How Super Resolution Works (2019): https://www.youtube.com/watch?v=KULkSwLk62I
 - #TALK Can you enhance that? Single Image Super Resolution (Pydata 2019): https://www.youtube.com/watch?v=lmUxbRY7H2I
 
-## Code
+# Code
 - #CODE BasicSR: Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring (Pytorch). https://github.com/xinntao/BasicSR
 	- It includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, etc
 - #CODE Single Image Super Resolution benchmark (Keras): https://github.com/hieubkset/Keras-Image-Super-Resolution
@@ -21,6 +22,7 @@ See [[Image-to-image translation]]
 	- http://krasserm.github.io/2019/09/04/super-resolution/
 
 
+# References
 ## Review Papers
 - #PAPER Deep Learning for Single Image Super-Resolution: A Brief Review (2018): https://arxiv.org/abs/1808.03344
 - #PAPER A Deep Journey into Super-resolution: A survey (Anwar 2020): https://arxiv.org/abs/1904.07523

@@ -3,6 +3,7 @@ title: "Deep belief network"
 disableToc: false 
 ---
 
+# Resources
 - In machine learning, a deep belief network (DBN) is a generative graphical model, or alternatively a type of deep neural network, composed of multiple layers of latent variables("hidden units"), with connections between the layers but not between units within each layer. DBNs can be viewed as a composition of simple, unsupervised networks such as restricted Boltzmann machines (RBMs) or autoencoders, where each sub-network's hidden layer serves as the visible layer for the next.
 - #TALK Deep Belief Nets (Hinton): https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf
 - Deep-Belief Networks: https://wiki.pathmind.com/deep-belief-network

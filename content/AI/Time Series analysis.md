@@ -4,11 +4,12 @@ disableToc: false
 ---
 
 See: 
-[[Forecasting]]
-[[RNNs]]
-[[CNNs#Sequence time series modelling]]
-[[Deep learning#Deep learning for tabular data]]
+[Forecasting](Forecasting.md)
+[RNNs](RNNs.md)
+[CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
+[Deep learning#Deep learning for tabular data](Deep%20learning#Deep%20learning.md%20for%20tabular%20data)
 
+# Resources
 - https://en.wikipedia.org/wiki/Time_series
 - https://github.com/MaxBenChrist/awesome_time_series_in_python
 - https://github.com/frutik/awesome-timeseries
@@ -17,8 +18,8 @@ See:
 - Python to work with time series data: https://github.com/MaxBenChrist/awesome_time_series_in_python
 - timeseriesAI: https://github.com/timeseriesAI
 
-## Code
-See [[Forecasting#Code]]
+# Code
+See [Forecasting#Code](Forecasting.md#Code)
 
 - #CODE TSflex: https://github.com/predict-idlab/tsflex
 	- https://predict-idlab.github.io/tsflex/
@@ -45,9 +46,11 @@ See [[Forecasting#Code]]
 
 # Subtopics
 
-## TS [[Forecasting]]
+## Time Series Forecasting
+See [Forecasting](AI/Forecasting.md)
 
-## [[AI/Anomaly and Outlier Detection]]
+## Anomaly and Outlier Detection
+See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 
 ## TS models
 - Autoregressive: https://en.wikipedia.org/wiki/Autoregressive
@@ -79,5 +82,5 @@ See [[Forecasting#Code]]
 - Continuous wavelet transform: https://en.wikipedia.org/wiki/Continuous_wavelet_transform
   
 ## Causality
-See [[AI#Causality]].
+See [Causality](AI/Causality.md)
   

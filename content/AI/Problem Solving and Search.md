@@ -3,6 +3,7 @@ title: "Problem Solving and Search"
 disableToc: false 
 ---
 
+# Resources
 - Solving problems by searching: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture2.md
 - Problem solving and search: https://www.emse.fr/~picard/cours/ai/chapter03.pdf
 - Constraint satisfaction problems:

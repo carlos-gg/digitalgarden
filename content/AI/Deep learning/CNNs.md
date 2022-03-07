@@ -3,6 +3,7 @@ title: "Convolutional Neural Networks (CNNs)"
 disableToc: false 
 ---
 
+# Resources
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
 - In [[deep learning]], a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
@@ -72,7 +73,7 @@ Channel/visual attention:
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 
 
-### Channel/Visual attention
+## Channel/Visual attention
  - #PAPER Squeeze-and-Excitation Networks, SENets (Hu 2017): https://arxiv.org/abs/1709.01507 ^senets
 	- Features can incorporate global context
 	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
@@ -92,7 +93,7 @@ Channel/visual attention:
 - #PAPER [[Super-resolution#^srwithpixelattention]]
 
 
-### 1x1 convolutions
+## 1x1 convolutions
 - 1x1 convolutions: https://d2l.ai/chapter_convolutional-neural-networks/channels.html#times-1-convolutional-layer
 - 1x1 convolutions: https://www.youtube.com/watch?v=qVP574skyuM
 - Networks in Networks and 1x1 Convolutions: https://www.youtube.com/watch?v=vcp0XvDAX68

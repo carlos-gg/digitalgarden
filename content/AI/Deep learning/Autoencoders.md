@@ -3,6 +3,7 @@ title: "Autoencoders"
 disableToc: false 
 ---
 
+# Resources
 - Dimensionality Reduction: https://www.cs.toronto.edu/~hinton/science.pdf
 - The classical approach for unsupervised learning using neural networks. The basic version consists of a Multilayer Perceptron (MLP) where the input and output layer have the same size and a smaller hidden layer is trained to recover the input. Once trained, the output from the hidden layer corresponds to data representation that can be useful for clustering, dimensionality reduction, improving supervised classification and even for data compression.
 - https://blog.keras.io/building-autoencoders-in-keras.html

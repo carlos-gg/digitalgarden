@@ -3,6 +3,7 @@ title: "Self-supervised learning"
 disableToc: false 
 ---
 
+# Resources
 - https://github.com/jason718/awesome-self-supervised-learning
 - https://hackernoon.com/self-supervised-learning-gets-us-closer-to-autonomous-learning-be77e6c86b5a
 - Self-Supervised Representation Learning: https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
@@ -10,8 +11,8 @@ disableToc: false
 - Self-supervised learning: The dark matter of intelligence: https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
 	- The general technique of self-supervised learning is to predict any unobserved or hidden part (or property) of the input from any observed or unhidden part of the input
 	- Blog post explained: https://www.youtube.com/watch?v=Ag1bw8MfHGQ&t=6s
-
-
+	
+ 
 # Code
 - #CODE VISSL: https://github.com/facebookresearch/vissl
 	- FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images

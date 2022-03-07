@@ -3,6 +3,7 @@ title: "Active learning"
 disableToc: false 
 ---
 
+# Resources
 * https://en.wikipedia.org/wiki/Active_learning_(machine_learning)
 * Active learning refers to algorithms that take an active role in the selection of which ex-amples are labeled. Active learning assumes that there is an ‘oracle’, such as a human expert, that can be queried to get ground-truth labels for selected unlabeled instances. 
 * There are situations in which unlabeled data is abundant but manually labeling is expensive. In such a scenario, learning algorithms can actively query the user/teacher for labels. This type of iterative supervised learning is called active learning. Since the learner chooses the examples, the number of examples to learn a concept can often be much lower than the number required in normal supervised learning. With this approach, there is a risk that the algorithm be overwhelmed by uninformative examples.

@@ -3,11 +3,14 @@ title: "Encoder-decoder networks"
 disableToc: false 
 ---
 
+# Resources
 - Very common models for semantic segmentation tasks.
 - [[Deep learning]] architectures composed of two paths, an encoding and a decoding one. [[Autoencoders]] are similar but unsupervised (reconstructions loss).
 - U-NETs are a type of encoder-decoder [[CNNs]] model with skipped connections trained in a [[Supervised learning]] context for image segmentation and related tasks.
 - https://www.slideshare.net/PetteriTeikariPhD/multiphoton-vasculature-segmentation-5-unet
 
+
+# References
 - #PAPER U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger 2015): https://arxiv.org/abs/1505.04597 
 	- https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760 
 	- https://github.com/karolzak/keras-unet 

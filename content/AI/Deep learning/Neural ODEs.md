@@ -3,6 +3,7 @@ title: "Neural Ordinary Differential Equations"
 disableToc: false 
 ---
 
+# Resources
 - https://github.com/Zymrael/awesome-neural-ode
 - Understanding Neural ODE's: https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
 - Neural Ordinary Differential Equations and Dynamics Models: https://medium.com/@ml.at.berkeley/neural-ordinary-differential-equations-and-dynamics-models-1a4277fbb80

@@ -4,6 +4,7 @@ disableToc: false
 ---
 
 
+# References
 Review papers: 
 - #PAPER A Systematic Literature Review on Image Captioning (Staniute 2019): https://www.mdpi.com/2076-3417/9/10/2024/htm
 - #PAPER Survey of convolutional neural networks for image captioning (Kalra 2020): https://www.tandfonline.com/doi/abs/10.1080/02522667.2020.1715602

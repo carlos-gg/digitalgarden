@@ -1,7 +1,12 @@
-# Clustering
+---
+title: "Clustering"
+disableToc: false 
+---
+
+
+# Resources
 - Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters).
 - http://scikit-learn.org/stable/modules/clustering.html
-
 - Hierarhical clustering: Method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types:
 	- Agglomerative: This is a "bottom up" approach: each observation starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
 	- Divisive: This is a "top down" approach: all observations start in one cluster, and splits are performed recursively as one moves down the hierarchy.
@@ -24,8 +29,6 @@
 			- Update step: Calculate the new means to be the centroids of the observations in the new clusters. This also minimizes the within-cluster sum of squares (WCSS) objective. Also called “Maximization step” because it involves maximizing some fitness function that defines the location of the cluster centers — in this case, that maximization is accomplished by taking a simple mean of the data in each cluster
 	  - http://stanford.edu/~cpiech/cs221/handouts/kmeans.html  
 	  - Five Minutes With Ingo - K Means Clustering: https://www.youtube.com/watch?v=wGzumILN5ww
-	  - #PAPER k-means++: the advantages of careful seeding (Arthur 2007): https://dl.acm.org/doi/10.5555/1283383.1283494
-	  - #PAPER A Comparative Study of Efficient Initialization Methods for the K-Means Clustering Algorithm (Celebi 2012): https://arxiv.org/abs/1209.1960
 - DBSCAN 
 	- Density-based spatial clustering of applications with noise: https://en.wikipedia.org/wiki/DBSCAN
 - HDBSCAN: http://hdbscan.readthedocs.io/en/latest/soft_clustering_explanation.html
@@ -34,6 +37,9 @@
 	- https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html
 
 
+# References
+- #PAPER k-means++: the advantages of careful seeding (Arthur 2007): https://dl.acm.org/doi/10.5555/1283383.1283494
+- #PAPER A Comparative Study of Efficient Initialization Methods for the K-Means Clustering Algorithm (Celebi 2012): https://arxiv.org/abs/1209.1960
 - #PAPER SCAN: Learning to Classify Images without Labels (Van Gansbeke 2020): https://arxiv.org/abs/2005.12320
 	- #CODE https://github.com/wvangansbeke/Unsupervised-Classification
 	- Paper explained: https://www.youtube.com/watch?v=hQEnzdLkPj4

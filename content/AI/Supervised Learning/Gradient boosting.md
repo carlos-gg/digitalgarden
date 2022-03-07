@@ -1,14 +1,18 @@
-# Gradient boosting
-See [[Ensemble learning]]
+---
+title: "Gradient boosting"
+disableToc: false 
+---
 
+See [Ensemble learning](Ensemble%20learning.md)
+
+# Resources
 - Outperforms Random Forests and AdaBoost. RF is easier to tune and less prone to overfitting
 - http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
 - http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html
 - https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/
 - https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 
-
-## Code
+# Code
 - #CODE Xgboost
 	- https://github.com/dmlc/xgboost
 	- Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
@@ -24,6 +28,6 @@ See [[Ensemble learning]]
 - #CODE https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 
-## References
+# References
 - #PAPER Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression (Sprangers 2021): https://arxiv.org/abs/2106.01682v2
 	- #CODE https://paperswithcode.com/paper/probabilistic-gradient-boosting-machines-for?from=n11

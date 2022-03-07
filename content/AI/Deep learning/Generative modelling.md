@@ -3,25 +3,30 @@ title: "Generative modeling"
 disableToc: false 
 ---
 
+# Resources
 - Generative models: https://openai.com/blog/generative-models/ 
 - Deep Generative Models: https://www.cs.toronto.edu/~slwang/generative_model.pdf
 - Taxonomy of Generative Models: https://christineai.blog/taxonomy/
 
+# Courses
 - #COURSE Deep Generative Modeling: VAEs and GANs (MIT 6.S191): https://www.youtube.com/watch?v=rZufA635dq4&t=1062s
 
 
-## [[Autoencoders#VAEs]]
+## Autoencoders
+See [Autoencoders#VAEs](Autoencoders.md#VAEs)
 
-## [[GANs]]
+## GANs
+See [[GANs]]
 
-## [[Normalizing flows]]
+## Normalizing flows
+See [[Normalizing flows]]
 
 ## Generative models for Image data
 See:
-[[Image-to-image translation]]
-[[Image-to-image translation#GAN-based]]
-[[GANs#GANs for representation learning and image synthesis]]
-[[Transformers#For Computer Vision]]
+[Image-to-image translation](Image-to-image%20translation.md)
+[Image-to-image translation#GAN-based](Image-to-image%20translation.md#GAN-based)
+[GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
+[Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision)
 
 - #PAPER Video Pixel Networks (Kalchbrenner 2016): https://arxiv.org/abs/1610.00527
 - #PAPER Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016): https://arxiv.org/abs/1601.06759

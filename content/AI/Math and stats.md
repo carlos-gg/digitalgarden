@@ -1,4 +1,9 @@
-# Maths and Statistics
+---
+title: "Maths and Statistics"
+disableToc: false 
+---
+
+# Resources
 - Statistics cheatsheet: https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
 - https://github.com/rouseguy/intro2stats
 - Stanford-cs-229 ML, probability and stats refresher: https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf
@@ -8,7 +13,7 @@
 - https://scipy-latinamerica.github.io/revista.io/blog/2018/10/22/probabilidad-y-estadistica-con-python/
 - Trigonometry refresher: https://stanford.edu/~shervine/teaching/cme-102/trigonometry
 
-## Books
+# Books
 - #BOOK Essential Mathematics and Statistics for Science (Currell 2009, WILEY): https://www.wiley.com/en-us/Essential+Mathematics+and+Statistics+for+Science%2C+2nd+Edition-p-9780470694480
 	- http://www.stewartschultz.com/statistics/books/Essential%20Mathematics.pdf
 - #BOOK Think Stats - Exploratory Data Analysis in Python (Downey 2014): https://greenteapress.com/wp/think-stats-2e/
@@ -20,7 +25,7 @@
 	- R language
 - #BOOK Jupyter Guide to Linear Algebra: https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html
 
-## Courses
+# Courses
 - #COURSE Statistical inference for data science: https://www.coursera.org/learn/statistical-inference
 	- https://leanpub.com/LittleInferenceBook
 	- Coursera Inference Version 3: https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
@@ -29,7 +34,7 @@
 - #COURSE Introduction to Probability and Statistics (MIT): https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
 - #TALK Statistics in Python (Varoquaux 2015 Euroscipy): https://www.youtube.com/watch?v=yaSgoGLXKOg
 
-## Code
+# Code
 - #CODE Numpy: https://numpy.org/
 	- #PAPER Array programming with NumPy (Harris 2020): https://www.nature.com/articles/s41586-020-2649-2
 - #CODE Scipy: https://www.scipy.org/
@@ -168,7 +173,7 @@ d_pearson(x,y) = 1 - Correlation(x,y)
 
 
 ## Experimental design
-Related to [[Active learning]].
+See [Active learning](Active%20learning.md)
 - Coursera - data scientist's toolbox: https://www.youtube.com/watch?v=vSXOJnGNtM4
 - Good experiment: replication, measure variability, generalise to the problem, transparent
 - Confounding variable - strategies: randomization, stratifying 
@@ -201,6 +206,8 @@ Related to [[Active learning]].
 - https://vwo.com/blog/multi-armed-bandit-algorithm/
 
 ## Statistical Inference
+See [Bayesian modelling](Bayesian%20modelling.md)
+
 - https://en.wikipedia.org/wiki/Statistical_inference
 - https://www.youtube.com/watch?v=WkOinijQmPU&feature=youtu.be&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/
@@ -254,8 +261,6 @@ Related to [[Active learning]].
 - Effect size: https://en.wikipedia.org/wiki/Effect_size
 - Goodness of fit: https://en.wikipedia.org/wiki/Goodness_of_fit
 	- Chi squared: https://en.wikipedia.org/wiki/Chi-squared_test
-
-### [[Bayesian modelling]]
 
 ## Bootstrap and permutation tests
 - http://youtu.be/0hNQx9nagq4?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
@@ -362,9 +367,11 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 - https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
 
 
-## [[Bayesian modelling]]
+## Bayesian modelling
+See [[Bayesian modelling]]
 
-## [[Regression]] analysis
+## Regression analysis
+See [Regression](AI/Supervised%20Learning/Regression.md)
 - https://en.wikipedia.org/wiki/Regression_analysis
 - Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[machine learning]]. See [[Regression]] for a supervised machine learning perspective.
 
@@ -411,7 +418,7 @@ The iterative methods used to solve problems of nonlinear programming differ acc
 
 
 ## Monte Carlo methods
-- See [[Bayesian modelling#Code]]
+- See [Bayesian modelling#Code](Bayesian%20modelling.md#Code)
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
 
 ### Sequential Monte Carlo (SMC or particle filter)
@@ -444,7 +451,7 @@ The iterative methods used to solve problems of nonlinear programming differ acc
 
 
 ## Time series analysis
-See [[Time Series analysis]].
+See [Time Series analysis](Time%20Series%20analysis.md)
 
 
 ## Compressed sensing

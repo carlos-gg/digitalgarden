@@ -3,6 +3,7 @@ title: "Background subtraction"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/Foreground_detection
 - https://github.com/murari023/awesome-background-subtraction
 - Foreground detection is one of the major tasks in the field of computer vision and image processing whose aim is to detect changes in image sequences. 
@@ -11,6 +12,8 @@ disableToc: false
 
 - #BOOK Background modeling and Foreground Detection for video surveillance (Bouwmans, 2014 CRC): https://sites.google.com/site/backgroundmodeling/
 
+
+# References
 Review papers:
 - #PAPER A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos: https://www.sciencedirect.com/science/article/pii/S1077314213002361
 - #PAPER Traditional and recent approaches in background modeling for foreground detection: An overview: https://www.sciencedirect.com/science/article/pii/S1574013714000033

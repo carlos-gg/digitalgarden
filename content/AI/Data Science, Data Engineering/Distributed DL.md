@@ -1,13 +1,29 @@
-# Distributed Deep learning
+---
+title: "Distributed Deep learning"
+disableToc: false 
+---
+
+# Resources
 - https://d2l.ai/chapter_computational-performance/multiple-gpus.html 
 - https://jhui.github.io/2017/03/07/TensorFlow-GPU/ 
 - https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce 
 - Twelve ways to fool the masses when reporting performance of deep learning workloads: https://htor.inf.ethz.ch/blog/index.php/2018/11/08/twelve-ways-to-fool-the-masses-when-reporting-performance-of-deep-learning-workloads/
 - Distributed Deep Learning 101: Introduction: https://towardsdatascience.com/distributed-deep-learning-101-introduction-ebfc1bcd59d9
-
 - #TALK ALCF Datascience frameworks: Tensorflow, PyTorch, Keras, and Horovod: https://www.alcf.anl.gov/files/Zheng_SDL_ML_Frameworks_1.pdf
 - #TALK Scaling [[Deep Learning]] for Scientific Workloads on the #1 Summit Supercomputer: https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/
 
+# Code
+See [Tensorflow, keras#Distributed training](Tensorflow,%20keras.md#Distributed%20training)
+
+- #CODE Analytics Zoo: https://github.com/intel-analytics/analytics-zoo
+	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+	- https://analytics-zoo.readthedocs.io/en/latest/index.html
+- #CODE  [Horovod](Horovod.md)
+- #CODE Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training: https://github.com/hpcaitech/colossalai
+	- See [[#^colossalai]]
+	-  https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/
+
+# References
 - #PAPER Evaluation of Deep Learning Frameworks over Different HPC Architectures (Shams 2017): https://www.ibm.com/university/power/images/EvaluationofDeepLearningFrameworksoverDifferentHPCArchitectures.pdf
 - #PAPER Deep Learning at 15PF: Supervised and Semi-Supervised Classification for Scientific Data (Kurth 2017): https://arxiv.org/abs/1708.05256
 - #PAPER Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis (Tal Ben-Nun and Torsten Hoefler 2018): http://arxiv.org/abs/1802.09941 ^bennun18
@@ -42,18 +58,7 @@
 	- Good comparison with respect to SOTA
 	- Phylanx provides a high-productivity debugable Python-based interactive interface, JetLag: https://github.com/STEllAR-GROUP/JetLag
 	- Tests only on CPU. Does it support GPUs?
+- #PAPER Distributed Training of Deep Learning Models: A Taxonomic Perspective (Langer 2020): https://arxiv.org/abs/2007.03970
 - #PAPER Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training (Bian 2021): https://arxiv.org/abs/2110.14883 ^colossalai
 
 
-## Code
-See [[Tensorflow, keras#Distributed training]]
-
-- #PAPER Distributed Training of Deep Learning Models: A Taxonomic Perspective (Langer 2020): https://arxiv.org/abs/2007.03970
-
-- #CODE Analytics Zoo: https://github.com/intel-analytics/analytics-zoo
-	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
-	- https://analytics-zoo.readthedocs.io/en/latest/index.html
-- #CODE  [[Horovod]]
-- #CODE Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training: https://github.com/hpcaitech/colossalai
-	- See [[#^colossalai]]
-	-  https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/

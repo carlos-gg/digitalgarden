@@ -3,8 +3,8 @@ title: "Reinforcement learning"
 disableToc: false 
 ---
 
-Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input.  Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
-
+# Resources
+- Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input.  Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
 - https://en.wikipedia.org/wiki/Reinforcement_learning
 - Curriculum for Reinforcement Learning: https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html
 - Andrej Karpathy's introduction to RL: http://karpathy.github.io/2016/05/31/rl/
@@ -12,9 +12,17 @@ Reinforcement learning is the task of learning what actions to take, given a cer
 	- https://github.com/openai/evolution-strategies-starter
 - Reinforcement learning derivations (math): http://www.alexirpan.com/rl-derivations/
 - Introduction to various RL algos: https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
+- Q-learning: https://en.wikipedia.org/wiki/Q-learning
+- Temporal differencing (TD) learning  is a prediction-based machine learning method. 
+	- It has primarily been used for the reinforcement learning problem, and is said to be "a combination ofMonte Carlo ideas and dynamic programming (DP) ideas." 
+	- TD resembles a Monte Carlo method because it learns by sampling the environment according to some policy, and is related to dynamic programming techniques as it approximates its current estimate based on previously learned estimates (a process known as bootstrapping). The TD learning algorithm is related to the temporal difference model of animal learning. As a prediction method, TD learning considers that subsequent predictions are often correlated in some sense.
+	- TD-Lambda: This algorithm was famously applied by Gerald Tesauro to createTD-Gammon, a program that learned to play the game of backgammon at the level of expert human players. The lambda parameter refers to the trace decay parameter, with 0<= lambda <=1. Higher settings lead to longer lasting traces; that is, a larger proportion of credit from a reward can be given to more distant states and actions when lambda is higher, with lambda=1 producing parallel learning to Monte Carlo RL algorithms.
+- SARSA: https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action
 
 
-## Courses, talks and books
+# Courses, talks and books
+- #COURSE Reinforcement Learning (UCL): https://www.davidsilver.uk/teaching/
+	- Videos: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
 - #COURSE CS294-112 Deep Reinforcement Learning Sp17: https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
 - #COURSE Practical Reinforcement Learning (Yandex): https://github.com/yandexdataschool/Practical_RL
 - #COURSE [Tutorial: Introduction to Reinforcement Learning](https://colab.research.google.com/github/NeuromatchAcademy/course-content-dl/blob/main/tutorials/W3D2_BasicReinforcementLearning/student/W3D2_Tutorial1.ipynb)
@@ -24,7 +32,7 @@ Reinforcement learning is the task of learning what actions to take, given a cer
 	- https://deepreinforcementlearningbook.org/
 
 
-## Code
+# Code
 - #CODE Acme: a research framework for reinforcement learning: https://github.com/deepmind/acme
 - #CODE Deep Reinforcement Learning Model ZOO: https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning
 - #CODE Open.ai Gym - A toolkit for developing and comparing reinforcement learning algorithms. https://github.com/openai/gym
@@ -42,23 +50,10 @@ Reinforcement learning is the task of learning what actions to take, given a cer
 	- Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 	- https://tensorlayer.readthedocs.io/en/latest/index.html
 
-# Subtopics
-## Q-learning
-https://en.wikipedia.org/wiki/Q-learning
 
-## Temporal differencing learning
-Temporal difference (TD) learning is a prediction-based machine learning method. 
-It has primarily been used for the reinforcement learning problem, and is said to be "a combination ofMonte Carlo ideas and dynamic programming (DP) ideas." 
-TD resembles a Monte Carlo method because it learns by sampling the environment according to some policy, and is related to dynamic programming techniques as it approximates its current estimate based on previously learned estimates (a process known as bootstrapping). The TD learning algorithm is related to the temporal difference model of animal learning.
-As a prediction method, TD learning considers that subsequent predictions are often correlated in some sense.
-
-TD-Lambda: This algorithm was famously applied by Gerald Tesauro to createTD-Gammon, a program that learned to play the game of backgammon at the level of expert human players. The lambda parameter refers to the trace decay parameter, with 0<= lambda <=1. Higher settings lead to longer lasting traces; that is, a larger proportion of credit from a reward can be given to more distant states and actions when lambda is higher, with lambda=1 producing parallel learning to Monte Carlo RL algorithms.
-
-## SARSA
-- SARSA: https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action
-
-## Deep reinforcement learning
-- Spinning Up as a Deep RL Researcher: https://spinningup.openai.com/en/latest/spinningup/spinningup.html#id49
+# References
+## Deep RL
+- Spinning Up as a Deep RL Researcher: https://spinningup.openai.com/en/latest/spinningup/spinningup.html
 
 Review papers:
 - #PAPER A Brief Survey of Deep Reinforcement Learning (Arulkumaran 2017): https://arxiv.org/abs/1708.05866
@@ -66,7 +61,6 @@ Review papers:
 	- https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning
 - #PAPER An Introduction to Deep Reinforcement Learning (Fancois-Lavet 2018): https://arxiv.org/abs/1811.12560
 - #PAPER Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (Levine 2020): https://arxiv.org/abs/2005.01643
-
 
 - #PAPER DQN: Human-level control through Deep Reinforcement Learning (Mnih 2015): https://deepmind.com/research/dqn/
 	- https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf

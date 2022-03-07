@@ -3,6 +3,7 @@ title: "One, few-shot learning"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/One-shot_learning
 - One-shot learning is an object categorization problem, found mostly in computer vision. Whereas most machine learning based object categorization algorithms require training on hundreds or thousands of samples/images and very large datasets, one-shot learning aims to learn information about object categories from one, or only a few, training samples/images.
 - https://medium.com/sap-machine-learning-research/deep-few-shot-learning-a1caa289f18

@@ -4,10 +4,12 @@ disableToc: false
 ---
 
 See: 
-[[Time Series analysis]]
-[[RNNs]]
-[[CNNs#Sequence time series modelling]]
+[Time Series analysis](Time%20Series%20analysis.md)
+[RNNs](RNNs.md)
+[CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
 
+
+# Resources
 - https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 - https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
 - http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
@@ -39,15 +41,16 @@ See:
 	- Non-linear least squares is the form of least squares analysis used to fit a set of m observations with a model that is non-linear in n unknown parameters (m> n).
 
 ## Principal component regression
-https://en.wikipedia.org/wiki/Principal_component_regression
+- https://en.wikipedia.org/wiki/Principal_component_regression
 
 ## Generalized linear models (GLM)
 - https://en.wikipedia.org/wiki/Generalized_linear_model
 	- GLM is a flexible generalization of ordinary linear regression that allows for the response variable to have an error distribution other than the normal distribution
+- Generalized Linear Models: https://scikit-learn.org/0.15/modules/linear_model.html
 - Understand Generalized Linear Models, and How It Relates to Linear, Logistic and Poisson Regression: https://towardsdatascience.com/understand-generalized-linear-models-and-how-it-relates-to-linear-logistic-and-poisson-regression-53f3aea8a9d
 - https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c
 	- Under the GLM assumptions, the output variable Y can now follow any probability distribution within the “exponential family”, which includes not only the exponential distribution, but also the normal, gamma, chi-squared, Poisson, binomial (for a fixed number of trails), negative binomial (for a fixed number of failures), beta and lognormal distributions, among others
-- #CODE [[Machine Learning#^glmnetpy]]
+- #CODE [[#^glmnetpy]]
 
 ## Logistic regression 
 See [[classification]]
@@ -59,7 +62,6 @@ See [[classification]]
 - http://www.astroml.org/book_figures/chapter8/fig_lasso_ridge.html
 - https://chaoticsenses.wordpress.com/2016/01/20/taming-the-beast-with-regularization-3/
 - https://www.cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html
-
 - Ridge regression: https://en.wikipedia.org/wiki/Tikhonov_regularization
 - LASSO (Least absolute shrinkage and selection operator): https://en.wikipedia.org/wiki/Lasso_(statistics)
 - LARS (Least angle regression): https://en.wikipedia.org/wiki/Least-angle_regression
@@ -73,17 +75,18 @@ See [[classification]]
 See [[Classification]]
 
 
-## [[Gaussian Process]]
+## Gaussian Process
+See [[Gaussian Process]]
 
 
 ## Tree-based approaches
-See [[Ensemble learning]] and [[Classification]].
+See [Ensemble learning](Ensemble%20learning.md) and [Classification](Classification.md)
 
 
 ## K-nearest neighbors
 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-- k-NN is a non-parametric method used for [[classification]] and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
-	- for [[classification]] - An object is classified by a majority vote of its k nearest neighbors.
+- k-NN is a non-parametric method used for [classification](classification.md) and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
+	- for [classification](classification.md) - An object is classified by a majority vote of its k nearest neighbors.
 	- for regression - The value is the average of the values of its k nearest neighbors.
 - k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until classification. The k-NN algorithm is among the simplest of all machine learning algorithms.
 
@@ -95,6 +98,8 @@ See [[Ensemble learning]] and [[Classification]].
 	- https://erikbern.com/2018/02/15/new-benchmarks-for-approximate-nearest-neighbors.html
 	- https://erikbern.com/2018/06/17/new-approximate-nearest-neighbor-benchmarks.html
 
+# Code
+- #CODE Glmnet_py. Glmnet Vignette (for python): https://github.com/bbalasub1/glmnet_python ^glmnetpy
 - #CODE Annoy (Spotify). 
 	- Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 	- https://github.com/spotify/annoy

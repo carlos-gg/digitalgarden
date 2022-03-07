@@ -57,8 +57,7 @@ disableToc: false
 - #BOOK Introduction to Machine Learning Interviews Book: https://huyenchip.com/ml-interviews-book/
 
 # Courses
-- #COURSE Machine Learning (CS229, Stanford)
-	- http://cs229.stanford.edu/
+- #COURSE Machine Learning (CS229, Stanford): http://cs229.stanford.edu/
 	- Lecture notes: https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf
 	- Cheat sheets: https://github.com/afshinea/stanford-cs-229-machine-learning
 - #COURSE Machine Learning (Coursera-Stanford): https://www.coursera.org/learn/machine-learning
@@ -66,17 +65,12 @@ disableToc: false
 - #COURSE Data Mining and Machine Learning (STAT 365/665, Yale): http://euler.stat.yale.edu/~tba3/stat665/
 - #COURSE Applied machine learning (U Columbia): https://github.com/amueller/applied_ml_spring_2017
 - #COURSE L'apprentissage face à la malédiction de la grande dimension (College de France): https://www.college-de-france.fr/site/stephane-mallat/course-2017-2018.htm
-- #COURSE Reinforcement Learning (UCL)
-	- http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-	- Videos: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
 - #COURSE The Machine Learning Summer School, MLSS Tubingen 2020 (virtual): http://mlss.tuebingen.mpg.de/2020/
 	- https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
 
 # Code 
-See [[Data engineering and computer science#Workflow managers distributed ML]]
-
 - #CODE Benchmarks of ML libraries: https://github.com/szilard/benchm-ml
-- #CODE Scikit-learn: 
+- #CODE Scikit-learn: https://github.com/scikit-learn/scikit-learn
 	- http://scikit-learn.org/stable/
 	- Contrib packages: https://github.com/scikit-learn-contrib
 	- #TALK PyData tutorial by Sebastian Raschka: https://www.youtube.com/watch?v=9fOWryQq9J8
@@ -89,7 +83,6 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 	- PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows
 	- PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks such as scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Optuna, Hyperopt, Ray, and many more
 	- PyCaret >= 2.2 provides the option to use GPU for select model training and hyperparameter tuning
-- #CODE Glmnet_py. Glmnet Vignette (for python): https://github.com/bbalasub1/glmnet_python ^glmnetpy
 - #CODE Hypertools: https://github.com/ContextLab/hypertools
 	-  A python toolbox for visualizing and manipulating high-dimensional data
 	- http://hypertools.readthedocs.io/en/latest/
@@ -98,8 +91,7 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 - #CODE PySAL: Python Spatial Analysis Library Meta-Package: https://github.com/pysal/pysal
 	- http://pysal.org/pysal/
 - #CODE MLxtend - A library of extension and helper modules for Python's data analysis and machine learning libraries: http://rasbt.github.io/mlxtend/
-- #CODE H2O
-	- https://github.com/h2oai/
+- #CODE H2O: https://github.com/h2oai/
 	- http://www.h2o.ai/
 	- https://github.com/h2oai/h2o-3
 	- https://github.com/h2oai/h2o4gpu

@@ -6,7 +6,6 @@ disableToc: false
 # Resources
 - https://en.wikipedia.org/wiki/Data_science
 - https://github.com/bulutyazilim/awesome-datascience
-- A curated collection of useful resources for Data science ,Python and R: https://datapyr.zeef.com/
 - Reproducible Data Analysis in Jupyter (Vanderplas): https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/
 - Cookiecutter Data Science: https://drivendata.github.io/cookiecutter-data-science/
 - An Executive's Guide To Understanding Cloud-based ML Services: https://www.forbes.com/sites/janakirammsv/2019/01/01/an-executives-guide-to-understanding-cloud-based-machine-learning-services/
@@ -14,6 +13,7 @@ disableToc: false
 
 ## Cheatsheets
 - https://github.com/ml874/Data-Science-Cheatsheet
+- https://github.com/aaronwangy/Data-Science-Cheatsheet
 - https://github.com/FavioVazquez/ds-cheatsheets
 
 ## Infographics
@@ -25,7 +25,7 @@ disableToc: false
 - Updated DS Venn diagram: http://www.kdnuggets.com/2016/09/new-data-science-venn-diagram.html
 - DS vs STATS vs DATA-ENG: https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
 
-# References
+# References
 - #PAPER Science and data science (Blei 2017): https://www.pnas.org/content/114/33/8689
 - #PAPER 50 Years of Data Science (Donoho 2017): https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
 	- #TALK 50 Years of Data Science (Donoho)
@@ -42,7 +42,7 @@ disableToc: false
 
 
 # Books
-- #BOOK [The field guide to DS (Booz Allen Hamilton Inc 2015)](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html)
+- #BOOK The field guide to DS (Booz Allen Hamilton Inc 2015): https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html
 	- https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf
 	- https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
 - #BOOK [Going pro in data science (Overton 2016, O'REILLY)](https://www.oreilly.com/library/view/going-pro-in/9781492048534/)
@@ -84,13 +84,7 @@ disableToc: false
 - #TALK Building a Data Science Team with Open Source Tools: https://www.youtube.com/watch?v=mzTlqNTHTmc
 - #TALK Introduction to Python for Data Science (Seabold, PyCon 2018): https://www.youtube.com/watch?v=W4WQi2OIy7o
 
-# Code
-- #CODE Watson (IBM): http://www.ibm.com/watson/
-	- IBM Watson APIs: https://www.ibm.com/watson/developer/
-	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe
-	- https://www.codecademy.com/learn/ibm-watson
-	- https://www.ibm.com/cloud/watson-studio
-	- https://www.ibm.com/watson/services/knowledge-studio/
+# ML platforms
 - #CODE Azure (Microsoft): https://azure.microsoft.com/en-gb/
 	- Azure ML Studio: https://azure.microsoft.com/en-us/services/machine-learning/
 	- Microsoft Cognitive Services: https://azure.microsoft.com/en-in/services/cognitive-services/
@@ -112,15 +106,19 @@ disableToc: false
 	- ML on AWS: https://aws.amazon.com/machine-learning/
 	- SageMaker: https://aws.amazon.com/sagemaker/
 	- [[AI]] on AWS: https://aws.amazon.com/lex/, https://aws.amazon.com/polly, https://aws.amazon.com/rekognition
+- #CODE Watson (IBM): http://www.ibm.com/watson/
+	- IBM Watson APIs: https://www.ibm.com/watson/developer/
+	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe
+	- https://www.codecademy.com/learn/ibm-watson
+	- https://www.ibm.com/cloud/watson-studio
+	- https://www.ibm.com/watson/services/knowledge-studio/
 - #CODE Dataiku DSS: https://www.dataiku.com/
 - #CODE Domino DataLab: https://www.dominodatalab.com/
 - #CODE RapidMiner: https://rapidminer.com/
 - #CODE Knime: https://www.knime.org/knime-analytics-platform
-- #CODE Indico: https://indico.io/
-- #CODE Deep cognition: https://deepcognition.ai/
-- #CODE Neural Network Console (Sony): https://dl.sony.com/
 
-Interactive Computing Environments:
+
+# Interactive Computing Environments
 - #CODE [Jupyter](AI/Data%20Science,%20Data%20Engineering/Jupyter.md)
 - #CODE Zepelin: https://zeppelin.apache.org/
 - #CODE Rstudio: https://www.rstudio.com/products/rstudio/
@@ -128,6 +126,7 @@ Interactive Computing Environments:
 	- http://www.unnotebook.com/
 - #CODE Polynote: https://github.com/polynote/polynote
 	- https://polynote.org/
+- #CODE Google Colaboratory: https://colab.research.google.com/
 
 
 # Related fields

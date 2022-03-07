@@ -3,8 +3,9 @@ title: "AutoML"
 disableToc: false 
 ---
 
-See [[Model selection and tuning]]
+See [Model selection and tuning](Model%20selection%20and%20tuning.md)
 
+# Resources
 - https://en.wikipedia.org/wiki/Automated_machine_learning
 - Automated machine learning (AutoML) is the process of automating the process of applying machine learning to real-world problems. AutoML covers the complete pipeline from the raw dataset to the deployable machine learning model. AutoML was proposed as an artificial intelligence-based solution to the ever-growing challenge of applying machine learning.
 - Automated machine learning can target various stages of the machine learning process. Steps to automate are:
@@ -17,8 +18,8 @@ See [[Model selection and tuning]]
 		- Feature extraction
 		- Meta learning and transfer learning
 		- Detection and handling of skewed data and/or missing values
-	- Model selection. See [[Model selection and tuning]]
-	- Hyperparameter optimization ([[Model selection and tuning]]) of the learning algorithm and featurization
+	- Model selection. See [Model selection and tuning](Model%20selection%20and%20tuning.md)
+	- Hyperparameter optimization of the learning algorithm and featurization
 	- Pipeline selection under time, memory, and complexity constraints
 	- Selection of evaluation metrics and validation procedures
 	- Problem checking
@@ -34,7 +35,7 @@ See [[Model selection and tuning]]
 -  #BOOK AutoML: Methods, systems, challenges: https://www.automl.org/book/
 
 
-## Code
+# Code
 - #CODE FLAML - Fast and Lightweight AutoML: https://github.com/microsoft/FLAML
 	- FLAML is powered by a new, cost-effective hyperparameter optimization and learner selection method invented by Microsoft Research
 - #CODE EvalML - AutoML library written in python: https://github.com/alteryx/evalml
@@ -59,7 +60,7 @@ See [[Model selection and tuning]]
 	- https://fedot.readthedocs.io/en/latest/
 
 
-## Neural architecture search
+# Neural architecture search (NAS)
 - NAS is closely related to hyperparameter optimization and is a subfield of automated machine learning (AutoML).
 - https://en.wikipedia.org/wiki/Neural_architecture_search
 	- Neural architecture search (NAS) is a technique for automating the design of artificial neural networks (ANN), a widely used model in the field of machine learning. NAS has been used to design networks that are on par or outperform hand-designed architectures. Methods for NAS can be categorized according to the search space, search strategy and performance estimation strategy used:

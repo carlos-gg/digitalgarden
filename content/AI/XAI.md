@@ -3,6 +3,7 @@ title: "Explainable AI (XAI)"
 disableToc: false 
 ---
 
+# Resources
 - https://github.com/anguyen8/XAI-papers
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 - Ideas on interpreting [[machine learning]]: https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
@@ -17,11 +18,10 @@ disableToc: false
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-3-shap-integrated-gradients-918fc9fedd9b
 
 
-## Events and past talks
+# Events, talks
 - Workshop on Visualization for [[AI]] Explainability: http://visxai.io/
 - ACM Conference on Fairness, Accountability, and Transparency: https://facctconference.org/
 - Explainable AI xAI 2020: https://human-centered.ai/explainable-ai-2020/
-
 - #TALK Synthesizing Explainable and Deceptive Behavior for Human-[[AI]] Interaction (AAAI 2020 Tutorial): https://yochan-lab.github.io/tutorial/AAAI-2020/
 	- https://www.youtube.com/watch?v=r6KhJ3ORYnc
 - #TALK Explainable [[AI]] in Industry (Tutorial): https://sites.google.com/view/explainable-ai-tutorial
@@ -30,7 +30,11 @@ disableToc: false
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
 
 
-## Code
+# Books
+- #BOOK  Interpretable Machine Learning (Molnar 2021): https://christophm.github.io/interpretable-ml-book/
+
+
+# Code
 See [[#Neural Networks explainability#Code]]
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
@@ -68,10 +72,7 @@ See [[#Neural Networks explainability#Code]]
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
 
 
-
-## References
-- #BOOK  Interpretable Machine Learning (Molnar 2021): https://christophm.github.io/interpretable-ml-book/
-
+# References
 - #PAPER The Mythos of Model Interpretability (Lipton 2017): https://arxiv.org/abs/1606.03490
 - #PAPER A Survey of Methods for Explaining Black Box Models (Guidotti, 2018): https://dl.acm.org/doi/10.1145/3236009
 - #PAPER Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning (McGovern et al. 2019): https://journals.ametsoc.org/bams/article/100/11/2175/343787/Making-the-Black-Box-More-Transparent
@@ -129,18 +130,17 @@ See [[#Neural Networks explainability#Code]]
 
 
 ## Maximum activation analysis
-- See [[#Deep learning explainability]]
+- See [Neural Networks explainability](#Neural%20Networks%20explainability)
 - In maximum activation analysis, examples are found or simulated that maximally activate certain neurons, layers, or filters in a neural network or certain trees in decision tree ensembles. For the purposes of maximum activation analysis, low residuals for a certain tree are analogous to high-magnitude neuron output in a neural network.
 - Maximum activation analysis elucidates internal mechanisms of complex models by determining the parts of the response function that specific observations or groups of similar observations excite to the highest degree, either by high-magnitude output from neurons or by low residual output from trees.
 
 
 ## Sensitivity analysis
+- See [Neural Networks explainability](#Neural%20Networks%20explainability)
 - Sensitivity analysis investigates whether model behavior and outputs remain stable when data is intentionally perturbed or other changes are simulated in data. 
 - Beyond traditional assessment practices, sensitivity analysis of machine learning model predictions is perhaps the most important validation technique for machine learning models. 
 - Machine learning models can make drastically differing predictions from minor changes in input variable values. In practice, many linear model validation techniques focus on the numerical instability of regression parameters due to correlation between input variables or between input variables and the dependent variable
 - Sensitivity analysis can also test model behavior and outputs when interesting situations or known corner cases are simulated. Output distributions, error measurements, plots, and interpretation techniques can be used to explore the way models behave in important scenarios, how they change over time, or if models remain stable when data is subtly and intentionally corrupted
-
-- #PAPER Advanced Methods in Neural Networks-Based Sensitivity Analysis with their Applications in Civil Engineering (Cao 2015): https://www.intechopen.com/$books/artificial-neural-networks-models-and-applications/advanced-methods-in-neural-networks-based-sensitivity-analysis-with-their-applications-in-civil-engi
 
 
 ## Variable importance measures
@@ -160,6 +160,8 @@ See [[#Neural Networks explainability#Code]]
 
 
 ## Neural Networks explainability
+
+### Resources 
 - Using ML to Explore Neural Network Architecture: https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html
 - The Building Blocks of Interpretability: https://distill.pub/2018/building-blocks/
 - Feature Visualization: https://distill.pub/2017/feature-visualization/
@@ -204,7 +206,6 @@ See [[#Neural Networks explainability#Code]]
 - #CODE DeepExplain (TensorFlow 1): https://github.com/marcoancona/DeepExplain
 	- Saliency maps, Gradient * Input, Integrated Gradients, DeepLIFT, ε-LRP
 - #CODE LRP toolbox: https://github.com/sebastian-lapuschkin/lrp_toolbox
-  
   
 ### References
 - #PAPER [Visualization of neural networks using saliency maps (Morch 1995)](https://www.researchgate.net/publication/3623243_Visualization_of_neural_networks_using_saliency_maps)

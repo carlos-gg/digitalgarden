@@ -1,8 +1,12 @@
-# Visualization
+---
+title: "Visualization"
+disableToc: false 
+---
+
+# Resources
 - https://github.com/fasouto/awesome-dataviz
 - http://keshif.me/demo/VisTools
-- The visualization universe
-	- http://visualizationuniverse.com/
+- The visualization universe: http://visualizationuniverse.com/
 	- http://visualizationuniverse.com/charts/
 - Dataviz project: https://datavizproject.com/
 - UW Interactive Data Lab: http://idl.cs.washington.edu/
@@ -22,13 +26,13 @@
 	2. Moving Toward Convergence: https://www.anaconda.com/blog/developer-blog/python-data-visualization-moving-toward-convergence/
 	3. Where Do We Go From Here?: https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/
 
-## Books
+# Books
 - Dataviz books: http://visualizationuniverse.com/books/?sortBy=volume&sortDir=desc
 - #BOOK [Fundamentals of Data Visualization (Wilke 2020)](https://clauswilke.com/dataviz/)
 - #BOOK [Data Visualization (Healy 2020)](https://socviz.co/)
 - #BOOK [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 
-## Courses
+# Courses
 - #COURSE Information Visualization (CS 465, Middlebury): http://www.cs.middlebury.edu/~candrews/archive/infovis_s14/
 - #COURSE [Data Visualization (CSE512, U Washington)](http://courses.cs.washington.edu/courses/cse512/14wi/)
 	- https://github.com/uwdata/d3-tutorials
@@ -41,7 +45,7 @@
 - #TALK Everything we know about how humans interpret graphics (Elliot 2016): https://www.youtube.com/watch?v=s0J6EDvlN30
 - #TALK Constructive Code Review (Rose, PyCon 2017): https://www.youtube.com/watch?v=iNG1a--SIlk
 
-## Code
+# Code
 - #CODE Matplotlib: https://matplotlib.org/
 	- http://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_03_statistical_graphs.ipynb
 - #CODE Seaborn: http://seaborn.pydata.org/
