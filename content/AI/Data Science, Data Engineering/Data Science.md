@@ -3,6 +3,7 @@ title: "Data Science"
 disableToc: false 
 ---
 
+# Resources
 - https://en.wikipedia.org/wiki/Data_science
 - https://github.com/bulutyazilim/awesome-datascience
 - A curated collection of useful resources for Data science ,Python and R: https://datapyr.zeef.com/
@@ -11,11 +12,11 @@ disableToc: false
 - An Executive's Guide To Understanding Cloud-based ML Services: https://www.forbes.com/sites/janakirammsv/2019/01/01/an-executives-guide-to-understanding-cloud-based-machine-learning-services/
 - Why data-driven science is more than just a buzzword: https://sydney.edu.au/news-opinion/news/2017/05/11/Why-data-driven-science-is-more-than-just-a-buzzword.html
 
-Cheatsheet:
+## Cheatsheets
 - https://github.com/ml874/Data-Science-Cheatsheet
 - https://github.com/FavioVazquez/ds-cheatsheets
 
-Infographics:
+## Infographics
 - Data Never Sleeps 3.0: https://www.domo.com/blog/data-never-sleeps-3-0/
 - The Data Science Industry - who does what: https://www.datacamp.com/community/tutorials/data-science-industry-infographic
 - Learn data science infographic: https://www.datacamp.com/community/tutorials/learn-data-science-infographic
@@ -24,6 +25,7 @@ Infographics:
 - Updated DS Venn diagram: http://www.kdnuggets.com/2016/09/new-data-science-venn-diagram.html
 - DS vs STATS vs DATA-ENG: https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
 
+# References
 - #PAPER Science and data science (Blei 2017): https://www.pnas.org/content/114/33/8689
 - #PAPER 50 Years of Data Science (Donoho 2017): https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
 	- #TALK 50 Years of Data Science (Donoho)

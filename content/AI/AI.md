@@ -3,6 +3,7 @@ title: "Artificial Intelligence"
 disableToc: false 
 ---
 
+# Resources
 - The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - https://github.com/owainlewis/awesome-artificial-intelligence
@@ -24,11 +25,7 @@ disableToc: false
 - AlphaGo Zero: https://deepmind.com/blog/alphago-zero-learning-scratch/
 	- https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
 
-- #PAPER The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (Marcus 2020): https://arxiv.org/abs/2002.06177v3
-	- https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/
-	- #TALK AI DEBATE : Yoshua Bengio | Gary Marcus: https://www.youtube.com/watch?v=EeqwFjqFvJA
-
-AI in Science and research:
+## AI in Science and research
 - The AI revolution in science: applications and new research directions: https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/
 - The AI revolution in scientific research (The Royal Society, The Alan Turing Institute): https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf
 - The AI revolution in science: https://www.sciencemag.org/news/2017/07/ai-revolution-science
@@ -43,6 +40,11 @@ AI in Science and research:
 - AI & Deep Learning Conference (NVIDIA): https://www.nvidia.com/en-us/gtc/
 - AAAI Conference on Artificial Intelligence: http://www.aaai.org/Conferences/conferences.php
 - World summit AI: https://worldsummit.ai/
+
+# References
+- #PAPER The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (Marcus 2020): https://arxiv.org/abs/2002.06177v3
+	- https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/
+	- #TALK AI DEBATE : Yoshua Bengio | Gary Marcus: https://www.youtube.com/watch?v=EeqwFjqFvJA
 
 # Books
 - #BOOK AI Transformation Playbook (Andrew Ng, 2018): https://landing.ai/ai-transformation-playbook/

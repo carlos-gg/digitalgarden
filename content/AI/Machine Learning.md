@@ -3,6 +3,7 @@ title: "Machine Learning"
 disableToc: false 
 ---
 
+# Resources
 - Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
 - Awesome ML: https://github.com/josephmisiti/awesome-machine-learning
 - Machine Learning Research Articles: https://deepai.org/publications/statistics-machine-learning/1
@@ -28,11 +29,9 @@ disableToc: false
 - http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 - Recommendation System Algorithms: https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3
 
-Cheatsheets:
+## Cheatsheets and notes
 - https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
-
-Notes:
 - ML-AI guide: https://csinva.io/blog/compiled_notes/_build/html//intro.html
 
 # References
@@ -150,36 +149,51 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 
 # Subtopics
 
-## [Feature selection](Feature%20selection.md)
+## Feature selection
+See [Feature selection](AI/Supervised%20Learning/Feature%20selection.md)]
 
-## [XAI](XAI.md)
+## Explainable AI
+See [XAI](XAI.md)
 
-## [Feature learning](Feature%20learning.md)
+## Feature learning
+See [Feature learning](Feature%20learning.md)
 
-## [AI/Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+## AI/Anomaly and Outlier Detection
+See [AI/Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 
-## [Time Series analysis](Time%20Series%20analysis.md) and [Forecasting](Forecasting.md)
+## Time Series analysis and forecasting
+See [Time Series analysis](Time%20Series%20analysis.md) and [Forecasting](Forecasting.md)
 
-## [AutoML](AutoML.md)
+## AutoML
+See [AutoML](AutoML.md)
 
-## [Deep learning](Deep%20learning.md)
+## Deep Learning
+See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 
-## [Reinforcement learning](Reinforcement%20learning.md)
+## Reinforcement learning
+See [Reinforcement learning](Reinforcement%20learning.md)
 
-## [Unsupervised learning](Unsupervised%20learning.md)
+## Unsupervised learning
+See [Unsupervised learning](Unsupervised%20learning.md)
 
-## [Supervised learning](Supervised%20learning.md)
+## Supervised learning
+See [Supervised learning](Supervised%20learning.md)
 
-## [Weakly-supervised learning](Weakly-supervised%20learning.md)
-Includes [Semi-supervised learning](Semi-supervised%20learning.md), [Active learning](Active%20learning.md) and [Transfer learning](Transfer%20learning.md)
+## Weakly-supervised learning
+See [Weakly-supervised learning](Weakly-supervised%20learning.md). It includes these topics: [Semi-supervised learning](Semi-supervised%20learning.md), [Active learning](Active%20learning.md) and [Transfer learning](Transfer%20learning.md)
 
-## [One, few-shot learning](One,%20few-shot%20learning.md)
+## One, few-shot learning
+See [One, few-shot learning](One,%20few-shot%20learning.md)
 
-## [Self-supervised learning](Self-supervised%20learning.md)
+## Self-supervised learning
+See [Self-supervised learning](Self-supervised%20learning.md)
 
-## [Probabilistic machine learning](Probabilistic%20machine%20learning.md)
+## Probabilistic machine learning
+See [Probabilistic machine learning](Probabilistic%20machine%20learning.md)
 
-## [Learning to rank](Learning%20to%20rank.md)
+## Learning to rank
+See [Learning to rank](Learning%20to%20rank.md)
 
-## [Generative modelling](Generative%20modelling.md)
+## Generative modelling
+See [Generative modelling](Generative%20modelling.md)
 

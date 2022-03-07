@@ -3,6 +3,7 @@ title: "Deep Learning"
 disableToc: false 
 ---
 
+# Resources
 - DL is a branch of [[Machine Learning]] and [[AI]] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
@@ -32,9 +33,7 @@ disableToc: false
 	- DeepAI:  https://deepai.org/
 	- Papers with code: https://paperswithcode.com/
 	- Deep learning monitor: https://deeplearn.org/
-	- GroundAI: https://www.groundai.com/
-	- #CODE Deep Learning Models (Raschka): https://github.com/rasbt/deeplearning-models
-	- #CODE Model Zoo: https://modelzoo.co/
+	- GroundAI: https://www.groundai.com/	
 
 
 # Books
@@ -358,32 +357,49 @@ See:
 - Deep Learning Tips and Tricks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 - A Visual and Interactive Guide to the Basics of NNs: https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - A Visual And Interactive Look at Basic Neural Network Math: https://jalammar.github.io/feedforward-neural-networks-visual-interactive/
+- #CODE Model Zoo: https://modelzoo.co/
+- #CODE Deep Learning Models (Raschka): https://github.com/rasbt/deeplearning-models
 
-## [MLPs](MLPs.md)
 
-## [Deep belief network](Deep%20belief%20network.md)
+## MLPs
+See [MLPs](MLPs.md)
 
-## [Autoencoders](Autoencoders.md)
+## Deep belief network
+See [Deep belief network](Deep%20belief%20network.md)
 
-## [CNNs](CNNs.md)
+## Autoencoders
+See [Autoencoders](Autoencoders.md)
 
-## [RNNs](RNNs.md)
+## CNNs
+See [CNNs](CNNs.md)
 
-## [CapsNets](CapsNets.md)
+## RNNs
+See [RNNs](RNNs.md)
 
-## [GANs](GANs.md)
+## CapsNets
+See [CapsNets](CapsNets.md)
 
-## [Bayesian neural networks](Bayesian%20neural%20networks.md)
+## GANs
+See [GANs](GANs.md)
 
-## [GNNs](GNNs.md)
+## Bayesian neural networks
+See [Bayesian neural networks](Bayesian%20neural%20networks.md)
 
-## [Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
+## GNNs
+See [GNNs](GNNs.md)
 
-## [Neural ODEs](Neural%20ODEs.md)
+## Residual and dense neural networks
+See [Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
 
-## [Fourier Neural Operators](Fourier%20Neural%20Operators.md)
+## Neural ODEs
+See [Neural ODEs](Neural%20ODEs.md)
 
-## [Multimodal learning](Multimodal%20learning.md)
+## Fourier Neural Operators
+See [Fourier Neural Operators](Fourier%20Neural%20Operators.md)
 
-## [Geometric deep learning](Geometric%20deep%20learning.md)
+## Multimodal learning
+See [Multimodal learning](Multimodal%20learning.md)
+
+## Geometric deep learning
+See [Geometric deep learning](Geometric%20deep%20learning.md)
 

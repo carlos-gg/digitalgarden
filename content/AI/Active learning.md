@@ -10,14 +10,14 @@ disableToc: false
 - #PAPER An open source machine learning framework for efficient and transparent systematic reviews (van de Schoot 2021): https://www.nature.com/articles/s42256-020-00287-7
 	- #CODE https://github.com/asreview/asreview
 
-## References
+# References
 - #PAPER Active learning literature survey (Settles 2010): http://burrsettles.com/pub/settles.activelearning.pdf
 - #PAPER Active Learning for Convolutional Neural Networks: A Core-Set Approach (2018): https://openreview.net/forum?id=H1aIuk-RW
 - #PAPER Rethinking deep active learning: Using unlabeled data at model training (Simeoni 2019): https://arxiv.org/abs/1911.08177
 - #PAPER Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds (2020): https://openreview.net/forum?id=ryghZJBKPS 
 
 
-### [[Anomaly and Outlier Detection]]
+## Active learning for anomaly discovery
 - #PAPER Incorporating Expert Feedback into Active Anomaly Discovery (Das 2016): https://ieeexplore.ieee.org/document/7837915
 	- http://web.engr.oregonstate.edu/~tgd/publications/das-wong-dietterich-fern-emmott-incorporating-expert-feedback-into-active-anomaly-discovery-icdm2016.pdf
 - #PAPER Deep Active Learning for Anomaly Detection (Pimentel 2018): https://arxiv.org/abs/1805.09411
