@@ -1,6 +1,13 @@
 {
   "index": {
     "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/AI/AI",
+          "text": "Artificial Intelligence"
+        }
+      ],
       "/AI/AI": [
         {
           "source": "/AI/AI",
@@ -46,8 +53,25 @@
       "/AI/Active-learning": [
         {
           "source": "/AI/Active-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
+          "target": "/Anomaly-and-Outlier-Detection",
+          "text": "Anomaly and Outlier Detection"
+        }
+      ],
+      "/AI/Anomaly-and-Outlier-Detection": [
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/Unsupervised-learning",
+          "text": "Unsupervised learning"
+        },
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/Semi-supervised-learning",
+          "text": "Semi-supervised learning"
+        },
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/Deep-learning",
+          "text": "Deep learning"
         }
       ],
       "/AI/AutoML": [
@@ -604,6 +628,11 @@
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Super-resolution",
           "text": "Super-resolution"
         }
@@ -686,13 +715,18 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
         },
         {
           "source": "/AI/Machine-Learning",
           "target": "/Time-Series-analysis",
           "text": "Time Series analysis"
+        },
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/Forecasting",
+          "text": "Forecasting"
         },
         {
           "source": "/AI/Machine-Learning",
@@ -831,23 +865,6 @@
           "text": "AI"
         }
       ],
-      "/AI/Outlier-Detection": [
-        {
-          "source": "/AI/Outlier-Detection",
-          "target": "/Unsupervised-learning",
-          "text": "Unsupervised learning"
-        },
-        {
-          "source": "/AI/Outlier-Detection",
-          "target": "/Semi-supervised-learning",
-          "text": "Semi-supervised learning"
-        },
-        {
-          "source": "/AI/Outlier-Detection",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
-        }
-      ],
       "/AI/Probabilistic-machine-learning": [
         {
           "source": "/AI/Probabilistic-machine-learning",
@@ -895,8 +912,8 @@
         },
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
         },
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
@@ -933,13 +950,13 @@
       "/AI/Supervised-Learning/Regression": [
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/RNNs",
-          "text": "RNNs"
+          "target": "/Time-Series-analysis",
+          "text": "Time Series analysis"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Time-Series-analysis",
-          "text": "Time Series analysis"
+          "target": "/RNNs",
+          "text": "RNNs"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
@@ -1022,8 +1039,8 @@
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
         }
       ],
       "/AI/Unsupervised-learning/Clustering": [
@@ -1046,8 +1063,8 @@
         },
         {
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
         }
       ],
       "/AI/Weakly-supervised-learning": [
@@ -1270,6 +1287,35 @@
           "text": "AI"
         }
       ],
+      "/AI/AI": [
+        {
+          "source": "/",
+          "target": "/AI/AI",
+          "text": "Artificial Intelligence"
+        }
+      ],
+      "/AI/Anomaly-and-Outlier-Detection": [
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Ensemble-learning",
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
+        },
+        {
+          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "AI/Anomaly and Outlier Detection"
+        }
+      ],
       "/Active-learning": [
         {
           "source": "/AI/Machine-Learning",
@@ -1285,6 +1331,13 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/Active-learning",
           "text": "Active learning"
+        }
+      ],
+      "/Anomaly-and-Outlier-Detection": [
+        {
+          "source": "/AI/Active-learning",
+          "target": "/Anomaly-and-Outlier-Detection",
+          "text": "Anomaly and Outlier Detection"
         }
       ],
       "/AutoML": [
@@ -1548,6 +1601,11 @@
           "text": "Deep learning"
         },
         {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/Deep-learning",
+          "text": "Deep learning"
+        },
+        {
           "source": "/AI/Computer-Vision/Object-detection",
           "target": "/Deep-learning",
           "text": "Deep learning"
@@ -1564,11 +1622,6 @@
         },
         {
           "source": "/AI/NLP",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
-        },
-        {
-          "source": "/AI/Outlier-Detection",
           "target": "/Deep-learning",
           "text": "Deep learning"
         }
@@ -1651,6 +1704,11 @@
         }
       ],
       "/Forecasting": [
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/Forecasting",
+          "text": "Forecasting"
+        },
         {
           "source": "/AI/Time-Series-analysis",
           "target": "/Forecasting",
@@ -1768,6 +1826,11 @@
         },
         {
           "source": "/AI/Deep-learning/CNNs",
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Image-to-image-translation",
           "text": "Image-to-image translation"
         }
@@ -1952,33 +2015,6 @@
           "text": "One, few-shot learning"
         }
       ],
-      "/Outlier-Detection": [
-        {
-          "source": "/AI/Active-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
-        },
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
-        },
-        {
-          "source": "/AI/Time-Series-analysis",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
-        },
-        {
-          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Outlier-Detection",
-          "text": "Outlier Detection"
-        }
-      ],
       "/Probabilistic-machine-learning": [
         {
           "source": "/AI/Machine-Learning",
@@ -2119,12 +2155,12 @@
       ],
       "/Semi-supervised-learning": [
         {
-          "source": "/AI/Machine-Learning",
+          "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/Semi-supervised-learning",
           "text": "Semi-supervised learning"
         },
         {
-          "source": "/AI/Outlier-Detection",
+          "source": "/AI/Machine-Learning",
           "target": "/Semi-supervised-learning",
           "text": "Semi-supervised learning"
         },
@@ -2203,12 +2239,12 @@
       ],
       "/Unsupervised-learning": [
         {
-          "source": "/AI/Machine-Learning",
+          "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/Unsupervised-learning",
           "text": "Unsupervised learning"
         },
         {
-          "source": "/AI/Outlier-Detection",
+          "source": "/AI/Machine-Learning",
           "target": "/Unsupervised-learning",
           "text": "Unsupervised learning"
         }
@@ -2398,8 +2434,23 @@
     },
     {
       "source": "/AI/Active-learning",
-      "target": "/Outlier-Detection",
-      "text": "Outlier Detection"
+      "target": "/Anomaly-and-Outlier-Detection",
+      "text": "Anomaly and Outlier Detection"
+    },
+    {
+      "source": "/AI/Anomaly-and-Outlier-Detection",
+      "target": "/Unsupervised-learning",
+      "text": "Unsupervised learning"
+    },
+    {
+      "source": "/AI/Anomaly-and-Outlier-Detection",
+      "target": "/Semi-supervised-learning",
+      "text": "Semi-supervised learning"
+    },
+    {
+      "source": "/AI/Anomaly-and-Outlier-Detection",
+      "target": "/Deep-learning",
+      "text": "Deep learning"
     },
     {
       "source": "/AI/AutoML",
@@ -2908,6 +2959,11 @@
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
+      "target": "/Image-to-image-translation",
+      "text": "Image-to-image translation"
+    },
+    {
+      "source": "/AI/Deep-learning/Generative-modelling",
       "target": "/Super-resolution",
       "text": "Super-resolution"
     },
@@ -2978,13 +3034,18 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Outlier-Detection",
-      "text": "Outlier Detection"
+      "target": "/AI/Anomaly-and-Outlier-Detection",
+      "text": "AI/Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Machine-Learning",
       "target": "/Time-Series-analysis",
       "text": "Time Series analysis"
+    },
+    {
+      "source": "/AI/Machine-Learning",
+      "target": "/Forecasting",
+      "text": "Forecasting"
     },
     {
       "source": "/AI/Machine-Learning",
@@ -3117,21 +3178,6 @@
       "text": "AI"
     },
     {
-      "source": "/AI/Outlier-Detection",
-      "target": "/Unsupervised-learning",
-      "text": "Unsupervised learning"
-    },
-    {
-      "source": "/AI/Outlier-Detection",
-      "target": "/Semi-supervised-learning",
-      "text": "Semi-supervised learning"
-    },
-    {
-      "source": "/AI/Outlier-Detection",
-      "target": "/Deep-learning",
-      "text": "Deep learning"
-    },
-    {
       "source": "/AI/Probabilistic-machine-learning",
       "target": "/Bayesian-neural-networks",
       "text": "Bayesian neural networks"
@@ -3173,8 +3219,8 @@
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
-      "target": "/Outlier-Detection",
-      "text": "Outlier Detection"
+      "target": "/AI/Anomaly-and-Outlier-Detection",
+      "text": "AI/Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
@@ -3203,13 +3249,13 @@
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/RNNs",
-      "text": "RNNs"
+      "target": "/Time-Series-analysis",
+      "text": "Time Series analysis"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Time-Series-analysis",
-      "text": "Time Series analysis"
+      "target": "/RNNs",
+      "text": "RNNs"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
@@ -3288,8 +3334,8 @@
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/Outlier-Detection",
-      "text": "Outlier Detection"
+      "target": "/AI/Anomaly-and-Outlier-Detection",
+      "text": "AI/Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Unsupervised-learning/Clustering",
@@ -3308,8 +3354,8 @@
     },
     {
       "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-      "target": "/Outlier-Detection",
-      "text": "Outlier Detection"
+      "target": "/AI/Anomaly-and-Outlier-Detection",
+      "text": "AI/Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Weakly-supervised-learning",
@@ -3395,6 +3441,11 @@
       "source": "/AI/XAI",
       "target": "/",
       "text": "#^innvestigate"
+    },
+    {
+      "source": "/",
+      "target": "/AI/AI",
+      "text": "Artificial Intelligence"
     }
   ]
 }
