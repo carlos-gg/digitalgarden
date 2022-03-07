@@ -1,5 +1,8 @@
+---
+title: "Feature selection"
+disableToc: false 
+---
 
-# Feature selection
 See [[Regression#Regularized regression]]
 
 - https://en.wikipedia.org/wiki/Feature_selection

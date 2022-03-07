@@ -1,9 +1,8 @@
 ---
-title: "Example Title"
+title: "Artificial Intelligence"
 disableToc: false 
 ---
 
-# Artificial Intelligence
 - The expression _artificial intelligence_ today is therefore an umbrella term. It refers to a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - https://github.com/owainlewis/awesome-artificial-intelligence
@@ -92,6 +91,9 @@ AI in Science and research:
 
 
 # General concepts
+
+### [[Causality]]
+
 ### Problem Solving and Search
 - Solving problems by searching: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture2.md
 - Problem solving and search: https://www.emse.fr/~picard/cours/ai/chapter03.pdf
@@ -110,4 +112,3 @@ AI in Science and research:
 	- https://www.emse.fr/~picard/cours/ai/chapter-planning-intro.pdf
 	- https://www.emse.fr/~picard/cours/ai/chapter-planning-space.pdf
 
-### [[Causality]]

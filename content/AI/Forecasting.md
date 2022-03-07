@@ -1,4 +1,8 @@
-# Forecasting
+---
+title: "Forecasting"
+disableToc: false 
+---
+
 See: 
 [[Time Series analysis]]
 [[Regression]]

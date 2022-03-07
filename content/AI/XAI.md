@@ -1,4 +1,8 @@
-# Explainable AI
+---
+title: "Explainable AI (XAI)"
+disableToc: false 
+---
+
 - https://github.com/anguyen8/XAI-papers
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 - Ideas on interpreting [[machine learning]]: https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning

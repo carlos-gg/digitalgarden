@@ -1,4 +1,8 @@
-# AutoML
+---
+title: "AutoML"
+disableToc: false 
+---
+
 See [[Model selection and tuning]]
 
 - https://en.wikipedia.org/wiki/Automated_machine_learning

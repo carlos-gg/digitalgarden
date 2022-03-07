@@ -1,4 +1,7 @@
-# Natural Language Processing
+---
+title: "Natural Language Processing (NLP)"
+disableToc: false 
+---
 
 - https://en.wikipedia.org/wiki/Natural_language_processing
 - A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language. Examples of NLP applications include Siri and Google Now.

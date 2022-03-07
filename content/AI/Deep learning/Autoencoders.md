@@ -1,4 +1,7 @@
-# Autoencoders
+---
+title: "Autoencoders"
+disableToc: false 
+---
 
 - Dimensionality Reduction: https://www.cs.toronto.edu/~hinton/science.pdf
 - The classical approach for unsupervised learning using neural networks. The basic version consists of a Multilayer Perceptron (MLP) where the input and output layer have the same size and a smaller hidden layer is trained to recover the input. Once trained, the output from the hidden layer corresponds to data representation that can be useful for clustering, dimensionality reduction, improving supervised classification and even for data compression.
@@ -12,7 +15,7 @@
 	- Unlike other approaches… our method is not limited to a specific task, nor do we rely on predefined relationships between the source and target domains. Our method can be applied to make a general-domain solution for many image-to-image translation tasks. 
 
 
-## VAEs
+# VAEs
 - Variational autoencoders are generative models. Traditional autoencoders that just do reconstruction don’t have an obvious generative interpretation. There are some cases in between, like denoising autoencoders, where it is possible to construct a Markov chain that uses the autoencoder to sample from the data distribution, but the autoencoder doesn’t give direct explicit access to an estimate of the density or the ability to sample directly.
 - VAE is a type of autoencoder with added constraints on the encoded representations being learned. More precisely, it is an autoencoder that learns a latent variable model for its input data. So instead of letting your neural network learn an arbitrary function, you are learning the parameters of a probability distribution modeling your data. If you sample points from this distribution, you can generate new input data samples: a VAE is a "generative model".
 - Variational Autoencoders Explained: http://kvfrans.com/variational-autoencoders-explained/

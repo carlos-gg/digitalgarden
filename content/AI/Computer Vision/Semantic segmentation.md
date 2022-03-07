@@ -1,4 +1,8 @@
-# Semantic segmentation
+---
+title: "Semantic segmentation"
+disableToc: false 
+---
+
 
 See:
 [[Encoder-decoder networks]] for image segmentation

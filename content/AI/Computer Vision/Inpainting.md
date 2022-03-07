@@ -1,4 +1,8 @@
-# Inpainting
+---
+title: "Inpainting"
+disableToc: false 
+---
+
 - https://en.wikipedia.org/wiki/Inpainting
 - Inpainting is a conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image
 - https://www.nvidia.com/research/inpainting/

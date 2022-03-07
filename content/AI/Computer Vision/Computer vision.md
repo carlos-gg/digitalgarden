@@ -1,4 +1,8 @@
-# Computer Vision
+---
+title: "Computer Vision"
+disableToc: false 
+---
+
 See 
 [[CNNs]]
 [[MLPs#MLPs for vision and language]]

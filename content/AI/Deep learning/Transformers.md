@@ -1,14 +1,18 @@
-# Transformers
+---
+title: "Transformers"
+disableToc: false 
+---
+
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
 - https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
 - https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
 
-## Code
+# Code
 - #CODE Transformers: https://github.com/huggingface/transformers
 - #CODE Xformers: https://github.com/facebookresearch/xformers
 
 
-## For NLP
+# For NLP
 - #PAPER Attention is all you need (Vaswani 2017): https://arxiv.org/abs/1706.03762
 	- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 	- Paper explained: https://www.youtube.com/watch?v=iDulhoQ2pro
@@ -59,7 +63,7 @@
 	- Paper explained: https://www.youtube.com/watch?v=0JlB9gufTw8
 
 
-## For Computer Vision
+# For Computer Vision
 - #PAPER Spatial Transformer Networks (Jaderberg 2016): https://arxiv.org/abs/1506.02025
 	-  the use of spatial transformers results in models which learn invariance to translation, scale, rotation and more generic warping, result-ing in state-of-the-art performance on several benchmarks, and for a number of classes of transformations
 	-  https://www.youtube.com/watch?v=6NnearestOQC_fl1hQ
@@ -145,14 +149,14 @@
 
 
 
-### Self-supervised vision transformers
+## Self-supervised vision transformers
 - Self-Supervised Learning in Vision Transformers: https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c
 - #PAPER SiT: Self-supervised vIsion Transformer (Atito 2021): https://arxiv.org/abs/2104.03602
 - #PAPER DINO - Emerging Properties in Self-Supervised Vision Transformers (Caron 2021): https://arxiv.org/abs/2104.14294
 	- https://towardsdatascience.com/on-dino-self-distillation-with-no-labels-c29e9365e382
 
 
-### Vision transformers with convolutions
+## Vision transformers with convolutions
 - #PAPER CeiT - Incorporating Convolution Designs into Visual Transformers (Yan 2021): https://arxiv.org/abs/2103.11816v1
 	- #CODE https://paperswithcode.com/paper/incorporating-convolution-designs-into-visual
 	- CeiT combines the advantages of CNNs in extracting low-level features, strengthening locality, and the advantages of Transformers in establishing long-range dependencies
@@ -188,9 +192,9 @@
 
 
 
-## Multi-modal transformers
+# Multi-modal transformers
 See [[Multimodal learning]]
 
 
-## For RL
+# For RL
 See [[Reinforcement learning#^decisiontransformer]]

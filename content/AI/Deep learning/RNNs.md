@@ -1,4 +1,8 @@
-# Recurrent Neural Networks 
+---
+title: "Recurrent Neural Networks (RNNs)"
+disableToc: false 
+---
+
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
 - https://github.com/kjw0612/awesome-rnn
 - Recurrent Neural Networks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks

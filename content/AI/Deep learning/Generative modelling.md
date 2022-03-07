@@ -1,4 +1,8 @@
-# Generative modeling
+---
+title: "Generative modeling"
+disableToc: false 
+---
+
 - Generative models: https://openai.com/blog/generative-models/ 
 - Deep Generative Models: https://www.cs.toronto.edu/~slwang/generative_model.pdf
 - Taxonomy of Generative Models: https://christineai.blog/taxonomy/
@@ -14,8 +18,8 @@
 
 ## Generative models for Image data
 See:
-[[CNNs#Image to image translation]]
-[[GANs#Conditional GANs]]
+[[Image-to-image translation]]
+[[Image-to-image translation#GAN-based]]
 [[GANs#GANs for representation learning and image synthesis]]
 [[Transformers#For Computer Vision]]
 

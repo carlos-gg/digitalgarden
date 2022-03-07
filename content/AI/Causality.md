@@ -1,4 +1,8 @@
-# Causality
+---
+title: "Causality"
+disableToc: false 
+---
+
 - To Build Truly Intelligent Machines, Teach Them Cause and Effect: https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
 - Representing uncertain knowledge: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture5.md
 - Reasoning over time: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture7.md

@@ -1,4 +1,7 @@
-# Data Science
+---
+title: "Data Science"
+disableToc: false 
+---
 
 - https://en.wikipedia.org/wiki/Data_science
 - https://github.com/bulutyazilim/awesome-datascience

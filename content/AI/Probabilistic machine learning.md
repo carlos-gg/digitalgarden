@@ -1,5 +1,9 @@
-# Probabilistic machine learning
-See
+---
+title: "Probabilistic machine learning"
+disableToc: false 
+---
+
+See:
 [[Bayesian neural networks]]
 [[Bayesian modelling]]
 

@@ -1,4 +1,8 @@
-# Super-resolution
+---
+title: "Super-resolution"
+disableToc: false 
+---
+
 See [[Image-to-image translation]]
 
 - https://github.com/ptkin/Awesome-Super-Resolution

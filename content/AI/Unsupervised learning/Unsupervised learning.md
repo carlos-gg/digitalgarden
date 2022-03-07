@@ -1,4 +1,7 @@
-# Unsupervised learning
+---
+title: "Unsupervised learning"
+disableToc: false 
+---
 
 - https://en.wikipedia.org/wiki/Unsupervised_learning
 - Unsupervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
@@ -6,6 +9,10 @@
 
 
 ## Kernel density estimation
+- https://en.wikipedia.org/wiki/Kernel_density_estimation
+- kernel density estimation (KDE) is a non-parametric way to estimate the probability density function of a random variable
+- https://scikit-learn.org/stable/modules/density.html
+- https://stackabuse.com/kernel-density-estimation-in-python-using-scikit-learn/
 
 ## [[Dimensionality reduction and low rank modeling]]
 
@@ -13,6 +20,11 @@
 
 ## Blind source separation
 - Blind signal separation (BSS), also known as blind source separation, is the separation of a set of source signals from a set of mixed signals, without the aid of information (or with very little information) about the source signals or the mixing process.
-- Independent component analysis (ICA): In signal processing, independent component analysis (ICA) is a computational method for separating a multivariate signal into additive subcomponents. This is done by assuming that the subcomponents are non-Gaussian signals and that they are statistically independent from each other.
 
-## [[Outlier Detection]]
+### Independent component analysis (ICA)
+- https://en.wikipedia.org/wiki/Independent_component_analysis
+- In signal processing, independent component analysis (ICA) is a computational method for separating a multivariate signal into additive subcomponents. This is done by assuming that the subcomponents are non-Gaussian signals and that they are statistically independent from each other.
+- https://scikit-learn.org/stable/modules/decomposition.html#ica
+- https://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html
+
+## [[AI/Anomaly and Outlier Detection]]

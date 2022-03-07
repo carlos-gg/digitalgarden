@@ -1,4 +1,8 @@
-# Object classification, image recognition
+---
+title: "Object classification, image recognition"
+disableToc: false 
+---
+
 See:
 [[CNNs]]
 [[Object detection]]

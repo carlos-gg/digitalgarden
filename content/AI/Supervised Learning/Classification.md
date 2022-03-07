@@ -1,4 +1,7 @@
-# Classification
+---
+title: "Classification"
+disableToc: false 
+---
 
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb
 - Comparison of classifiers

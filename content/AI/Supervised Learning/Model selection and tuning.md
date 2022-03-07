@@ -1,6 +1,13 @@
-# Model selection and tuning
+---
+title: "Model selection and tuning"
+disableToc: false 
+---
+
 See  [[AutoML]]
 See [[Data engineering and computer science#Workflow managers distributed ML]]
+
+- Model selection and evaluation: https://scikit-learn.org/stable/model_selection.html
+
 
 ## Code
 - #CODE Weights & Biases: https://docs.wandb.com/
@@ -25,6 +32,7 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 - Problem of minimizing two sources of errors that prevent a supervised learning algorithm from generalizing beyond the training set:
 	- High bias  ->  underfitting
 	- High variance  ->  overfitting
+- Validation curves: plotting scores to evaluate models: https://scikit-learn.org/stable/modules/learning_curve.html
 - https://www.quora.com/How-would-you-explain-the-bias-variance-tradeoff-to-a-five-year-old
 - http://scott.fortmann-roe.com/docs/BiasVariance.html
 - http://scott.fortmann-roe.com/docs/MeasuringError.html

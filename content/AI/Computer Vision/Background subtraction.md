@@ -1,4 +1,8 @@
-## Background subtraction
+---
+title: "Background subtraction"
+disableToc: false 
+---
+
 - https://en.wikipedia.org/wiki/Foreground_detection
 - https://github.com/murari023/awesome-background-subtraction
 - Foreground detection is one of the major tasks in the field of computer vision and image processing whose aim is to detect changes in image sequences. 

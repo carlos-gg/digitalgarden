@@ -1,4 +1,8 @@
-# Supervised Learning
+---
+title: "Supervised Learning"
+disableToc: false 
+---
+
 - https://en.wikipedia.org/wiki/Supervised_learning
 - Supervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 - http://scikit-learn.org/stable/supervised_learning.html

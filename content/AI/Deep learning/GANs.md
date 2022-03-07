@@ -1,6 +1,9 @@
-# Generative Adversarial Networks
-In brief, a GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples.
-After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train. 
+---
+title: "Generative Adversarial Networks"
+disableToc: false 
+---
+
+- In brief, a GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train. 
 
 - https://github.com/pshams55/GAN-Case-Study
 - Generative Adversarial Networks: https://spectra.pub/ml/gans

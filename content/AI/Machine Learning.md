@@ -1,6 +1,9 @@
-# Machine Learning
-Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
+---
+title: "Machine Learning"
+disableToc: false 
+---
 
+- Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
 - Awesome ML: https://github.com/josephmisiti/awesome-machine-learning
 - Machine Learning Research Articles: https://deepai.org/publications/statistics-machine-learning/1
 - Rules of ML (Google): https://developers.google.com/machine-learning/rules-of-ml/
@@ -153,9 +156,9 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 
 ## [[Feature learning]]
 
-## [[Outlier Detection]]
+## [[AI/Anomaly and Outlier Detection]]
 
-## [[Time Series analysis]]
+## [[Time Series analysis]] and [[Forecasting]]
 
 ## [[AutoML]]
 

@@ -1,11 +1,14 @@
-# Video segmentation and prediction
-Or spatiotemporal classification and regression.
+---
+title: "Video segmentation and prediction"
+disableToc: false 
+---
 
 See: 
 [[Encoder-decoder networks]]
 [[Deep learning#Deep learning for multi-dimensional data]]
 [[RNNs]]
 
+- Spatiotemporal classification and regression
 - Hybrid convolutional and recurrent networks, 3dconv and related approaches
 - https://github.com/jinwchoi/awesome-action-recognition
 - http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review

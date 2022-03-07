@@ -1,4 +1,8 @@
-# Image and video captioning
+---
+title: "Image and video captioning"
+disableToc: false 
+---
+
 
 Review papers: 
 - #PAPER A Systematic Literature Review on Image Captioning (Staniute 2019): https://www.mdpi.com/2076-3417/9/10/2024/htm

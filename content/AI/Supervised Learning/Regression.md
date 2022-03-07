@@ -1,8 +1,12 @@
-# Regression
+---
+title: "Regression"
+disableToc: false 
+---
+
 See: 
+[[Time Series analysis]]
 [[RNNs]]
 [[CNNs#Sequence time series modelling]]
-[[Time Series analysis]]
 
 - https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 - https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf

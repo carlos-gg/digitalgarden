@@ -1,4 +1,8 @@
-# Encoder-decoder networks
+---
+title: "Encoder-decoder networks"
+disableToc: false 
+---
+
 - Very common models for semantic segmentation tasks.
 - [[Deep learning]] architectures composed of two paths, an encoding and a decoding one. [[Autoencoders]] are similar but unsupervised (reconstructions loss).
 - U-NETs are a type of encoder-decoder [[CNNs]] model with skipped connections trained in a [[Supervised learning]] context for image segmentation and related tasks.

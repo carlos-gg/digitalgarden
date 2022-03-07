@@ -1,4 +1,7 @@
-# Convolutional Neural Networks
+---
+title: "Convolutional Neural Networks (CNNs)"
+disableToc: false 
+---
 
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
@@ -20,7 +23,7 @@ Convolutions:
 - https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 - Convolutions Over Volumes (channels): https://www.youtube.com/watch?v=KTB_OFoAQcc 
 
-## Code 
+# Code 
 - #CODE Keras Layers (for TensorFlow 2.x): https://github.com/mvoelk/keras_layers
 - #CODE Model Zoo - Discover open source deep learning code and pretrained models: https://modelzoo.co/
 - #CODE https://github.com/microsoft/computervision-recipes
@@ -37,7 +40,7 @@ Channel/visual attention:
 	- Convolutional Block Attention Module (CBAM) Layer
 
 
-## References
+# References
 - #PAPER A guide to convolution arithmetic for deep learning (Dumoulin, 2016): https://arxiv.org/abs/1603.07285
 	- #CODE https://github.com/vdumoulin/conv_arithmetic
 - #PAPER Xception: Deep Learning with Depthwise Separable Convolutions (Chollet 2017): https://arxiv.org/abs/1610.02357
@@ -100,7 +103,7 @@ Channel/visual attention:
 	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
 
 
-# Subtopics (applications)
+# Subtopics and applications
 ## Sequence (time series) modelling
 - #PAPER An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (Bai 2018): https://arxiv.org/abs/1803.01271
   - Temporal convolutional networks (TCN)

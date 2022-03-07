@@ -1,4 +1,8 @@
-# Data engineering and computer science
+---
+title: "Data Engineering and Computer Science"
+disableToc: false 
+---
+
 - https://github.com/ossu/computer-science
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications.
 - https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY

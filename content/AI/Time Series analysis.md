@@ -1,4 +1,8 @@
-# Time series analysis
+---
+title: "Time series analysis"
+disableToc: false 
+---
+
 See: 
 [[Forecasting]]
 [[RNNs]]
@@ -43,7 +47,7 @@ See [[Forecasting#Code]]
 
 ## TS [[Forecasting]]
 
-## [[Outlier Detection]]
+## [[AI/Anomaly and Outlier Detection]]
 
 ## TS models
 - Autoregressive: https://en.wikipedia.org/wiki/Autoregressive

@@ -1,4 +1,8 @@
-# Deep learning
+---
+title: "Deep Learning"
+disableToc: false 
+---
+
 - DL is a branch of [[Machine Learning]] and [[AI]] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
