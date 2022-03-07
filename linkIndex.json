@@ -6,6 +6,11 @@
           "source": "/",
           "target": "/AI/AI",
           "text": "Artificial Intelligence"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "text": "Data Science"
         }
       ],
       "/AI/AI": [
@@ -16,38 +21,48 @@
         },
         {
           "source": "/AI/AI",
-          "target": "/Data-Science",
+          "target": "/AI/Data-Science-Data-Engineering/Data-Science",
           "text": "Data Science"
         },
         {
           "source": "/AI/AI",
-          "target": "/Machine-Learning",
+          "target": "/AI/Machine-Learning",
           "text": "Machine Learning"
         },
         {
           "source": "/AI/AI",
-          "target": "/Computer-vision",
+          "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
         },
         {
           "source": "/AI/AI",
-          "target": "/NLP",
+          "target": "/AI/NLP",
           "text": "NLP"
         },
         {
           "source": "/AI/AI",
-          "target": "/Deep-learning",
+          "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
         },
         {
           "source": "/AI/AI",
-          "target": "/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "text": "Data engineering and computer science"
         },
         {
           "source": "/AI/AI",
-          "target": "/Causality",
+          "target": "/AI/Causality",
           "text": "Causality"
+        },
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Problem-Solving-and-Search",
+          "text": "Problem Solving and Search"
+        },
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Automated-planning",
+          "text": "Automated planning"
         }
       ],
       "/AI/Active-learning": [
@@ -72,6 +87,11 @@
           "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/Deep-learning",
           "text": "Deep learning"
+        },
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs for anomaly detection"
         }
       ],
       "/AI/AutoML": [
@@ -303,27 +323,27 @@
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Jupyter",
+          "target": "/AI/Data-Science-Data-Engineering/Jupyter",
           "text": "Jupyter"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Math-and-stats",
+          "target": "/AI/Math-and-stats",
           "text": "Math and stats"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Machine-Learning",
+          "target": "/AI/Machine-Learning",
           "text": "Machine Learning"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "text": "Data engineering and computer science"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Visualization",
+          "target": "/AI/Data-Science-Data-Engineering/Visualization",
           "text": "Visualization"
         }
       ],
@@ -497,7 +517,22 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/Encoder-decoder-networks",
+          "target": "/Transformers",
+          "text": "Transformers#For NLP"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/CNNs",
+          "text": "CNNs#Visual attention"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "text": "Video segmentation and prediction"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         },
         {
@@ -609,6 +644,26 @@
         }
       ],
       "/AI/Deep-learning/GANs": [
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Super-resolution",
+          "text": "Super-resolution#GAN-based"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Inpainting",
+          "text": "Inpainting#GAN-based"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation#GAN-based"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/One-few-shot-learning",
+          "text": "One, few-shot learning#Few one-shot learning GANs"
+        },
         {
           "source": "/AI/Deep-learning/GANs",
           "target": "/",
@@ -1316,6 +1371,126 @@
           "text": "AI/Anomaly and Outlier Detection"
         }
       ],
+      "/AI/Automated-planning": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Automated-planning",
+          "text": "Automated planning"
+        }
+      ],
+      "/AI/Causality": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Causality",
+          "text": "Causality"
+        }
+      ],
+      "/AI/Computer-Vision/Computer-vision": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Computer-Vision/Computer-vision",
+          "text": "Computer vision"
+        }
+      ],
+      "/AI/Computer-Vision/Video-segmentation-and-prediction": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "text": "Video segmentation and prediction"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Data-Science": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "text": "Data Science"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "text": "Data Science"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "text": "Data engineering and computer science"
+        },
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "text": "Data engineering and computer science"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Jupyter": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Data-Science-Data-Engineering/Jupyter",
+          "text": "Jupyter"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Visualization": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Data-Science-Data-Engineering/Visualization",
+          "text": "Visualization"
+        }
+      ],
+      "/AI/Deep-learning/Deep-learning": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
+        }
+      ],
+      "/AI/Deep-learning/Encoder-decoder-networks": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
+          "text": "Encoder-decoder networks"
+        }
+      ],
+      "/AI/Deep-learning/GANs.md": [
+        {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs for anomaly detection"
+        }
+      ],
+      "/AI/Machine-Learning": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Machine-Learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Machine-Learning",
+          "text": "Machine Learning"
+        }
+      ],
+      "/AI/Math-and-stats": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Math-and-stats",
+          "text": "Math and stats"
+        }
+      ],
+      "/AI/NLP": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/NLP",
+          "text": "NLP"
+        }
+      ],
+      "/AI/Problem-Solving-and-Search": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Problem-Solving-and-Search",
+          "text": "Problem Solving and Search"
+        }
+      ],
       "/Active-learning": [
         {
           "source": "/AI/Machine-Learning",
@@ -1439,6 +1614,11 @@
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/CNNs",
+          "text": "CNNs#Visual attention"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/CNNs",
           "text": "CNNs"
         },
         {
@@ -1457,13 +1637,6 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/CapsNets",
           "text": "CapsNets"
-        }
-      ],
-      "/Causality": [
-        {
-          "source": "/AI/AI",
-          "target": "/Causality",
-          "text": "Causality"
         }
       ],
       "/Class-imbalance": [
@@ -1499,11 +1672,6 @@
       ],
       "/Computer-vision": [
         {
-          "source": "/AI/AI",
-          "target": "/Computer-vision",
-          "text": "Computer vision"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/Computer-vision",
           "text": "Computer vision"
@@ -1528,26 +1696,9 @@
       ],
       "/Data-Science": [
         {
-          "source": "/AI/AI",
-          "target": "/Data-Science",
-          "text": "Data Science"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/Data-Science",
           "text": "Data Science"
-        }
-      ],
-      "/Data-engineering-and-computer-science": [
-        {
-          "source": "/AI/AI",
-          "target": "/Data-engineering-and-computer-science",
-          "text": "Data engineering and computer science"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Data-engineering-and-computer-science",
-          "text": "Data engineering and computer science"
         }
       ],
       "/Deep-Learning": [
@@ -1595,11 +1746,6 @@
         }
       ],
       "/Deep-learning": [
-        {
-          "source": "/AI/AI",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
-        },
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/Deep-learning",
@@ -1653,11 +1799,6 @@
         },
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/Encoder-decoder-networks",
-          "text": "Encoder-decoder networks"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
           "target": "/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         }
@@ -1830,16 +1971,21 @@
           "text": "Image-to-image translation"
         },
         {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation#GAN-based"
+        },
+        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Image-to-image-translation",
           "text": "Image-to-image translation"
         }
       ],
-      "/Jupyter": [
+      "/Inpainting": [
         {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Jupyter",
-          "text": "Jupyter"
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Inpainting",
+          "text": "Inpainting#GAN-based"
         }
       ],
       "/Learning-to-rank": [
@@ -1870,17 +2016,7 @@
       ],
       "/Machine-Learning": [
         {
-          "source": "/AI/AI",
-          "target": "/Machine-Learning",
-          "text": "Machine Learning"
-        },
-        {
           "source": "/AI/Causality",
-          "target": "/Machine-Learning",
-          "text": "Machine Learning"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
           "target": "/Machine-Learning",
           "text": "Machine Learning"
         },
@@ -1900,13 +2036,6 @@
           "source": "/AI/Data-Science-Data-Engineering/Dask",
           "target": "/Machine-learning",
           "text": "Machine learning"
-        }
-      ],
-      "/Math-and-stats": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Math-and-stats",
-          "text": "Math and stats"
         }
       ],
       "/Model-selection-and-tuning": [
@@ -1944,11 +2073,6 @@
         }
       ],
       "/NLP": [
-        {
-          "source": "/AI/AI",
-          "target": "/NLP",
-          "text": "NLP"
-        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/NLP",
@@ -2004,6 +2128,11 @@
         }
       ],
       "/One-few-shot-learning": [
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/One-few-shot-learning",
+          "text": "One, few-shot learning#Few one-shot learning GANs"
+        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/One-few-shot-learning",
@@ -2172,6 +2301,11 @@
       ],
       "/Super-resolution": [
         {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/Super-resolution",
+          "text": "Super-resolution#GAN-based"
+        },
+        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Super-resolution",
           "text": "Super-resolution"
@@ -2234,6 +2368,11 @@
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/Transformers",
+          "text": "Transformers#For NLP"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/Transformers",
           "text": "Transformers"
         }
       ],
@@ -2254,13 +2393,6 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/Video-segmentation-and-prediction",
           "text": "Video segmentation and prediction"
-        }
-      ],
-      "/Visualization": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/Visualization",
-          "text": "Visualization"
         }
       ],
       "/Weakly-supervised-learning": [
@@ -2399,38 +2531,48 @@
     },
     {
       "source": "/AI/AI",
-      "target": "/Data-Science",
+      "target": "/AI/Data-Science-Data-Engineering/Data-Science",
       "text": "Data Science"
     },
     {
       "source": "/AI/AI",
-      "target": "/Machine-Learning",
+      "target": "/AI/Machine-Learning",
       "text": "Machine Learning"
     },
     {
       "source": "/AI/AI",
-      "target": "/Computer-vision",
+      "target": "/AI/Computer-Vision/Computer-vision",
       "text": "Computer vision"
     },
     {
       "source": "/AI/AI",
-      "target": "/NLP",
+      "target": "/AI/NLP",
       "text": "NLP"
     },
     {
       "source": "/AI/AI",
-      "target": "/Deep-learning",
+      "target": "/AI/Deep-learning/Deep-learning",
       "text": "Deep learning"
     },
     {
       "source": "/AI/AI",
-      "target": "/Data-engineering-and-computer-science",
+      "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "text": "Data engineering and computer science"
     },
     {
       "source": "/AI/AI",
-      "target": "/Causality",
+      "target": "/AI/Causality",
       "text": "Causality"
+    },
+    {
+      "source": "/AI/AI",
+      "target": "/AI/Problem-Solving-and-Search",
+      "text": "Problem Solving and Search"
+    },
+    {
+      "source": "/AI/AI",
+      "target": "/AI/Automated-planning",
+      "text": "Automated planning"
     },
     {
       "source": "/AI/Active-learning",
@@ -2451,6 +2593,11 @@
       "source": "/AI/Anomaly-and-Outlier-Detection",
       "target": "/Deep-learning",
       "text": "Deep learning"
+    },
+    {
+      "source": "/AI/Anomaly-and-Outlier-Detection",
+      "target": "/AI/Deep-learning/GANs.md",
+      "text": "GANs for anomaly detection"
     },
     {
       "source": "/AI/AutoML",
@@ -2654,27 +2801,27 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/Jupyter",
+      "target": "/AI/Data-Science-Data-Engineering/Jupyter",
       "text": "Jupyter"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/Math-and-stats",
+      "target": "/AI/Math-and-stats",
       "text": "Math and stats"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/Machine-Learning",
+      "target": "/AI/Machine-Learning",
       "text": "Machine Learning"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/Data-engineering-and-computer-science",
+      "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "text": "Data engineering and computer science"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/Visualization",
+      "target": "/AI/Data-Science-Data-Engineering/Visualization",
       "text": "Visualization"
     },
     {
@@ -2834,7 +2981,22 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/Encoder-decoder-networks",
+      "target": "/Transformers",
+      "text": "Transformers#For NLP"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/CNNs",
+      "text": "CNNs#Visual attention"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+      "text": "Video segmentation and prediction"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
     },
     {
@@ -2941,6 +3103,26 @@
       "source": "/AI/Deep-learning/Encoder-decoder-networks",
       "target": "/Supervised-learning",
       "text": "Supervised learning"
+    },
+    {
+      "source": "/AI/Deep-learning/GANs",
+      "target": "/Super-resolution",
+      "text": "Super-resolution#GAN-based"
+    },
+    {
+      "source": "/AI/Deep-learning/GANs",
+      "target": "/Inpainting",
+      "text": "Inpainting#GAN-based"
+    },
+    {
+      "source": "/AI/Deep-learning/GANs",
+      "target": "/Image-to-image-translation",
+      "text": "Image-to-image translation#GAN-based"
+    },
+    {
+      "source": "/AI/Deep-learning/GANs",
+      "target": "/One-few-shot-learning",
+      "text": "One, few-shot learning#Few one-shot learning GANs"
     },
     {
       "source": "/AI/Deep-learning/GANs",
@@ -3446,6 +3628,11 @@
       "source": "/",
       "target": "/AI/AI",
       "text": "Artificial Intelligence"
+    },
+    {
+      "source": "/",
+      "target": "/AI/Data-Science-Data-Engineering/Data-Science",
+      "text": "Data Science"
     }
   ]
 }
