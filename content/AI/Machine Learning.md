@@ -75,7 +75,7 @@ disableToc: false
 	- Contrib packages: https://github.com/scikit-learn-contrib
 	- #TALK PyData tutorial by Sebastian Raschka: https://www.youtube.com/watch?v=9fOWryQq9J8
 	- #CODE scikit-plot: http://scikit-plot.readthedocs.io/en/stable/Quickstart.html
-	- #CODE Lightning - Large-scale linear classification, [[Regression]] and ranking ([[Learning to rank]]) in Python: http://contrib.scikit-learn.org/lightning/
+	- #CODE Lightning - Large-scale linear classification, [Regression](Regression.md) and ranking ([Learning to rank](Learning%20to%20rank.md)) in Python: http://contrib.scikit-learn.org/lightning/
 - #CODE mlinsights: https://github.com/sdpython/mlinsights/
 	- http://www.xavierdupre.fr/app/mlinsights/helpsphinx/notebooks/piecewise_linear_regression.html
 - #CODE PyCaret: https://github.com/pycaret/pycaret
@@ -183,8 +183,8 @@ See [Self-supervised learning](Self-supervised%20learning.md)
 ## Probabilistic machine learning
 See [Probabilistic machine learning](Probabilistic%20machine%20learning.md)
 
-## Learning to rank
-See [Learning to rank](Learning%20to%20rank.md)
+## Learning to rank and ordinal regression
+See [Learning to rank](AI/Learning%20to%20rank.md)
 
 ## Generative modelling
 See [Generative modelling](Generative%20modelling.md)
