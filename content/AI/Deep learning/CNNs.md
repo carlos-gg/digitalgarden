@@ -6,7 +6,7 @@ disableToc: false
 # Resources
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
-- In [[deep learning]], a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
+- In [deep learning](deep%20learning.md), a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
 - CNNs: https://d2l.ai/chapter_convolutional-neural-networks/index.html
 - Convolutional Neural Networks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 - http://cs231n.github.io/convolutional-networks/
@@ -119,26 +119,32 @@ Channel/visual attention:
 	- https://arxiv.org/abs/1909.04939
 
 
-## [[Object classification, image recognition]]
+## Object classification, image recognition
+Se [Object classification, image recognition](Object%20classification,%20image%20recognition.md)
 
-## [[Semantic segmentation]] 
+## Semantic segmentation
+See [Semantic segmentation](Semantic%20segmentation.md) 
 
-## [[Object detection]] 
+## Object detection
+See [Object detection](Object%20detection.md) 
 
-## [[Video segmentation and prediction]]
+## Video segmentation and prediction
+See [Video segmentation and prediction](Video%20segmentation%20and%20prediction.md)
 
-## [[Image and video captioning]]
+## Image and video captioning
+See [Image and video captioning](Image%20and%20video%20captioning.md)
 
-## [[Image-to-image translation]]
+## Image-to-image translation
+See [Image-to-image translation](Image-to-image%20translation.md)
 
 ## Super-resolution 
-See [[Super-resolution#CNN-based]].
+See [Super-resolution#CNN-based](Super-resolution.md#CNN-based)
 
 ## Inpainting
-See [[Inpainting#CNN-based]].
+See [Inpainting#CNN-based](Inpainting.md#CNN-based)
 
 ## Background subtraction, foreground detection
-See [[Background subtraction#CNN based]].
+See [Background subtraction#CNN based](Background%20subtraction.md#CNN%20based)
 
 ## Edge detection
 - #PAPER DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection: http://arxiv.org/pdf/1412.1123

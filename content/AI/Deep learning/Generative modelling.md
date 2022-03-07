@@ -19,7 +19,7 @@ See [Autoencoders#VAEs](Autoencoders.md#VAEs)
 See [[GANs]]
 
 ## Normalizing flows
-See [[Normalizing flows]]
+See [Normalizing flows](Normalizing%20flows.md)
 
 ## Generative models for Image data
 See:

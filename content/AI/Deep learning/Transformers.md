@@ -194,8 +194,8 @@ disableToc: false
 
 
 # Multi-modal transformers
-See [[Multimodal learning]]
+See [Multimodal learning](Multimodal%20learning.md)
 
 
 # For RL
-See [[Reinforcement learning#^decisiontransformer]]
+See [Reinforcement learning#^decisiontransformer](Reinforcement%20learning.md#%5Edecisiontransformer)

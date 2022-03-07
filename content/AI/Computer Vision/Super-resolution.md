@@ -3,7 +3,7 @@ title: "Super-resolution"
 disableToc: false 
 ---
 
-See [[Image-to-image translation]]
+See [Image-to-image translation](Image-to-image%20translation.md)
 
 # Resources
 - https://github.com/ptkin/Awesome-Super-Resolution

@@ -4,11 +4,11 @@ disableToc: false
 ---
 
 See 
-[[CNNs]]
-[[MLPs#MLPs for vision and language]]
-[[Transformers#For Computer Vision]]
-[[Generative modelling#Generative models for Image data]]
-[[GANs]]
+[CNNs](CNNs.md)
+[MLPs#MLPs for vision and language](MLPs.md#MLPs%20for%20vision%20and%20language)
+[Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision.md)
+[Generative modelling#Generative models for Image data](Generative%20modelling.md#Generative%20models%20for%20Image%20data)
+[GANs](GANs.md)
 
 
 # Resources

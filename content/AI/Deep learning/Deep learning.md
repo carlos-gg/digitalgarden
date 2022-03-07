@@ -1,62 +1,55 @@
 ---
-title: "Deep Learning"
+title: "Deep Learning (DL)"
 disableToc: false 
 ---
 
 # Resources
-- DL is a branch of [[Machine Learning]] and [[AI]] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
+- DL is a branch of [Machine Learning](Machine%20Learning.md) and [AI](AI.md) based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/endymecy/awesome-deeplearning-resources
-- https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/super-cheatsheet-deep-learning.pdf
 - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
-- https://frnsys.com/ai_notes/machine_learning/neural_nets.html
-- https://hackernoon.com/deep-learning-cheat-sheet-25421411e460
-- https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
-- http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
+- A Quick Introduction to Neural Networks: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 - https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
 - http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/
 - A Brief History of Neural Nets and Deep Learning (2020): http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
-- A set of educational DL demos applied to the MNIST dataset: https://github.com/natbusa/deepnumbers
 - Time Benchmark of models: https://dawn.cs.stanford.edu/benchmark/
-- Deep learning in NNs: An overview: https://www.sciencedirect.com/science/article/pii/S0893608014002135
-- Deep Learning Research Directions: Computational Efficiency: http://timdettmers.com/2017/08/31/deep-learning-research-directions/
 - A Recipe for Training Neural Networks: http://karpathy.github.io/2019/04/25/recipe/
-- When to use deep learning
-	- Don't use deep learning your data isn't that big: https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/
-	- You can probably use deep learning even if your data isn't that big: http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
-	- When not to use deep learning: http://hyperparameter.space/blog/when-not-to-use-deep-learning/
-	- How can I know if DL works better for a specific problem than SVM or random forest?: https://github.com/rasbt/python-machine-learning-book/blob/master/faq/deeplearn-vs-svm-randomforest.md
-	- Using ANNs on small data – Deep Learning vs. Xgboost: http://maxberggren.se/2017/06/18/deep-learning-vs-xgboost/
-	- The limitations of deep learning: https://blog.keras.io/the-limitations-of-deep-learning.html
-- Literature parsing:
-	- DeepAI:  https://deepai.org/
-	- Papers with code: https://paperswithcode.com/
-	- Deep learning monitor: https://deeplearn.org/
-	- GroundAI: https://www.groundai.com/	
+
+## DL news aggregators
+- DeepAI:  https://deepai.org/
+- Papers with code: https://paperswithcode.com/
+- Deep learning monitor: https://deeplearn.org/
+
+## Cheatsheets
+- https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/super-cheatsheet-deep-learning.pdf
+
+## When to use and not to use deep learning
+- When and When Not to Use Deep Learning: https://blog.dataiku.com/when-and-when-not-to-use-deep-learning
+- You can probably use deep learning even if your data isn't that big: http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
+- When not to use deep learning: http://hyperparameter.space/blog/when-not-to-use-deep-learning/
+- Using ANNs on small data – Deep Learning vs. Xgboost: http://maxberggren.se/2017/06/18/deep-learning-vs-xgboost/
+- The limitations of deep learning: https://blog.keras.io/the-limitations-of-deep-learning.html
 
 
 # Books
 - #BOOK Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (Kashani 2022): https://arxiv.org/abs/2201.00650
 - #BOOK Physics-based Deep Learning Book (Thuerey 2021): https://physicsbaseddeeplearning.org/intro.html ^PBDL
-- #BOOK The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022): https://deeplearningtheory.com/PDLT.pdf
+- #BOOK The Principles of DL Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022): https://deeplearningtheory.com/PDLT.pdf
 	- https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
 - #BOOK Deep Learning Book (Goodfellow, 2016 MIT): https://www.deeplearningbook.org/
-	- The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
+	- The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 - #BOOK DL tutorial (LISA Lab, U Montreal): http://deeplearning.net/tutorial/
-- #BOOK Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/index.html
-- Deep Learning: Methods and Applications (Li Deng, 2014 NOW)
-	- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
-- #BOOK Deep Learning with Python (Chollet, 2021 MANNING)
-	- https://www.manning.com/books/deep-learning-with-python-second-edition
+- #BOOK Deep Learning with Python (Chollet, 2021 MANNING): https://www.manning.com/books/deep-learning-with-python-second-edition
 	- 1st edition: http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
-- #BOOK Machine learning yearning (Andrew Ng, 2018): http://www.mlyearning.org/
+- #BOOK Machine learning yearning (Andrew Ng, 2018): https://freecomputerbooks.com/Machine-Learning-Yearning.html
 	- https://github.com/ajaymache/machine-learning-yearning
 - #BOOK Dive into Deep Learning (Zhang): https://d2l.ai/index.html
 	- An interactive deep learning book for students, engineers, and researchers. Uses MXNet/Gluon, Pytorch and Tensorflow
-	- Jupyter notebooks for each section.  https://en.d2l.ai/d2l-en.zip
+	- Jupyter notebooks for each section: https://en.d2l.ai/d2l-en.zip
 - #BOOK Introduccion practica con Keras (Torres 2018): https://torres.ai/deep-learning-inteligencia-artificial-keras/
-- #BOOK Technical Book on Deep Learning: https://github.com/tomepel/Technical_Book_DL
+- #BOOK Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/index.html
+
 
 # Talks
 - #TALK Deep Learning (Yoshua Bengio, MLSS 2020): 
@@ -127,7 +120,7 @@ State of ML frameworks:
 	- http://tensorlayer.org/
 - #CODE Elegy - Neural Networks framework based on Jax and inspired by Keras: https://github.com/poets-ai/elegy
 	- https://poets-ai.github.io/elegy/
-	- See [[Math and stats#^jax]]
+	- See [Math and stats#^jax](Math%20and%20stats.md#%5Ejax)
 - #CODE PyTorch (Facebook): Tensors and Dynamic neural networks in Python with strong GPU acceleration. https://github.com/pytorch/pytorch
 	- http://pytorch.org
 	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
@@ -138,8 +131,9 @@ State of ML frameworks:
 		- PyText is a deep-learning based [[NLP]] modeling framework built on PyTorch
 	- #CODE Pytorch tabular: https://github.com/manujosephv/pytorch_tabular ^pytorchtab
 		- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
-- #CODE Paddle (Baidu)- PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice. https://github.com/PaddlePaddle/Paddle
+- #CODE Paddle (Baidu): https://github.com/PaddlePaddle/Paddle
 	- http://www.paddlepaddle.org/
+	- PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice
 - #CODE Mxnet (Apache): https://github.com/apache/incubator-mxnet
 	- http://mxnet.io/
 	- Towards Next Generation Deep Learning Framework: https://mli.github.io/cvpr17/
@@ -153,12 +147,14 @@ State of ML frameworks:
 	- https://github.com/chainer/chainer
 - #CODE Neural Network Console (Sony): https://dl.sony.com/
 - #CODE PySyft: https://github.com/OpenMined/PySyft
-	- PySyft is a Python library for secure and private Deep Learning. PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
+	- PySyft is a Python library for secure and private Deep Learning. 
+	- PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
 	- #PAPER A generic framework for privacy preserving deep learning: https://arxiv.org/abs/1811.04017
 - #CODE Deep cognition: https://deepcognition.ai/
 
 
 # References
+- #PAPER Deep learning in NNs: An overview (Schmidhuber 2015): https://www.sciencedirect.com/science/article/pii/S0893608014002135
 - #PAPER Deep learning (LeCun 2015): https://www.nature.com/articles/nature14539 ^dllecun15
 	- https://www.researchgate.net/profile/Y_Bengio/publication/277411157_Deep_Learning/links/55e0cdf908ae2fac471ccf0f/Deep-Learning.pdf
 - #PAPER Deep Neural Decision Forests (Kontschieder 2016): https://www.ijcai.org/Proceedings/16/Papers/628.pdf
@@ -191,7 +187,7 @@ State of ML frameworks:
 
 
 ## Generalization
-See [[XAI#Interpretability of deep learning models]]
+See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%20deep%20learning%20models)
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
 
 - #PAPER Understanding deep learning requires re-thinking generalization (Zhang 2016): https://arxiv.org/abs/1611.03530
@@ -281,7 +277,7 @@ See [[XAI#Interpretability of deep learning models]]
 	- https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/mean-squared-logarithmic-error-(msle) 
 	- https://medium.com/@olegrybkin_20684/the-reasonable-ineffectiveness-of-mse-pixel-loss-for-future-prediction-and-what-to-do-about-it-4dca8152355d 
 
-## Optimizers and backprop
+## Optimizers and backpropagation
 - How to use Learning Curves to Diagnose Machine Learning Model Performance: https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
 - https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent
 - Keras optimizers: https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/ 
@@ -321,8 +317,8 @@ See [[XAI#Interpretability of deep learning models]]
 
 ## Attention
 See: 
-[Transformers#For NLP](Transformers#For%20NLP.md)
-[CNNs#Visual attention](CNNs#Visual%20attention.md)
+[Transformers#For NLP](Transformers.md#For%20NLP)
+[CNNs#Channel/Visual attention](CNNs.md#Channel/Visual%20attention)
 
 - #COURSE Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12): https://www.youtube.com/watch?v=AIiwuClvH6k
 
@@ -338,13 +334,12 @@ See:
 ## Deep learning for tabular data
 - An Introduction to Deep Learning for Tabular Data: https://www.fast.ai/2018/04/29/categorical-embeddings/
 - Applying Deep Learning on Tabular Data Using TensorFlow 2.0: https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20
-- #CODE [[#^pytorchtab]]
-	
+- #CODE See Pytorch tabular [[#^pytorchtab]]
 - #PAPER Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019): https://arxiv.org/abs/1909.06312
 - #PAPER TabNet: Attentive Interpretable Tabular Learning (Arik 2020): https://arxiv.org/abs/1908.07442
 - #PAPER Converting tabular data into images for deep learning with convolutional neural networks (Zhu 2021): https://www.nature.com/articles/s41598-021-90923-y
 - #PAPER Tabular Data: Deep Learning is Not All You Need (Shwartz-Ziv 2021): https://arxiv.org/abs/2106.03253
-- #PAPER XBNet : An Extremely Boosted Neural Network (Sarkar 2021): https://arxiv.org/abs/2106.05239
+- #PAPER XBNet: An Extremely Boosted Neural Network (Sarkar 2021): https://arxiv.org/abs/2106.05239
 	- #CODE XBNet: https://github.com/tusharsarkar3/XBNet
 	- Boosted neural network for tabular data
 	- https://analyticsindiamag.com/guide-to-xbnet-an-extremely-boosted-neural-network/

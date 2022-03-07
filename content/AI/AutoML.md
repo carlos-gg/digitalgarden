@@ -27,11 +27,12 @@ See [Model selection and tuning](Model%20selection%20and%20tuning.md)
 		- Misconfiguration detection
 	- Analysis of results obtained
 	- User interfaces and visualizations for automated machine learning
-
 - https://www.automl.org/
 - http://www.kdnuggets.com/2017/01/current-state-automated-machine-learning.html
 - https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8
 
+
+# Books
 -  #BOOK AutoML: Methods, systems, challenges: https://www.automl.org/book/
 
 

@@ -3,8 +3,9 @@ title: "Model selection and tuning"
 disableToc: false 
 ---
 
-See  [[AutoML]]
-See [[Data engineering and computer science#Workflow managers distributed ML]]
+See:  
+[AutoML](AutoML.md)
+[Data engineering and computer science#Workflow managers distributed ML](Data%20engineering%20and%20computer%20science.md#Workflow%20managers%20distributed%20ML)
 
 # Resources
 - Model selection and evaluation: https://scikit-learn.org/stable/model_selection.html

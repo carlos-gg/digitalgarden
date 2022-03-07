@@ -53,7 +53,7 @@ See:
 - #CODE [[#^glmnetpy]]
 
 ## Logistic regression 
-See [[classification]]
+See [classification](classification.md)
 
 ## Regularized regression
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
@@ -72,11 +72,11 @@ See [[classification]]
 
 
 ## SVM
-See [[Classification]]
+See [Classification](Classification.md)
 
 
 ## Gaussian Process
-See [[Gaussian Process]]
+See [Gaussian Process](Gaussian%20Process.md)
 
 
 ## Tree-based approaches

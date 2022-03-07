@@ -29,5 +29,5 @@ Review papers:
 
 
 ## Image-to-image translation
-See [[Image-to-image translation#Flow-based]]
+See [Image-to-image translation#Flow-based](Image-to-image%20translation.md#Flow-based)
 
