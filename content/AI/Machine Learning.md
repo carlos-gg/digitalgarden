@@ -35,11 +35,11 @@ Cheatsheets:
 Notes:
 - ML-AI guide: https://csinva.io/blog/compiled_notes/_build/html//intro.html
 
-## References
+# References
 - #PAPER Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (Raschka 2020): https://arxiv.org/abs/2002.04803
 
 
-## Books
+# Books
 - #BOOK The elements of statistical learning (Hastie 2015, SPRINGER): https://web.stanford.edu/~hastie/ElemStatLearn/
 - #BOOK An Introduction to Statistical Learning (James 2013, SPRINGER): http://www-bcf.usc.edu/~gareth/ISL/
 	- https://github.com/JWarmenhoven/ISLR-python
@@ -57,7 +57,7 @@ Notes:
 - #BOOK Evaluating Machine Learning Models (Zheng 2015, OREILLY): https://www.oreilly.com/ideas/evaluating-machine-learning-models
 - #BOOK Introduction to Machine Learning Interviews Book: https://huyenchip.com/ml-interviews-book/
 
-## Courses
+# Courses
 - #COURSE Machine Learning (CS229, Stanford)
 	- http://cs229.stanford.edu/
 	- Lecture notes: https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf
@@ -73,7 +73,7 @@ Notes:
 - #COURSE The Machine Learning Summer School, MLSS Tubingen 2020 (virtual): http://mlss.tuebingen.mpg.de/2020/
 	- https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
 
-## Code 
+# Code 
 See [[Data engineering and computer science#Workflow managers distributed ML]]
 
 - #CODE Benchmarks of ML libraries: https://github.com/szilard/benchm-ml
@@ -150,48 +150,36 @@ See [[Data engineering and computer science#Workflow managers distributed ML]]
 
 # Subtopics
 
-## [[Feature selection]]
+## [Feature selection](Feature%20selection.md)
 
-## [[XAI]]
+## [XAI](XAI.md)
 
-## [[Feature learning]]
+## [Feature learning](Feature%20learning.md)
 
-## [[AI/Anomaly and Outlier Detection]]
+## [AI/Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 
-## [[Time Series analysis]] and [[Forecasting]]
+## [Time Series analysis](Time%20Series%20analysis.md) and [Forecasting](Forecasting.md)
 
-## [[AutoML]]
+## [AutoML](AutoML.md)
 
-## [[Deep learning]]
+## [Deep learning](Deep%20learning.md)
 
-## [[Reinforcement learning]]
+## [Reinforcement learning](Reinforcement%20learning.md)
 
-## [[Unsupervised learning]]
+## [Unsupervised learning](Unsupervised%20learning.md)
 
-## [[Supervised learning]]
+## [Supervised learning](Supervised%20learning.md)
 
-## [[Weakly-supervised learning]]
-Includes [[Semi-supervised learning]], [[Active learning]] and [[Transfer learning]]
+## [Weakly-supervised learning](Weakly-supervised%20learning.md)
+Includes [Semi-supervised learning](Semi-supervised%20learning.md), [Active learning](Active%20learning.md) and [Transfer learning](Transfer%20learning.md)
 
-## [[One, few-shot learning]]
+## [One, few-shot learning](One,%20few-shot%20learning.md)
 
-## [[Self-supervised learning]]
+## [Self-supervised learning](Self-supervised%20learning.md)
 
-## [[Probabilistic machine learning]]
+## [Probabilistic machine learning](Probabilistic%20machine%20learning.md)
 
-## [[Learning to rank]]
+## [Learning to rank](Learning%20to%20rank.md)
 
-## [[Generative modelling]]
+## [Generative modelling](Generative%20modelling.md)
 
-
-
-
-
-
-
-	
-
- 
-
-
-	  

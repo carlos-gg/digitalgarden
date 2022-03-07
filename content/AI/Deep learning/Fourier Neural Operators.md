@@ -1,4 +1,8 @@
-# Fourier Neural Operator
+---
+title: "Fourier Neural Operator"
+disableToc: false 
+---
+
 
 - #PAPER Fourier Neural Operator for Parametric Partial Differential Equations (Li 2020): https://arxiv.org/abs/2010.08895
 	- #CODE https://github.com/zongyi-li/fourier_neural_operator

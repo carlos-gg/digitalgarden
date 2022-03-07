@@ -1,12 +1,15 @@
-# Multimodal learning
+---
+title: "Multimodal learning"
+disableToc: false 
+---
+
 - General-purpose neural networks capable of handling diverse inputs and output tasks
 
-## Code
+# Code
 - #CODE Pykale (in pytorch): https://github.com/pykale/pykale
 	- [[#^pykale]]
 
-
-## References
+# References
 - #PAPER Multi-modal Transformer for Video Retrieval (Gabeur 2020): https://arxiv.org/abs/2007.10639
 - #PAPER DALL-E - Creating Images from Text (Ramesh 2021): https://openai.com/blog/dall-e/ ^dall-e
 	- https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/
@@ -17,7 +20,7 @@
 - #PAPER Perceiver: General Perception with Iterative Attention (Jaegle 2021): https://arxiv.org/abs/2103.03206
 	- https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/
 	- Multi-model with image, audio, video, 3d point clouds
-- #PAPER  PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python (Lu 2021): https://arxiv.org/abs/2106.09756v1 ^pykale
+- #PAPER PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python (Lu 2021): https://arxiv.org/abs/2106.09756v1 ^pykale
 - #PAPER Perceiver IO: A General Architecture for Structured Inputs & Outputs (Jaegle 2021): https://arxiv.org/abs/2107.14795v2
 	- #CODE https://paperswithcode.com/paper/perceiver-io-a-general-architecture-for
 - #PAPER VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text (Akbari 2021): https://arxiv.org/abs/2104.11178v2

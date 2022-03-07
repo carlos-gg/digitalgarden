@@ -26,20 +26,20 @@ Infographics:
 
 - #PAPER Science and data science (Blei 2017): https://www.pnas.org/content/114/33/8689
 - #PAPER 50 Years of Data Science (Donoho 2017): https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
-		- #TALK 50 Years of Data Science (Donoho)
-			- https://www.youtube.com/watch?v=GUFL-Mf0EWY
-			- https://www.youtube.com/watch?v=E7w-gfFKPf8
-			- https://www.youtube.com/watch?v=QTzNXYcZLbU
-			- https://www.youtube.com/watch?v=BnRRwmeGBgU
-		- Comments: 
-			- https://matloff.wordpress.com/2016/01/23/some-comments-on-donahos-50-years-of-data-science/
-			- https://medium.com/@srowen/what-50-years-of-data-science-leaves-out-2366c9b61d3d
-			- https://www.youtube.com/watch?v=zamQgXDytUA
-			- #TALK Big Data LDN 2016: What “50 Years of Data Science” Leaves Out: https://www.youtube.com/watch?v=zamQgXDytUA
+	- #TALK 50 Years of Data Science (Donoho)
+		- https://www.youtube.com/watch?v=GUFL-Mf0EWY
+		- https://www.youtube.com/watch?v=E7w-gfFKPf8
+		- https://www.youtube.com/watch?v=QTzNXYcZLbU
+		- https://www.youtube.com/watch?v=BnRRwmeGBgU
+	- Comments: 
+		- https://matloff.wordpress.com/2016/01/23/some-comments-on-donahos-50-years-of-data-science/
+		- https://medium.com/@srowen/what-50-years-of-data-science-leaves-out-2366c9b61d3d
+		- https://www.youtube.com/watch?v=zamQgXDytUA
+		- #TALK Big Data LDN 2016: What “50 Years of Data Science” Leaves Out: https://www.youtube.com/watch?v=zamQgXDytUA
 - #PAPER Theory-guided data science: a new paradigm for scientific discovery from data (Karpatne 2017): https://ieeexplore.ieee.org/document/7959606
 
 
-## Books
+# Books
 - #BOOK [The field guide to DS (Booz Allen Hamilton Inc 2015)](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html)
 	- https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf
 	- https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
@@ -69,7 +69,7 @@ Infographics:
 - #BOOK Statistics and Data Science: http://theoryandpractice.org/stats-ds-book/intro.html
 
 
-## Courses
+# Courses
 - #COURSE Mathematical Tools for Data Science (NYU Center for Data Science): https://cds.nyu.edu/math-tools/
 - #COURSE Python for Data Science workshop (Paris-Saclay Center for Data Science): https://github.com/paris-saclay-cds/python-workshop
 - #COURSE Data Science (Harvard CS109): http://cs109.github.io/2015/
@@ -82,7 +82,7 @@ Infographics:
 - #TALK Building a Data Science Team with Open Source Tools: https://www.youtube.com/watch?v=mzTlqNTHTmc
 - #TALK Introduction to Python for Data Science (Seabold, PyCon 2018): https://www.youtube.com/watch?v=W4WQi2OIy7o
 
-## Code
+# Code
 - #CODE Watson (IBM): http://www.ibm.com/watson/
 	- IBM Watson APIs: https://www.ibm.com/watson/developer/
 	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe
@@ -119,12 +119,9 @@ Infographics:
 - #CODE Neural Network Console (Sony): https://dl.sony.com/
 
 Interactive Computing Environments:
-- [[Jupyter]]
-- #CODE Beaker: http://beakernotebook.com/features
+- #CODE [Jupyter](AI/Data%20Science,%20Data%20Engineering/Jupyter.md)
 - #CODE Zepelin: https://zeppelin.apache.org/
 - #CODE Rstudio: https://www.rstudio.com/products/rstudio/
-- #CODE Saturn: https://github.com/proin/saturn
-	- http://saturn.proinlab.com
 - #CODE Cauldron: https://github.com/sernst/cauldron
 	- http://www.unnotebook.com/
 - #CODE Polynote: https://github.com/polynote/polynote
@@ -133,10 +130,14 @@ Interactive Computing Environments:
 
 # Related fields
 
-## [[Math and stats]]
+## Math and stats
+See [Math and stats](AI/Math%20and%20stats.md)
 
-## [[Machine Learning]]
+## Machine Learning
+See [Machine Learning](AI/Machine%20Learning.md)
 
-## [[Data engineering and computer science]]
+## Data engineering and Computer Science
+See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
-## [[Visualization]]
+## Visualization
+See [Visualization](AI/Data%20Science,%20Data%20Engineering/Visualization.md)

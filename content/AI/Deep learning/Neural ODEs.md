@@ -1,4 +1,7 @@
-# Neural Ordinary Differential Equations
+---
+title: "Neural Ordinary Differential Equations"
+disableToc: false 
+---
 
 - https://github.com/Zymrael/awesome-neural-ode
 - Understanding Neural ODE's: https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
@@ -10,7 +13,7 @@
 	- In deep learning, backpropagation is the workhorse for finding this gradient, but this algorithm incurs a high memory costs to store the intermediate values of the network. On top of this, the sheer number of chain rule applications produces numerical error. Since an ODENet models a differential equation, these issues can be circumvented using sensitivity analysis methods developed for calculating gradients of a loss function with respect to the parameters of the system producing its input.
 
 
-## References
+# References
 - #PAPER Neural Ordinary Differential Equations (TQ Chen 2018): https://arxiv.org/abs/1806.07366
 	- #CODE https://github.com/JSeam2/Neural-Ordinary-Differential-Equations
 	- #CODE https://github.com/jason71995/Keras_ODENet

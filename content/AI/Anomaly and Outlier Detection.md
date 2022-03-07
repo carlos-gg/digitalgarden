@@ -40,7 +40,10 @@ disableToc: false
 - #PAPER Modeling Extreme Events in Time Series Prediction (Ding 2019): http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf
 - #PAPER Bayesian Anomaly Detection and Classification (2019): https://arxiv.org/abs/1902.08627  
 
+
 ## [[Deep learning]] based
+See [GANs for anomaly detection](AI/Deep%20learning/GANs.md#GANs%20for%20anomaly%20detection)
+
 - #PAPER Learning Deep Features for One-Class Classification (Perera 2018): https://arxiv.org/abs/1801.05365
 - #PAPER Deep One-Class Classification (Ruff 2018): http://proceedings.mlr.press/v80/ruff18a.html
 
@@ -49,3 +52,5 @@ disableToc: false
 	- An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference
 	- https://openvinotoolkit.github.io/anomalib/
 	- Anomalib is a deep learning library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets
+- #CODE Orion - A machine learning library for detecting anomalies in signals: https://github.com/signals-dev/Orion ^oriontfanomalies
+	- https://signals-dev.github.io/Orion/

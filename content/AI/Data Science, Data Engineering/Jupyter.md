@@ -1,16 +1,20 @@
-# Jupyter
+---
+title: "Jupyter"
+disableToc: false 
+---
+
 - #CODE Jupyter: https://github.com/jupyter
 	- #CODE Jupyterlab: https://github.com/jupyterlab/jupyterlab 
 	- #CODE Jupyter(hub): https://jupyter.org/hub 
 	- #CODE Jupyterlite: https://github.com/jupyterlite
 		- https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa
 - #CODE Papermill - Parameterize, execute, and analyze notebooks: https://github.com/nteract/papermill
-
-- Books with Jupyter: https://jupyterbook.org/intro.html
+- #CODE Beaker kernels and extensions: http://beakerx.com/
+- Juypterbook - Books with Jupyter: https://jupyterbook.org/intro.html
 - [Executing notebooks from the command line](https://nbconvert.readthedocs.io/en/latest/execute_api.html#executing-notebooks-from-the-command-line "Permalink to this headline")
 	- `$ jupyter nbconvert --to notebook --inplace --ExecutePreprocessor.timeout=None --execute mynotebook.ipynb`
 
-## Jupyter in HPC
+# Jupyter in HPC
 - High-level scripting languages such as Python, R and Julia, have become the go-to choices in the world of Data Science and ML/AI. Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages. For instance, the Jupyter Notebook is an open-source web-app that allows users to write portable documents containing executable code, narrative text, and equations, and to visualize the results of running the code directly in the web browser. The name comes from a combination of the three core programming languages of Jupyter (Julia, Python and R) though Jupyter is not limited to these languages.  
 - Tools in the Jupyter ecosystem are designed in a modular fashion, and behave similarly on a researcher's laptop, a high-performance computing center, or the cloud. As a result, Jupyter technologies have been widely adopted across a spectrum of scientific disciplines, including Earth Sciences (Perez et al. 2019).  
 - JupyterHub brings the power of notebooks to groups of users. It gives users access to computational environments and resources without burdening the users with installation and maintenance tasks. These are a few examples of JupyterHub systems running on supercomputing systems: 
@@ -26,5 +30,5 @@
 - #PAPER Interactive Supercomputing with Jupyter (Thomas 2021): https://authorea.com/doi/full/10.22541/au.161230518.84458221 ^thomas21hpcjupyter
 
 
-## Ipython
+# Ipython
 - Save interactive ipython session: `%history -f /tmp/history.py`

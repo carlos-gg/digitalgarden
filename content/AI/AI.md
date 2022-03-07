@@ -3,7 +3,7 @@ title: "Artificial Intelligence"
 disableToc: false 
 ---
 
-- The expression _artificial intelligence_ today is therefore an umbrella term. It refers to a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
+- The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/faktionai/awesome-ai-usecases
@@ -34,7 +34,7 @@ AI in Science and research:
 - The AI revolution in science: https://www.sciencemag.org/news/2017/07/ai-revolution-science
 - Artificial intelligence in research (Musib 2017): https://science.sciencemag.org/content/357/6346/28
 
-## Events
+# Events
 - Neural Information Processing Systems Conference (NeurIPS): https://nips.cc/
 	- Proceedings: http://papers.nips.cc/
 	- Videos: https://nips.cc/Conferences/2018/Videos
@@ -44,14 +44,14 @@ AI in Science and research:
 - AAAI Conference on Artificial Intelligence: http://www.aaai.org/Conferences/conferences.php
 - World summit AI: https://worldsummit.ai/
 
-## Books
+# Books
 - #BOOK AI Transformation Playbook (Andrew Ng, 2018): https://landing.ai/ai-transformation-playbook/
 - #BOOK The Future of Machine Intelligence (Beyer 2016, O'REILLY): https://www.oreilly.com/library/view/the-future-of/9781492042334/
 - #BOOK Artificial Intelligence - A Modern Approach (Russell & Norvig, 2010): http://aima.cs.berkeley.edu/
 	- https://github.com/aimacode
 	- Javascript visualization (and implementation) of algorithms: http://aimacode.github.io/aima-javascript/
 
-## Courses
+# Courses
 - #COURSE Artificial Intelligence (edX - U Columbia): https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
 - #COURSE Introduction to Artificial Intelligence (CS 188, Berkeley): https://inst.eecs.berkeley.edu/~cs188/fa18/
 - #COURSE Intro to AI (CS188 , UC Berkeley): http://ai.berkeley.edu/home.html, 
@@ -75,40 +75,33 @@ AI in Science and research:
 - #TALK Symbolic, Statistical and Causal Artificial Intelligence, MLSS 2020: https://www.youtube.com/watch?v=8staJlMbAig
 
 
-# Related fields
+# Related fields and concepts
 
-## [[Data Science]]
+## Data Science
+See [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
 
-## [[Machine Learning]]
+## Machine Learning
+See [Machine Learning](AI/Machine%20Learning.md)
 
-## [[Computer vision]]
+## Computer vision
+See [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 
-## [[NLP]]
+## NLP
+See [NLP](AI/NLP.md)
 
-## [[Deep learning]]
+## Deep Learning
+See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 
-## [[Data engineering and computer science]]
+## Data engineering and computer science
+See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
+## Causality
+See [Causality](AI/Causality.md)
 
-# General concepts
+## Problem Solving and Search
+See [Problem Solving and Search](AI/Problem%20Solving%20and%20Search.md)
 
-### [[Causality]]
+## Automated planning
+See [Automated planning](AI/Automated%20planning.md)
 
-### Problem Solving and Search
-- Solving problems by searching: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture2.md
-- Problem solving and search: https://www.emse.fr/~picard/cours/ai/chapter03.pdf
-- Constraint satisfaction problems:
-	- Constraint satisfaction problems (CSPs) are mathematical questions defined as a set of objects whose state must satisfy a number of constraints or limitations. CSPs represent the entities in a problem as a homogeneous collection of finite constraints over variables, which is solved by constraint satisfaction methods. CSPs are the subject of intense research in both artificial intelligence and operations research, since the regularity in their formulation provides a common basis to analyze and solve problems of many seemingly unrelated families. 
-	- Constraint satisfaction problems: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture3.md
-	- Constraint satisfaction problems: https://www.emse.fr/~picard/cours/ai/chapter06.pdf
-- Adversarial Search
-	- Games and adversarial search: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture4.md
-	- Adversarial search: https://www.emse.fr/~picard/cours/ai/chapter05.pdf
-
-### Automated planning
-- AI Planning is a branch of artificial intelligence that concerns the realization of strategies or action sequences, typically for execution by intelligent agents, autonomous robots and unmanned vehicles. Unlike classical control and classification problems, the solutions are complex and must be discovered and optimized in multidimensional space.
-- A brief overview of AI planning: https://users.aalto.fi/~rintanj1/jussi/planning.html
-- Planning: 
-	- https://www.emse.fr/~picard/cours/ai/chapter-planning-intro.pdf
-	- https://www.emse.fr/~picard/cours/ai/chapter-planning-space.pdf
 

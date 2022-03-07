@@ -37,7 +37,7 @@ disableToc: false
 	- #CODE Model Zoo: https://modelzoo.co/
 
 
-## Books
+# Books
 - #BOOK Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (Kashani 2022): https://arxiv.org/abs/2201.00650
 - #BOOK Physics-based Deep Learning Book (Thuerey 2021): https://physicsbaseddeeplearning.org/intro.html ^PBDL
 - #BOOK The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022): https://deeplearningtheory.com/PDLT.pdf
@@ -59,7 +59,7 @@ disableToc: false
 - #BOOK Introduccion practica con Keras (Torres 2018): https://torres.ai/deep-learning-inteligencia-artificial-keras/
 - #BOOK Technical Book on Deep Learning: https://github.com/tomepel/Technical_Book_DL
 
-## Talks
+# Talks
 - #TALK Deep Learning (Yoshua Bengio, MLSS 2020): 
 	- Part I: https://www.youtube.com/watch?v=c_U4THknoHE
 	- Part II: https://www.youtube.com/watch?v=PDPdIDihPvc
@@ -74,7 +74,7 @@ disableToc: false
 	- Simple explanations of DL basics and nice graphics
 
 
-## Courses
+# Courses
 - #COURSE Introduction to Deep Learning (COMP0090, UCL): https://github.com/YipengHu/COMP0090 
 - #COURSE Full Stack Deep Learning: https://fullstackdeeplearning.com/
 	- Full Stack Deep Learning - Spring 2021: https://fullstackdeeplearning.com/spring2021/
@@ -109,7 +109,7 @@ disableToc: false
 - #COURSE The Neural Aesthetic (ITP-NYU): http://ml4a.github.io/classes/itp-F18/
 
 
-## Code
+# Code
 State of ML frameworks: 
 - https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
@@ -320,17 +320,17 @@ See [[XAI#Interpretability of deep learning models]]
 
 ## Attention
 See: 
-[[Transformers#For NLP]]
-[[CNNs#Visual attention]]
+[Transformers#For NLP](Transformers#For%20NLP.md)
+[CNNs#Visual attention](CNNs#Visual%20attention.md)
 
 - #COURSE Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12): https://www.youtube.com/watch?v=AIiwuClvH6k
 
 ## Deep learning for multi-dimensional data
 See:
-[[CNNs#Video segmentation and prediction]]
-[[Encoder-decoder networks]]
-[[Transformers]]
-[[Generative modelling]]
+[Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
+[Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
+[Transformers](Transformers.md)
+[Generative modelling](Generative%20modelling.md)
 
 - #PAPER Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020): https://arxiv.org/abs/2009.06304
 
@@ -359,32 +359,31 @@ See:
 - A Visual and Interactive Guide to the Basics of NNs: https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - A Visual And Interactive Look at Basic Neural Network Math: https://jalammar.github.io/feedforward-neural-networks-visual-interactive/
 
-## [[MLPs]]
+## [MLPs](MLPs.md)
 
-## [[Deep belief network]]
+## [Deep belief network](Deep%20belief%20network.md)
 
-## [[Autoencoders]]
+## [Autoencoders](Autoencoders.md)
 
-## [[CNNs]]
+## [CNNs](CNNs.md)
 
-## [[RNNs]]
+## [RNNs](RNNs.md)
 
-## [[CapsNets]]
+## [CapsNets](CapsNets.md)
 
-## [[GANs]]
+## [GANs](GANs.md)
 
-## [[Bayesian neural networks]]
+## [Bayesian neural networks](Bayesian%20neural%20networks.md)
 
-## [[GNNs]]
+## [GNNs](GNNs.md)
 
-## [[Residual and dense neural networks]]
+## [Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
 
-## [[Neural ODEs]]
+## [Neural ODEs](Neural%20ODEs.md)
 
-## [[Fourier Neural Operators]]
+## [Fourier Neural Operators](Fourier%20Neural%20Operators.md)
 
-## [[Multimodal learning]]
+## [Multimodal learning](Multimodal%20learning.md)
 
-## [[Geometric deep learning]]
-
+## [Geometric deep learning](Geometric%20deep%20learning.md)
 

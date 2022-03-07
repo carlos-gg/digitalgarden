@@ -1,4 +1,7 @@
-# Capsule Neural networks
+---
+title: "Capsule Neural networks (CapsNets)"
+disableToc: false 
+---
 
 - https://en.wikipedia.org/wiki/Capsule_neural_network
 - A Capsule Neural Network (CapsNet) is a machine learning system that is a type of artificial neural network (ANN) that can be used to better model hierarchical relationships. The approach is an attempt to more closely mimic biological neural organization.

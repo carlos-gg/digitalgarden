@@ -1,4 +1,7 @@
-# Residual and dense neural networks
+---
+title: "Residual and dense neural networks"
+disableToc: false 
+---
 
 - https://en.wikipedia.org/wiki/Residual_neural_network
 - Training and investigating Residual Nets: http://torch.ch/blog/2016/02/04/resnets.html

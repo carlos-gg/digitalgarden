@@ -1,4 +1,7 @@
-# Multilayer perceptrons (MLPs)
+---
+title: "Multilayer perceptrons (MLPs)"
+disableToc: false 
+---
 
 - A multilayer perceptron (MLP) is a feed forward artificial neural network model that maps sets of input data onto a set of appropriate outputs. An MLP consists of multiple layers of nodes in a directed graph, with each layer fully connected to the next one. Except for the input nodes, each node is a neuron (or processing element) with a non linear activation function. 
 - MLP utilizes a supervised learning technique called back propagation for training the network

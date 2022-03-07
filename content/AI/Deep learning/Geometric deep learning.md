@@ -1,4 +1,8 @@
-# Geometric deep learning
+---
+title: "Geometric deep learning"
+disableToc: false 
+---
+
 
 # Talks and courses
 - #TALK Geometric Deep Learning: The Erlangen Programme of ML (M Bronstein, ICLR 2021 Keynote): https://www.youtube.com/watch?v=w6Pw4MOzMuo

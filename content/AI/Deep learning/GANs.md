@@ -30,10 +30,10 @@ disableToc: false
 		- Self Attention Mechanism [[GANs#^sagan]]:  The authors of Self Attention GANs claim that convolutions used for generating images look at information that are spread locally. That is, they miss out on relationships that span globally due to their restrictive receptive field. Self-Attention Generative Adversarial Network allows attention-driven, long-range dependency modeling for image generation tasks. 
 		- Miscellaneous Techniques: Feature Matching, Mini Batch Discrimination, Historical Averaging, One-sided Label Smoothing, Virtual Batch Normalization. See [[GANs#^improvedgans]]
 
-## Courses
+# Courses
 - #COURSE Generative Adversarial Networks ( DeepMind x UCL | Deep Learning Lectures | 9/12): https://www.youtube.com/watch?v=wFsI2WqUfdA&t=850s
 
-## Code
+# Code
 - #CODE Keras-GAN - Collection of Keras implementations of GANs: https://github.com/eriklindernoren/Keras-GAN
 - #CODE Pytorch-GAN - Collection of Pytorch implementations of GANs: https://github.com/eriklindernoren/PyTorch-GAN
 - #CODE Generative models in Tensorflow and Pytorch: https://github.com/wiseodd/generative-models
@@ -42,7 +42,7 @@ disableToc: false
 	- This repository contains material related with Generative Adversarial Networks for synthetic data generation, in particular regular tabular data and time-series
 
 
-## References
+# References
 Review papers:
 - #PAPER A Survey on Generative Adversarial Networks: Variants, Applications,and Training (Jabbar 2020): https://arxiv.org/abs/2006.05132
 - #PAPER A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (Gui 2020): https://arxiv.org/abs/2001.06937
@@ -86,15 +86,15 @@ Review papers:
 # Subtopics
 
 ## GANs for super-resolution
-See [[Super-resolution#GAN-based]]
+See [Super-resolution#GAN-based](Super-resolution#GAN-based.md)
 
 
 ## GANs for missing data, imputation and inpainting
-See [[Inpainting#GAN-based]]
+See [Inpainting#GAN-based](Inpainting#GAN-based.md)
 
 
 ## Image-to-image translation. Conditional GANs
-See [[Image-to-image translation#GAN-based]]
+See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-based.md)
 
 
 ## GANs for spatio-temporal data generation
@@ -138,13 +138,10 @@ See [[Image-to-image translation#GAN-based]]
 
 
 ## Few/one-shot learning GANs 
-See [[One, few-shot learning#Few one-shot learning GANs]].
+See [One, few-shot learning#Few one-shot learning GANs](One,%20few-shot%20learning#Few%20one-shot%20learning%20GANs.md)
 
 
 ## GANs for anomaly detection
-- #CODE Orion - A machine learning library for detecting anomalies in signals: https://github.com/signals-dev/Orion ^oriontfanomalies
-	- https://signals-dev.github.io/Orion/
-
 - #PAPER A Survey on GANs for Anomaly Detection (Di Mattia 2019): https://arxiv.org/abs/1906.11632 
 - #PAPER TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks (Geiger 2020): https://arxiv.org/abs/2009.07769
 	- #CODE [[#^oriontfanomalies]]
