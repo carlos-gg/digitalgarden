@@ -4,8 +4,8 @@ disableToc: false
 ---
 
 See:
-[Encoder-decoder networks](Encoder-decoder%20networks.md) for image segmentation
-[Object detection](Object%20detection.md)
+[Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md) for image segmentation
+[Object detection](AI/Computer%20Vision/Object%20detection.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Image_segmentation

@@ -16,12 +16,12 @@ Review papers:
 
 
 ### CNN-based
-See [Encoder-decoder networks](Encoder-decoder%20networks.md)
+See [Encoder-decoder networks](AI/Computer%20Vision/Encoder-decoder%20networks.md)
 - Related to the task of supervised semantic segmentation but changing the Y and the loss (MAE, MSE or other reconstruction loss)
 
 
 ### GAN-based
-See [GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
+See [GANs#GANs for representation learning and image synthesis](AI/Deep%20learning/GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
 Review papers:
 - #PAPER Deep Generative Adversarial Networks for Image-to-Image Translation: A Review (Alotaibi 2020): https://www.mdpi.com/2073-8994/12/10/1705/htm#  ^I2IGANs20
 	- The powerful ability of deep feature learning to automatically utilize complex and high-level feature representations has significantly advanced the performance of state-of-the-art methods across computer applications

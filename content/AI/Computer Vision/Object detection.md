@@ -3,7 +3,7 @@ title: "Object detection"
 disableToc: false 
 ---
 
-See [Semantic segmentation](Semantic%20segmentation.md)
+See [Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
  
 ## Code
 - https://github.com/microsoft/computervision-recipes/tree/master/scenarios/detection
@@ -22,8 +22,8 @@ See [Semantic segmentation](Semantic%20segmentation.md)
 
 ## References
 Review papers:
-- #PAPER Recent Advances in Object Detection in the Age of Deep [[CNNs]] (Agarwal 2019): https://arxiv.org/abs/1809.03193
-- #PAPER [[Deep learning]] for Generic Object Detection: A Survey (Liu 2019): https://arxiv.org/abs/1809.02165v4
+- #PAPER Recent Advances in Object Detection in the Age of Deep [CNNs](AI/Deep%20learning/CNNs.md) (Agarwal 2019): https://arxiv.org/abs/1809.03193
+- #PAPER Deep learning for Generic Object Detection: A Survey (Liu 2019): https://arxiv.org/abs/1809.02165v4
 
 
 - #PAPER Multiple Object Recognition with Visual Attention (Ba 2015): http://arxiv.org/abs/1412.7755

@@ -4,10 +4,10 @@ disableToc: false
 ---
 
 See:
-[CNNs](CNNs.md)
-[Object detection](Object%20detection.md)
-[Semantic segmentation](Semantic%20segmentation.md)
-[Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
+[CNNs](AI/Deep%20learning/CNNs.md)
+[Object detection](AI/Computer%20Vision/Object%20detection.md)
+[Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
+[Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)
 
 ## Resources
 - https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
@@ -24,13 +24,13 @@ See:
 	- GoogLeNet (Inception-V1, 2015)
 	- http://nicolovaligi.com/history-inception-deep-learning-architecture.html
 	- GoogLeNet devised a module called inception module that approximates a sparse CNN with a normal dense construction(shown in the figure). Since only a small number of neurons are effective as mentioned earlier, the width/number of the convolutional filters of a particular kernel size is kept small. Also, it uses convolutions of different sizes to capture details at varied scales(5X5, 3X3, 1X1). Another salient point about the module is that it has a so-called bottleneck layer(1X1 convolutions in the figure). It helps in the massive reduction of the computation requirement. Another change that GoogLeNet made, was to replace the fully-connected layers at the end with a simple global average pooling which averages out the channel values across the 2D feature map, after the last convolutional layer. 
-- #PAPER Resnet [[Residual and dense neural networks#^resnet]]
-- #PAPER Resnext [[Residual and dense neural networks#^resnext]]
-- #PAPER Densenet [[Residual and dense neural networks#^densenet]]
+- #PAPER Resnet [Residual and dense neural networks#^resnet](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md#%5Eresnet.md)
+- #PAPER Resnext [Residual and dense neural networks#^resnext](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md#%5Eresnext.md)
+- #PAPER Densenet [Residual and dense neural networks#^densenet](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md#%5Edensenet)
 - #PAPER SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (Iandola 2016): https://arxiv.org/abs/1602.07360
 	- Paper explained: https://www.youtube.com/watch?v=ge_RT5wvHvY 
 	- https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7
-- #PAPER SENets [[CNNs#^senets]]
+- #PAPER SENets [CNNs#^senets](AI/Deep%20learning/CNNs.MD#%5Esenets)
 - #PAPER Aggregated Residual Transformations for Deep Neural Networks (Xie 2017): https://arxiv.org/abs/1611.05431
 	- #CODE https://github.com/taki0112/SENet-Tensorflow
 - #PAPER Designing Network Design Spaces (Radosavovic 2020): https://arxiv.org/abs/2003.13678v1

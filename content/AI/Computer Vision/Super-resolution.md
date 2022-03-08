@@ -3,7 +3,7 @@ title: "Super-resolution"
 disableToc: false 
 ---
 
-See [Image-to-image translation](Image-to-image%20translation.md)
+See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ## Resources
 - https://github.com/ptkin/Awesome-Super-Resolution
@@ -107,7 +107,7 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 	- Continuous, arbitrary scaling
 - #PAPER Fixed smooth convolutional layer for avoiding checkerboard artifacts in CNNs (Kinoshita 2020): https://arxiv.org/abs/2002.02117v1
 - #PAPER Efficient Image Super-Resolution Using Pixel Attention (Zhao 2020): https://arxiv.org/abs/2010.01073 ^srwithpixelattention
-	-  #CODE [[CNNs#^tfvisualattention]]
+	-  #CODE [CNNs#^tfvisualattention](AI/Deep%20learning/CNNs.md#%5Etfvisualattention)
 	-  #CODE https://github.com/zhaohengyuan1/PAN
 - #PAPER Dense U-net for super-resolution with shuffle pooling layer (Lu 2021): https://arxiv.org/abs/2011.05490
 - #PAPER OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021): https://arxiv.org/abs/2008.02382

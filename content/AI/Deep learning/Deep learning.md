@@ -4,7 +4,7 @@ disableToc: false
 ---
 
 ## Resources
-- DL is a branch of [Machine Learning](AI/Machine%20Learning.md)] and [AI](AI/AI.md)] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
+- DL is a branch of [Machine Learning](AI/Machine%20Learning.md) and [AI](AI/AI.md) based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/endymecy/awesome-deeplearning-resources
@@ -326,8 +326,8 @@ See:
 See:
 [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
 [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
-[Transformers](AI/Deep%20learning/Transformers.md)]
-[Generative modelling](AI/Deep%20learning/Generative%20modelling.md)]
+[Transformers](AI/Deep%20learning/Transformers.md)
+[Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 
 - #PAPER Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020): https://arxiv.org/abs/2009.06304
 
@@ -359,43 +359,43 @@ See:
 
 
 ### MLPs
-See [MLPs](AI/Deep%20learning/MLPs.md)]
+See [MLPs](AI/Deep%20learning/MLPs.md)
 
 ### Deep belief network
-See [Deep belief network](AI/Deep%20learning/Deep%20belief%20network.md)]
+See [Deep belief network](AI/Deep%20learning/Deep%20belief%20network.md)
 
 ### Autoencoders
-See [Autoencoders](AI/Deep%20learning/Autoencoders.md)]
+See [Autoencoders](AI/Deep%20learning/Autoencoders.md)
 
 ### CNNs
-See [CNNs](AI/Deep%20learning/CNNs.md)]
+See [CNNs](AI/Deep%20learning/CNNs.md)
 
 ### RNNs
-See [RNNs](AI/Deep%20learning/RNNs.md)]
+See [RNNs](AI/Deep%20learning/RNNs.md)
 
 ### CapsNets
-See [CapsNets](AI/Deep%20learning/CapsNets.md)]
+See [CapsNets](AI/Deep%20learning/CapsNets.md)
 
 ### GANs
-See [GANs](AI/Deep%20learning/GANs.md)]
+See [GANs](AI/Deep%20learning/GANs.md)
 
 ### Bayesian neural networks
-See [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)]
+See [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
 
 ### GNNs
-See [GNNs](AI/Deep%20learning/GNNs.md)]
+See [GNNs](AI/Deep%20learning/GNNs.md)
 
 ### Residual and dense neural networks
-See [Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)]
+See [Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)
 
 ### Neural ODEs
-See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)]
+See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 
 ### Fourier Neural Operators
-See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.md)]
+See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.md)
 
 ### Multimodal learning
-See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)]
+See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
 
 ### Geometric deep learning
-See [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)]
+See [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)

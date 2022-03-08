@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 See: 
-[Encoder-decoder networks](Encoder-decoder%20networks.md)
-[Deep learning#Deep learning for multi-dimensional data](Deep%20learning.md#Deep%20learning%20for%20multi-dimensional%20data)
-[RNNs](RNNs.md)
+[Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
+[Deep learning#Deep learning for multi-dimensional data](AI/Deep%20learning/Deep%20learning.md#Deep%20learning%20for%20multi-dimensional%20data)
+[RNNs](AI/Deep%20learning/RNNs.md)
 
 ## Resources
 - Spatiotemporal classification and regression

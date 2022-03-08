@@ -10,6 +10,7 @@ disableToc: false
 - Background subtraction is any technique which allows an image's foreground to be extracted for further processing (object recognition etc.).
 - Background Subtraction Website (T. Bouwmans): https://sites.google.com/site/thierrybouwmans/background-subtraction---site-web
 
+## Books
 - #BOOK Background modeling and Foreground Detection for video surveillance (Bouwmans, 2014 CRC): https://sites.google.com/site/backgroundmodeling/
 
 

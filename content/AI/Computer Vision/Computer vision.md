@@ -4,11 +4,11 @@ disableToc: false
 ---
 
 See 
-[CNNs](CNNs.md)
-[MLPs#MLPs for vision and language](MLPs.md#MLPs%20for%20vision%20and%20language)
-[Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision.md)
-[Generative modelling#Generative models for Image data](Generative%20modelling.md#Generative%20models%20for%20Image%20data)
-[GANs](GANs.md)
+[CNNs](AI/Deep%20learning/CNNs.md)
+[MLPs#MLPs for vision and language](AI/Deep%20learning/MLPs.md#MLPs%20for%20vision%20and%20language)
+[Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision.md)
+[Generative modelling#Generative models for Image data](AI/Deep%20learning/Generative%20modelling.md#Generative%20models%20for%20Image%20data)
+[GANs](AI/Deep%20learning/GANs.md)
 
 
 ## Resources
@@ -26,7 +26,7 @@ See
 - #COURSE Computer vision (CS543/ECE549, UIUC): https://courses.engr.illinois.edu/cs543/sp2015/
 - #COURSE Advances in Computer vision (MIT): http://6.869.csail.mit.edu/fa18/
 - #COURSE Introduction to computer vision (Udacity, Georgia Tech): https://www.udacity.com/course/introduction-to-computer-vision--ud810
-- #COURSE [[Deep Learning]] for Computer Vision (UPC TelecomBCN 2016): http://imatge-upc.github.io/telecombcn-2016-dlcv/
+- #COURSE [Deep Learning](AI/Deep%20learning/Deep%20Learning.md) for Computer Vision (UPC TelecomBCN 2016): http://imatge-upc.github.io/telecombcn-2016-dlcv/
 - #COURSE Convolutional Neural Networks for Visual Recognition (CS231n, Stanford): http://cs231n.github.io/
 	- Pre-version of the course: http://karpathy.github.io/neuralnets/
 	- Notes (Karpathy): http://cs231n.github.io/
@@ -67,12 +67,12 @@ See
 ## References
 ### Deep learning-based CV
 See: 
-[CNNs](CNNs.md)
-[GANs](GANs.md)
-[Normalizing flows](Normalizing%20flows.md)
-[Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision)
+[CNNs](AI/Deep%20learning/CNNs.md)
+[GANs](AI/Deep%20learning/GANs.md)
+[Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
+[Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision)
 
-- [Deep Learning](Deep%20Learning.md) is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as [CNNs](CNNs.md) mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
+- [Deep Learning](AI/Deep%20learning/Deep%20Learning.md) is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as [CNNs](AI/Deep%20learning/CNNs.md) mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 - https://github.com/kjw0612/awesome-deep-vision
 - https://github.com/timzhang642/3D-Machine-Learning
 - https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531
@@ -94,7 +94,8 @@ See:
 
 ### Traditional CV techniques
 
-#### [[Background subtraction]]
+#### Background subtraction
+See [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
 
 #### Geometric transformations
 - https://en.wikipedia.org/wiki/Geometric_transformation
@@ -176,13 +177,13 @@ https://dsp.stackexchange.com/questions/12684/difference-between-correlation-and
 
 
 ##### Feature based
-- Feature-based approach relies on the extraction of image features such, i.e. shapes, textures , colors, to match in the target image or frame. This approach is currently achieved by using Neural Networks and [[Deep Learning]] classifiers such as VGG, AlexNet, ResNet. Deep Convolutional Neural Networks process the image by passing it through different hidden layers and at each layer produce a vector with classification information about the image. These vectors are extracted from the network and are used as the features of the image. Feature extraction by using Deep Neural Networks is extremely effective and thus is the standard in state of the art template matching algorithms.
+- Feature-based approach relies on the extraction of image features such, i.e. shapes, textures , colors, to match in the target image or frame. This approach is currently achieved by using Neural Networks and [Deep Learning](AI/Deep%20learning/Deep%20Learning.md) classifiers such as VGG, AlexNet, ResNet. Deep Convolutional Neural Networks process the image by passing it through different hidden layers and at each layer produce a vector with classification information about the image. These vectors are extracted from the network and are used as the features of the image. Feature extraction by using Deep Neural Networks is extremely effective and thus is the standard in state of the art template matching algorithms.
 - This method is considered more robust and is state of the art as it can match templates with non-rigid and out of plane transformation, it can match with high background clutter and illumination changes.
 
 #### Feature extraction
 The Computer Vision Pipeline, Part 4: feature extraction. https://freecontent.manning.com/the-computer-vision-pipeline-part-4-feature-extraction/
 - Feature extraction is a core component of the computer vision pipeline. In fact, the entire deep learning model works around the idea of extracting useful features which clearly define the objects in the image. We’re going to spend a little more time here because it’s important that you understand what a feature is, what a vector of features is, and why we extract features.
-- A feature in [[machine learning]] is an individual measurable property or characteristic of a phenomenon being observed. Features are the input that you feed to your machine learning model to output a prediction or classification. Suppose you want to predict the price of a house, your input features (properties) might include: square_foot, number_of_rooms, bathrooms, etc. and the model will output the predicted price based on the values of your features. Selecting good features that clearly distinguish your objects increases the predictive power of machine learning algorithms.
+- A feature in [machine learning](AI/Machine%20Learning.md) is an individual measurable property or characteristic of a phenomenon being observed. Features are the input that you feed to your machine learning model to output a prediction or classification. Suppose you want to predict the price of a house, your input features (properties) might include: square_foot, number_of_rooms, bathrooms, etc. and the model will output the predicted price based on the values of your features. Selecting good features that clearly distinguish your objects increases the predictive power of machine learning algorithms.
 
 In image processing, algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition. 
 - Low-level: Edge detection, Corner detection, Blob detection, Ridge detection, Scale-invariant feature transform,
