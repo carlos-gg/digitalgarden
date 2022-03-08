@@ -5,7 +5,17 @@
         {
           "source": "/",
           "target": "/AI/",
-          "text": "list of notes"
+          "text": "full list of notes"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Unsupervised-learning/Clustering",
+          "text": "Clustering"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Deep-Learning/Deep-Learning",
+          "text": "Deep Learning"
         },
         {
           "source": "/",
@@ -148,89 +158,89 @@
       "/AI/Computer-Vision/Computer-vision": [
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/MLPs.md",
+          "target": "/AI/Deep-learning/MLPs.md",
           "text": "MLPs#MLPs for vision and language"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Transformers.md",
+          "target": "/AI/Deep-learning/Transformers.md",
           "text": "Transformers#For Computer Vision"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Generative-modelling.md",
+          "target": "/AI/Deep-learning/Generative-modelling.md",
           "text": "Generative modelling#Generative models for Image data"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/GANs",
+          "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
+          "target": "/AI/Deep-learning/Deep-Learning",
           "text": "Deep Learning"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/GANs",
+          "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Normalizing-flows",
+          "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Transformers.md",
+          "target": "/AI/Deep-learning/Transformers.md",
           "text": "Transformers#For Computer Vision"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
+          "target": "/AI/Deep-learning/Deep-Learning",
           "text": "Deep Learning"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Background-subtraction",
+          "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
+          "target": "/AI/Deep-learning/Deep-Learning",
           "text": "Deep Learning"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/machine-learning",
+          "target": "/AI/Machine-Learning",
           "text": "machine learning"
         }
       ],
       "/AI/Computer-Vision/Image-to-image-translation": [
         {
           "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/Encoder-decoder-networks",
+          "target": "/AI/Computer-Vision/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         },
         {
           "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/GANs.md",
+          "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs#GANs for representation learning and image synthesis"
         }
       ],
@@ -254,75 +264,90 @@
       "/AI/Computer-Vision/Object-classification-image-recognition": [
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Object-detection",
+          "target": "/AI/Computer-Vision/Object-detection",
           "text": "Object detection"
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Semantic-segmentation",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
           "text": "Semantic segmentation"
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Residual-and-dense-neural-networks",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^resnet"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^resnext"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^densenet"
         }
       ],
       "/AI/Computer-Vision/Object-detection": [
         {
           "source": "/AI/Computer-Vision/Object-detection",
-          "target": "/Semantic-segmentation",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
           "text": "Semantic segmentation"
         },
         {
           "source": "/AI/Computer-Vision/Object-detection",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-detection",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
         }
       ],
       "/AI/Computer-Vision/Semantic-segmentation": [
         {
           "source": "/AI/Computer-Vision/Semantic-segmentation",
-          "target": "/Encoder-decoder-networks",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         },
         {
           "source": "/AI/Computer-Vision/Semantic-segmentation",
-          "target": "/Object-detection",
+          "target": "/AI/Computer-Vision/Object-detection",
           "text": "Object detection"
         }
       ],
       "/AI/Computer-Vision/Super-resolution": [
         {
           "source": "/AI/Computer-Vision/Super-resolution",
-          "target": "/Image-to-image-translation",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
+        },
+        {
+          "source": "/AI/Computer-Vision/Super-resolution",
+          "target": "/AI/Deep-learning/CNNs.md",
+          "text": "CNNs#^tfvisualattention"
         }
       ],
       "/AI/Computer-Vision/Video-segmentation-and-prediction": [
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/Encoder-decoder-networks",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         },
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/Deep-learning.md",
+          "target": "/AI/Deep-learning/Deep-learning.md",
           "text": "Deep learning#Deep learning for multi-dimensional data"
         },
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/RNNs",
+          "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         }
       ],
@@ -694,22 +719,22 @@
       "/AI/Deep-learning/GANs": [
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/",
+          "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs#^wgangp"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/",
+          "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs#^190c58"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/",
+          "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs#^sagan"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/",
+          "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs#^improvedgans"
         },
         {
@@ -1414,26 +1439,6 @@
         {
           "source": "/AI/Deep-learning/GANs",
           "target": "/",
-          "text": "GANs#^wgangp"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/",
-          "text": "GANs#^190c58"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/",
-          "text": "GANs#^sagan"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/",
-          "text": "GANs#^improvedgans"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/",
           "text": "#^oriontfanomalies"
         },
         {
@@ -1538,7 +1543,7 @@
         {
           "source": "/",
           "target": "/AI/",
-          "text": "list of notes"
+          "text": "full list of notes"
         }
       ],
       "/AI/AI": [
@@ -1630,6 +1635,13 @@
           "text": "Causality"
         }
       ],
+      "/AI/Computer-Vision/Background-subtraction": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Computer-Vision/Background-subtraction",
+          "text": "Background subtraction"
+        }
+      ],
       "/AI/Computer-Vision/Computer-vision": [
         {
           "source": "/AI/AI",
@@ -1640,6 +1652,20 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
+        }
+      ],
+      "/AI/Computer-Vision/Encoder-decoder-networks": [
+        {
+          "source": "/AI/Computer-Vision/Image-to-image-translation",
+          "target": "/AI/Computer-Vision/Encoder-decoder-networks",
+          "text": "Encoder-decoder networks"
+        }
+      ],
+      "/AI/Computer-Vision/Image-to-image-translation": [
+        {
+          "source": "/AI/Computer-Vision/Super-resolution",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
+          "text": "Image-to-image translation"
         }
       ],
       "/AI/Computer-Vision/Image-to-image-translation.md": [
@@ -1654,6 +1680,30 @@
           "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Inpainting.md",
           "text": "Inpainting#GAN-based"
+        }
+      ],
+      "/AI/Computer-Vision/Object-detection": [
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Computer-Vision/Object-detection",
+          "text": "Object detection"
+        },
+        {
+          "source": "/AI/Computer-Vision/Semantic-segmentation",
+          "target": "/AI/Computer-Vision/Object-detection",
+          "text": "Object detection"
+        }
+      ],
+      "/AI/Computer-Vision/Semantic-segmentation": [
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
+          "text": "Semantic segmentation"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-detection",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
+          "text": "Semantic segmentation"
         }
       ],
       "/AI/Computer-Vision/Super-resolution.md": [
@@ -1725,6 +1775,11 @@
           "source": "/",
           "target": "/AI/Deep-Learning/Deep-Learning",
           "text": "Deep Learning"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Deep-Learning/Deep-Learning",
+          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/Autoencoders": [
@@ -1748,6 +1803,31 @@
       ],
       "/AI/Deep-learning/CNNs": [
         {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-detection",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
@@ -1760,6 +1840,11 @@
       ],
       "/AI/Deep-learning/CNNs.md": [
         {
+          "source": "/AI/Computer-Vision/Super-resolution",
+          "target": "/AI/Deep-learning/CNNs.md",
+          "text": "CNNs#^tfvisualattention"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/CNNs.md",
           "text": "CNNs#Channel/Visual attention"
@@ -1770,6 +1855,23 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/CapsNets",
           "text": "CapsNets"
+        }
+      ],
+      "/AI/Deep-learning/Deep-Learning": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Deep-Learning",
+          "text": "Deep Learning"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Deep-Learning",
+          "text": "Deep Learning"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Deep-Learning",
+          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/Deep-belief-network": [
@@ -1796,7 +1898,24 @@
           "text": "Deep learning"
         }
       ],
+      "/AI/Deep-learning/Deep-learning.md": [
+        {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "target": "/AI/Deep-learning/Deep-learning.md",
+          "text": "Deep learning#Deep learning for multi-dimensional data"
+        }
+      ],
       "/AI/Deep-learning/Encoder-decoder-networks": [
+        {
+          "source": "/AI/Computer-Vision/Semantic-segmentation",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
+          "text": "Encoder-decoder networks"
+        },
+        {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
+          "text": "Encoder-decoder networks"
+        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Encoder-decoder-networks",
@@ -1812,6 +1931,16 @@
       ],
       "/AI/Deep-learning/GANs": [
         {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
@@ -1822,6 +1951,31 @@
           "source": "/AI/Anomaly-and-Outlier-Detection",
           "target": "/AI/Deep-learning/GANs.md",
           "text": "GANs for anomaly detection"
+        },
+        {
+          "source": "/AI/Computer-Vision/Image-to-image-translation",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs#GANs for representation learning and image synthesis"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs#^wgangp"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs#^190c58"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs#^sagan"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Deep-learning/GANs.md",
+          "text": "GANs#^improvedgans"
         }
       ],
       "/AI/Deep-learning/GNNs": [
@@ -1843,6 +1997,13 @@
           "text": "Generative modelling"
         }
       ],
+      "/AI/Deep-learning/Generative-modelling.md": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Generative-modelling.md",
+          "text": "Generative modelling#Generative models for Image data"
+        }
+      ],
       "/AI/Deep-learning/Geometric-deep-learning": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -1855,6 +2016,13 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/MLPs",
           "text": "MLPs"
+        }
+      ],
+      "/AI/Deep-learning/MLPs.md": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/MLPs.md",
+          "text": "MLPs#MLPs for vision and language"
         }
       ],
       "/AI/Deep-learning/Multimodal-learning": [
@@ -1876,7 +2044,19 @@
           "text": "Neural ODEs"
         }
       ],
+      "/AI/Deep-learning/Normalizing-flows": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Normalizing-flows",
+          "text": "Normalizing flows"
+        }
+      ],
       "/AI/Deep-learning/RNNs": [
+        {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "target": "/AI/Deep-learning/RNNs",
+          "text": "RNNs"
+        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/RNNs",
@@ -1885,9 +2065,31 @@
       ],
       "/AI/Deep-learning/Residual-and-dense-neural-networks": [
         {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
+        }
+      ],
+      "/AI/Deep-learning/Residual-and-dense-neural-networks.md": [
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^resnet"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^resnext"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+          "text": "Residual and dense neural networks#^densenet"
         }
       ],
       "/AI/Deep-learning/Transformers": [
@@ -1898,6 +2100,16 @@
         }
       ],
       "/AI/Deep-learning/Transformers.md": [
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Transformers.md",
+          "text": "Transformers#For Computer Vision"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Transformers.md",
+          "text": "Transformers#For Computer Vision"
+        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Transformers.md",
@@ -1940,6 +2152,11 @@
           "source": "/AI/AI",
           "target": "/AI/Machine-Learning",
           "text": "Machine Learning"
+        },
+        {
+          "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Machine-Learning",
+          "text": "machine learning"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -2099,6 +2316,13 @@
           "text": "transfer learning"
         }
       ],
+      "/AI/Unsupervised-learning/Clustering": [
+        {
+          "source": "/",
+          "target": "/AI/Unsupervised-learning/Clustering",
+          "text": "Clustering"
+        }
+      ],
       "/AI/Unsupervised-learning/Unsupervised-learning": [
         {
           "source": "/AI/Machine-Learning",
@@ -2139,13 +2363,6 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Autoencoders.md",
           "text": "Autoencoders#VAEs"
-        }
-      ],
-      "/Background-subtraction": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Background-subtraction",
-          "text": "Background subtraction"
         }
       ],
       "/Background-subtraction.md": [
@@ -2193,32 +2410,7 @@
       ],
       "/CNNs": [
         {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
           "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-detection",
           "target": "/CNNs",
           "text": "CNNs"
         },
@@ -2302,21 +2494,6 @@
           "text": "Deep Learning"
         },
         {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
           "target": "/Deep-Learning",
           "text": "Deep Learning"
@@ -2334,21 +2511,9 @@
       ],
       "/Deep-learning": [
         {
-          "source": "/AI/Computer-Vision/Object-detection",
-          "target": "/Deep-learning",
-          "text": "Deep learning"
-        },
-        {
           "source": "/AI/Time-Series-analysis",
           "target": "/Deep-learning",
           "text": "Deep learning#Deep learning for tabular data"
-        }
-      ],
-      "/Deep-learning.md": [
-        {
-          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/Deep-learning.md",
-          "text": "Deep learning#Deep learning for multi-dimensional data"
         }
       ],
       "/Dimensionality-reduction-and-low-rank-modeling": [
@@ -2356,23 +2521,6 @@
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
           "target": "/Dimensionality-reduction-and-low-rank-modeling",
           "text": "Dimensionality reduction and low rank modeling"
-        }
-      ],
-      "/Encoder-decoder-networks": [
-        {
-          "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/Encoder-decoder-networks",
-          "text": "Encoder-decoder networks"
-        },
-        {
-          "source": "/AI/Computer-Vision/Semantic-segmentation",
-          "target": "/Encoder-decoder-networks",
-          "text": "Encoder-decoder networks"
-        },
-        {
-          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/Encoder-decoder-networks",
-          "text": "Encoder-decoder networks"
         }
       ],
       "/Ensemble-learning": [
@@ -2418,16 +2566,6 @@
       ],
       "/GANs": [
         {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/GANs",
-          "text": "GANs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/GANs",
-          "text": "GANs"
-        },
-        {
           "source": "/AI/Computer-Vision/Inpainting",
           "target": "/GANs",
           "text": "GANs"
@@ -2445,11 +2583,6 @@
       ],
       "/GANs.md": [
         {
-          "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/GANs.md",
-          "text": "GANs#GANs for representation learning and image synthesis"
-        },
-        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/GANs.md",
           "text": "GANs#GANs for representation learning and image synthesis"
@@ -2460,13 +2593,6 @@
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/Gaussian-Process",
           "text": "Gaussian Process"
-        }
-      ],
-      "/Generative-modelling.md": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Generative-modelling.md",
-          "text": "Generative modelling#Generative models for Image data"
         }
       ],
       "/Gradient-boosting": [
@@ -2496,11 +2622,6 @@
         }
       ],
       "/Image-to-image-translation": [
-        {
-          "source": "/AI/Computer-Vision/Super-resolution",
-          "target": "/Image-to-image-translation",
-          "text": "Image-to-image translation"
-        },
         {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/Image-to-image-translation",
@@ -2536,13 +2657,6 @@
           "source": "/AI/Machine-Learning",
           "target": "/Learning-to-rank",
           "text": "Learning to rank"
-        }
-      ],
-      "/MLPs.md": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/MLPs.md",
-          "text": "MLPs#MLPs for vision and language"
         }
       ],
       "/MLops": [
@@ -2597,11 +2711,6 @@
           "text": "Normalizing flows"
         },
         {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Normalizing-flows",
-          "text": "Normalizing flows"
-        },
-        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Normalizing-flows",
           "text": "Normalizing flows"
@@ -2616,27 +2725,12 @@
       ],
       "/Object-detection": [
         {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Object-detection",
-          "text": "Object detection"
-        },
-        {
-          "source": "/AI/Computer-Vision/Semantic-segmentation",
-          "target": "/Object-detection",
-          "text": "Object detection"
-        },
-        {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/Object-detection",
           "text": "Object detection"
         }
       ],
       "/RNNs": [
-        {
-          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/RNNs",
-          "text": "RNNs"
-        },
         {
           "source": "/AI/Forecasting",
           "target": "/RNNs",
@@ -2713,27 +2807,12 @@
       ],
       "/Residual-and-dense-neural-networks": [
         {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Residual-and-dense-neural-networks",
-          "text": "Residual and dense neural networks"
-        },
-        {
           "source": "/AI/Deep-learning/Neural-ODEs",
           "target": "/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
         }
       ],
       "/Semantic-segmentation": [
-        {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/Semantic-segmentation",
-          "text": "Semantic segmentation"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-detection",
-          "target": "/Semantic-segmentation",
-          "text": "Semantic segmentation"
-        },
         {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/Semantic-segmentation",
@@ -2793,16 +2872,6 @@
         }
       ],
       "/Transformers.md": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Transformers.md",
-          "text": "Transformers#For Computer Vision"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/Transformers.md",
-          "text": "Transformers#For Computer Vision"
-        },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Transformers.md",
@@ -2877,11 +2946,6 @@
         }
       ],
       "/machine-learning": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/machine-learning",
@@ -3029,87 +3093,87 @@
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/MLPs.md",
+      "target": "/AI/Deep-learning/MLPs.md",
       "text": "MLPs#MLPs for vision and language"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Transformers.md",
+      "target": "/AI/Deep-learning/Transformers.md",
       "text": "Transformers#For Computer Vision"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Generative-modelling.md",
+      "target": "/AI/Deep-learning/Generative-modelling.md",
       "text": "Generative modelling#Generative models for Image data"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/GANs",
+      "target": "/AI/Deep-learning/GANs",
       "text": "GANs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Deep-Learning",
+      "target": "/AI/Deep-learning/Deep-Learning",
       "text": "Deep Learning"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/GANs",
+      "target": "/AI/Deep-learning/GANs",
       "text": "GANs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Normalizing-flows",
+      "target": "/AI/Deep-learning/Normalizing-flows",
       "text": "Normalizing flows"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Transformers.md",
+      "target": "/AI/Deep-learning/Transformers.md",
       "text": "Transformers#For Computer Vision"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Deep-Learning",
+      "target": "/AI/Deep-learning/Deep-Learning",
       "text": "Deep Learning"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Background-subtraction",
+      "target": "/AI/Computer-Vision/Background-subtraction",
       "text": "Background subtraction"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/Deep-Learning",
+      "target": "/AI/Deep-learning/Deep-Learning",
       "text": "Deep Learning"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/machine-learning",
+      "target": "/AI/Machine-Learning",
       "text": "machine learning"
     },
     {
       "source": "/AI/Computer-Vision/Image-to-image-translation",
-      "target": "/Encoder-decoder-networks",
+      "target": "/AI/Computer-Vision/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
     },
     {
       "source": "/AI/Computer-Vision/Image-to-image-translation",
-      "target": "/GANs.md",
+      "target": "/AI/Deep-learning/GANs.md",
       "text": "GANs#GANs for representation learning and image synthesis"
     },
     {
@@ -3129,67 +3193,82 @@
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/Object-detection",
+      "target": "/AI/Computer-Vision/Object-detection",
       "text": "Object detection"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/Semantic-segmentation",
+      "target": "/AI/Computer-Vision/Semantic-segmentation",
       "text": "Semantic segmentation"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/Residual-and-dense-neural-networks",
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
       "text": "Residual and dense neural networks"
     },
     {
+      "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+      "text": "Residual and dense neural networks#^resnet"
+    },
+    {
+      "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+      "text": "Residual and dense neural networks#^resnext"
+    },
+    {
+      "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
+      "text": "Residual and dense neural networks#^densenet"
+    },
+    {
       "source": "/AI/Computer-Vision/Object-detection",
-      "target": "/Semantic-segmentation",
+      "target": "/AI/Computer-Vision/Semantic-segmentation",
       "text": "Semantic segmentation"
     },
     {
       "source": "/AI/Computer-Vision/Object-detection",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
-      "source": "/AI/Computer-Vision/Object-detection",
-      "target": "/Deep-learning",
-      "text": "Deep learning"
-    },
-    {
       "source": "/AI/Computer-Vision/Semantic-segmentation",
-      "target": "/Encoder-decoder-networks",
+      "target": "/AI/Deep-learning/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
     },
     {
       "source": "/AI/Computer-Vision/Semantic-segmentation",
-      "target": "/Object-detection",
+      "target": "/AI/Computer-Vision/Object-detection",
       "text": "Object detection"
     },
     {
       "source": "/AI/Computer-Vision/Super-resolution",
-      "target": "/Image-to-image-translation",
+      "target": "/AI/Computer-Vision/Image-to-image-translation",
       "text": "Image-to-image translation"
     },
     {
+      "source": "/AI/Computer-Vision/Super-resolution",
+      "target": "/AI/Deep-learning/CNNs.md",
+      "text": "CNNs#^tfvisualattention"
+    },
+    {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-      "target": "/Encoder-decoder-networks",
+      "target": "/AI/Deep-learning/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
     },
     {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-      "target": "/Deep-learning.md",
+      "target": "/AI/Deep-learning/Deep-learning.md",
       "text": "Deep learning#Deep learning for multi-dimensional data"
     },
     {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-      "target": "/RNNs",
+      "target": "/AI/Deep-learning/RNNs",
       "text": "RNNs"
     },
     {
@@ -3539,22 +3618,22 @@
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/",
+      "target": "/AI/Deep-learning/GANs.md",
       "text": "GANs#^wgangp"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/",
+      "target": "/AI/Deep-learning/GANs.md",
       "text": "GANs#^190c58"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/",
+      "target": "/AI/Deep-learning/GANs.md",
       "text": "GANs#^sagan"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/",
+      "target": "/AI/Deep-learning/GANs.md",
       "text": "GANs#^improvedgans"
     },
     {
@@ -4175,7 +4254,17 @@
     {
       "source": "/",
       "target": "/AI/",
-      "text": "list of notes"
+      "text": "full list of notes"
+    },
+    {
+      "source": "/",
+      "target": "/AI/Unsupervised-learning/Clustering",
+      "text": "Clustering"
+    },
+    {
+      "source": "/",
+      "target": "/AI/Deep-Learning/Deep-Learning",
+      "text": "Deep Learning"
     },
     {
       "source": "/",
