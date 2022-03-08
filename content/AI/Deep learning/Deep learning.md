@@ -106,7 +106,7 @@ State of ML frameworks:
 - https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
-- #CODE Tensorflow and Keras. See [[Tensorflow, keras]]
+- #CODE [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md)
 - #CODE Triton: https://github.com/openai/triton
 	- language and compiler for writing highly efficient custom Deep-Learning primitives
 	- https://openai.com/blog/triton/
@@ -128,7 +128,7 @@ State of ML frameworks:
 		- https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
 	- #CODE Pytext (Facebook) - A natural language modeling framework based on PyTorch: https://github.com/facebookresearch/pytext 
 		- https://fb.me/pytextdocs
-		- PyText is a deep-learning based [[NLP]] modeling framework built on PyTorch
+		- PyText is a deep-learning based [NLP](AI/NLP.md) modeling framework built on PyTorch
 	- #CODE Pytorch tabular: https://github.com/manujosephv/pytorch_tabular ^pytorchtab
 		- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 - #CODE Paddle (Baidu): https://github.com/PaddlePaddle/Paddle

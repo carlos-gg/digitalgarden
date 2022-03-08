@@ -43,6 +43,6 @@ disableToc: false
 - #PAPER SCAN: Learning to Classify Images without Labels (Van Gansbeke 2020): https://arxiv.org/abs/2005.12320
 	- #CODE https://github.com/wvangansbeke/Unsupervised-Classification
 	- Paper explained: https://www.youtube.com/watch?v=hQEnzdLkPj4
-	- grouping images into semantically meaningful clusters when ground-truth annotations. This is tackling the task of unsupervised image classification in [Computer vision](Computer%20vision.md)
+	- grouping images into semantically meaningful clusters when ground-truth annotations. This is tackling the task of unsupervised image classification in [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 	- advocate a two-step approach where feature learning and clustering are decoupled. First, a self-supervised task from representation learning is employed to obtain semantically meaningful features.Second, we use the obtained features as a prior in a learnable clustering  approach.  In  doing  so,  we  remove  the  ability  for  cluster  learning to depend on low-level features, which is present in current end-to-end learning approaches
 - #PAPER Deep Robust Clustering by Contrastive Learning (Zhong 2020): https://arxiv.org/abs/2008.03030

@@ -16,10 +16,10 @@ disableToc: false
 - https://stackabuse.com/kernel-density-estimation-in-python-using-scikit-learn/
 
 ### Dimensionality reduction and low rank modeling
-See [Dimensionality reduction and low rank modeling](Dimensionality%20reduction%20and%20low%20rank%20modeling.md)
+See [Dimensionality reduction and low rank modeling](AI/Unsupervised%20learning/Dimensionality%20reduction%20and%20low%20rank%20modeling.md)
 
 ### Clustering 
-See [Clustering](Clustering.md)
+See [Clustering](AI/Unsupervised%20learning/Clustering.md)
 
 ### Blind source separation
 - Blind signal separation (BSS), also known as blind source separation, is the separation of a set of source signals from a set of mixed signals, without the aid of information (or with very little information) about the source signals or the mixing process.
