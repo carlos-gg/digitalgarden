@@ -10,7 +10,7 @@ See:
 [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
 [Transformers#For NLP](Transformers.md#For%20NLP)
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Forecasting
 - Microsoft - Time Series Forecasting Best Practices & Examples: https://github.com/microsoft/forecasting
 - Forecasting with a Time Series Model using Python: 
@@ -19,7 +19,7 @@ See:
 - https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
 - https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
 
-# Code
+## Code
 - #CODE Darts: https://github.com/unit8co/darts
 	- https://unit8co.github.io/darts/
 	- Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA, Prophet,  deep neural networks (NBEATS, RNNs, Transformers)
@@ -43,11 +43,11 @@ See:
 - #CODE Skforecast: https://github.com/JoaquinAmatRodrigo/skforecast
 	
 
-# Books
+## Books
 - #BOOK Forescasting: principles and practice (Hyndman 2018, R): https://otexts.com/fpp2/
 
 
-# References
+## References
 - #PAPER Time Series Forecasting With Deep Learning: A Survey (Lim 2020): https://arxiv.org/abs/2004.13408
 - #PAPER A flexible forecasting model for production systems (Hosseini 2021): https://arxiv.org/abs/2105.01098
 - #PAPER An Experimental Review on Deep Learning Architectures for Time Series Forecasting (Lara-Benitez 2021): https://arxiv.org/abs/2103.12057

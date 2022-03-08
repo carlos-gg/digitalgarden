@@ -3,7 +3,7 @@ title: "Deep Learning (DL)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - DL is a branch of [Machine Learning](Machine%20Learning.md) and [AI](AI.md) based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
@@ -16,15 +16,15 @@ disableToc: false
 - Time Benchmark of models: https://dawn.cs.stanford.edu/benchmark/
 - A Recipe for Training Neural Networks: http://karpathy.github.io/2019/04/25/recipe/
 
-## DL news aggregators
+### DL news aggregators
 - DeepAI:  https://deepai.org/
 - Papers with code: https://paperswithcode.com/
 - Deep learning monitor: https://deeplearn.org/
 
-## Cheatsheets
+### Cheatsheets
 - https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/super-cheatsheet-deep-learning.pdf
 
-## When to use and not to use deep learning
+### When to use and not to use deep learning
 - When and When Not to Use Deep Learning: https://blog.dataiku.com/when-and-when-not-to-use-deep-learning
 - You can probably use deep learning even if your data isn't that big: http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 - When not to use deep learning: http://hyperparameter.space/blog/when-not-to-use-deep-learning/
@@ -32,7 +32,7 @@ disableToc: false
 - The limitations of deep learning: https://blog.keras.io/the-limitations-of-deep-learning.html
 
 
-# Books
+## Books
 - #BOOK Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (Kashani 2022): https://arxiv.org/abs/2201.00650
 - #BOOK Physics-based Deep Learning Book (Thuerey 2021): https://physicsbaseddeeplearning.org/intro.html ^PBDL
 - #BOOK The Principles of DL Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022): https://deeplearningtheory.com/PDLT.pdf
@@ -51,7 +51,7 @@ disableToc: false
 - #BOOK Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/index.html
 
 
-# Talks
+## Talks
 - #TALK Deep Learning (Yoshua Bengio, MLSS 2020): 
 	- Part I: https://www.youtube.com/watch?v=c_U4THknoHE
 	- Part II: https://www.youtube.com/watch?v=PDPdIDihPvc
@@ -66,7 +66,7 @@ disableToc: false
 	- Simple explanations of DL basics and nice graphics
 
 
-# Courses
+## Courses
 - #COURSE Introduction to Deep Learning (COMP0090, UCL): https://github.com/YipengHu/COMP0090 
 - #COURSE Full Stack Deep Learning: https://fullstackdeeplearning.com/
 	- Full Stack Deep Learning - Spring 2021: https://fullstackdeeplearning.com/spring2021/
@@ -101,7 +101,7 @@ disableToc: false
 - #COURSE The Neural Aesthetic (ITP-NYU): http://ml4a.github.io/classes/itp-F18/
 
 
-# Code
+## Code
 State of ML frameworks: 
 - https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
@@ -153,7 +153,7 @@ State of ML frameworks:
 - #CODE Deep cognition: https://deepcognition.ai/
 
 
-# References
+## References
 - #PAPER Deep learning in NNs: An overview (Schmidhuber 2015): https://www.sciencedirect.com/science/article/pii/S0893608014002135
 - #PAPER Deep learning (LeCun 2015): https://www.nature.com/articles/nature14539 ^dllecun15
 	- https://www.researchgate.net/profile/Y_Bengio/publication/277411157_Deep_Learning/links/55e0cdf908ae2fac471ccf0f/Deep-Learning.pdf
@@ -186,7 +186,7 @@ State of ML frameworks:
 	- https://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html
 
 
-## Generalization
+### Generalization
 See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%20deep%20learning%20models)
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
 
@@ -209,19 +209,19 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 	- Paper explained: https://www.youtube.com/watch?v=dND-7llwrpw
 
 
-## Regularization
+### Regularization
 - In general, techniques aimed at reducing overfitting and improve generalization
 - Overfit and underfit: https://www.tensorflow.org/tutorials/keras/overfit_and_underfit
 - https://towardsdatascience.com/regularization-in-deep-learning-l1-l2-and-dropout-377e75acc036
 - https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
 - https://medium.com/intelligentmachines/convolutional-neural-network-and-regularization-techniques-with-tensorflow-and-keras-5a09e6e65dc7
 
-### Data augmentation
+#### Data augmentation
 - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 - https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
 - #PAPER A survey on Image Data Augmentation for Deep Learning (Shorten 2019): https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
 
-### Dropout
+#### Dropout
 - http://www.cs.toronto.edu/~hinton/absps/dropout.pdf
 - https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/
 - 12 Main Dropout Methods: Mathematical and Visual Explanation for DNNs, CNNs, and RNNs: https://towardsdatascience.com/12-main-dropout-methods-mathematical-and-visual-explanation-58cdc2112293
@@ -234,7 +234,7 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 - #PAPER Effective and Efficient Dropout for Deep Convolutional Neural Networks (Cai 2020): https://arxiv.org/abs/1904.03392
 
 
-### Normalization
+#### Normalization
 - Normalization techniques also improve generalization error, providing some regularization
 - Normalization Techniques in Deep Neural Networks: https://medium.com/techspace-usict/normalization-techniques-in-deep-neural-networks-9121bf100d8
 - Different Types of Normalization in Tensorflow: https://towardsdatascience.com/different-types-of-normalization-in-tensorflow-dac60396efb0
@@ -245,7 +245,7 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 
 - #PAPER Normalization Techniques in Training DNNs: Methodology, Analysis and Application (Huang 2020): https://arxiv.org/abs/2009.12836
 
-#### BatchNorm
+##### BatchNorm
 - #PAPER  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Ioffe 2015): https://arxiv.org/abs/1502.03167
 	- #TALK https://www.youtube.com/watch?v=ZOabsYbmBRM&feature=youtu.be
 	- http://stackoverflow.com/questions/34716454/where-do-i-call-the-batchnormalization-function-in-keras
@@ -254,7 +254,7 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 		- https://www.tensorflow.org/api_docs/python/tf/keras/layers/experimental/SyncBatchNormalization 
 - #PAPER Rethinking the Usage of Batch Normalization and Dropout (Chen 2019): https://arxiv.org/abs/1905.05928
 
-## Activations
+### Activations
 - https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
 - https://mlfromscratch.com/activation-functions-explained/#/
 - RELU: https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
@@ -262,7 +262,7 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 - http://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-network
 - https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions
 
-## Loss/Cost functions
+### Loss/Cost functions
 - Cross entropy
 	- http://neuralnetworksanddeeplearning.com/chap3.html
 	- https://en.wikipedia.org/wiki/Cross_entropy
@@ -277,7 +277,7 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 	- https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/mean-squared-logarithmic-error-(msle) 
 	- https://medium.com/@olegrybkin_20684/the-reasonable-ineffectiveness-of-mse-pixel-loss-for-future-prediction-and-what-to-do-about-it-4dca8152355d 
 
-## Optimizers and backpropagation
+### Optimizers and backpropagation
 - How to use Learning Curves to Diagnose Machine Learning Model Performance: https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
 - https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent
 - Keras optimizers: https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/ 
@@ -311,18 +311,18 @@ See [XAI#Interpretability of deep learning models](XAI.md#Interpretability%20of%
 	- #CODE https://github.com/MLI-lab/early_stopping_double_descent
 
 
-## Efficiency and performance
+### Efficiency and performance
 - #PAPER Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (Menghani 2021): https://arxiv.org/abs/2106.08962
 	- https://analyticsindiamag.com/how-to-build-smaller-faster-better-deep-learning-models/
 
-## Attention
+### Attention
 See: 
 [Transformers#For NLP](Transformers.md#For%20NLP)
 [CNNs#Channel/Visual attention](CNNs.md#Channel/Visual%20attention)
 
 - #COURSE Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12): https://www.youtube.com/watch?v=AIiwuClvH6k
 
-## Deep learning for multi-dimensional data
+### Deep learning for multi-dimensional data
 See:
 [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
 [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
@@ -331,7 +331,7 @@ See:
 
 - #PAPER Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020): https://arxiv.org/abs/2009.06304
 
-## Deep learning for tabular data
+### Deep learning for tabular data
 - An Introduction to Deep Learning for Tabular Data: https://www.fast.ai/2018/04/29/categorical-embeddings/
 - Applying Deep Learning on Tabular Data Using TensorFlow 2.0: https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20
 - #CODE See Pytorch tabular [[#^pytorchtab]]
@@ -349,7 +349,7 @@ See:
 - #PAPER TABBIE: Pretrained Representations of Tabular Data (Lida 2021): https://arxiv.org/abs/2105.02584v1
 
 
-# Architectures and types of models
+## Architectures and types of models
 - The neural network zoo: http://www.asimovinstitute.org/neural-network-zoo/
 - Deep Learning Tips and Tricks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 - A Visual and Interactive Guide to the Basics of NNs: https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
@@ -358,45 +358,45 @@ See:
 - #CODE Deep Learning Models (Raschka): https://github.com/rasbt/deeplearning-models
 
 
-## MLPs
+### MLPs
 See [MLPs](MLPs.md)
 
-## Deep belief network
+### Deep belief network
 See [Deep belief network](Deep%20belief%20network.md)
 
-## Autoencoders
+### Autoencoders
 See [Autoencoders](Autoencoders.md)
 
-## CNNs
+### CNNs
 See [CNNs](CNNs.md)
 
-## RNNs
+### RNNs
 See [RNNs](RNNs.md)
 
-## CapsNets
+### CapsNets
 See [CapsNets](CapsNets.md)
 
-## GANs
+### GANs
 See [GANs](GANs.md)
 
-## Bayesian neural networks
+### Bayesian neural networks
 See [Bayesian neural networks](Bayesian%20neural%20networks.md)
 
-## GNNs
+### GNNs
 See [GNNs](GNNs.md)
 
-## Residual and dense neural networks
+### Residual and dense neural networks
 See [Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
 
-## Neural ODEs
+### Neural ODEs
 See [Neural ODEs](Neural%20ODEs.md)
 
-## Fourier Neural Operators
+### Fourier Neural Operators
 See [Fourier Neural Operators](Fourier%20Neural%20Operators.md)
 
-## Multimodal learning
+### Multimodal learning
 See [Multimodal learning](Multimodal%20learning.md)
 
-## Geometric deep learning
+### Geometric deep learning
 See [Geometric deep learning](Geometric%20deep%20learning.md)
 

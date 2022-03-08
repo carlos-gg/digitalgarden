@@ -3,7 +3,7 @@ title: "Data Science"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Data_science
 - https://github.com/bulutyazilim/awesome-datascience
 - Reproducible Data Analysis in Jupyter (Vanderplas): https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/
@@ -11,12 +11,12 @@ disableToc: false
 - An Executive's Guide To Understanding Cloud-based ML Services: https://www.forbes.com/sites/janakirammsv/2019/01/01/an-executives-guide-to-understanding-cloud-based-machine-learning-services/
 - Why data-driven science is more than just a buzzword: https://sydney.edu.au/news-opinion/news/2017/05/11/Why-data-driven-science-is-more-than-just-a-buzzword.html
 
-## Cheatsheets
+### Cheatsheets
 - https://github.com/ml874/Data-Science-Cheatsheet
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 - https://github.com/FavioVazquez/ds-cheatsheets
 
-## Infographics
+### Infographics
 - Data Never Sleeps 3.0: https://www.domo.com/blog/data-never-sleeps-3-0/
 - The Data Science Industry - who does what: https://www.datacamp.com/community/tutorials/data-science-industry-infographic
 - Learn data science infographic: https://www.datacamp.com/community/tutorials/learn-data-science-infographic
@@ -25,7 +25,7 @@ disableToc: false
 - Updated DS Venn diagram: http://www.kdnuggets.com/2016/09/new-data-science-venn-diagram.html
 - DS vs STATS vs DATA-ENG: https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
 
-# References
+## References
 - #PAPER Science and data science (Blei 2017): https://www.pnas.org/content/114/33/8689
 - #PAPER 50 Years of Data Science (Donoho 2017): https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
 	- #TALK 50 Years of Data Science (Donoho)
@@ -41,7 +41,7 @@ disableToc: false
 - #PAPER Theory-guided data science: a new paradigm for scientific discovery from data (Karpatne 2017): https://ieeexplore.ieee.org/document/7959606
 
 
-# Books
+## Books
 - #BOOK The field guide to DS (Booz Allen Hamilton Inc 2015): https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html
 	- https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf
 	- https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
@@ -71,7 +71,7 @@ disableToc: false
 - #BOOK Statistics and Data Science: http://theoryandpractice.org/stats-ds-book/intro.html
 
 
-# Courses
+## Courses
 - #COURSE Mathematical Tools for Data Science (NYU Center for Data Science): https://cds.nyu.edu/math-tools/
 - #COURSE Python for Data Science workshop (Paris-Saclay Center for Data Science): https://github.com/paris-saclay-cds/python-workshop
 - #COURSE Data Science (Harvard CS109): http://cs109.github.io/2015/
@@ -84,7 +84,7 @@ disableToc: false
 - #TALK Building a Data Science Team with Open Source Tools: https://www.youtube.com/watch?v=mzTlqNTHTmc
 - #TALK Introduction to Python for Data Science (Seabold, PyCon 2018): https://www.youtube.com/watch?v=W4WQi2OIy7o
 
-# ML platforms
+## ML platforms
 - #CODE Azure (Microsoft): https://azure.microsoft.com/en-gb/
 	- Azure ML Studio: https://azure.microsoft.com/en-us/services/machine-learning/
 	- Microsoft Cognitive Services: https://azure.microsoft.com/en-in/services/cognitive-services/
@@ -118,7 +118,7 @@ disableToc: false
 - #CODE Knime: https://www.knime.org/knime-analytics-platform
 
 
-# Interactive Computing Environments
+## Interactive Computing Environments
 - #CODE [Jupyter](AI/Data%20Science,%20Data%20Engineering/Jupyter.md)
 - #CODE Zepelin: https://zeppelin.apache.org/
 - #CODE Rstudio: https://www.rstudio.com/products/rstudio/
@@ -129,16 +129,16 @@ disableToc: false
 - #CODE Google Colaboratory: https://colab.research.google.com/
 
 
-# Related fields
+## Related fields
 
-## Math and stats
+### Math and stats
 See [Math and stats](AI/Math%20and%20stats.md)
 
-## Machine Learning
+### Machine Learning
 See [Machine Learning](AI/Machine%20Learning.md)
 
-## Data engineering and Computer Science
+### Data engineering and Computer Science
 See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
-## Visualization
+### Visualization
 See [Visualization](AI/Data%20Science,%20Data%20Engineering/Visualization.md)

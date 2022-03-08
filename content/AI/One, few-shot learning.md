@@ -3,7 +3,7 @@ title: "One, few-shot learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/One-shot_learning
 - One-shot learning is an object categorization problem, found mostly in computer vision. Whereas most machine learning based object categorization algorithms require training on hundreds or thousands of samples/images and very large datasets, one-shot learning aims to learn information about object categories from one, or only a few, training samples/images.
 - https://medium.com/sap-machine-learning-research/deep-few-shot-learning-a1caa289f18
@@ -13,12 +13,12 @@ disableToc: false
 - #TALK Neural Networks - One Shot Learning: https://www.youtube.com/watch?v=r8LLorRACPM
 
 
-# Code
+## Code
 - #CODE LibFewShot: https://github.com/rl-vig/libfewshot
 	- #PAPER LibFewShot: A Comprehensive Library for Few-shot Learning (Li 2021): https://arxiv.org/abs/2109.04898
 	- LibFewShot: A Comprehensive Library for Few-shot Learning (pytorch)
 
-# References
+## References
 - #PAPER Siamese Neural Networks for One-shot Image Recognition (Koch 2015): http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 	- Few-Shot learning has seen great progress over the last years. A classic approach is based on metric learning using Siamese neural networks.
 	- #CODE https://sorenbouma.github.io/blog/oneshot/
@@ -36,7 +36,7 @@ disableToc: false
 	- The trick, was to create images that blend multiple digits together and then feed them into an [[AI]] model with hybrid, or “soft,” labels
 
 
-## Few/one-shot learning GANs 
+### Few/one-shot learning GANs 
 - #PAPER MetaGAN: An Adversarial Approach to Few-Shot Learning (Zhang 2018). https://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning
 - #PAPER SinGAN: Learning a Generative Model from a Single Natural Image, SinGAN (Rott Shaham, ICCV 2019 Best Paper): https://arxiv.org/abs/1905.01164 
 	-  Paper explained: https://www.youtube.com/watch?v=-f8sz8AExdc 

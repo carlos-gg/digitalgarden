@@ -5,8 +5,8 @@ disableToc: false
 
 See [Active learning for anomaly discovery](AI/Active%20learning.md#Active%20learning%20for%20anomaly%20discovery)
 
-# Resources
-- Most of the outlier detection approaches belong to [[Unsupervised learning]] although it might be framed as a [[Semi-supervised learning]] problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
+## Resources
+- Most of the outlier detection approaches belong to [Unsupervised learning](Unsupervised%20learning.md) although it might be framed as a [Semi-supervised learning](Semi-supervised%20learning.md) problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
 - https://towardsdatascience.com/density-based-algorithm-for-outlier-detection-8f278d2f7983 
 - https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561 
 - Novelty and Outlier Detection: https://scikit-learn.org/stable/modules/outlier_detection.html
@@ -21,18 +21,18 @@ See [Active learning for anomaly discovery](AI/Active%20learning.md#Active%20lea
 	- Z-score is a simple, yet powerful method to get rid of outliers in data if you are dealing with parametric distributions in a low dimensional feature space. For nonparametric problems Dbscan and Isolation Forests can be good solutions.
 - Dbscan
 	- Density Based Spatial Clustering of Applications with Noise
-	- Dbscan is a density based clustering algorithm, it is focused on finding neighbors by density (MinPts) on an ‘n-dimensional sphere’ with radius ɛ. A cluster can be defined as the maximal set of ‘density connected points’ in the feature space.
+	- Dbscan is a density based clustering algorithm, it is focused on finding neighbors by density (MinPts) on an ‘n-dimensional sphere’ with radius ɛ. A cluster can be defined as the maximal set of 'density connected points' in the feature space.
 	- Dbscan then defines different classes of points: core, border and outlier points.
 
   
- # Code
+## Code
 - #CODE Pyod: https://github.com/yzhao062/pyod
 	- https://pyod.readthedocs.io/en/latest/
 	- PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. This exciting yet challenging field is commonly referred as Outlier Detection or Anomaly Detection.
  - #CODE Anomaly detection (Twitter, for R): https://github.com/twitter/AnomalyDetection
   
   
- # References
+## References
 - #PAPER Isolation forest (Liu 2008): https://ieeexplore.ieee.org/document/4781136 
 	- #TALK Unsupervised Anomaly Detection with Isolation Forest - Pydata 2018: https://www.youtube.com/watch?v=5p8B2Ikcw-k
 	- https://quantdare.com/isolation-forest-algorithm/
@@ -44,13 +44,13 @@ See [Active learning for anomaly discovery](AI/Active%20learning.md#Active%20lea
 - #PAPER Bayesian Anomaly Detection and Classification (2019): https://arxiv.org/abs/1902.08627  
 
 
-## DL-based
+### DL-based
 See [GANs for anomaly detection](AI/Deep%20learning/GANs.md#GANs%20for%20anomaly%20detection)
 
 - #PAPER Learning Deep Features for One-Class Classification (Perera 2018): https://arxiv.org/abs/1801.05365
 - #PAPER Deep One-Class Classification (Ruff 2018): http://proceedings.mlr.press/v80/ruff18a.html
 
-### Code
+#### Code
 - #CODE Anomalib: https://github.com/openvinotoolkit/anomalib
 	- An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference
 	- https://openvinotoolkit.github.io/anomalib/

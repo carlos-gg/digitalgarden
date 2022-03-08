@@ -3,7 +3,7 @@ title: "Tensorflow, Keras"
 disableToc: false 
 ---
 
-# Code
+## Code
 - #CODE Tensorflow (Google): https://github.com/tensorflow/tensorflow
 	- http://playground.tensorflow.org/
 	- https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
@@ -50,7 +50,7 @@ disableToc: false
 	- https://blog.openai.com/adversarial-example-research/
 
 
-# Keras
+## Keras
 - #CODE Keras: https://github.com/keras-team/keras 
 	- Keras is a deep learning API written in Python, running on top of the machine learning platform Tensorflow
 	- http://keras.io/
@@ -62,7 +62,7 @@ disableToc: false
 	- https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
 
 
-# Distributed training
+## Distributed training
 - https://missinglink.ai/guides/tensorflow/tensorflow-distributed-training-introduction-tutorials/ 
 - TF.Distribute
 	- https://www.tensorflow.org/guide/distributed_training 

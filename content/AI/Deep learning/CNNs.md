@@ -3,7 +3,7 @@ title: "Convolutional Neural Networks (CNNs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
 - In [deep learning](deep%20learning.md), a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
@@ -14,7 +14,7 @@ disableToc: false
 - https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/
 * Best deep CNN architectures and their principles: from AlexNet to EfficientNet: https://theaisummer.com/cnn-architectures/
 
-Convolutions:
+### Convolutions
 - Understanding convolutions: http://colah.github.io/posts/2014-07-Understanding-Convolutions/
 - An Introduction to different Types of Convolutions in DL: https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 - https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
@@ -24,7 +24,7 @@ Convolutions:
 - https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 - Convolutions Over Volumes (channels): https://www.youtube.com/watch?v=KTB_OFoAQcc 
 
-# Code 
+## Code 
 - #CODE Keras Layers (for TensorFlow 2.x): https://github.com/mvoelk/keras_layers
 - #CODE Model Zoo - Discover open source deep learning code and pretrained models: https://modelzoo.co/
 - #CODE https://github.com/microsoft/computervision-recipes
@@ -41,7 +41,7 @@ Channel/visual attention:
 	- Convolutional Block Attention Module (CBAM) Layer
 
 
-# References
+## References
 - #PAPER A guide to convolution arithmetic for deep learning (Dumoulin, 2016): https://arxiv.org/abs/1603.07285
 	- #CODE https://github.com/vdumoulin/conv_arithmetic
 - #PAPER Xception: Deep Learning with Depthwise Separable Convolutions (Chollet 2017): https://arxiv.org/abs/1610.02357
@@ -73,7 +73,7 @@ Channel/visual attention:
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 
 
-## Channel/Visual attention
+### Channel/Visual attention
  - #PAPER Squeeze-and-Excitation Networks, SENets (Hu 2017): https://arxiv.org/abs/1709.01507 ^senets
 	- Features can incorporate global context
 	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
@@ -93,7 +93,7 @@ Channel/visual attention:
 - #PAPER [[Super-resolution#^srwithpixelattention]]
 
 
-## 1x1 convolutions
+### 1x1 convolutions
 - 1x1 convolutions: https://d2l.ai/chapter_convolutional-neural-networks/channels.html#times-1-convolutional-layer
 - 1x1 convolutions: https://www.youtube.com/watch?v=qVP574skyuM
 - Networks in Networks and 1x1 Convolutions: https://www.youtube.com/watch?v=vcp0XvDAX68
@@ -104,8 +104,8 @@ Channel/visual attention:
 	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
 
 
-# Subtopics and applications
-## Sequence (time series) modelling
+## Subtopics and applications
+### Sequence (time series) modelling
 - #PAPER An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (Bai 2018): https://arxiv.org/abs/1803.01271
   - Temporal convolutional networks (TCN)
   - #CODE https://github.com/philipperemy/keras-tcn
@@ -119,39 +119,39 @@ Channel/visual attention:
 	- https://arxiv.org/abs/1909.04939
 
 
-## Object classification, image recognition
+### Object classification, image recognition
 Se [Object classification, image recognition](Object%20classification,%20image%20recognition.md)
 
-## Semantic segmentation
+### Semantic segmentation
 See [Semantic segmentation](Semantic%20segmentation.md) 
 
-## Object detection
+### Object detection
 See [Object detection](Object%20detection.md) 
 
-## Video segmentation and prediction
+### Video segmentation and prediction
 See [Video segmentation and prediction](Video%20segmentation%20and%20prediction.md)
 
-## Image and video captioning
+### Image and video captioning
 See [Image and video captioning](Image%20and%20video%20captioning.md)
 
-## Image-to-image translation
+### Image-to-image translation
 See [Image-to-image translation](Image-to-image%20translation.md)
 
-## Super-resolution 
+### Super-resolution 
 See [Super-resolution#CNN-based](Super-resolution.md#CNN-based)
 
-## Inpainting
+### Inpainting
 See [Inpainting#CNN-based](Inpainting.md#CNN-based)
 
-## Background subtraction, foreground detection
+### Background subtraction, foreground detection
 See [Background subtraction#CNN based](Background%20subtraction.md#CNN%20based)
 
-## Edge detection
+### Edge detection
 - #PAPER DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection: http://arxiv.org/pdf/1412.1123
 - #PAPER DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection. http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf
 
 
-## Human pose estimation and activity recognition
+### Human pose estimation and activity recognition
 - https://en.wikipedia.org/wiki/Activity_recognition
 - https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
 - https://github.com/cbsudux/awesome-human-pose-estimation
@@ -163,9 +163,9 @@ See [Background subtraction#CNN based](Background%20subtraction.md#CNN%20based)
 - #PAPER Human activity recognition with smartphone sensors using deep learning neural networks: https://www.sciencedirect.com/science/article/abs/pii/S0957417416302056
 
 
-## Motion detection, tracking
+### Motion detection, tracking
 - #PAPER Optical Flow (FlowNet): http://arxiv.org/pdf/1504.06852
 
 
-## Deconvolution
+### Deconvolution
 - #PAPER Deep Convolutional Neural Network for Image Deconvolution (Xu 2014): http://lxu.me/projects/dcnn/

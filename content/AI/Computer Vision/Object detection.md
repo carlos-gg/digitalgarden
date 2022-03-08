@@ -5,7 +5,7 @@ disableToc: false
 
 See [Semantic segmentation](Semantic%20segmentation.md)
  
-# Code
+## Code
 - https://github.com/microsoft/computervision-recipes/tree/master/scenarios/detection
 - #CODE MMdetection: https://github.com/open-mmlab/mmdetection
 	- OpenMMLab Detection Toolbox and Benchmark (pytorch)
@@ -20,7 +20,7 @@ See [Semantic segmentation](Semantic%20segmentation.md)
 - #CODE https://github.com/jinwchoi/awesome-action-recognition#object-detection
 - #CODE YOLO: Real-Time Object Detection. https://pjreddie.com/darknet/yolo/
 
-# References
+## References
 Review papers:
 - #PAPER Recent Advances in Object Detection in the Age of Deep [[CNNs]] (Agarwal 2019): https://arxiv.org/abs/1809.03193
 - #PAPER [[Deep learning]] for Generic Object Detection: A Survey (Liu 2019): https://arxiv.org/abs/1809.02165v4

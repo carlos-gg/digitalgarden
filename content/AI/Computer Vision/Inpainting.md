@@ -3,18 +3,18 @@ title: "Inpainting"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Inpainting
 - Inpainting is a conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image
 - https://www.nvidia.com/research/inpainting/
 - An Introduction to Image Inpainting using Deep Learning: https://wandb.ai/ayush-thakur/image-impainting/reports/An-Introduction-to-Image-Inpainting-using-Deep-Learning--Vmlldzo3NDU0Nw
 
 
-# References
+## References
 Review papers:
 - #PAPER Image inpainting: A review (Elharrouss 2019): https://arxiv.org/abs/1909.06399
 
-## CNN-based
+### CNN-based
 - #PAPER Feature Learning by Inpainting (Pathak 2016): https://arxiv.org/abs/1604.07379v1
 	- #CODE https://github.com/pathak22/context-encoder
 - #PAPER Image Inpainting for Irregular Holes Using Partial Convolutions (Liu 2018): https://arxiv.org/abs/1804.07723
@@ -31,7 +31,7 @@ Review papers:
 - #PAPER Deep learning-Based 3D inpainting of brain MR images (Kwan Kang 2021): https://www.nature.com/articles/s41598-020-80930-w 
 
 
-## GAN-based
+### GAN-based
 - GANs and Missing Data Imputation: https://towardsdatascience.com/gans-and-missing-data-imputation-815a0cbc4ece
 
 - #PAPER VIGAN: Missing View Imputation with Generative Adversarial Networks (Shang 2017): https://arxiv.org/abs/1708.06724

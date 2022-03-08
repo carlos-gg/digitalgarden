@@ -4,7 +4,7 @@ disableToc: false
 ---
 
 
-# References
+## References
 - #PAPER Horovod: fast and easy distributed deep learning in TensorFlow (Sergeev 2018): http://arxiv.org/abs/1802.05799 
 	- #CODE https://github.com/horovod/horovod 
 	- https://horovod.readthedocs.io/en/latest/keras.html 
@@ -15,7 +15,7 @@ disableToc: false
 		- Interactive Distributed Deep Learning with Jupyter Notebooks: https://sc18.supercomputing.org/proceedings/tech_poster/poster_files/post206s2-file3.pdf
 		- https://github.com/sparticlesteve/cori-intml-examples 
 
-# Examples
+## Examples
 - https://github.com/horovod/horovod/tree/master/examples
 - https://horovod.readthedocs.io/en/stable/running_include.html
 - https://github.com/horovod/tutorials/blob/master/fashion_mnist/README.md 

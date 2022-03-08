@@ -3,12 +3,12 @@ title: "Residual and dense neural networks"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Residual_neural_network
 - Training and investigating Residual Nets: http://torch.ch/blog/2016/02/04/resnets.html
 
 
-# References
+## References
 - #PAPER Deep Residual Learning for Image Recognition, Resnet-50 (He 2015): http://arxiv.org/abs/1512.03385 ^resnet
 	- #CODE https://github.com/raghakot/keras-resnet
 	- https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf

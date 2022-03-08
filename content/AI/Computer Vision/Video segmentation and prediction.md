@@ -8,7 +8,7 @@ See:
 [Deep learning#Deep learning for multi-dimensional data](Deep%20learning.md#Deep%20learning%20for%20multi-dimensional%20data)
 [RNNs](RNNs.md)
 
-# Resources
+## Resources
 - Spatiotemporal classification and regression
 - Hybrid convolutional and recurrent networks, 3dconv and related approaches
 - https://github.com/jinwchoi/awesome-action-recognition
@@ -16,11 +16,13 @@ See:
 - https://stackoverflow.com/questions/55926841/convolving-across-channels-in-keras-cnn-conv1d-depthwise-separable-conv-cccp
 - https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
 
+
+## Courses
 - #COURSE [Advanced Models for Computer Vision (DeepMind x UCL | Deep Learning Lectures)](https://www.youtube.com/watch?v=_aUq7lmMfxo&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=4)
 	- https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L4%20-%20UCLxDeepMind%20DL2020.pdf
 
 
-# References
+## References
 - #PAPER Learning Spatiotemporal Features with 3D Convolutional Networks. C3D, 3D CNNs (Tran 2015): https://arxiv.org/abs/1412.0767
 - #PAPER Unsupervised Learning of Video Representations using LSTMs (Srivastava 2016): https://arxiv.org/abs/1502.04681
 - #PAPER Convolutional Gated Recurrent Networks for Video Segmentation (Siam 2016): https://arxiv.org/abs/1611.05435

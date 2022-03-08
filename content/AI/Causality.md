@@ -3,7 +3,7 @@ title: "Causality"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - To Build Truly Intelligent Machines, Teach Them Cause and Effect: https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
 - Representing uncertain knowledge: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture5.md
 - Reasoning over time: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture7.md
@@ -25,14 +25,15 @@ disableToc: false
 		- https://drive.google.com/file/d/1_-bUoyY-Thfqu1ac4EwBSv6cCoS-qtnn/view
 
 
-# Code
+## Code
 - #CODE Causality - Tools for causal analysis: https://github.com/akelleh/causality
 	- https://medium.com/@akelleh/causal-inference-with-pandas-dataframes-fc3e64fce5d
 - #CODE CausalImpact (for R): https://google.github.io/CausalImpact/
 - #CODE tfcausalimpact - Google's Causal Impact Algorithm Implemented on Top of TensorFlow Probability: https://github.com/WillianFuks/tfcausalimpact
 	- https://towardsdatascience.com/implementing-causal-impact-on-top-of-tensorflow-probability-c837ea18b126
+
   
-  # References
+## References
 - #PAPER Causal inference with multiple time series: principles and problems (2013): https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0613
 - #PAPER Towards a Learning Theory of Cause-Effect Inference (Lopez-Paz 2015): https://arxiv.org/abs/1502.02398
 - #PAPER Unsupervised Discovery of El Nino Using Causal Feature Learning on Microlevel Climate Data (Chalupka 2016): https://arxiv.org/abs/1605.09370

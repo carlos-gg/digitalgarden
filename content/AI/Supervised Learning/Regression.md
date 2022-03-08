@@ -9,7 +9,7 @@ See:
 [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
 
 
-# Resources
+## Resources
 - https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 - https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
 - http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
@@ -21,13 +21,13 @@ See:
 - Linear models: http://scikit-learn.org/stable/modules/linear_model.html
 
 
-## Linear Regression
+### Linear Regression
 - https://en.wikipedia.org/wiki/Linear_regression
 - In statistics, linear regression is an approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables) denoted X. The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
 - http://www.datasciencecentral.com/profiles/blogs/linear-regression-geometry
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb
 
-## Least squares
+### Least squares
 - https://en.wikipedia.org/wiki/Least_squares
 - The method of least squares is a standard approach in regression analysis to the approximate solution of overdetermined systems, i.e., sets of equations in which there are more equations than unknowns. "Least squares" means that the overall solution minimizes the sum of the squares of the errors made in the results of every single equation. The most important application is in data fitting. The best fit in the least-squares sense minimizes the sum of squared residuals (a residual being: the difference between an observed value, and the fitted value provided by a model).
 - Cook's D: https://en.wikipedia.org/wiki/Cook%27s_distance
@@ -40,10 +40,10 @@ See:
 	- https://en.wikipedia.org/wiki/Non-linear_least_squares
 	- Non-linear least squares is the form of least squares analysis used to fit a set of m observations with a model that is non-linear in n unknown parameters (m> n).
 
-## Principal component regression
+### Principal component regression
 - https://en.wikipedia.org/wiki/Principal_component_regression
 
-## Generalized linear models (GLM)
+### Generalized linear models (GLM)
 - https://en.wikipedia.org/wiki/Generalized_linear_model
 	- GLM is a flexible generalization of ordinary linear regression that allows for the response variable to have an error distribution other than the normal distribution
 - Generalized Linear Models: https://scikit-learn.org/0.15/modules/linear_model.html
@@ -52,10 +52,10 @@ See:
 	- Under the GLM assumptions, the output variable Y can now follow any probability distribution within the “exponential family”, which includes not only the exponential distribution, but also the normal, gamma, chi-squared, Poisson, binomial (for a fixed number of trails), negative binomial (for a fixed number of failures), beta and lognormal distributions, among others
 - #CODE [[#^glmnetpy]]
 
-## Logistic regression 
+### Logistic regression 
 See [classification](classification.md)
 
-## Regularized regression
+### Regularized regression
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
 - Regularization, in mathematics and statistics and particularly in the field of machine learning, refers to a process of introducing additional information in order to solve an ill-posed problem or to prevent overfitting.
 - https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
@@ -71,19 +71,19 @@ See [classification](classification.md)
 	- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
 
 
-## SVM
+### SVM
 See [Classification](Classification.md)
 
 
-## Gaussian Process
+### Gaussian Process
 See [Gaussian Process](Gaussian%20Process.md)
 
 
-## Tree-based approaches
+### Tree-based approaches
 See [Ensemble learning](Ensemble%20learning.md) and [Classification](Classification.md)
 
 
-## K-nearest neighbors
+### K-nearest neighbors
 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 - k-NN is a non-parametric method used for [classification](classification.md) and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
 	- for [classification](classification.md) - An object is classified by a majority vote of its k nearest neighbors.
@@ -99,7 +99,7 @@ See [Ensemble learning](Ensemble%20learning.md) and [Classification](Classificat
 	- https://erikbern.com/2018/06/17/new-approximate-nearest-neighbor-benchmarks.html
 
 
-# Code
+## Code
 - #CODE Glmnet_py. Glmnet Vignette (for python): https://github.com/bbalasub1/glmnet_python ^glmnetpy
 - #CODE Annoy (Spotify). 
 	- Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk

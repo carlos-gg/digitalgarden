@@ -3,53 +3,63 @@ title: "Data Engineering and Computer Science"
 disableToc: false 
 ---
 
-# Resources
+See [[MLops]]
+
+## Resources
 - https://github.com/ossu/computer-science
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications.
 - https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY
 - Interaction between ML and CS teams: https://labs.opendoor.com/2017/02/17/two-cultures-of-ml-systems
 - ETL (extract, transform, load): https://en.wikipedia.org/wiki/Extract,_transform,_load
 - Have we bridged the gap between Data Science and DevOps?: https://jaxenter.com/bridge-gap-data-science-devops-134712.html
-- Python:
-	- #COURSE Python in High Performance Computing: https://www.futurelearn.com/courses/python-in-hpc
-	- #COURSE Scientific Computing with Python: https://www.freecodecamp.org/learn/scientific-computing-with-python/
-	- #COURSE SoloLearn Python 3 Tutorial: https://www.sololearn.com/Course/Python/
-	- #COURSE https://www.learneroo.com/modules/65/nodes/366
-	- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Python
-	- https://github.com/ujjwalkarn/DataSciencePython
-	- Numpy: http://www.labri.fr/perso/nrougier/from-python-to-numpy/
-	- Optimizing Python code performance with cProfile: https://blog.alookanalytics.com/2017/03/21/python-profiling-basics/
-	- Consistent Python code with Black: https://www.mattlayman.com/blog/2018/python-code-black/
-	- Writing proper classes: https://aboucaud.github.io/slides/2016/python-classes
-	- Documenting Python code: https://aboucaud.github.io/slides/2016/python-docstrings
-	- Compiled C or Fortran to Python: http://people.duke.edu/~ccc14/sta-663/FromCompiledToPython.html
-	- Using Python as glue: https://docs.scipy.org/doc/numpy-1.13.0/user/c-info.python-as-glue.html
-	- Extending Python with Compiled Code: https://github.com/AstroHackWeek/AstroHackWeek2014/blob/master/day4/ExtendingPython.ipynb
-	- Wrapping C/C++ for Python: https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
-- R:
-	- #BOOK [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/)
-	- #BOOK [Geocomputation with R](https://geocompr.robinlovelace.net/)
-	- #BOOK [Efficient R programming](https://csgillespie.github.io/efficientR/)
-	- #BOOK [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
-	- #BOOK [Advanced R](https://adv-r.hadley.nz/)
-	- #BOOK [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-	- #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
-- Julia: 
-	- #TALK https://www.youtube.com/watch?v=AyvyVS6u8AM
-	- https://julialang.org/learning/
-- Javascript:
-	- https://www.w3schools.com/js/
-	- https://codesandbox.io
-	- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-	- https://dtabio.gitbooks.io/data-science-with-javascript/content/links_and_resources.html
-	- http://www.kdnuggets.com/2016/06/top-machine-learning-libraries-javascript.html
-- Bash:
-	- free GNU/Linux Online Terminal and Programming IDE: http://www.webminal.org/
-- CUDA: 
-	- https://developer.nvidia.com/cuda-education
-	- https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA
 
-# Books
+### Python
+- #COURSE Python in High Performance Computing: https://www.futurelearn.com/courses/python-in-hpc
+- #COURSE Scientific Computing with Python: https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- #COURSE SoloLearn Python 3 Tutorial: https://www.sololearn.com/Course/Python/
+- #COURSE https://www.learneroo.com/modules/65/nodes/366
+- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Python
+- https://github.com/ujjwalkarn/DataSciencePython
+- Numpy: http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+- Optimizing Python code performance with cProfile: https://blog.alookanalytics.com/2017/03/21/python-profiling-basics/
+- Consistent Python code with Black: https://www.mattlayman.com/blog/2018/python-code-black/
+- Writing proper classes: https://aboucaud.github.io/slides/2016/python-classes
+- Documenting Python code: https://aboucaud.github.io/slides/2016/python-docstrings
+- Compiled C or Fortran to Python: http://people.duke.edu/~ccc14/sta-663/FromCompiledToPython.html
+- Using Python as glue: https://docs.scipy.org/doc/numpy-1.13.0/user/c-info.python-as-glue.html
+- Extending Python with Compiled Code: https://github.com/AstroHackWeek/AstroHackWeek2014/blob/master/day4/ExtendingPython.ipynb
+- Wrapping C/C++ for Python: https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
+
+### R
+- #BOOK [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/)
+- #BOOK [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- #BOOK [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- #BOOK [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- #BOOK [Advanced R](https://adv-r.hadley.nz/)
+- #BOOK [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+- #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
+
+### Julia 
+- #TALK https://www.youtube.com/watch?v=AyvyVS6u8AM
+- https://julialang.org/learning/
+
+### Javascript
+- https://www.w3schools.com/js/
+- https://codesandbox.io
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+- https://dtabio.gitbooks.io/data-science-with-javascript/content/links_and_resources.html
+- http://www.kdnuggets.com/2016/06/top-machine-learning-libraries-javascript.html
+
+### Bash
+- free GNU/Linux Online Terminal and Programming IDE: http://www.webminal.org/
+
+
+### CUDA
+- https://developer.nvidia.com/cuda-education
+- https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA
+
+
+## Books
 - #BOOK Problem Solving with Algorithms and Data Structures using Python (Interactive book): https://runestone.academy/runestone/books/published/pythonds/index.html
 - #BOOK Large Scale Machine Learning with Python (Sjandin 2016, PACKT): https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python
 - #BOOK Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE): http://www.mmds.org/
@@ -58,7 +68,7 @@ disableToc: false
 	- https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf
 - #BOOK Pandas cookbook (Petrou, 2017 PACKT): packtpub.com/big-data-and-business-intelligence/pandas-cookbook
 
-# Courses
+## Courses
 - #COURSE Data Structures & Algorithms - Python: https://pythonschool.net/category/data-structures-algorithms.html
 - #COURSE Intro to Hadoop and MapReduce: https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
 - #COURSE Mining Massive Data Sets (CS246 Stanford): http://web.stanford.edu/class/cs246/
@@ -70,9 +80,7 @@ disableToc: false
 		- https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
-# Code
-See [[MLops]]
-
+## Code
 - #CODE ABSL.flags - defines a distributed command line system and manual argument parsing: https://abseil.io/docs/python/guides/flags
 - #CODE StreamAlert: https://github.com/airbnb/streamalert
 	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
@@ -155,9 +163,9 @@ See [[MLops]]
 	- CouchDB: https://en.wikipedia.org/wiki/CouchDB
 
 
-# Subtopics
+## Subtopics
 
-## Open datasets (for ML and DS)
+### Open datasets (for ML and DS)
 - https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 - OpenML (open-source datasets): http://www.openml.org/
 	- API: https://docs.openml.org/APIs/
@@ -173,39 +181,39 @@ See [[MLops]]
 - Open knowledge foundation repository (varied formats and sources): https://datahub.io/dataset
 
 
-## Feature engineering
+### Feature engineering
 - https://en.wikipedia.org/wiki/Feature_engineering
 - Feature engineering is the process of using domain knowledge of the data to create features that make [[machine learning]] algorithms work. It is fundamental to the application of ML, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated [[feature learning]].
 - http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 - https://tech.zalando.com/blog/feature-extraction-science-or-engineering/
 
-### Feature extraction
+#### Feature extraction
 See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision](AI/Computer%20Vision/Computer%20vision.md).
 
 
-## Data mining
+### Data mining
 - http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
 - https://www.dataquest.io/course/apis-and-scraping
 
-### Web scraping
+#### Web scraping
 - https://www.dataquest.io/blog/web-scraping-tutorial-python/
 - http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/
 - https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-with-python-selenium-a-beginner-step-by-c137892216aa#.hrjljvffd
 - https://antonio-maiolo.com/2016/12/01/web-crawler-scrapy-crawl-spider-tutorial/
 - http://stackoverflow.com/questions/19021541/scrapy-scrapping-data-inside-a-javascript
 
-### API
+#### API
 - A categorized public list of APIs from round the web: https://github.com/abhishekbanthia/Public-APIs
 - A collective list of public JSON APIs for use in web development: https://github.com/toddmotto/public-apis
 - Public APIs: https://public-apis.io/
 
 
-## Databases
+### Databases
 - https://en.wikipedia.org/wiki/Distributed_database
 - ACID (Atomicity, Consistency, Isolation, Durability) : https://en.wikipedia.org/wiki/ACID
 - SQL vs NoSQL: http://dataconomy.com/2014/07/sql-vs-nosql-need-know/
 
-### SQL
+#### SQL
 - https://en.wikipedia.org/wiki/SQL
 - https://en.wikipedia.org/wiki/Relational_database
 - A relational database is a digital database whose organization is based on the relational model of data. 
@@ -222,7 +230,7 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 	- http://www.python-course.eu/sql_python.php
 	- https://wiki.python.org/moin/DatabaseInterfaces
 
-### NoSQL
+#### NoSQL
 - https://en.wikipedia.org/wiki/NoSQL
 - Not only SQL: A NoSQL database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases. NoSQL databases are increasingly used in big data and real-time web applications. Many NoSQL stores compromise consistency (in the sense of theCAP theorem) in favor of availability, partition tolerance, and speed. 
 - Column: Accumulo, Cassandra, Druid, HBase, Vertica, SAP HANA 
@@ -241,10 +249,10 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 	- Dictionaries contain a collection of objects, or records, which in turn have many different fields within them, each containing data. These records are stored and retrieved using a key that uniquely identifies the record, and is used to quickly find the data within the database.
 - Document: https://en.wikipedia.org/wiki/Document-oriented_database
 
-## Data munging
-https://www.coursera.org/learn/data-cleaning
+### Data munging
+- https://www.coursera.org/learn/data-cleaning
 
-### Data preparation
+#### Data preparation
 - Data cleansing: Missing data
 	- https://scikit-learn.org/stable/modules/impute.html
 	- https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#two
@@ -253,17 +261,17 @@ https://www.coursera.org/learn/data-cleaning
 - Normalisation, scaling: http://scikit-learn.org/stable/modules/preprocessing.html
 - Outlier detection: https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#three
 
-### Exploratory data analysis
+#### Exploratory data analysis
 - https://www.codementor.io/jadianes/data-science-python-r-exploratory-data-analysis-visualization-du107jjms
 - http://blog.districtdatalabs.com/data-exploration-with-python-2
 - https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
 
 
-## Big data
+### Big data
 - http://www.datasciencecentral.com/profiles/blogs/25-big-data-terms-you-must-know-to-impress-your-date-or-whoever
 - Architecture of Giants: Data Stacks at Facebook, Netflix, Airbnb, and Pinterest: https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54
 
-### MapReduce
+#### MapReduce
 - https://en.wikipedia.org/wiki/MapReduce
 - MapReduce is a programming model and an associated implementation for processing and generating large data sets with a parallel, distributed algorithm on a cluster
 - A MapReduce program is composed of aMap() procedure (method) that performs filtering and sorting (such as sorting students by first name into queues, one queue for each name) and aReduce() method that performs a summary operation (such as counting the number of students in each queue, yielding name frequencies)

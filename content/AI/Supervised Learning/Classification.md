@@ -3,7 +3,7 @@ title: "Classification"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb
 - Comparison of classifiers
 	- https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
@@ -14,14 +14,14 @@ disableToc: false
 	- http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 	- http://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html
 
-## Naive Bayes
+### Naive Bayes
 - https://blancosilva.wordpress.com/2012/06/21/naive-bayes/
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb
 - http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification?rq=1
 - https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 - #TALK 5 Minutes With Ingo - Naïve Bayes: https://www.youtube.com/watch?v=IlVINQDk4o8
 
-## Support Vector Machine (SVM)
+### Support Vector Machine (SVM)
 - Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. SVM figures out how to separate the data based on the labels or outputs we’ve defined.
 - SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces. It's much more computationally intensive. Complexity: O(n^3m), n number of points, m number of dimensions
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb
@@ -34,10 +34,10 @@ disableToc: false
 	- https://www.youtube.com/watch?v=woEwY0Zi6X4
 - #TALK How SVM (Support Vector Machine) algorithm works: https://www.youtube.com/watch?v=1NxnPkZM9bc
 
-## K-nearest neighbors
+### K-nearest neighbors
 See [Regression](Regression.md)
 
-## Logistic regression
+### Logistic regression
 - https://en.wikipedia.org/wiki/Logistic_regression
 - In statistics, logistic regression, or logit regression, or logit model is a regression model where the dependent variable (DV) is categorical. This is the case of a binary dependent variable, which can take only two values, "0" and “1”.
 - Cases where the dependent variable has more than two outcome categories may be analysed in multinomial logistic regression, or, if the multiple categories are ordered, in ordinal logistic regression.
@@ -50,10 +50,10 @@ See [Regression](Regression.md)
 - Logistic regression with L2 regularization: minimizew ∑_x,y log(1 + exp(−w^T x⋅y)) + λw^Tw
 
 
-## Gaussian Processes
+### Gaussian Processes
 See [Regression](Regression.md) 
 
-## Tree-based approaches
+### Tree-based approaches
 See [Ensemble learning](Ensemble%20learning.md)
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb
 - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/

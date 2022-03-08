@@ -3,7 +3,7 @@ title: "Reinforcement learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input.  Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
 - https://en.wikipedia.org/wiki/Reinforcement_learning
 - Curriculum for Reinforcement Learning: https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html
@@ -20,7 +20,7 @@ disableToc: false
 - SARSA: https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action
 
 
-# Courses, talks and books
+## Courses, talks and books
 - #COURSE Reinforcement Learning (UCL): https://www.davidsilver.uk/teaching/
 	- Videos: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
 - #COURSE CS294-112 Deep Reinforcement Learning Sp17: https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
@@ -32,7 +32,7 @@ disableToc: false
 	- https://deepreinforcementlearningbook.org/
 
 
-# Code
+## Code
 - #CODE Acme: a research framework for reinforcement learning: https://github.com/deepmind/acme
 - #CODE Deep Reinforcement Learning Model ZOO: https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning
 - #CODE Open.ai Gym - A toolkit for developing and comparing reinforcement learning algorithms. https://github.com/openai/gym
@@ -51,8 +51,8 @@ disableToc: false
 	- https://tensorlayer.readthedocs.io/en/latest/index.html
 
 
-# References
-## Deep RL
+## References
+### Deep RL
 - Spinning Up as a Deep RL Researcher: https://spinningup.openai.com/en/latest/spinningup/spinningup.html
 
 Review papers:

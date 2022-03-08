@@ -3,7 +3,7 @@ title: "Self-supervised learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://github.com/jason718/awesome-self-supervised-learning
 - https://hackernoon.com/self-supervised-learning-gets-us-closer-to-autonomous-learning-be77e6c86b5a
 - Self-Supervised Representation Learning: https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
@@ -13,7 +13,7 @@ disableToc: false
 	- Blog post explained: https://www.youtube.com/watch?v=Ag1bw8MfHGQ&t=6s
 	
  
-# Code
+## Code
 - #CODE VISSL: https://github.com/facebookresearch/vissl
 	- FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images
 - #CODE Solo-learn: https://github.com/vturrisi/solo-learn
@@ -28,7 +28,7 @@ disableToc: false
 	- A No-Code, Self-Supervised Learning and Active Labeling Tool to Create Labeled Image Datasets from Petabyte-Scale Imagery
 
 
-# References
+## References
 - #PAPER Self-Supervised Learning of Pretext-Invariant Representations (Misra 2019): https://arxiv.org/abs/1912.01991
 - #PAPER A Framework For Contrastive Self-Supervised Learning And Designing A New Approach (Falcon 2020): https://arxiv.org/abs/2009.00104
 	- https://towardsdatascience.com/a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619

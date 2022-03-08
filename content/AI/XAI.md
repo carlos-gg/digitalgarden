@@ -3,7 +3,7 @@ title: "Explainable AI (XAI)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://github.com/anguyen8/XAI-papers
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 - Ideas on interpreting [[machine learning]]: https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
@@ -18,7 +18,7 @@ disableToc: false
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-3-shap-integrated-gradients-918fc9fedd9b
 
 
-# Events, talks
+## Events, talks
 - Workshop on Visualization for [[AI]] Explainability: http://visxai.io/
 - ACM Conference on Fairness, Accountability, and Transparency: https://facctconference.org/
 - Explainable AI xAI 2020: https://human-centered.ai/explainable-ai-2020/
@@ -30,12 +30,12 @@ disableToc: false
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
 
 
-# Books
+## Books
 - #BOOK  Interpretable Machine Learning (Molnar 2021): https://christophm.github.io/interpretable-ml-book/
 
 
-# Code
-See [[#Neural Networks explainability#Code]]
+## Code
+See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#Code)
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
 - #CODE CARLA: https://github.com/carla-recourse/CARLA
@@ -72,7 +72,7 @@ See [[#Neural Networks explainability#Code]]
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
 
 
-# References
+## References
 - #PAPER The Mythos of Model Interpretability (Lipton 2017): https://arxiv.org/abs/1606.03490
 - #PAPER A Survey of Methods for Explaining Black Box Models (Guidotti, 2018): https://dl.acm.org/doi/10.1145/3236009
 - #PAPER Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning (McGovern et al. 2019): https://journals.ametsoc.org/bams/article/100/11/2175/343787/Making-the-Black-Box-More-Transparent
@@ -85,7 +85,7 @@ See [[#Neural Networks explainability#Code]]
 - #PAPER Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020): https://arxiv.org/abs/1905.08883
 - #PAPER Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020): https://ieeexplore.ieee.org/document/9234594
 
-## Model-agnostic methods
+### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
 	- The great advantage of model-agnostic interpretation methods over model-specific ones is their flexibility
 	- An alternative to model-agnostic interpretation methods is to use only interpretable models, which often has the big disadvantage that predictive performance is lost compared to other machine learning models and you limit yourself to one type of model
@@ -97,24 +97,24 @@ See [[#Neural Networks explainability#Code]]
 
 - #PAPER Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014): https://arxiv.org/abs/1309.6392
 
-### Partial Dependence Plot
+#### Partial Dependence Plot
 - The partial dependence plot (short PDP or PD plot) shows the marginal effect one or two features have on the predicted outcome of a machine learning model
 - https://christophm.github.io/interpretable-ml-book/pdp.html
 - https://scikit-learn.org/stable/modules/partial_dependence.html
 
-### Individual Conditional Expectation
+#### Individual Conditional Expectation
 - Individual Conditional Expectation (ICE) plots display one line per instance that shows how the instance's prediction changes when a feature changes
 - https://christophm.github.io/interpretable-ml-book/ice.html
 - https://scikit-learn.org/stable/modules/partial_dependence.html
 
-### Permutation Feature Importance
+#### Permutation Feature Importance
 - Permutation feature importance measures the increase in the prediction error of the model after we permuted the feature's values, which breaks the relationship between the feature and the true outcome
 - https://christophm.github.io/interpretable-ml-book/feature-importance.html
 - https://scikit-learn.org/stable/modules/permutation_importance.html
 	- The permutation feature importance is defined to be the decrease in a model score when a single feature value is randomly shuffled
 	- Tree-based models provide an alternative measure of feature importances based on the mean decrease in impurity (MDI). Impurity is quantified by the splitting criterion of the decision trees (Gini, Entropy or Mean Squared Error). However, this method can give high importance to features that may not be predictive on unseen data when the model is overfitting. Permutation-based feature importance, on the other hand, avoids this issue, since it can be computed on unseen data
 
-### Surrogate models
+#### Surrogate models
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
 - #PAPER LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016). https://arxiv.org/abs/1602.04938 ^lime
@@ -129,13 +129,13 @@ See [[#Neural Networks explainability#Code]]
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
 
 
-## Maximum activation analysis
+### Maximum activation analysis
 - See [Neural Networks explainability](#Neural%20Networks%20explainability)
 - In maximum activation analysis, examples are found or simulated that maximally activate certain neurons, layers, or filters in a neural network or certain trees in decision tree ensembles. For the purposes of maximum activation analysis, low residuals for a certain tree are analogous to high-magnitude neuron output in a neural network.
 - Maximum activation analysis elucidates internal mechanisms of complex models by determining the parts of the response function that specific observations or groups of similar observations excite to the highest degree, either by high-magnitude output from neurons or by low residual output from trees.
 
 
-## Sensitivity analysis
+### Sensitivity analysis
 - See [Neural Networks explainability](#Neural%20Networks%20explainability)
 - Sensitivity analysis investigates whether model behavior and outputs remain stable when data is intentionally perturbed or other changes are simulated in data. 
 - Beyond traditional assessment practices, sensitivity analysis of machine learning model predictions is perhaps the most important validation technique for machine learning models. 
@@ -143,7 +143,7 @@ See [[#Neural Networks explainability#Code]]
 - Sensitivity analysis can also test model behavior and outputs when interesting situations or known corner cases are simulated. Output distributions, error measurements, plots, and interpretation techniques can be used to explore the way models behave in important scenarios, how they change over time, or if models remain stable when data is subtly and intentionally corrupted
 
 
-## Variable importance measures
+### Variable importance measures
 - Variable importance measures are typically seen in tree-based models but are sometimes also reported for other models.
 - A simple heuristic rule for variable importance in a decision tree is related to the depth and frequency at which a variable is split on in a tree, where variables used higher in the tree and more frequently in the tree are more important. 
 - For a single decision tree, a variable's importance is quantitatively determined by the cumulative change in the splitting criterion for every node in which that variable was chosen as the best splitting candidate. 
@@ -159,9 +159,9 @@ See [[#Neural Networks explainability#Code]]
 - Global variable importance techniques are typically model specific, and practitioners should be aware that unsophisticated measures of variable importance can be biased toward larger scale variables or variables with a high number of categories.
 
 
-## Neural Networks explainability
+### Neural Networks explainability
 
-### Resources 
+#### Resources 
 - Using ML to Explore Neural Network Architecture: https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html
 - The Building Blocks of Interpretability: https://distill.pub/2018/building-blocks/
 - Feature Visualization: https://distill.pub/2017/feature-visualization/
@@ -178,7 +178,7 @@ See [[#Neural Networks explainability#Code]]
 	- It involves a few calls to a gradient operator yielding insightful results for a variety of deep networks
 - Pixel Attribution (Saliency Maps): https://christophm.github.io/interpretable-ml-book/pixel-attribution.html
 
-### Code
+#### Code
 - #CODE TruLens (tf.keras and pytorch): Explainability for Neural Networks: https://github.com/truera/trulens
 	- https://www.trulens.org/
 - #CODE Captum (pytorch): https://github.com/pytorch/captum
@@ -207,7 +207,7 @@ See [[#Neural Networks explainability#Code]]
 	- Saliency maps, Gradient * Input, Integrated Gradients, DeepLIFT, ε-LRP
 - #CODE LRP toolbox: https://github.com/sebastian-lapuschkin/lrp_toolbox
   
-### References
+#### References
 - #PAPER [Visualization of neural networks using saliency maps (Morch 1995)](https://www.researchgate.net/publication/3623243_Visualization_of_neural_networks_using_saliency_maps)
 - #PAPER [Deep inside CNNs: Visualising Image Classification Models and Saliency Maps (Simonyan 2014)](https://arxiv.org/abs/1312.6034)
 	- Presented two visualisation techniques for deep classification ConvNets
@@ -241,7 +241,7 @@ See [[#Neural Networks explainability#Code]]
 - #PAPER Toward Explainable AI for Regression Models (Letzgus 2021): https://arxiv.org/abs/2112.11407
 
  
-#### Layer-wise Relevance Propagation (LRP)
+##### Layer-wise Relevance Propagation (LRP)
 - LRP is an inverse method which calculates the contribution of a single pixel to the prediction made by a DNN in an image classification task
 - http://heatmapping.org/
 - Interactive demo: https://lrpserver.hhi.fraunhofer.de/image-classification

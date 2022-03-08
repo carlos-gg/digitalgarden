@@ -9,7 +9,7 @@ The concept of a digital garden has been around for quite some time and is relat
 
 As said before, this digital garden is centered around AI. It is not meant to be a complete or exhaustive mapping of all the knowledge around AI and ML. These are merely the topics that I have been interested in or that I have come across in my work. Feel free to look around, check the [list of notes](/AI/), or to use the mind map for an interactive view of the entries of the garden. 
 
-Most notes are centered on specific topics and contain common subsections:
+Most notes are centered on specific topics (e.g., clustering) and contain common subsections with entries having a common tag (e.g., #PAPER or #COURSE):
 
 - Resources: definitions, wikipedia entries, blog posts, non-peer-reviewed articles and other useful resources.
 - Books: well... books (mostly free or open source).

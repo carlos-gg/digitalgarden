@@ -4,13 +4,14 @@ disableToc: false
 ---
 
 See:  
-[AutoML](AutoML.md)
-[Data engineering and computer science#Workflow managers distributed ML](Data%20engineering%20and%20computer%20science.md#Workflow%20managers%20distributed%20ML)
+[AutoML](AI/AutoML.md)
+[Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
-# Resources
+
+## Resources
 - Model selection and evaluation: https://scikit-learn.org/stable/model_selection.html
 
-# Code
+## Code
 See [MLops](AI/Data%20Science,%20Data%20Engineering/MLops.md)
 - #CODE Optuna - A hyperparameter optimization framework: https://github.com/optuna/optuna
 	- https://optuna.org/
@@ -27,7 +28,7 @@ See [MLops](AI/Data%20Science,%20Data%20Engineering/MLops.md)
 	- #PAPER https://arxiv.org/abs/1603.06560
 	- http://fastml.com/tuning-hyperparams-fast-with-hyperband/
 
-# Bias-variance trade-off
+## Bias-variance trade-off
 - Problem of minimizing two sources of errors that prevent a supervised learning algorithm from generalizing beyond the training set:
 	- High bias  ->  underfitting
 	- High variance  ->  overfitting
@@ -41,7 +42,7 @@ See [MLops](AI/Data%20Science,%20Data%20Engineering/MLops.md)
 	- https://www.quora.com/How-can-I-avoid-overfitting
 	- https://www.quora.com/How-do-we-detect-overfitting-and-under-fitting-in-Machine-Learning
 
-# Cross-validation
+## Cross-validation
 - Cross-validation
 	- Train, test and validation: https://machinelearningmastery.com/difference-test-validation-datasets/
 	- http://scikit-learn.org/stable/modules/cross_validation.html (also about train, test, validation)

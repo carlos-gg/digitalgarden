@@ -3,18 +3,18 @@ title: "Semi-supervised learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Semi-supervised_learning
 - Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning (with no labeled training data) and supervised learning (with only labeled training data).
 - In contrast (to active learning), semi-supervised learning attempts to automatically exploit unlabeled data in addition to labeled data to improve learning performance, where no human intervention is assumed. 
 - https://deepai.org/machine-learning-glossary-and-terms/semi-supervised-learning
 - https://scikit-learn.org/stable/modules/label_propagation.html
 
-# Code
+## Code
 - #CODE TorchSSL: https://github.com/TorchSSL/TorchSSL
 	- A PyTorch-based Toolbox for Semi-Supervised Learning
 
-# References
+## References
 - #PAPER Semi-Supervised Learning Literature Survey (2008): http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf
 - #PAPER Learning Loss Functions for Semi-supervised Learning via Discriminative Adversarial Networks (Nogueira Dos Santos 2017): https://arxiv.org/abs/1707.02198
 - #PAPER Semi-Supervised Learning with Normalizing Flows (Izmailov, 2019): https://arxiv.org/abs/1912.13025

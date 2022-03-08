@@ -3,7 +3,7 @@ title: "Supervised Learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Supervised_learning
 - Supervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 - http://scikit-learn.org/stable/supervised_learning.html
@@ -14,25 +14,25 @@ disableToc: false
 		- http://corysimon.github.io/articles/what-is-an-roc-curve/
 
 
-## Classification
+### Classification
 See [Classification](Classification.md)
 
-## Regression
+### Regression
 See [Regression](Regression.md)
 
-## Structured learning
+### Structured learning
 - https://en.wikipedia.org/wiki/Structured_prediction
 
-## Ensemble learning
+### Ensemble learning
 See [Ensemble learning](Ensemble%20learning.md)
 
-## Class imbalance
+### Class imbalance
 See [Class imbalance](Class%20imbalance.md)
 
-## Model selection and tuning
+### Model selection and tuning
 See [Model selection and tuning](Model%20selection%20and%20tuning.md)
 
-## Probability calibration
+### Probability calibration
 - https://en.wikipedia.org/wiki/Calibration_(statistics)
 - https://scikit-learn.org/stable/modules/calibration.html
 - When performing classification you often want not only to predict the class label, but also obtain a probability of the respective label. This probability gives you some kind of confidence on the prediction. Some models can give you poor estimates of the class probabilities and some even do not support probability prediction. 

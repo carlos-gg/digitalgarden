@@ -3,7 +3,7 @@ title: "Recurrent Neural Networks (RNNs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
 - https://github.com/kjw0612/awesome-rnn
 - Recurrent Neural Networks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
@@ -19,7 +19,7 @@ disableToc: false
 - When Recurrent Models Don't Need to be Recurrent (recurrent vs feed-forward models): http://www.offconvex.org/2018/07/27/approximating-recurrent/
 
 
-# References
+## References
 - #PAPER Neural Turing Machines (Graves 2014): http://arxiv.org/abs/1410.5401
 - #PAPER Attention and Augmented Recurrent Neural Networks (Olah 2016): http://distill.pub/2016/augmented-rnns/
 - #PAPER Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks (Laptev 2017): https://eng.uber.com/neural-networks/
@@ -30,7 +30,7 @@ disableToc: false
 	- https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
 	
 
-## Long Short-Term Memory (LSTM)
+### Long Short-Term Memory (LSTM)
 - https://en.wikipedia.org/wiki/Long_short-term_memory
 - One of the most innovative works in the NLP space is LSTMs and their variations e.g. GRU 
 - With a basic RNN cell, we see a massive drop in performance when it comes to long sequences and the network needs to remember patterns which have occurred way at the beginning to infer things correctly at a current time step. And this is because of exploding and vanishing gradients.
@@ -51,7 +51,7 @@ disableToc: false
 - #PAPER Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks (Staudemeyer 2019): https://arxiv.org/abs/1909.09586
 
 
-## Gated recurrent units (GRU): 
+### Gated recurrent units (GRU): 
 - https://en.wikipedia.org/wiki/Gated_recurrent_unit 
 - https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 - GRU (Gated Recurrent Unit) aims to solve the vanishing gradient problem which comes with a standard recurrent neural network. GRU can also be considered as a variation on the LSTM. GRU’s got rid of the cell state and used the hidden state to transfer information. It also only has two gates, a reset gate and update gate. 
@@ -59,11 +59,11 @@ disableToc: false
 - The reset gate is another gate is used to decide how much past information to forget.
 	
 
-## Reservoir computing
+### Reservoir computing
 - https://en.wikipedia.org/wiki/Reservoir_computing
 - Reservoir computing is a framework for computation derived from recurrent neural network theory that maps input signals into higher dimensional computational spaces through the dynamics of a fixed, non-linear system called a reservoir. After the input signal is fed into the reservoir, which is treated as a "black box," a simple readout mechanism is trained to read the state of the reservoir and map it to the desired output.
 
-### Echo state networks (ESN)
+#### Echo state networks (ESN)
 - https://en.wikipedia.org/wiki/Echo_state_network
 - The ESN is a recurrent neural network with a sparsely connected hidden layer (with typically 1% connectivity)
 

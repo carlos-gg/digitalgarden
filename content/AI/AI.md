@@ -3,7 +3,7 @@ title: "Artificial Intelligence"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - https://github.com/owainlewis/awesome-artificial-intelligence
@@ -25,13 +25,13 @@ disableToc: false
 - AlphaGo Zero: https://deepmind.com/blog/alphago-zero-learning-scratch/
 	- https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
 
-## AI in Science and research
+### AI in Science and research
 - The AI revolution in science: applications and new research directions: https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/
 - The AI revolution in scientific research (The Royal Society, The Alan Turing Institute): https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf
 - The AI revolution in science: https://www.sciencemag.org/news/2017/07/ai-revolution-science
 - Artificial intelligence in research (Musib 2017): https://science.sciencemag.org/content/357/6346/28
 
-# Events
+## Events
 - Neural Information Processing Systems Conference (NeurIPS): https://nips.cc/
 	- Proceedings: http://papers.nips.cc/
 	- Videos: https://nips.cc/Conferences/2018/Videos
@@ -41,19 +41,19 @@ disableToc: false
 - AAAI Conference on Artificial Intelligence: http://www.aaai.org/Conferences/conferences.php
 - World summit AI: https://worldsummit.ai/
 
-# References
+## References
 - #PAPER The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (Marcus 2020): https://arxiv.org/abs/2002.06177v3
 	- https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/
 	- #TALK AI DEBATE : Yoshua Bengio | Gary Marcus: https://www.youtube.com/watch?v=EeqwFjqFvJA
 
-# Books
+## Books
 - #BOOK AI Transformation Playbook (Andrew Ng, 2018): https://landing.ai/ai-transformation-playbook/
 - #BOOK The Future of Machine Intelligence (Beyer 2016, O'REILLY): https://www.oreilly.com/library/view/the-future-of/9781492042334/
 - #BOOK Artificial Intelligence - A Modern Approach (Russell & Norvig, 2010): http://aima.cs.berkeley.edu/
 	- https://github.com/aimacode
 	- Javascript visualization (and implementation) of algorithms: http://aimacode.github.io/aima-javascript/
 
-# Courses
+## Courses
 - #COURSE Artificial Intelligence (edX - U Columbia): https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
 - #COURSE Introduction to Artificial Intelligence (CS 188, Berkeley): https://inst.eecs.berkeley.edu/~cs188/fa18/
 - #COURSE Intro to AI (CS188 , UC Berkeley): http://ai.berkeley.edu/home.html, 
@@ -77,33 +77,33 @@ disableToc: false
 - #TALK Symbolic, Statistical and Causal Artificial Intelligence, MLSS 2020: https://www.youtube.com/watch?v=8staJlMbAig
 
 
-# Related fields and concepts
+## Related fields and concepts
 
-## Data Science
+### Data Science
 See [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
 
-## Machine Learning
+### Machine Learning
 See [Machine Learning](AI/Machine%20Learning.md)
 
-## Computer vision
+### Computer vision
 See [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 
-## NLP
+### NLP
 See [NLP](AI/NLP.md)
 
-## Deep Learning
+### Deep Learning
 See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 
-## Data engineering and computer science
+### Data engineering and computer science
 See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
-## Causality
+### Causality
 See [Causality](AI/Causality.md)
 
-## Problem Solving and Search
+### Problem Solving and Search
 See [Problem Solving and Search](AI/Problem%20Solving%20and%20Search.md)
 
-## Automated planning
+### Automated planning
 See [Automated planning](AI/Automated%20planning.md)
 
 

@@ -3,7 +3,7 @@ title: "Distributed Deep learning"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://d2l.ai/chapter_computational-performance/multiple-gpus.html 
 - https://jhui.github.io/2017/03/07/TensorFlow-GPU/ 
 - https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce 
@@ -12,7 +12,7 @@ disableToc: false
 - #TALK ALCF Datascience frameworks: Tensorflow, PyTorch, Keras, and Horovod: https://www.alcf.anl.gov/files/Zheng_SDL_ML_Frameworks_1.pdf
 - #TALK Scaling [[Deep Learning]] for Scientific Workloads on the #1 Summit Supercomputer: https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/
 
-# Code
+## Code
 See [Tensorflow, keras#Distributed training](Tensorflow,%20keras.md#Distributed%20training)
 
 - #CODE Analytics Zoo: https://github.com/intel-analytics/analytics-zoo
@@ -23,7 +23,7 @@ See [Tensorflow, keras#Distributed training](Tensorflow,%20keras.md#Distributed%
 	- See [[#^colossalai]]
 	-  https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/
 
-# References
+## References
 - #PAPER Evaluation of Deep Learning Frameworks over Different HPC Architectures (Shams 2017): https://www.ibm.com/university/power/images/EvaluationofDeepLearningFrameworksoverDifferentHPCArchitectures.pdf
 - #PAPER Deep Learning at 15PF: Supervised and Semi-Supervised Classification for Scientific Data (Kurth 2017): https://arxiv.org/abs/1708.05256
 - #PAPER Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis (Tal Ben-Nun and Torsten Hoefler 2018): http://arxiv.org/abs/1802.09941 ^bennun18

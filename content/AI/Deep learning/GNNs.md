@@ -3,17 +3,17 @@ title: "Graph neural networks (GNNs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - Graph Neural networks (GNNs) are being widely adopted for diverse applications and domains. This is in part due to their effectiveness on complex data structures, improved performance and scalability, and availability of approaches
 - A Gentle Introduction to Graph Neural Networks: https://distill.pub/2021/gnn-intro/
 - Must read papers on GNNs: https://github.com/thunlp/GNNPapers
 - Time Series Forecasting with Graph Convolutional Neural Network: https://towardsdatascience.com/time-series-forecasting-with-graph-convolutional-neural-network-7ffb3b70afcf
 - https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
-# Talks
+## Talks
 - #TALK Intro to graph neural networks (ML Tech Talks, Deepmind): https://www.youtube.com/watch?v=8owQBFAHw7E
 
-# Code
+## Code
 - #CODE DGL - Deep graph library: https://github.com/dmlc/dgl
 	- https://www.dgl.ai/
 - #CODE Pytorch geometric: https://github.com/rusty1s/pytorch_geometric
@@ -26,7 +26,7 @@ disableToc: false
 - #CODE PyTorch Geometric Temporal: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 	- A Temporal Extension Library for PyTorch Geometric
 
-# References
+## References
 - #PAPER Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016): https://arxiv.org/abs/1612.07659
 	- Graph Convolutional Recurrent Network (GCRN)
 - #PAPER Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting (Yu 2018): https://arxiv.org/abs/1709.04875 

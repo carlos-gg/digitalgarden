@@ -4,7 +4,7 @@ disableToc: false
 ---
 
 
-# Resources
+## Resources
 - Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters).
 - http://scikit-learn.org/stable/modules/clustering.html
 - Hierarhical clustering: Method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types:
@@ -37,7 +37,7 @@ disableToc: false
 	- https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html
 
 
-# References
+## References
 - #PAPER k-means++: the advantages of careful seeding (Arthur 2007): https://dl.acm.org/doi/10.5555/1283383.1283494
 - #PAPER A Comparative Study of Efficient Initialization Methods for the K-Means Clustering Algorithm (Celebi 2012): https://arxiv.org/abs/1209.1960
 - #PAPER SCAN: Learning to Classify Images without Labels (Van Gansbeke 2020): https://arxiv.org/abs/2005.12320

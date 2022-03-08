@@ -3,7 +3,7 @@ title: "Natural Language Processing (NLP)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Natural_language_processing
 - A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language. Examples of NLP applications include Siri and Google Now.
 - NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
@@ -15,14 +15,14 @@ disableToc: false
 - https://github.com/BotCube/awesome-bots
 - http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 
-# Books
+## Books
 - #BOOK Natural Language Processing with Python (Bird, 2013 OREILLY): http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf
 - #BOOK Mastering NLP with Python (Chopra, 2016 PACKT): https://www.packtpub.com/big-data-and-business-intelligence/mastering-natural-language-processing-python
 	- https://github.com/PacktPublishing/Mastering-Natural-Language-Processing-with-Python
 - #BOOK [An Introduction to Information Retrieval (Manning 2009, CAMBRIDGE)](https://nlp.stanford.edu/IR-book/)
 - #BOOK [Text mining with R (Silge, 2020 OREILLY)](https://tidytextmining.com/)
 
-# Courses
+## Courses
 - #COURSE NLP (Standford 15): https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/
 - #COURSE NLP with Deep Learning  (Standford 16,17): http://web.stanford.edu/class/cs224n/
 - #COURSE Natural Language Understanding (Standford 16): http://web.stanford.edu/class/cs224u/
@@ -38,7 +38,7 @@ disableToc: false
 - #TALK Feeding Word2vec with tens of billions of items, what could possibly go wrong? (Simon Dollé): https://www.youtube.com/watch?v=qYpdW9cyEqY
 - #TALK Deep Learning for Natural Language Processing (2015): https://www.youtube.com/watch?v=tdLmf8t4oqM
 
-# Code
+## Code
 - #CODE Beir - Heterogeneous Benchmark for Information Retrieval: https://github.com/UKPLab/beir
 	- #PAPER BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models (Thakur 2021): https://arxiv.org/abs/2104.08663
 - #CODE FastText - Library for efficient text classification and representation learning: https://fasttext.cc/
@@ -83,8 +83,8 @@ Web scrapping and cleaning:
 - #CODE Beautifier - clean and prettify URLs and email addresses: https://github.com/sachinvettithanam/beautifier
 
 
-# Subtopics 
-## Text preparation
+## Subtopics 
+### Text preparation
 - http://nitin-panwar.github.io/Text-prepration-before-Sentiment-analysis/
 	- Removing numbers
 	- Removing Urls and Links
@@ -98,15 +98,15 @@ Web scrapping and cleaning:
 	- Checking for impure characters
 - http://thinknook.com/10-ways-to-improve-your-classification-algorithm-performance-2013-01-21/
 
-## Feature extraction (engineering)
+### Feature extraction (engineering)
 - https://www.geeksforgeeks.org/feature-extraction-techniques-nlp/
 - https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
 
-### Bag of words (BOW)
+#### Bag of words (BOW)
 - A commonly used model in methods of Text Classification. As part of the BOW model, a piece of text (sentence or a document) is represented as a bag or multiset of words, disregarding grammar and even word order and the frequency or occurrence of each word is used as a feature for training a classifier.
 - BoW is different from Word2vec, which we’ll cover next. The main difference is that Word2vec produces one vector per word, whereas BoW produces one number (a wordcount). Word2vec is great for digging into documents and identifying content and subsets of content. Its vectors represent each word’s context, the ngrams of which it is a part. BoW is good for classifying documents as a whole.
 
-### tf–idf (Term Frequency-Inverse Document Frequency)
+#### tf–idf (Term Frequency-Inverse Document Frequency)
 - https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 - tf–idf, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus.
 -  The tf-idf value increases proportionally to the number of times a word appears in the document, but is often offset by the frequency of the word in the corpus, which helps to adjust for the fact that some words appear more frequently in general.
@@ -114,7 +114,7 @@ Web scrapping and cleaning:
 - http://www.tfidf.com/
 - http://scikit-learn.org/stable/auto_examples/text/document_clustering.html#sphx-glr-auto-examples-text-document-clustering-py
 
-### Word embedding
+#### Word embedding
 Word embedding is the modern way of representing words as vectors. The aim of word embedding is to redefine the high dimensional word features into low dimensional feature vectors by preserving the contextual similarity in the corpus. They are widely used in deep learning models such as Convolutional Neural Networks and Recurrent Neural Networks.
 - #PAPER Word2Vec: Distributed Representations of Words and Phrases and their Compositionality (Mikolov 2013): https://arxiv.org/abs/1310.4546
 	-  https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
@@ -132,8 +132,8 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 	 - Sense2vec: https://explosion.ai/blog/sense2vec-with-spacy
 
 
-## Semantics
-### Distributional semantics
+### Semantics
+#### Distributional semantics
 - General recipe:
 	- form a word-context matrix of counts (data)
 	- perform dim reduction (SVD) for generalization
@@ -148,7 +148,7 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 	- https://github.com/chrisjmccormick/LSA_Classification/blob/master/runClassification_LSA.py
 	- http://stackoverflow.com/questions/30590881/python-lsa-with-sklearn
 
-### Topic Modelling
+#### Topic Modelling
 - https://en.wikipedia.org/wiki/Topic_model
 - Latent Dirichlet Allocation
 	- A common topic modeling technique, LDA is based on the premise that each document or piece of text is a mixture of a small number of topics and that each word in a document is attributable to one of the topics.
@@ -156,30 +156,30 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 	- http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
 	- http://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
 
-### Neural semantic parsing
+#### Neural semantic parsing
 - #PAPER Neural Semantic Parsing (Jia & Liang 2016): https://www.aclweb.org/anthology/P18-5006/
 
-### Explicit semantic analysis
+#### Explicit semantic analysis
 - https://en.wikipedia.org/wiki/Explicit_semantic_analysis
 - In natural language processing and information retrieval, explicit semantic analysis (ESA) is a vectorial representation of text (individual words or entire documents) that uses a document corpus as a knowledge base. Specifically, in ESA, a word is represented as a column vector in the tf–idf matrix of the text corpus and a document (string of words) is represented as the centroid of the vectors representing its words. Typically, the text corpus is English Wikipedia, though other corpora including the Open Directory Project have been used.
 - Used in Information Retrieval, Document Classification and Semantic Relatedness calculation (i.e. how similar in meaning two words or pieces of text are to each other), ESA is the process of understanding the meaning of a piece text, as a combination of the concepts found in that text.
 - Corpus or Corpora. A usually large collection of documents that can be used to infer and validate linguistic rules, as well as to do statistical analysis and hypothesis testing.
 
 
-## Sentiment analysis
+### Sentiment analysis
 - https://en.wikipedia.org/wiki/Sentiment_analysis
 - The use of Natural Language Processing techniques to extract subjective information from a piece of text. i.e. whether an author is being subjective or objective or even positive or negative. (can also be referred to as Opinion Mining)
 - http://varianceexplained.org/r/trump-tweets/
 - http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/
 
-## Speech recognition
+### Speech recognition
 https://www.wikiwand.com/en/Speech_recognition
 
-### HMM
+#### HMM
 https://en.wikipedia.org/wiki/Hidden_Markov_model
 
 
-## Deep learning approaches
+### Deep learning approaches
 - Modern Deep Learning Techniques Applied to Natural Language Processing: https://nlpoverview.com/
 - https://github.com/brianspiering/awesome-dl4nlp
 - Deep Learning in NLP: https://veredshwartz.blogspot.com/2018/08/deep-learning-in-nlp.html#
@@ -187,14 +187,14 @@ https://en.wikipedia.org/wiki/Hidden_Markov_model
 - http://blog.aylien.com/modeling-documents-generative-adversarial-networks/
 
 
-### CNN-baserd 
+#### CNN-baserd 
 See [CNNs](CNNs.md)
 - CNN for NLP: http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 - http://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html
 - How to read: Character level deep learning: https://offbit.github.io/how-to-read/
 - #PAPER Connectionist Temporal Classification: https://distill.pub/2017/ctc/
 
-### RNN-based 
+#### RNN-based 
 See [[RNNs]]
 - RNN for NLP: https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
 - http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
@@ -208,12 +208,12 @@ See [[RNNs]]
 - The context is a vector (an array of numbers, basically) in the case of machine translation. The encoder and decoder tend to both be recurrent neural networks.
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
-### Google Neural Machine Translation (GNMT)
+#### Google Neural Machine Translation (GNMT)
 - https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation
 - Google Neural Machine Translation (GNMT) is a neural machine translation (NMT) system developed by Google and introduced in November 2016, that uses an artificial neural network to increase fluency and accuracy in Google Translate.
 - #PAPER  Zero-shot translation: https://arxiv.org/abs/1611.04558
 	- Google Neural Machine Translation (GNMT) is a neural machine translation (NMT) system developed by Google and introduced in November 2016, that uses an artificial neural network to increase fluency and accuracy in Google Translate.
 	- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 
-### Transformer-based
+#### Transformer-based
 See [Transformers#For NLP](Transformers.md#For%20NLP)

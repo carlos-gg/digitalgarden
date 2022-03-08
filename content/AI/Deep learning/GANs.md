@@ -3,7 +3,7 @@ title: "Generative Adversarial Networks (GANs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - A GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train. 
 - List of papers and other on Generative Adversarial Networks: https://github.com/pshams55/GAN-Case-Study
 - Generative Adversarial Networks: https://spectra.pub/ml/gans
@@ -30,10 +30,10 @@ disableToc: false
 		- Self Attention Mechanism [GANs#^sagan](GANs.md#%5Esagan):  The authors of Self Attention GANs claim that convolutions used for generating images look at information that are spread locally. That is, they miss out on relationships that span globally due to their restrictive receptive field. Self-Attention Generative Adversarial Network allows attention-driven, long-range dependency modeling for image generation tasks. 
 		- Miscellaneous Techniques: Feature Matching, Mini Batch Discrimination, Historical Averaging, One-sided Label Smoothing, Virtual Batch Normalization. See [GANs#^improvedgans](GANs.md#%5Eimprovedgans)
 
-# Courses
+## Courses
 - #COURSE Generative Adversarial Networks ( DeepMind x UCL | Deep Learning Lectures | 9/12): https://www.youtube.com/watch?v=wFsI2WqUfdA&t=850s
 
-# Code
+## Code
 - #CODE Keras-GAN - Collection of Keras implementations of GANs: https://github.com/eriklindernoren/Keras-GAN
 - #CODE Pytorch-GAN - Collection of Pytorch implementations of GANs: https://github.com/eriklindernoren/PyTorch-GAN
 - #CODE Generative models in Tensorflow and Pytorch: https://github.com/wiseodd/generative-models
@@ -42,7 +42,7 @@ disableToc: false
 	- This repository contains material related with GANs for synthetic data generation, in particular regular tabular data and time-series
 
 
-# References
+## References
 Review papers:
 - #PAPER A Survey on Generative Adversarial Networks: Variants, Applications,and Training (Jabbar 2020): https://arxiv.org/abs/2006.05132
 - #PAPER A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (Gui 2020): https://arxiv.org/abs/2001.06937
@@ -83,27 +83,27 @@ Review papers:
 	- This method reduces large amount of computation when doing backpropagation and consequently achieves a more efficient training paradigm
 
 
-# Subtopics
+## Subtopics
 
-## GANs for super-resolution
+### GANs for super-resolution
 See [Super-resolution#GAN-based](Super-resolution#GAN-based.md)
 
 
-## GANs for missing data, imputation and inpainting
+### GANs for missing data, imputation and inpainting
 See [Inpainting#GAN-based](Inpainting#GAN-based.md)
 
 
-## Image-to-image translation. Conditional GANs
+### Image-to-image translation. Conditional GANs
 See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-based.md)
 
 
-## GANs for spatio-temporal data generation
+### GANs for spatio-temporal data generation
 - #PAPER COT-GAN: Generating Sequential Data via Causal Optimal Transport (Xu 2020): https://arxiv.org/abs/2006.08571
 - #PAPER SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss (Klemmer 2021): https://arxiv.org/abs/2109.15044# ^spate-gan
 	- #CODE https://github.com/konstantinklemmer/spate-gan
 
 
-## GANs for representation learning and image synthesis 
+### GANs for representation learning and image synthesis 
 - #PAPER Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, Laplacian GAN (Denton 2015): https://arxiv.org/abs/1506.05751
 - #PAPER Adversarial feature learning, BiGAN (Donahue 2017): https://arxiv.org/abs/1605.09782
 - #PAPER Large Scale Adversarial Representation Learning, BigBiGAN (Donahue 2019): https://arxiv.org/abs/1907.02544
@@ -126,7 +126,7 @@ See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-base
 	- #CODE https://paperswithcode.com/paper/instance-conditioned-gan?from=n17
 
 
-## Semi-supervised GANs
+### Semi-supervised GANs
 - #PAPER Improved Techniques for Training GANs (Saliman 2016): https://arxiv.org/abs/1606.03498 ^improvedgans
 	- https://towardsdatascience.com/semi-supervised-learning-with-gans-9f3cb128c5e
 	- https://hjweide.github.io/semi-supervised-dcgan
@@ -137,11 +137,11 @@ See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-base
     - The GAN framework can be integrated with almost any available neural network classifier in order to make use of unlabeled data
 
 
-## Few/one-shot learning GANs 
+### Few/one-shot learning GANs 
 See [One, few-shot learning#Few one-shot learning GANs](One,%20few-shot%20learning#Few%20one-shot%20learning%20GANs.md)
 
 
-## GANs for anomaly detection
+### GANs for anomaly detection
 - #PAPER A Survey on GANs for Anomaly Detection (Di Mattia 2019): https://arxiv.org/abs/1906.11632 
 - #PAPER TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks (Geiger 2020): https://arxiv.org/abs/2009.07769
 	- #CODE [[#^oriontfanomalies]]

@@ -3,20 +3,20 @@ title: "Multilayer perceptrons (MLPs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - A multilayer perceptron (MLP) is a feed forward artificial neural network model that maps sets of input data onto a set of appropriate outputs. An MLP consists of multiple layers of nodes in a directed graph, with each layer fully connected to the next one. Except for the input nodes, each node is a neuron (or processing element) with a non linear activation function. 
 - MLP utilizes a supervised learning technique called back propagation for training the network
 - MLP is a modification of the standard linear perceptron and can distinguish data that is not linearly separable
 - Multilayer Perceptron (MLP) vs Convolutional Neural Network in Deep Learning: https://medium.com/data-science-bootcamp/multilayer-perceptron-mlp-vs-convolutional-neural-network-in-deep-learning-c890f487a8f1
 
-# Code
+## Code
 - #CODE MLP for MNIST: https://github.com/fchollet/keras/blob/master/examples/mnist_mlp.py
 - #CODE Sklearn MLP implementation: 
 	- https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
 	- https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html#sklearn.neural_network.MLPRegressor
 
 
-# Perceptron
+## Perceptron
 - History of the Perceptron: https://medium.com/@Jaconda/a-concise-history-of-neural-networks-2070655d3fec
 - https://www.neuraldesigner.com/blog/perceptron-the-main-component-of-neural-networks
 - https://fr.mathworks.com/help/nnet/ug/perceptron-neural-networks.html
@@ -24,7 +24,7 @@ disableToc: false
 - http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 
 
-# MLPs for vision and language
+## MLPs for vision and language
 - #PAPER MLP-Mixer: An all-MLP Architecture for Vision (Tolstikhin 2021): https://arxiv.org/abs/2105.01601v2
 	- #CODE https://paperswithcode.com/paper/mlp-mixer-an-all-mlp-architecture-for-vision?from=n9
 	- CNNs are widely regarded as the go-to model for dealing with computer vision tasks. Attention-based architectures have also emerged as promising approaches that produce good performance on a variety of vision tasks. Despite this trend and the successes of attention and CNN architectures, this paper proposes a simple alternative architecture, MLP-Mixer, based on multi-layer perceptions, that produces competitive results on image classification benchmarks

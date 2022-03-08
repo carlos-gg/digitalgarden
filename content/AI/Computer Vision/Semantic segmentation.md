@@ -7,20 +7,20 @@ See:
 [Encoder-decoder networks](Encoder-decoder%20networks.md) for image segmentation
 [Object detection](Object%20detection.md)
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Image_segmentation
 - https://github.com/mrgloom/awesome-semantic-segmentation
 - https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
 - Overview of semantic image segmentation: https://www.jeremyjordan.me/semantic-segmentation/
 
-# Code
+## Code
 - #CODE DeepLab2: https://github.com/google-research/deeplab2
 	- DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - #CODE Segmentation models with pretrained backbones (PyTorch): https://github.com/qubvel/segmentation_models
 - #CODE https://www.tensorflow.org/tutorials/images/segmentation
 - #CODE https://github.com/yassouali/pytorch-segmentation
 
-# References
+## References
 Review papers:
 - #PAPER Deep learning for cardiac imagesegmentation: A review (2019): https://arxiv.org/abs/1911.03723
 - #PAPER Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey (Sultana, 2020): https://arxiv.org/abs/2001.0407430

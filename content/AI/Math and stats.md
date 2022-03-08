@@ -3,7 +3,7 @@ title: "Maths and Statistics"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - Statistics cheatsheet: https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
 - https://github.com/rouseguy/intro2stats
 - Stanford-cs-229 ML, probability and stats refresher: https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf
@@ -13,7 +13,7 @@ disableToc: false
 - https://scipy-latinamerica.github.io/revista.io/blog/2018/10/22/probabilidad-y-estadistica-con-python/
 - Trigonometry refresher: https://stanford.edu/~shervine/teaching/cme-102/trigonometry
 
-# Books
+## Books
 - #BOOK Essential Mathematics and Statistics for Science (Currell 2009, WILEY): https://www.wiley.com/en-us/Essential+Mathematics+and+Statistics+for+Science%2C+2nd+Edition-p-9780470694480
 	- http://www.stewartschultz.com/statistics/books/Essential%20Mathematics.pdf
 - #BOOK Think Stats - Exploratory Data Analysis in Python (Downey 2014): https://greenteapress.com/wp/think-stats-2e/
@@ -25,7 +25,7 @@ disableToc: false
 	- R language
 - #BOOK Jupyter Guide to Linear Algebra: https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html
 
-# Courses
+## Courses
 - #COURSE Statistical inference for data science: https://www.coursera.org/learn/statistical-inference
 	- https://leanpub.com/LittleInferenceBook
 	- Coursera Inference Version 3: https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
@@ -34,7 +34,7 @@ disableToc: false
 - #COURSE Introduction to Probability and Statistics (MIT): https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
 - #TALK Statistics in Python (Varoquaux 2015 Euroscipy): https://www.youtube.com/watch?v=yaSgoGLXKOg
 
-# Code
+## Code
 - #CODE Numpy: https://numpy.org/
 	- #PAPER Array programming with NumPy (Harris 2020): https://www.nature.com/articles/s41586-020-2649-2
 - #CODE Scipy: https://www.scipy.org/
@@ -44,8 +44,8 @@ disableToc: false
 	- Python library is inspired by the MATLAB Spot – A Linear-Operator Toolbox project
 
 
-# Subtopics
-## Calculus
+## Subtopics
+### Calculus
 - Calculus refresher: https://stanford.edu/~shervine/teaching/cme-102/calculus
 - Ordinary Differential Equations
 	- https://stanford.edu/~shervine/teaching/cme-102/cheatsheet-first-ode
@@ -60,7 +60,7 @@ disableToc: false
 	- Multivariable Calculus (18.02SC): https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010
 	- Highlights of calculus (Strang): https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010
 
-## Linear Algebra
+### Linear Algebra
 - https://en.wikipedia.org/wiki/Linear_algebra
 - The Matrix Cookbook (Brandt 2012): https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 - Stanford, Linear algebra refresher: https://stanford.edu/~shervine/teaching/cme-102/linear-algebra
@@ -79,7 +79,7 @@ disableToc: false
 	- https://github.com/JeanKossaifi/tensorly-notebooks/blob/master/02_tensor_decomposition/cp_decomposition.ipynb
 - #CODE Eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms: http://eigen.tuxfamily.org/index.php?title=Main_Page
 
-### Matrix decompositions
+#### Matrix decompositions
 - https://en.wikipedia.org/wiki/Matrix_decomposition
 - http://people.duke.edu/~ccc14/sta-663/LinearAlgebraMatrixDecompWithSolutions.html
 - http://hameddaily.blogspot.be/2016/12/simple-matrix-factorization-with.html
@@ -97,7 +97,7 @@ disableToc: false
 - QR decomposition: https://en.wikipedia.org/wiki/QR_decomposition
 
 
-## Distances
+### Distances
 - Anscombe dataset: http://datascienceplus.com/the-importance-of-data-visualization/
 - Distance = 1 - Similarity 
 - Having a set of points (space), a distance d is a function d(x,y) that takes 2 point in the space and produces a real number. It must satisfy 4 axioms:
@@ -108,16 +108,16 @@ disableToc: false
 - http://www.benfrederickson.com/distance-metrics/ (notebook kind of post using pandas, d3)
 - https://github.com/andrecosta90/distance-similarity-measures
 
-### Minkowski
+#### Minkowski
 - The Minkowski distance is the generalized Lp -norm of the difference. 
 - Lp-norm is the distance d defined as: d = (sum|x_i - y_i|^p)^1/p 
 
-### Euclidean
+#### Euclidean
 - Same as L2-norm (Lp-norm when p=2)
 - Most familiar distance measure, defined as the square root of the sum of the square distances: d = sqrt(sum((x_i - y_i)^2)
 - An equivalent to the L2-norm is the Squared Euclidean distance or sum of squared difference (SSD). This is the fundamental metric in least squares problems and linear algebra. It’s very sensitive to outliers (because of the square). The Mean Squared Error (MSE) is the normalized version of the SSD. 
 
-### Manhattan
+#### Manhattan
 - https://en.wikipedia.org/wiki/Taxicab_geometry
 - Same as L1-norm (Lp-norm when p=1)
 - Also known as Taxicab norm and SAD
@@ -125,24 +125,26 @@ disableToc: false
 - In solving an underdetermined system of linear equations, the regularisation term for the parameter vector is expressed in terms of the-norm (taxicab geometry) of the vector. This approach appears in the signal recovery framework called compressed sensing.
 - The Mean-Absolute Error (MAE) is a normalized version of the SAD: d_MAE(x,y) = d_SAD(x,y)/n = 1/n sum(|x_i - y_i|)
 
-### Cosine
+#### Cosine
 - The cosine distance contains the dot product scaled by the product of the Euclidean distances from the origin. It represents the angular distance of two vectors while ignoring their scale. 
 
-### Jaccard
+#### Jaccard
+- The Jaccard distance, is a measure of how _dissimilar_ two sets are. It is the complement of the Jaccard index and can be found by subtracting the Jaccard Index from 100%
+- https://en.wikipedia.org/wiki/Jaccard_index
 
-### Hamming
-The hamming distance represents the number of entries in the two sample vectors which are different. It is a fundamental distance measure in information theory but less relevant in non-integer numerical problems. 
+#### Hamming
+- The hamming distance represents the number of entries in the two sample vectors which are different. It is a fundamental distance measure in information theory but less relevant in non-integer numerical problems. 
 
-### Pearson
-The Pearson distance is a correlation distance based on Pearson's product-momentum correlation coefficient of the two sample vectors. Since the correlation coefficient falls between [-1, 1], the Pearson distance lies in [0, 2] and measures the linear relationship between the two vectors. 
+#### Pearson
+- The Pearson distance is a correlation distance based on Pearson's product-momentum correlation coefficient of the two sample vectors. Since the correlation coefficient falls between [-1, 1], the Pearson distance lies in [0, 2] and measures the linear relationship between the two vectors. 
 d_pearson(x,y) = 1 - Correlation(x,y)
 
 
-## Descriptive stats
+### Descriptive stats
 - https://en.wikipedia.org/wiki/Descriptive_statistics
 - http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics/
 
-### Correlation and dependance
+#### Correlation and dependance
 - https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
 - https://en.wikipedia.org/wiki/Correlation_and_dependence
 - Correlation is a statistical measure that describes the association between random variables. Why is correlation a useful metric?
@@ -172,14 +174,14 @@ d_pearson(x,y) = 1 - Correlation(x,y)
 	- Also, weak or no correlation does not imply lack of association. Correlation is only one data summary statistic that by no means tells the complete story of relationships in the data.
 
 
-## Experimental design
+### Experimental design
 See [Active learning](Active%20learning.md)
 - Coursera - data scientist's toolbox: https://www.youtube.com/watch?v=vSXOJnGNtM4
 - Good experiment: replication, measure variability, generalise to the problem, transparent
 - Confounding variable - strategies: randomization, stratifying 
 - Prediction is not and inference. Both are important and depend on the problem. Prediction is more challenging that inference. For prediction there are key quantities (metrics): sensitivity, specificity, positive predictive value, negative predictive value, accuracy
 
-### A/B testing
+#### A/B testing
 - https://en.wikipedia.org/wiki/A/B_testing
 - In marketing and business intelligence, A/B testing is a term for a randomized experiment with two variants, A and B, which are the control and variation in the controlled experiment. A/B testing is a form of statistical hypothesis testing with two variants leading to the technical term, two-sample hypothesis testing, used in the field of statistics. Other terms used for this method include bucket tests and split-run testing.
 - https://www.optimizely.com/ab-testing/
@@ -199,13 +201,13 @@ See [Active learning](Active%20learning.md)
 	- https://github.com/indeedeng/proctor
 	- http://opensource.indeedeng.io/proctor/
 
-### Multi-armed bandit
+#### Multi-armed bandit
 - http://blog.actblue.com/2015/04/29/the-multi-armed-bandit-new-and-much-improved-ab-testing-tools-2/
 - https://conversionxl.com/bandit-tests/
 - https://support.google.com/analytics/answer/2844870?hl=en
 - https://vwo.com/blog/multi-armed-bandit-algorithm/
 
-## Statistical Inference
+### Statistical Inference
 See [Bayesian modelling](Bayesian%20modelling.md)
 
 - https://en.wikipedia.org/wiki/Statistical_inference
@@ -215,7 +217,7 @@ See [Bayesian modelling](Bayesian%20modelling.md)
 - Question to answer: Are the statistics calculated on a small sample representative of the ones of the whole population?
 - http://www.datasciencecentral.com/profiles/blogs/the-death-of-the-statistical-test-of-hypothesis
 
-### Frequentist inference
+#### Frequentist inference
 - https://en.wikipedia.org/wiki/Frequentist_inference
 - Statistical Hypothesis testing: http://youtu.be/Wqvx6_12ZMs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-hypothesis-testing
@@ -262,7 +264,7 @@ See [Bayesian modelling](Bayesian%20modelling.md)
 - Goodness of fit: https://en.wikipedia.org/wiki/Goodness_of_fit
 	- Chi squared: https://en.wikipedia.org/wiki/Chi-squared_test
 
-## Bootstrap and permutation tests
+### Bootstrap and permutation tests
 - http://youtu.be/0hNQx9nagq4?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-the-bootstrap-and-resampling
 - The bootstrap is a tremendously useful tool for constructing confidence intervals and calculating standard errors for difficult statistics. That’s the bootstrap principle: investigate the sampling distribution of a statistic by simulating repeated realizations from the observed distribution.
@@ -274,11 +276,11 @@ See [Bayesian modelling](Bayesian%20modelling.md)
 	- recalculate the statistic (such as the difference in means),
 	- calculate the percentage of simulations where the simulated statistic was more extreme (toward the alternative) than the observed.
 
-### Bayesian bootstrap
+#### Bayesian bootstrap
 http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 - #CODE Bayesian bootstrap: https://github.com/lmc2179/bayesian_bootstrap
 
-## Probability theory
+### Probability theory
 - https://en.wikipedia.org/wiki/Probability_theory
 - https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability
 - https://stanford.edu/~shervine/teaching/cme-106/key-concepts
@@ -298,7 +300,7 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 		- http://cs229.stanford.edu/section/cs229-prob.pdf	
 		- http://cs229.stanford.edu/section/cs229-prob-slide.pdf
 
-### Random variables
+#### Random variables
 - http://youtu.be/Shzt9uZ8BII?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-random-variables
 - Random variable is a numerical outcome of an experiment. The random variables that we study will come in two varieties, discrete or continuous. Discrete random variables are random variables that take on only a countable number of possibilities. Mass functions will assign probabilities that they take specific values. Continuous random variable can conceptually take any value on the real line or some subset of the real line and we talk about the probability that they lie within some range. Densities will characterize these probabilities.
@@ -311,13 +313,13 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 	- A PDF, or density of a continuous random variable, is a function, whose value at any given sample (or point) in the sample space(the set of possible values taken by the random variable) can be interpreted as providing a relative likelihood that the value of the random variable would equal that sample.
 	- The PDF is used to specify the probability of the random variable falling within a particular range of values, as opposed to taking on any one value.
 
-### Conditional probability
+#### Conditional probability
 - http://youtu.be/u6AH6qsSVA4?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-conditional-probability
 - Conditioning is a central subject in statistics. If we are given information about a random variable, it changes the probabilities associated with it. For example, the probability of getting a one when rolling a (standard) die is usually assumed to be one sixth. If you were given the extra information that the die roll was an odd number (hence 1, 3 or 5) then conditional on this new information, the probability of a one is now one third.
 - http://setosa.io/ev/conditional-probability/
 
-### Independance
+#### Independance
 - https://en.wikipedia.org/wiki/Independence_(probability_theory)
 - http://youtu.be/MY1EfrR1ZUs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-independence
@@ -329,7 +331,7 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-iid-random-variables
 	- Random variables are said to be independent and identically distributed (iid) if they are independent and all are drawn from the same population. The reason iid samples are so important is that they are a model for random samples. This is a default starting point for most statistical inferences.
   
-### Common distributions
+#### Common distributions
 - https://stanford.edu/~shervine/teaching/cme-106/distribution-tables
 - https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-some-common-distributions
@@ -348,7 +350,7 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 	- The Poisson distribution is used to model counts. It is perhaps only second to the normal distribution usefulness. In fact, the Bernoulli, binomial and multinomial distributions can all be modeled by clever uses of the Poisson.
 	- The Poisson distribution is especially useful for modeling unbounded counts or counts per unit of time (rates). Like the number of clicks on advertisements, or the number of people who show up at a bus stop. There is also a deep connection between the Poisson distribution and popular models for so-called event-time data.
 
-### Expected value
+#### Expected value
 - https://en.wikipedia.org/wiki/Expected_value
 - In probability theory, the expected value of a random variable, intuitively, is the long-run average value of repetitions of the experiment it represents.
 - Less roughly, the law of large numbers states that the arithmetic mean of the values almost surely converges to the expected value as the number of repetitions approaches infinity. The expected value is also known as the expectation, mathematical expectation, EV, average, mean value, mean, or first moment.
@@ -356,27 +358,27 @@ http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-mo
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-expected-values
 - Expected values characterize a distribution. The most useful expected value, the mean, characterizes the center of a density or mass function. Another expected value summary, the variance, characterizes how spread out a density is. Yet another expected value calculation is the skewness, which considers how much a density is pulled toward high or low values.
 
-### Central limit theorem
+#### Central limit theorem
 - https://en.wikipedia.org/wiki/Central_limit_theorem
 - http://youtu.be/FAIyVHmniK0?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-the-central-limit-theorem
 - CLT is one of the most important theorems in statistics. For our purposes, the CLT states that the distribution of averages of iid variables becomes that of a standard normal as the sample size increases.
 
-### Kullback-Leibler Divergence
+#### Kullback-Leibler Divergence
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
 
 
-## Bayesian modelling
+### Bayesian modelling
 See [[Bayesian modelling]]
 
-## Regression analysis
+### Regression analysis
 See [Regression](AI/Supervised%20Learning/Regression.md)
 - https://en.wikipedia.org/wiki/Regression_analysis
 - Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[machine learning]]. See [[Regression]] for a supervised machine learning perspective.
 
 
-## Mathematical Optimization
+### Mathematical Optimization
 - https://en.wikipedia.org/wiki/Mathematical_optimization
 - A birds-eye view of optimization algorithms (Pedregosa): http://fa.bianp.net/teaching/2018/eecs227at/
 - http://people.duke.edu/~ccc14/sta-663/BlackBoxOptimization.html
@@ -394,7 +396,7 @@ See [Regression](AI/Supervised%20Learning/Regression.md)
 	- https://towardsdatascience.com/deep-learning-with-jax-and-elegy-c0765e3ec31a
 	- Machine Learning with JAX - From Zero to Hero: https://www.youtube.com/watch?v=SstuvS-tVc0
 
-### Heuristics
+#### Heuristics
 A heuristic is any algorithm which is not guaranteed (mathematically) to find the solution, but which is nevertheless useful in certain practical situations.
 - Genetic algorithms
 	- https://en.wikipedia.org/wiki/Genetic_algorithm
@@ -405,7 +407,7 @@ A heuristic is any algorithm which is not guaranteed (mathematically) to find th
 	- The method uses the concept of a simplex, which is a special polytope of n+ 1 vertices in n dimensions. Examples of simplices include a line segment on a line, a triangle on a plane, a tetrahedron in three-dimensional space and so forth. The method approximates a local optimum of a problem with n variables when the objective function varies smoothly and is unimodal.
 	- Nelder–Mead in n dimensions maintains a set of n+1test points arranged as a simplex. It then extrapolates the behavior of the objective function measured at each test point, in order to find a new test point and to replace one of the old test points with the new one, and so the technique progresses. The simplest approach is to replace the worst point with a point reflected through the centroid of the remaining n points. If this point is better than the best current point, then we can try stretching exponentially out along this line. On the other hand, if this new point isn't much better than the previous value, then we are stepping across a valley, so we shrink the simplex towards a better point.
 
-### Iterative methods
+#### Iterative methods
 The iterative methods used to solve problems of nonlinear programming differ according to whether they evaluate Hessians, gradients, or only function values.
 - Gradient descent
 	- https://en.wikipedia.org/wiki/Gradient_descent
@@ -417,20 +419,20 @@ The iterative methods used to solve problems of nonlinear programming differ acc
 - Interior point method: https://en.wikipedia.org/wiki/Interior_point_method
 
 
-## Monte Carlo methods
+### Monte Carlo methods
 - See [Bayesian modelling#Code](Bayesian%20modelling.md#Code)
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
 
-### Sequential Monte Carlo (SMC or particle filter)
+#### Sequential Monte Carlo (SMC or particle filter)
 - Particle filters or Sequential Monte Carlo (SMC) methods are a set of Monte Carlo algorithms used to solve filtering problems arising in signal processing and Bayesian statistical inference. The filtering problem consists of estimating the internal states in dynamical systems when partial observations are made, and random perturbations are present in the sensors as well as in the dynamical system. The objective is to compute the posterior distributions of the states of some Markov process, given some noisy and partial observations.
 
-### Markov Process
+#### Markov Process
 - https://en.wikipedia.org/wiki/Markov_chain
 - https://en.wikipedia.org/wiki/Markov_property
 - A stochastic process has the Markov property if the conditional probability distribution of future states of the process (conditional on both past and present states) depends only upon the present state, not on the sequence of events that preceded it. A process with this property is called a Markov process.
 - Markov Chains Explained Visually: http://setosa.io/ev/markov-chains/
 
-#### Hidden Markov Model (HMM)
+##### Hidden Markov Model (HMM)
 - https://en.wikipedia.org/wiki/Hidden_Markov_model
 - Hidden Markov Model (HMM) is a statistical Markov model in which the system being modeled is assumed to be a Markov process with unobserved (i.e. hidden) states.
 - HMM is a Markov chain for which the state is only partially observable. In other words, observations are related to the state of the system, but they are typically insufficient to precisely determine the state. Several well-known algorithms for hidden Markov models exist. 
@@ -440,21 +442,21 @@ The iterative methods used to solve problems of nonlinear programming differ acc
 - https://github.com/hmmlearn/hmmlearn
 - http://hmmlearn.readthedocs.io/en/latest/tutorial.html#available-models
 
-### MCMC
+#### MCMC
 - http://people.duke.edu/~ccc14/sta-663/MCMC.html
 - http://people.duke.edu/~ccc14/sta-663/MonteCarlo.html
 - http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html
 
-### Nested Sampling
+#### Nested Sampling
 - https://en.wikipedia.org/wiki/Nested_sampling_algorithm
 - The nested sampling algorithm is a computational approach to the problem of comparing models in Bayesian statistics. 
 
 
-## Time series analysis
+### Time series analysis
 See [Time Series analysis](Time%20Series%20analysis.md)
 
 
-## Compressed sensing
+### Compressed sensing
 - https://en.wikipedia.org/wiki/Compressed_sensing
 - Compressed sensing(also known as compressive sensing, compressive sampling, or sparse sampling) is a signal processing technique for efficiently acquiring and reconstructing a signal, by finding solutions to underdetermined linear systems. This is based on the principle that, through optimization, the sparsity of a signal can be exploited to recover it from far fewer samples than required by the Shannon-Nyquist sampling theorem.
 - There are two conditions under which recovery is possible: 
@@ -462,11 +464,11 @@ See [Time Series analysis](Time%20Series%20analysis.md)
 	- Incoherence, which is applied through the isometric property which is sufficient for sparse signals
 - https://calculatedcontent.com/2012/12/28/foundations-theory-of-compressed-sensing/amp/
 
-### Nyquist theorem
+#### Nyquist theorem
 - https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem
 - In the field of digital signal processing, the sampling theorem is a fundamental bridge between continuous-time signals(often called "analog signals") and discrete-time signals(often called "digital signals"). It establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal of finite bandwidth.
 
-### Matching pursuit
+#### Matching pursuit
 - https://en.wikipedia.org/wiki/Matching_pursuit
 - Matching pursuit (MP) is asparse approximation algorithm which involves finding the "best matching" projections of multidimensional data onto the span of an over-complete (i.e., redundant) dictionary D.
 - Orthogonal Matching Pursuit

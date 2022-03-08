@@ -9,11 +9,11 @@ See:
 [Semantic segmentation](Semantic%20segmentation.md)
 [Residual and dense neural networks](Residual%20and%20dense%20neural%20networks.md)
 
-# Resources
+## Resources
 - https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 - https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/
 
-# References
+## References
 - #PAPER AlexNet: ImageNet Classification with Deep Convolutional Neural Networks (2012): https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 	- This architecture was one of the first deep networks to push ImageNet Classification accuracy by a significant stride in comparison to traditional methodologies. It is composed of 5 convolutional layers followed by 3 fully connected layers.
 	- AlexNet, proposed by Alex Krizhevsky, uses ReLu(Rectified Linear Unit) for the non-linear part, instead of a Tanh or Sigmoid function which was the earlier standard for traditional neural networks. Another problem that this architecture solved was reducing the over-fitting by using a Dropout layer after every FC layer.

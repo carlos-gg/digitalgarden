@@ -5,7 +5,7 @@ disableToc: false
 
 See [Image-to-image translation](Image-to-image%20translation.md)
 
-# Resources
+## Resources
 - https://github.com/ptkin/Awesome-Super-Resolution
 - https://github.com/ChaofWang/Awesome-Super-Resolution
 - https://keras.io/examples/vision/super_resolution_sub_pixel/
@@ -13,7 +13,7 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 - #TALK How Super Resolution Works (2019): https://www.youtube.com/watch?v=KULkSwLk62I
 - #TALK Can you enhance that? Single Image Super Resolution (Pydata 2019): https://www.youtube.com/watch?v=lmUxbRY7H2I
 
-# Code
+## Code
 - #CODE BasicSR: Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring (Pytorch). https://github.com/xinntao/BasicSR
 	- It includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, etc
 - #CODE Single Image Super Resolution benchmark (Keras): https://github.com/hieubkset/Keras-Image-Super-Resolution
@@ -22,8 +22,8 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 	- http://krasserm.github.io/2019/09/04/super-resolution/
 
 
-# References
-## Review Papers
+## References
+### Review Papers
 - #PAPER Deep Learning for Single Image Super-Resolution: A Brief Review (2018): https://arxiv.org/abs/1808.03344
 - #PAPER A Deep Journey into Super-resolution: A survey (Anwar 2020): https://arxiv.org/abs/1904.07523
 	- https://github.com/saeed-anwar/SRsurvey
@@ -34,7 +34,7 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 - #PAPER A Comprehensive Review of Deep Learning-based Single Image Super-resolution (Bashir 2021): https://arxiv.org/abs/2102.09351
 
 
-## CNN-based
+### CNN-based
 - #PAPER Image Super-Resolution Using Deep Convolutional Networks, SRCNN (Dong 2015): https://arxiv.org/abs/1501.00092
 	- #CODE https://github.com/MarkPrecursor/SRCNN-keras
 	- #CODE https://github.com/yukia18/srcnn-keras
@@ -120,7 +120,7 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 	- #CODE https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
 
 
-## GAN-based
+### GAN-based
 - #PAPER SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (Ledig 2016): https://arxiv.org/abs/1609.04802
 	- #CODE https://github.com/idealo/image-super-resolution
 	- #CODE https://github.com/tensorlayer/srgan
@@ -151,7 +151,7 @@ See [Image-to-image translation](Image-to-image%20translation.md)
 	- Proposed a high-order degradation modeling process to better simulate complex real-world degradations (blur, downsampling, noise, etc and combinations)
 
 
-## Transformer-based
+### Transformer-based
 - #PAPER Learning Texture Transformer Network for Image Super-Resolution (Yang 2020): https://arxiv.org/abs/2006.04139 ^ttsr
 	- #CODE https://github.com/researchmm/TTSR
 	- Texture Transformer Network for Image Super-Resolution (TTSR)

@@ -3,25 +3,25 @@ title: "Generative modeling"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - Generative models: https://openai.com/blog/generative-models/ 
 - Deep Generative Models: https://www.cs.toronto.edu/~slwang/generative_model.pdf
 - Taxonomy of Generative Models: https://christineai.blog/taxonomy/
 
-# Courses
+## Courses
 - #COURSE Deep Generative Modeling: VAEs and GANs (MIT 6.S191): https://www.youtube.com/watch?v=rZufA635dq4&t=1062s
 
 
-## Autoencoders
+### Autoencoders
 See [Autoencoders#VAEs](Autoencoders.md#VAEs)
 
-## GANs
+### GANs
 See [[GANs]]
 
-## Normalizing flows
+### Normalizing flows
 See [Normalizing flows](Normalizing%20flows.md)
 
-## Generative models for Image data
+### Generative models for Image data
 See:
 [Image-to-image translation](Image-to-image%20translation.md)
 [Image-to-image translation#GAN-based](Image-to-image%20translation.md#GAN-based)

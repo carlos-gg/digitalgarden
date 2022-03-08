@@ -3,24 +3,24 @@ title: "Image-to-image translation"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - The task of Image-to-image translation is to learn the mapping from a given image (X) to a specific target image (Y), e.g., mapping grayscale images to RGB images.
 - Learning the mapping from one visual representation to another requires an understanding of underlying features that are shared between these representations, such features are either domain-independent or domain-specific.
 - https://paperswithcode.com/task/image-to-image-translation
 - https://github.com/weihaox/awesome-image-translation
 - Deep Domain Adaptation In Computer Vision: https://towardsdatascience.com/deep-domain-adaptation-in-computer-vision-8da398d3167f
 
-# References
+## References
 Review papers:
 - #PAPER Image-to-Image Translation: Methods and Applications (Pang 2021): https://arxiv.org/abs/2101.08629
 
 
-## CNN-based
+### CNN-based
 See [Encoder-decoder networks](Encoder-decoder%20networks.md)
 - Related to the task of supervised semantic segmentation but changing the Y and the loss (MAE, MSE or other reconstruction loss)
 
 
-## GAN-based
+### GAN-based
 See [GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
 Review papers:
 - #PAPER Deep Generative Adversarial Networks for Image-to-Image Translation: A Review (Alotaibi 2020): https://www.mdpi.com/2073-8994/12/10/1705/htm#  ^I2IGANs20
@@ -38,7 +38,7 @@ Review papers:
 			- Autoencoder-based (UNIT, BranchGAN)
 			- Disentangler representation (MUNIT, DIRT, DosGAN)
 
-### Paired (supervised) translation 
+#### Paired (supervised) translation 
 - #PAPER Image-to-Image Translation with Conditional Adversarial Networks, pix2pix (Isola 2016): https://arxiv.org/abs/1611.07004 ^pix2pix
 	- Loss function learned by the network itself instead of L2, L1 norms
 	- UNET generator, CNN discriminator
@@ -82,7 +82,7 @@ Review papers:
 	- #CODE https://github.com/clovaai/stargan-v2
 
 
-### Unpaired (unsupervised) translation
+#### Unpaired (unsupervised) translation
 - #PAPER Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, CycleGAN (Zhu, 2017): https://arxiv.org/abs/1703.10593 
 	- #TALK https://www.youtube.com/watch?v=Fea4kZq0oFQ 
 	- #CODE https://github.com/clvrai/CycleGAN-Tensorflow
@@ -117,7 +117,7 @@ Review papers:
 - #PAPER Implicit Pairs for Boosting Unpaired Image-to-Image Translation (Ginger 2020): https://arxiv.org/abs/1904.06913v4
 
 
-## Flow-based
+### Flow-based
 - #CODE Image-to-image translation with flow-based generative model: https://github.com/yenchenlin/pix2pix-flow
 
 - #PAPER Flow-based Image-to-Image Translation with Feature Disentanglement (Kondo 2019): https://papers.nips.cc/paper/2019/file/ffedf5be3a86e2ee281d54cdc97bc1cf-Paper.pdf

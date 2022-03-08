@@ -3,7 +3,7 @@ title: "Dask"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - #TALK Dask for ad hoc distributed computing (Pydata): https://www.youtube.com/watch?v=EEfI-11itn0
 - #TALK Using Dask for Parallel Computing in Python: https://www.youtube.com/watch?v=s4ChP7tc3tA
 - #TALK Parallelizing Scientific Python with Dask | SciPy 2017 Tutorial | James Crist: https://www.youtube.com/watch?v=mbfsog3e5DA
@@ -11,7 +11,7 @@ disableToc: false
 - Parallel computing with Dask: https://xarray.pydata.org/en/v0.10.1/dask.html
 
 
-# Code
+## Code
 - #CODE Dask - flexible parallel computing library for analytics: https://github.com/dask/dask
 	- http://docs.dask.org/en/latest/cheatsheet.html
 - #CODE Dask-Jobqueue - Easily deploy Dask on job queuing systems like PBS, Slurm, MOAB, SGE, LSF, and HTCondor: https://github.com/dask/dask-jobqueue

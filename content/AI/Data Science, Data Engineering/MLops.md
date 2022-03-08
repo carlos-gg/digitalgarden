@@ -4,15 +4,15 @@ disableToc: false
 ---
 
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/MLOps
 - Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently. The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field
 - https://github.com/GokuMohandas/MadeWithML
 - https://github.com/visenger/awesome-mlops
 - https://github.com/EthicalML/awesome-production-machine-learning
 
-# Code
-## Experiment tracking
+## Code
+### Experiment tracking
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools
 - #CODE Weights & Biases: https://docs.wandb.com/
 	- Library that -helps you keep track of your machine learning projects. Use our tool to log hyperparameters and output metrics from your runs, then visualize and compare results and quickly share findings with your colleagues.
@@ -22,7 +22,7 @@ disableToc: false
 - #CODE ClearML: https://github.com/allegroai/clearml
 	- https://clear.ml/
 
-## Workflow managers
+### Workflow managers
 - #CODE MLFlow: https://github.com/mlflow/mlflow/ 
 	- An open source platform for the machine learning lifecycle. https://mlflow.org
 - #CODE Airflow: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows. https://github.com/apache/airflow

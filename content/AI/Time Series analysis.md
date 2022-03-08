@@ -9,7 +9,7 @@ See:
 [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
 [Deep learning#Deep learning for tabular data](Deep%20learning#Deep%20learning.md%20for%20tabular%20data)
 
-# Resources
+## Resources
 - https://en.wikipedia.org/wiki/Time_series
 - https://github.com/MaxBenChrist/awesome_time_series_in_python
 - https://github.com/frutik/awesome-timeseries
@@ -18,7 +18,7 @@ See:
 - Python to work with time series data: https://github.com/MaxBenChrist/awesome_time_series_in_python
 - timeseriesAI: https://github.com/timeseriesAI
 
-# Code
+## Code
 See [Forecasting#Code](Forecasting.md#Code)
 
 - #CODE TSflex: https://github.com/predict-idlab/tsflex
@@ -44,15 +44,15 @@ See [Forecasting#Code](Forecasting.md#Code)
 
 
 
-# Subtopics
+## Subtopics
 
-## Time Series Forecasting
+### Time Series Forecasting
 See [Forecasting](AI/Forecasting.md)
 
-## Anomaly and Outlier Detection
+### Anomaly and Outlier Detection
 See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 
-## TS models
+### TS models
 - Autoregressive: https://en.wikipedia.org/wiki/Autoregressive
 - Moving average: https://en.wikipedia.org/wiki/Moving_average_model
 - Autoregressive moving average (ARMA): https://en.wikipedia.org/wiki/Autoregressive_moving_average
@@ -60,7 +60,7 @@ See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 - Generalized additive model (GAM): https://en.wikipedia.org/wiki/Generalized_additive_model
 	- http://www.kdnuggets.com/2017/04/time-series-analysis-generalized-additive-models.html
 
-## TS classification
+### TS classification
 - UEA & UCR Time Series Classification Repository: http://www.timeseriesclassification.com/
 	- Datasets: http://www.timeseriesclassification.com/dataset.php
 - Dynamic time warping: https://en.wikipedia.org/wiki/Dynamic_time_warping
@@ -75,12 +75,12 @@ See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 - #PAPER TS-CHIEF: A Scalable and Accurate Forest Algorithm for Time Series Classification (Shifaz 2020): https://arxiv.org/abs/1906.10329
 
 
-## Time-frequency analysis
+### Time-frequency analysis
 - Fourier analysis: https://en.wikipedia.org/wiki/Fourier_analysis
 	- Fast Fourier transform: https://en.wikipedia.org/wiki/Fast_Fourier_transform
 		- A fast Fourier transform (FFT) is an algorithm that computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IDFT).
 - Continuous wavelet transform: https://en.wikipedia.org/wiki/Continuous_wavelet_transform
   
-## Causality
+### Causality
 See [Causality](AI/Causality.md)
   

@@ -3,7 +3,7 @@ title: "Bayesian Neural Networks (BNNs)"
 disableToc: false 
 ---
 
-# Resources
+## Resources
 - Bayesian Neural Network tutorial: http://edwardlib.org/tutorials/bayesian-neural-network
 - Bayesian Deep Learning - NeurIPS Workshop: http://bayesiandeeplearning.org/ 
 - Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe [[AI]]. https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/
@@ -21,7 +21,7 @@ disableToc: false
 - #TALK Estimacion de la Incertidumbre en Redes Neuronales (Valdenegro): https://mvaldenegro.github.io/files/DSRP-meetup-NeurIPS-2020-incertidumbre-redes-neuronales.pdf
 
 
-# Code
+## Code
 - #CODE Pyro (Uber) - Deep universal probabilistic programming with Python and PyTorch: https://github.com/uber/pyro  
 		- http://pyro.ai
 		- http://eng.uber.com/pyro
@@ -37,7 +37,7 @@ disableToc: false
 	- Deep Ensembles
 
 
-# References
+## References
 - #PAPER Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning (Gal 2016): https://arxiv.org/abs/1506.02142
 - #PAPER Bayesian Neural Networks (Mullachery, 2018): https://arxiv.org/abs/1801.07710
 - #PAPER Deep Sub-Ensembles for Fast Uncertainty Estimation in Image Classification (Valdenegro-Toro): https://arxiv.org/abs/1910.08168
