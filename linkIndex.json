@@ -804,12 +804,12 @@
       "/AI/Deep-learning/Transformers": [
         {
           "source": "/AI/Deep-learning/Transformers",
-          "target": "/Multimodal-learning",
+          "target": "/AI/Deep-learning/Multimodal-learning",
           "text": "Multimodal learning"
         },
         {
           "source": "/AI/Deep-learning/Transformers",
-          "target": "/Reinforcement-learning.md",
+          "target": "/AI/Reinforcement-learning.md",
           "text": "Reinforcement learning#^decisiontransformer"
         }
       ],
@@ -1113,13 +1113,13 @@
       "/AI/Supervised-Learning/Model-selection-and-tuning": [
         {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-          "target": "/AutoML",
+          "target": "/AI/AutoML",
           "text": "AutoML"
         },
         {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-          "target": "/Data-engineering-and-computer-science.md",
-          "text": "Data engineering and computer science#Workflow managers distributed ML"
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "text": "Data engineering and computer science"
         },
         {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
@@ -1302,22 +1302,22 @@
         },
         {
           "source": "/AI/Weakly-supervised-learning",
-          "target": "/active-learning",
+          "target": "/AI/Active-learning",
           "text": "active learning"
         },
         {
           "source": "/AI/Weakly-supervised-learning",
-          "target": "/semi-supervised-learning",
+          "target": "/AI/Semi-supervised-learning",
           "text": "semi-supervised learning"
         },
         {
           "source": "/AI/Weakly-supervised-learning",
-          "target": "/transfer-learning",
+          "target": "/AI/Transfer-learning",
           "text": "transfer learning"
         },
         {
           "source": "/AI/Weakly-supervised-learning",
-          "target": "/One-few-shot-learning",
+          "target": "/AI/One-few-shot-learning",
           "text": "One, few-shot learning"
         }
       ],
@@ -1538,6 +1538,11 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/Active-learning",
           "text": "Active learning"
+        },
+        {
+          "source": "/AI/Weakly-supervised-learning",
+          "target": "/AI/Active-learning",
+          "text": "active learning"
         }
       ],
       "/AI/Active-learning.md": [
@@ -1567,6 +1572,13 @@
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
           "target": "/AI/Anomaly-and-Outlier-Detection",
           "text": "Anomaly and Outlier Detection"
+        }
+      ],
+      "/AI/AutoML": [
+        {
+          "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
+          "target": "/AI/AutoML",
+          "text": "AutoML"
         }
       ],
       "/AI/Automated-planning": [
@@ -1629,6 +1641,11 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
           "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "text": "Data engineering and computer science"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "text": "Data engineering and computer science"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Jupyter": [
@@ -1685,6 +1702,13 @@
           "text": "GANs for anomaly detection"
         }
       ],
+      "/AI/Deep-learning/Multimodal-learning": [
+        {
+          "source": "/AI/Deep-learning/Transformers",
+          "target": "/AI/Deep-learning/Multimodal-learning",
+          "text": "Multimodal learning"
+        }
+      ],
       "/AI/Feature-learning": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -1737,6 +1761,13 @@
           "text": "NLP"
         }
       ],
+      "/AI/One-few-shot-learning": [
+        {
+          "source": "/AI/Weakly-supervised-learning",
+          "target": "/AI/One-few-shot-learning",
+          "text": "One, few-shot learning"
+        }
+      ],
       "/AI/Problem-Solving-and-Search": [
         {
           "source": "/AI/AI",
@@ -1744,11 +1775,23 @@
           "text": "Problem Solving and Search"
         }
       ],
+      "/AI/Reinforcement-learning.md": [
+        {
+          "source": "/AI/Deep-learning/Transformers",
+          "target": "/AI/Reinforcement-learning.md",
+          "text": "Reinforcement learning#^decisiontransformer"
+        }
+      ],
       "/AI/Semi-supervised-learning": [
         {
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/Semi-supervised-learning",
           "text": "Semi-supervised learning"
+        },
+        {
+          "source": "/AI/Weakly-supervised-learning",
+          "target": "/AI/Semi-supervised-learning",
+          "text": "semi-supervised learning"
         }
       ],
       "/AI/Supervised-Learning/Feature-selection": [
@@ -1770,6 +1813,11 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/Transfer-learning",
           "text": "Transfer learning"
+        },
+        {
+          "source": "/AI/Weakly-supervised-learning",
+          "target": "/AI/Transfer-learning",
+          "text": "transfer learning"
         }
       ],
       "/Active-learning": [
@@ -1787,11 +1835,6 @@
       "/AutoML": [
         {
           "source": "/AI/Machine-Learning",
-          "target": "/AutoML",
-          "text": "AutoML"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "target": "/AutoML",
           "text": "AutoML"
         }
@@ -1994,13 +2037,6 @@
           "source": "/AI/Data-Science-Data-Engineering/Xarray",
           "target": "/Dask",
           "text": "Dask"
-        }
-      ],
-      "/Data-engineering-and-computer-science.md": [
-        {
-          "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-          "target": "/Data-engineering-and-computer-science.md",
-          "text": "Data engineering and computer science#Workflow managers distributed ML"
         }
       ],
       "/Deep-Learning": [
@@ -2409,11 +2445,6 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/Multimodal-learning",
           "text": "Multimodal learning"
-        },
-        {
-          "source": "/AI/Deep-learning/Transformers",
-          "target": "/Multimodal-learning",
-          "text": "Multimodal learning"
         }
       ],
       "/NLP": [
@@ -2479,11 +2510,6 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/One-few-shot-learning",
-          "text": "One, few-shot learning"
-        },
-        {
-          "source": "/AI/Weakly-supervised-learning",
           "target": "/One-few-shot-learning",
           "text": "One, few-shot learning"
         }
@@ -2585,13 +2611,6 @@
           "source": "/AI/Machine-Learning",
           "target": "/Reinforcement-learning",
           "text": "Reinforcement learning"
-        }
-      ],
-      "/Reinforcement-learning.md": [
-        {
-          "source": "/AI/Deep-learning/Transformers",
-          "target": "/Reinforcement-learning.md",
-          "text": "Reinforcement learning#^decisiontransformer"
         }
       ],
       "/Residual-and-dense-neural-networks": [
@@ -2807,13 +2826,6 @@
           "text": "Xarray"
         }
       ],
-      "/active-learning": [
-        {
-          "source": "/AI/Weakly-supervised-learning",
-          "target": "/active-learning",
-          "text": "active learning"
-        }
-      ],
       "/classification": [
         {
           "source": "/AI/Supervised-Learning/Regression",
@@ -2884,20 +2896,6 @@
           "source": "/AI/Learning-to-rank",
           "target": "/reinforcement-learning",
           "text": "reinforcement learning"
-        }
-      ],
-      "/semi-supervised-learning": [
-        {
-          "source": "/AI/Weakly-supervised-learning",
-          "target": "/semi-supervised-learning",
-          "text": "semi-supervised learning"
-        }
-      ],
-      "/transfer-learning": [
-        {
-          "source": "/AI/Weakly-supervised-learning",
-          "target": "/transfer-learning",
-          "text": "transfer learning"
         }
       ],
       "/unsupervised-learning": [
@@ -3627,12 +3625,12 @@
     },
     {
       "source": "/AI/Deep-learning/Transformers",
-      "target": "/Multimodal-learning",
+      "target": "/AI/Deep-learning/Multimodal-learning",
       "text": "Multimodal learning"
     },
     {
       "source": "/AI/Deep-learning/Transformers",
-      "target": "/Reinforcement-learning.md",
+      "target": "/AI/Reinforcement-learning.md",
       "text": "Reinforcement learning#^decisiontransformer"
     },
     {
@@ -3912,13 +3910,13 @@
     },
     {
       "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-      "target": "/AutoML",
+      "target": "/AI/AutoML",
       "text": "AutoML"
     },
     {
       "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-      "target": "/Data-engineering-and-computer-science.md",
-      "text": "Data engineering and computer science#Workflow managers distributed ML"
+      "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+      "text": "Data engineering and computer science"
     },
     {
       "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
@@ -4087,22 +4085,22 @@
     },
     {
       "source": "/AI/Weakly-supervised-learning",
-      "target": "/active-learning",
+      "target": "/AI/Active-learning",
       "text": "active learning"
     },
     {
       "source": "/AI/Weakly-supervised-learning",
-      "target": "/semi-supervised-learning",
+      "target": "/AI/Semi-supervised-learning",
       "text": "semi-supervised learning"
     },
     {
       "source": "/AI/Weakly-supervised-learning",
-      "target": "/transfer-learning",
+      "target": "/AI/Transfer-learning",
       "text": "transfer learning"
     },
     {
       "source": "/AI/Weakly-supervised-learning",
-      "target": "/One-few-shot-learning",
+      "target": "/AI/One-few-shot-learning",
       "text": "One, few-shot learning"
     },
     {
