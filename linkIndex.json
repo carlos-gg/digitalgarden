@@ -469,7 +469,7 @@
       "/AI/Data-Science-Data-Engineering/Xarray": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Xarray",
-          "target": "/Dask",
+          "target": "/AI/Data-Science-Data-Engineering/Dask",
           "text": "Dask"
         }
       ],
@@ -570,7 +570,7 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/Tensorflow-keras",
+          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
           "text": "Tensorflow, keras"
         },
         {
@@ -580,7 +580,7 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/NLP",
+          "target": "/AI/NLP",
           "text": "NLP"
         },
         {
@@ -1288,19 +1288,19 @@
       "/AI/Unsupervised-learning/Clustering": [
         {
           "source": "/AI/Unsupervised-learning/Clustering",
-          "target": "/Computer-vision",
+          "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
         }
       ],
       "/AI/Unsupervised-learning/Unsupervised-learning": [
         {
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Dimensionality-reduction-and-low-rank-modeling",
+          "target": "/AI/Unsupervised-learning/Dimensionality-reduction-and-low-rank-modeling",
           "text": "Dimensionality reduction and low rank modeling"
         },
         {
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Clustering",
+          "target": "/AI/Unsupervised-learning/Clustering",
           "text": "Clustering"
         },
         {
@@ -1652,6 +1652,11 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
+        },
+        {
+          "source": "/AI/Unsupervised-learning/Clustering",
+          "target": "/AI/Computer-Vision/Computer-vision",
+          "text": "Computer vision"
         }
       ],
       "/AI/Computer-Vision/Encoder-decoder-networks": [
@@ -1720,6 +1725,13 @@
           "text": "Video segmentation and prediction"
         }
       ],
+      "/AI/Data-Science-Data-Engineering/Dask": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Xarray",
+          "target": "/AI/Data-Science-Data-Engineering/Dask",
+          "text": "Dask"
+        }
+      ],
       "/AI/Data-Science-Data-Engineering/Data-Science": [
         {
           "source": "/AI/AI",
@@ -1761,6 +1773,13 @@
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "target": "/AI/Data-Science-Data-Engineering/MLops",
           "text": "MLops"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Tensorflow-keras": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+          "text": "Tensorflow, keras"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Visualization": [
@@ -2193,6 +2212,11 @@
           "source": "/AI/AI",
           "target": "/AI/NLP",
           "text": "NLP"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/NLP",
+          "text": "NLP"
         }
       ],
       "/AI/One-few-shot-learning": [
@@ -2318,9 +2342,21 @@
       ],
       "/AI/Unsupervised-learning/Clustering": [
         {
+          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "target": "/AI/Unsupervised-learning/Clustering",
+          "text": "Clustering"
+        },
+        {
           "source": "/",
           "target": "/AI/Unsupervised-learning/Clustering",
           "text": "Clustering"
+        }
+      ],
+      "/AI/Unsupervised-learning/Dimensionality-reduction-and-low-rank-modeling": [
+        {
+          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "target": "/AI/Unsupervised-learning/Dimensionality-reduction-and-low-rank-modeling",
+          "text": "Dimensionality reduction and low rank modeling"
         }
       ],
       "/AI/Unsupervised-learning/Unsupervised-learning": [
@@ -2461,28 +2497,9 @@
           "text": "Classification"
         }
       ],
-      "/Clustering": [
-        {
-          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Clustering",
-          "text": "Clustering"
-        }
-      ],
-      "/Computer-vision": [
-        {
-          "source": "/AI/Unsupervised-learning/Clustering",
-          "target": "/Computer-vision",
-          "text": "Computer vision"
-        }
-      ],
       "/Dask": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/Dask",
-          "text": "Dask"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Xarray",
           "target": "/Dask",
           "text": "Dask"
         }
@@ -2514,13 +2531,6 @@
           "source": "/AI/Time-Series-analysis",
           "target": "/Deep-learning",
           "text": "Deep learning#Deep learning for tabular data"
-        }
-      ],
-      "/Dimensionality-reduction-and-low-rank-modeling": [
-        {
-          "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/Dimensionality-reduction-and-low-rank-modeling",
-          "text": "Dimensionality reduction and low rank modeling"
         }
       ],
       "/Ensemble-learning": [
@@ -2697,13 +2707,6 @@
           "text": "Model selection and tuning"
         }
       ],
-      "/NLP": [
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/NLP",
-          "text": "NLP"
-        }
-      ],
       "/Normalizing-flows": [
         {
           "source": "/AI/Bayesian-modelling",
@@ -2838,13 +2841,6 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/Super-resolution.md",
           "text": "Super-resolution#CNN-based"
-        }
-      ],
-      "/Tensorflow-keras": [
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/Tensorflow-keras",
-          "text": "Tensorflow, keras"
         }
       ],
       "/Tensorflow-keras.md": [
@@ -3378,7 +3374,7 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Xarray",
-      "target": "/Dask",
+      "target": "/AI/Data-Science-Data-Engineering/Dask",
       "text": "Dask"
     },
     {
@@ -3473,7 +3469,7 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/Tensorflow-keras",
+      "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
       "text": "Tensorflow, keras"
     },
     {
@@ -3483,7 +3479,7 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/NLP",
+      "target": "/AI/NLP",
       "text": "NLP"
     },
     {
@@ -4143,17 +4139,17 @@
     },
     {
       "source": "/AI/Unsupervised-learning/Clustering",
-      "target": "/Computer-vision",
+      "target": "/AI/Computer-Vision/Computer-vision",
       "text": "Computer vision"
     },
     {
       "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-      "target": "/Dimensionality-reduction-and-low-rank-modeling",
+      "target": "/AI/Unsupervised-learning/Dimensionality-reduction-and-low-rank-modeling",
       "text": "Dimensionality reduction and low rank modeling"
     },
     {
       "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-      "target": "/Clustering",
+      "target": "/AI/Unsupervised-learning/Clustering",
       "text": "Clustering"
     },
     {
