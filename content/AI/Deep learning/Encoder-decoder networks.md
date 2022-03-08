@@ -5,8 +5,8 @@ disableToc: false
 
 ## Resources
 - Very common models for semantic segmentation tasks
-- [Deep learning](Deep%20learning.md) architectures composed of two paths, an encoding and a decoding one. [Autoencoders](Autoencoders.md) are similar but unsupervised (reconstructions loss)
-- U-NETs are a type of encoder-decoder [CNNs](CNNs.md) model with skipped connections trained in a [Supervised learning](Supervised%20learning.md) context for image segmentation and related tasks
+- [Deep learning](AI/Deep%20learning/Deep%20learning.md)] architectures composed of two paths, an encoding and a decoding one. [Autoencoders](AI/Deep%20learning/Autoencoders.md)] are similar but unsupervised (reconstructions loss)
+- U-NETs are a type of encoder-decoder [CNNs](AI/Deep%20learning/CNNs.md)] model with skipped connections trained in a [Supervised learning](AI/Supervised%20Learning/Supervised%20learning.md)] context for image segmentation and related tasks
 - https://www.slideshare.net/PetteriTeikariPhD/multiphoton-vasculature-segmentation-5-unet
 
 

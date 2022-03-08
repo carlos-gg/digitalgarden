@@ -22,13 +22,13 @@ disableToc: false
 	- Techniques for Improving Performance:
 		- Alternative Loss Functions: One of the most popular fixes to the shortcomings of GANs is the Wasserstein GAN. It essentially replaces the Jensen Shannon divergence of conventional GANs with the Earth Mover distance (Wasserstein-1 distance or EM distance)
 		- Two Timescale Update Rule (TTUR): In this method, we use a different learning rate for the discriminator and the generator. Typically, a slower update rule is used for the generator and a faster update rule is used for the discriminator
-		- Gradient Penalty: In the paper [GANs#^wgangp](GANs.md#%5Ewgangp), a simple gradient penalty was introduced which is added to the loss function to avoid exploding vanishing gradients and optimization issues (caused by weight clipping)
+		- Gradient Penalty: In the paper [GANs#^wgangp](#%5Ewgangp), a simple gradient penalty was introduced which is added to the loss function to avoid exploding vanishing gradients and optimization issues (caused by weight clipping)
 		- Spectral Normalization: weight normalization technique that is typically used on the Discriminator to enhance the training process
 		- Unrolling and Packing: http://aiden.nibali.org/blog/2017-01-18-mode-collapse-gans/
 		- Stacking GANs: use multiple GANs placed consecutively, where each GAN solves an easier version of the problem.  For instance, FashionGAN used two GANs to perform localized image translation. Progressive GANs (ProGANs) can generate high quality images of excellent resolution.
-		- Relativistic GANs: Conventional GANs measure the probability of the generated data being real. Relativistic GANs measure the probability of the generated data being “more realistic” than the real data. We can measure this “relative realism” using an appropriate distance measure, as mentioned in the RGAN [GANs#^190c58](GANs.md#%5E190c58) paper
-		- Self Attention Mechanism [GANs#^sagan](GANs.md#%5Esagan):  The authors of Self Attention GANs claim that convolutions used for generating images look at information that are spread locally. That is, they miss out on relationships that span globally due to their restrictive receptive field. Self-Attention Generative Adversarial Network allows attention-driven, long-range dependency modeling for image generation tasks. 
-		- Miscellaneous Techniques: Feature Matching, Mini Batch Discrimination, Historical Averaging, One-sided Label Smoothing, Virtual Batch Normalization. See [GANs#^improvedgans](GANs.md#%5Eimprovedgans)
+		- Relativistic GANs: Conventional GANs measure the probability of the generated data being real. Relativistic GANs measure the probability of the generated data being “more realistic” than the real data. We can measure this “relative realism” using an appropriate distance measure, as mentioned in the RGAN [GANs#^190c58](#%5E190c58) paper
+		- Self Attention Mechanism [GANs#^sagan](#%5Esagan):  The authors of Self Attention GANs claim that convolutions used for generating images look at information that are spread locally. That is, they miss out on relationships that span globally due to their restrictive receptive field. Self-Attention Generative Adversarial Network allows attention-driven, long-range dependency modeling for image generation tasks. 
+		- Miscellaneous Techniques: Feature Matching, Mini Batch Discrimination, Historical Averaging, One-sided Label Smoothing, Virtual Batch Normalization. See [GANs#^improvedgans](#%5Eimprovedgans)
 
 ## Courses
 - #COURSE Generative Adversarial Networks ( DeepMind x UCL | Deep Learning Lectures | 9/12): https://www.youtube.com/watch?v=wFsI2WqUfdA&t=850s
@@ -86,15 +86,15 @@ Review papers:
 ## Subtopics
 
 ### GANs for super-resolution
-See [Super-resolution#GAN-based](Super-resolution#GAN-based.md)
+See [Super-resolution#GAN-based](AI/Computer%20Vision/Super-resolution.md#GAN-based)
 
 
 ### GANs for missing data, imputation and inpainting
-See [Inpainting#GAN-based](Inpainting#GAN-based.md)
+See [Inpainting#GAN-based](AI/Computer%20Vision/Inpainting.md#GAN-based)
 
 
 ### Image-to-image translation. Conditional GANs
-See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-based.md)
+See [Image-to-image translation#GAN-based](AI/Computer%20Vision/Image-to-image%20translation.md#GAN-based)
 
 
 ### GANs for spatio-temporal data generation
@@ -138,7 +138,7 @@ See [Image-to-image translation#GAN-based](Image-to-image%20translation#GAN-base
 
 
 ### Few/one-shot learning GANs 
-See [One, few-shot learning#Few one-shot learning GANs](One,%20few-shot%20learning#Few%20one-shot%20learning%20GANs.md)
+See [One, few-shot learning#Few one-shot learning GANs](AI/One,%20few-shot%20learning.md#Few%20one-shot%20learning%20GANs)
 
 
 ### GANs for anomaly detection

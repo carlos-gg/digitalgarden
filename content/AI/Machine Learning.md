@@ -145,47 +145,47 @@ disableToc: false
 See [Feature selection](AI/Supervised%20Learning/Feature%20selection.md)]
 
 ### Explainable AI
-See [XAI](XAI.md)
+See [XAI](AI/XAI.md)]
 
 ### Feature learning
-See [Feature learning](Feature%20learning.md)
+See [Feature learning](AI/Feature%20learning.md)]
 
 ### Anomaly and Outlier Detection
-See [AI/Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 
 ### Time Series analysis and forecasting
-See [Time Series analysis](Time%20Series%20analysis.md) and [Forecasting](Forecasting.md)
+See [Time Series analysis](AI/Time%20Series%20analysis.md)] and [Forecasting](AI/Forecasting.md)]
 
 ### AutoML
-See [AutoML](AutoML.md)
+See [AutoML](AI/AutoML.md)]
 
 ### Deep Learning
 See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 
 ### Reinforcement learning
-See [Reinforcement learning](Reinforcement%20learning.md)
+See [Reinforcement learning](AI/Reinforcement%20learning.md)]
 
 ### Unsupervised learning
-See [Unsupervised learning](Unsupervised%20learning.md)
+See [Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md)
 
 ### Supervised learning
-See [Supervised learning](Supervised%20learning.md)
+See [Supervised learning](AI/Supervised%20Learning/Supervised%20learning.md)
 
 ### Weakly-supervised learning
-See [Weakly-supervised learning](Weakly-supervised%20learning.md). It includes these topics: [Semi-supervised learning](Semi-supervised%20learning.md), [Active learning](Active%20learning.md) and [Transfer learning](Transfer%20learning.md)
+See [Weakly-supervised learning](AI/Weakly-supervised%20learning.md). It includes these topics: [Semi-supervised learning](AI/Semi-supervised%20learning.md), [Active learning](AI/Active%20learning.md)] and [Transfer learning](AI/Transfer%20learning.md)]
 
 ### One, few-shot learning
-See [One, few-shot learning](One,%20few-shot%20learning.md)
+See [One, few-shot learning](AI/One,%20few-shot%20learning.md)]
 
 ### Self-supervised learning
-See [Self-supervised learning](Self-supervised%20learning.md)
+See [Self-supervised learning](AI/Self-supervised%20learning.md)]
 
 ### Probabilistic machine learning
-See [Probabilistic machine learning](Probabilistic%20machine%20learning.md)
+See [Probabilistic machine learning](AI/Probabilistic%20machine%20learning.md)]
 
 ### Learning to rank and ordinal regression
 See [Learning to rank](AI/Learning%20to%20rank.md)
 
 ### Generative modelling
-See [Generative modelling](Generative%20modelling.md)
+See [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 
