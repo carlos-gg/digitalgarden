@@ -1,5 +1,5 @@
 ---
-title: AI Digital Garden 🤖🪴 
+title: CarlosGG's Digital Garden 🤖🪴 
 disableToc: true
 ---
 
