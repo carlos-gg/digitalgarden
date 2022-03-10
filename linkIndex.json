@@ -235,16 +235,6 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Machine-Learning",
-          "text": "machine learning"
         }
       ],
       "/AI/Computer-Vision/Image-to-image-translation": [
@@ -369,8 +359,8 @@
       "/AI/Data-Science-Data-Engineering/Dask": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Dask",
-          "target": "/Machine-learning",
-          "text": "Machine learning"
+          "target": "/AI/Machine-Learning",
+          "text": "Machine Learning"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Data-Science": [
@@ -423,8 +413,8 @@
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/Xarray",
-          "text": "Xarray"
+          "target": "/AI/Data-Science-Data-Engineering/Xarray",
+          "text": "Xarray and Dask"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -503,68 +493,73 @@
       "/AI/Deep-learning/CNNs": [
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/deep-learning",
-          "text": "deep learning"
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "#^kerasconvvariants"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "#^tfvisualattention"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "#^tfvisualattention"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Object-classification-image-recognition",
+          "target": "/AI/Computer-Vision/Object-classification-image-recognition",
           "text": "Object classification, image recognition"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Semantic-segmentation",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
           "text": "Semantic segmentation"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Object-detection",
+          "target": "/AI/Computer-Vision/Object-detection",
           "text": "Object detection"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Video-segmentation-and-prediction",
+          "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
           "text": "Video segmentation and prediction"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Image-and-video-captioning",
+          "target": "/AI/Computer-Vision/Image-and-video-captioning",
           "text": "Image and video captioning"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Image-to-image-translation",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Super-resolution.md",
-          "text": "Super-resolution#CNN-based"
+          "target": "/AI/Computer-Vision/Super-resolution.md",
+          "text": "Super-resolution"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Inpainting.md",
-          "text": "Inpainting#CNN-based"
+          "target": "/AI/Computer-Vision/Inpainting.md",
+          "text": "Inpainting"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/Background-subtraction.md",
-          "text": "Background subtraction#CNN based"
+          "target": "/AI/Computer-Vision/Background-subtraction.md",
+          "text": "Background subtraction"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/XAI.md",
+          "text": "Neural Networks explainability"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/",
+          "text": "Channel visual attention"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/",
+          "text": "Channel visual attention"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Super-resolution.md",
+          "text": "Super-resolution with pixel attention"
         }
       ],
       "/AI/Deep-learning/Deep-learning": [
@@ -1464,17 +1459,12 @@
         {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/",
-          "text": "#^kerasconvvariants"
+          "text": "Channel visual attention"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/",
-          "text": "#^tfvisualattention"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "#^tfvisualattention"
+          "text": "Channel visual attention"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -1714,6 +1704,13 @@
           "text": "Background subtraction"
         }
       ],
+      "/AI/Computer-Vision/Background-subtraction.md": [
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Background-subtraction.md",
+          "text": "Background subtraction"
+        }
+      ],
       "/AI/Computer-Vision/Computer-vision": [
         {
           "source": "/AI/AI",
@@ -1738,9 +1735,21 @@
           "text": "Encoder-decoder networks"
         }
       ],
+      "/AI/Computer-Vision/Image-and-video-captioning": [
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Image-and-video-captioning",
+          "text": "Image and video captioning"
+        }
+      ],
       "/AI/Computer-Vision/Image-to-image-translation": [
         {
           "source": "/AI/Computer-Vision/Super-resolution",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
+          "text": "Image-to-image translation"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
         }
@@ -1754,9 +1763,21 @@
       ],
       "/AI/Computer-Vision/Inpainting.md": [
         {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Inpainting.md",
+          "text": "Inpainting"
+        },
+        {
           "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Inpainting.md",
           "text": "Inpainting#GAN-based"
+        }
+      ],
+      "/AI/Computer-Vision/Object-classification-image-recognition": [
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "text": "Object classification, image recognition"
         }
       ],
       "/AI/Computer-Vision/Object-detection": [
@@ -1767,6 +1788,11 @@
         },
         {
           "source": "/AI/Computer-Vision/Semantic-segmentation",
+          "target": "/AI/Computer-Vision/Object-detection",
+          "text": "Object detection"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Object-detection",
           "text": "Object detection"
         }
@@ -1781,9 +1807,24 @@
           "source": "/AI/Computer-Vision/Object-detection",
           "target": "/AI/Computer-Vision/Semantic-segmentation",
           "text": "Semantic segmentation"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Semantic-segmentation",
+          "text": "Semantic segmentation"
         }
       ],
       "/AI/Computer-Vision/Super-resolution.md": [
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Super-resolution.md",
+          "text": "Super-resolution"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Super-resolution.md",
+          "text": "Super-resolution with pixel attention"
+        },
         {
           "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Super-resolution.md",
@@ -1791,6 +1832,11 @@
         }
       ],
       "/AI/Computer-Vision/Video-segmentation-and-prediction": [
+        {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "text": "Video segmentation and prediction"
+        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
@@ -1864,6 +1910,13 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
           "target": "/AI/Data-Science-Data-Engineering/Visualization",
           "text": "Visualization"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Xarray": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/Xarray",
+          "text": "Xarray and Dask"
         }
       ],
       "/AI/Deep-Learning/Deep-Learning": [
@@ -1978,11 +2031,6 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/Deep-Learning",
           "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/Deep-belief-network": [
@@ -1995,6 +2043,11 @@
       "/AI/Deep-learning/Deep-learning": [
         {
           "source": "/AI/AI",
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
+        },
+        {
+          "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
         },
@@ -2292,9 +2345,9 @@
           "text": "Machine Learning"
         },
         {
-          "source": "/AI/Computer-Vision/Computer-vision",
+          "source": "/AI/Data-Science-Data-Engineering/Dask",
           "target": "/AI/Machine-Learning",
-          "text": "machine learning"
+          "text": "Machine Learning"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -2556,6 +2609,11 @@
       ],
       "/AI/XAI.md": [
         {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/XAI.md",
+          "text": "Neural Networks explainability"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/XAI.md",
           "text": "XAI#Interpretability of deep learning models"
@@ -2566,13 +2624,6 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Autoencoders.md",
           "text": "Autoencoders#VAEs"
-        }
-      ],
-      "/Background-subtraction.md": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Background-subtraction.md",
-          "text": "Background subtraction#CNN based"
         }
       ],
       "/CNNs": [
@@ -2750,19 +2801,7 @@
           "text": "Horovod"
         }
       ],
-      "/Image-and-video-captioning": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Image-and-video-captioning",
-          "text": "Image and video captioning"
-        }
-      ],
       "/Image-to-image-translation": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Image-to-image-translation",
-          "text": "Image-to-image translation"
-        },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Image-to-image-translation",
@@ -2781,13 +2820,6 @@
           "text": "Image-to-image translation#Flow-based"
         }
       ],
-      "/Inpainting.md": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Inpainting.md",
-          "text": "Inpainting#CNN-based"
-        }
-      ],
       "/Learning-to-rank": [
         {
           "source": "/AI/Machine-Learning",
@@ -2800,13 +2832,6 @@
           "source": "/AI/Causality",
           "target": "/Machine-Learning",
           "text": "Machine Learning"
-        }
-      ],
-      "/Machine-learning": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Dask",
-          "target": "/Machine-learning",
-          "text": "Machine learning"
         }
       ],
       "/Model-selection-and-tuning": [
@@ -2831,20 +2856,6 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Normalizing-flows",
           "text": "Normalizing flows"
-        }
-      ],
-      "/Object-classification-image-recognition": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Object-classification-image-recognition",
-          "text": "Object classification, image recognition"
-        }
-      ],
-      "/Object-detection": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Object-detection",
-          "text": "Object detection"
         }
       ],
       "/RNNs": [
@@ -2919,13 +2930,6 @@
           "text": "Residual and dense neural networks"
         }
       ],
-      "/Semantic-segmentation": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Semantic-segmentation",
-          "text": "Semantic segmentation"
-        }
-      ],
       "/Semi-supervised-learning": [
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
@@ -2938,13 +2942,6 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Super-resolution",
           "text": "Super-resolution"
-        }
-      ],
-      "/Super-resolution.md": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Super-resolution.md",
-          "text": "Super-resolution#CNN-based"
         }
       ],
       "/Tensorflow-keras.md": [
@@ -2990,20 +2987,6 @@
           "text": "Unsupervised learning"
         }
       ],
-      "/Video-segmentation-and-prediction": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/Video-segmentation-and-prediction",
-          "text": "Video segmentation and prediction"
-        }
-      ],
-      "/Xarray": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/Xarray",
-          "text": "Xarray"
-        }
-      ],
       "/classification": [
         {
           "source": "/AI/Supervised-Learning/Regression",
@@ -3024,11 +3007,6 @@
       "/deep-learning": [
         {
           "source": "/AI/Computer-Vision/Background-subtraction",
-          "target": "/deep-learning",
-          "text": "deep learning"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
           "target": "/deep-learning",
           "text": "deep learning"
         }
@@ -3262,16 +3240,6 @@
       "text": "Background subtraction"
     },
     {
-      "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/AI/Deep-learning/Deep-Learning",
-      "text": "Deep Learning"
-    },
-    {
-      "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/AI/Machine-Learning",
-      "text": "machine learning"
-    },
-    {
       "source": "/AI/Computer-Vision/Image-to-image-translation",
       "target": "/AI/Computer-Vision/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
@@ -3378,8 +3346,8 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Dask",
-      "target": "/Machine-learning",
-      "text": "Machine learning"
+      "target": "/AI/Machine-Learning",
+      "text": "Machine Learning"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -3428,8 +3396,8 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/Xarray",
-      "text": "Xarray"
+      "target": "/AI/Data-Science-Data-Engineering/Xarray",
+      "text": "Xarray and Dask"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -3498,68 +3466,73 @@
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/deep-learning",
-      "text": "deep learning"
+      "target": "/AI/Deep-learning/Deep-learning",
+      "text": "Deep learning"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/",
-      "text": "#^kerasconvvariants"
-    },
-    {
-      "source": "/AI/Deep-learning/CNNs",
-      "target": "/",
-      "text": "#^tfvisualattention"
-    },
-    {
-      "source": "/AI/Deep-learning/CNNs",
-      "target": "/",
-      "text": "#^tfvisualattention"
-    },
-    {
-      "source": "/AI/Deep-learning/CNNs",
-      "target": "/Object-classification-image-recognition",
+      "target": "/AI/Computer-Vision/Object-classification-image-recognition",
       "text": "Object classification, image recognition"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Semantic-segmentation",
+      "target": "/AI/Computer-Vision/Semantic-segmentation",
       "text": "Semantic segmentation"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Object-detection",
+      "target": "/AI/Computer-Vision/Object-detection",
       "text": "Object detection"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Video-segmentation-and-prediction",
+      "target": "/AI/Computer-Vision/Video-segmentation-and-prediction",
       "text": "Video segmentation and prediction"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Image-and-video-captioning",
+      "target": "/AI/Computer-Vision/Image-and-video-captioning",
       "text": "Image and video captioning"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Image-to-image-translation",
+      "target": "/AI/Computer-Vision/Image-to-image-translation",
       "text": "Image-to-image translation"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Super-resolution.md",
-      "text": "Super-resolution#CNN-based"
+      "target": "/AI/Computer-Vision/Super-resolution.md",
+      "text": "Super-resolution"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Inpainting.md",
-      "text": "Inpainting#CNN-based"
+      "target": "/AI/Computer-Vision/Inpainting.md",
+      "text": "Inpainting"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/Background-subtraction.md",
-      "text": "Background subtraction#CNN based"
+      "target": "/AI/Computer-Vision/Background-subtraction.md",
+      "text": "Background subtraction"
+    },
+    {
+      "source": "/AI/Deep-learning/CNNs",
+      "target": "/AI/XAI.md",
+      "text": "Neural Networks explainability"
+    },
+    {
+      "source": "/AI/Deep-learning/CNNs",
+      "target": "/",
+      "text": "Channel visual attention"
+    },
+    {
+      "source": "/AI/Deep-learning/CNNs",
+      "target": "/",
+      "text": "Channel visual attention"
+    },
+    {
+      "source": "/AI/Deep-learning/CNNs",
+      "target": "/AI/Computer-Vision/Super-resolution.md",
+      "text": "Super-resolution with pixel attention"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
