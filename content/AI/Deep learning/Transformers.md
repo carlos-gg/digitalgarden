@@ -147,7 +147,8 @@ disableToc: false
 - #PAPER Transformers in Medical Imaging: A Survey (Shamshad 2022): https://arxiv.org/abs/2201.09873v1
 	- #CODE https://paperswithcode.com/paper/transformers-in-medical-imaging-a-survey?from=n24
 	- https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging
-
+- #PAPER How Do Vision Transformers Work? (Park 2022): https://arxiv.org/abs/2202.06709v2
+	- #CODE https://paperswithcode.com/paper/how-do-vision-transformers-work-1?from=n26
 
 
 ### Self-supervised vision transformers

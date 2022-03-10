@@ -6,7 +6,7 @@ disableToc: false
 ## Resources
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
-- In [deep learning](deep%20learning.md), a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
+- In [Deep learning](AI/Deep%20learning/Deep%20learning.md), a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
 - CNNs: https://d2l.ai/chapter_convolutional-neural-networks/index.html
 - Convolutional Neural Networks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 - http://cs231n.github.io/convolutional-networks/
@@ -24,11 +24,24 @@ disableToc: false
 - https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 - Convolutions Over Volumes (channels): https://www.youtube.com/watch?v=KTB_OFoAQcc 
 
+### 1x1 convolutions
+- 1x1 convolutions: https://d2l.ai/chapter_convolutional-neural-networks/channels.html#times-1-convolutional-layer
+- 1x1 convolutions: https://www.youtube.com/watch?v=qVP574skyuM
+- Networks in Networks and 1x1 Convolutions: https://www.youtube.com/watch?v=vcp0XvDAX68
+- https://iamaaditya.github.io/2016/03/one-by-one-convolution/
+- https://towardsdatascience.com/1x1-convolution-5219bbc09027
+- https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578
+- https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/
+	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
+
+
 ## Code 
 - #CODE Keras Layers (for TensorFlow 2.x): https://github.com/mvoelk/keras_layers
 - #CODE Model Zoo - Discover open source deep learning code and pretrained models: https://modelzoo.co/
 - #CODE https://github.com/microsoft/computervision-recipes
-Channel/visual attention:
+
+
+### Channel/visual attention
 - #CODE Visual-attention-tf: https://github.com/vinayak19th/Visual_attention_tf ^tfvisualattention
 	- Pixel Attention
 	- Channel Attention (CBAM)
@@ -73,37 +86,6 @@ Channel/visual attention:
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 
 
-### Channel/Visual attention
- - #PAPER Squeeze-and-Excitation Networks, SENets (Hu 2017): https://arxiv.org/abs/1709.01507 ^senets
-	- Features can incorporate global context
-	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
-	- Thus, the importance/need for spatial attention is justified to be coupled with channel attention. One of the prime examples of the same is CBAM (published at ECCV 2018) [[CNNs#^cbam]]
-	- #CODE https://github.com/hujie-frank/SENet
-	- #CODE https://github.com/yoheikikuta/senet-keras
-	- https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/
-	- https://programmerclick.com/article/4934219785/
- - #PAPER CBAM: Convolutional Block Attention Module (Woo 2018): https://arxiv.org/abs/1807.06521 ^cbam
-	 -  #CODE https://kobiso.github.io//research/research-CBAM/
-	 -  #CODE [[#^kerasconvvariants]], [[#^tfvisualattention]]
-	 -  https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
-- #PAPER ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks (Wang 2020): https://arxiv.org/abs/1910.03151
-	-  #CODE [[#^tfvisualattention]]
-	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain
-	- proposed a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution
-- #PAPER [[Super-resolution#^srwithpixelattention]]
-
-
-### 1x1 convolutions
-- 1x1 convolutions: https://d2l.ai/chapter_convolutional-neural-networks/channels.html#times-1-convolutional-layer
-- 1x1 convolutions: https://www.youtube.com/watch?v=qVP574skyuM
-- Networks in Networks and 1x1 Convolutions: https://www.youtube.com/watch?v=vcp0XvDAX68
-- https://iamaaditya.github.io/2016/03/one-by-one-convolution/
-- https://towardsdatascience.com/1x1-convolution-5219bbc09027
-- https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578
-- https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/
-	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
-
-
 ## Subtopics and applications
 ### Sequence (time series) modelling
 - #PAPER An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (Bai 2018): https://arxiv.org/abs/1803.01271
@@ -120,31 +102,31 @@ Channel/visual attention:
 
 
 ### Object classification, image recognition
-Se [Object classification, image recognition](Object%20classification,%20image%20recognition.md)
+See [Object classification, image recognition](AI/Computer%20Vision/Object%20classification,%20image%20recognition.md)
 
 ### Semantic segmentation
-See [Semantic segmentation](Semantic%20segmentation.md) 
+See [Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
 
 ### Object detection
-See [Object detection](Object%20detection.md) 
+See [Object detection](AI/Computer%20Vision/Object%20detection.md)
 
 ### Video segmentation and prediction
-See [Video segmentation and prediction](Video%20segmentation%20and%20prediction.md)
+See [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
 
 ### Image and video captioning
-See [Image and video captioning](Image%20and%20video%20captioning.md)
+See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20captioning.md)
 
 ### Image-to-image translation
-See [Image-to-image translation](Image-to-image%20translation.md)
+See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ### Super-resolution 
-See [Super-resolution#CNN-based](Super-resolution.md#CNN-based)
+See [Super-resolution](AI/Computer%20Vision/Super-resolution.md#CNN-based)
 
 ### Inpainting
-See [Inpainting#CNN-based](Inpainting.md#CNN-based)
+See [Inpainting](AI/Computer%20Vision/Inpainting.md#CNN-based)
 
 ### Background subtraction, foreground detection
-See [Background subtraction#CNN based](Background%20subtraction.md#CNN%20based)
+See [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md#CNN-based)
 
 ### Edge detection
 - #PAPER DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection: http://arxiv.org/pdf/1412.1123
@@ -158,14 +140,39 @@ See [Background subtraction#CNN based](Background%20subtraction.md#CNN%20based)
 - https://github.com/topics/human-pose-estimation
 - https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 
-- #PAPER Fast Human Pose Estimation: https://arxiv.org/abs/1811.05419
-- #PAPER Convolutional pose machines: https://arxiv.org/abs/1602.00134
-- #PAPER Human activity recognition with smartphone sensors using deep learning neural networks: https://www.sciencedirect.com/science/article/abs/pii/S0957417416302056
+- #PAPER Human activity recognition with smartphone sensors using deep learning neural networks (Ann Ronao 2016): https://www.sciencedirect.com/science/article/abs/pii/S0957417416302056
+- #PAPER Convolutional pose machines (Wei 2016): https://arxiv.org/abs/1602.00134
+- #PAPER Fast Human Pose Estimation (Zhang 2019): https://arxiv.org/abs/1811.05419
 
 
 ### Motion detection, tracking
-- #PAPER Optical Flow (FlowNet): http://arxiv.org/pdf/1504.06852
+- #PAPER FlowNet: Learning Optical Flow with Convolutional Networks (Fischer 2015): https://arxiv.org/abs/1504.06852
 
 
 ### Deconvolution
 - #PAPER Deep Convolutional Neural Network for Image Deconvolution (Xu 2014): http://lxu.me/projects/dcnn/
+
+
+### Visual/Channel attention and Saliency
+See [Neural Networks explainability](AI/XAI.md#Neural%20Networks%20explainability)
+
+ - #PAPER Squeeze-and-Excitation Networks, SENets (Hu 2017): https://arxiv.org/abs/1709.01507 ^senets
+	- Features can incorporate global context
+	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
+	- Thus, the importance/need for spatial attention is justified to be coupled with channel attention. One of the prime examples of the same is CBAM (published at ECCV 2018) 
+	- #CODE https://github.com/hujie-frank/SENet
+	- #CODE https://github.com/yoheikikuta/senet-keras
+	- https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/
+	- https://programmerclick.com/article/4934219785/
+ - #PAPER CBAM: Convolutional Block Attention Module (Woo 2018): https://arxiv.org/abs/1807.06521 ^cbam
+	 -  #CODE https://kobiso.github.io//research/research-CBAM/
+	 -  #CODE [Channel visual attention](#Channel%20visual%20attention)
+	 -  https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
+- #PAPER ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks (Wang 2020): https://arxiv.org/abs/1910.03151
+	 -  #CODE [Channel visual attention](#Channel%20visual%20attention)
+	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain
+	- proposed a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution
+- #PAPER [Super-resolution with pixel attention](AI/Computer%20Vision/Super-resolution.md#^srwithpixelattention)
+- #PAPER Visual Attention Network (Guo 2022): https://arxiv.org/abs/2202.09741
+	- #CODE https://paperswithcode.com/paper/visual-attention-network?from=n26
+	- This work presents an approach that decomposes a large kernel convolution operation to capture long-range relationship. After obtaining long-range relationship, it estimates the importance of a point and generates attention map
