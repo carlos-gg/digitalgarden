@@ -79,6 +79,12 @@ disableToc: false
 
 ## Related fields and concepts
 
+### Math and Statistics
+See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
+
+### Data engineering and computer science
+See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
+
 ### Data Science
 See [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
 
@@ -94,9 +100,6 @@ See [NLP](AI/NLP.md)
 ### Deep Learning
 See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 
-### Data engineering and computer science
-See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
-
 ### Causality
 See [Causality](AI/Causality.md)
 
@@ -105,5 +108,4 @@ See [Problem Solving and Search](AI/Problem%20Solving%20and%20Search.md)
 
 ### Automated planning
 See [Automated planning](AI/Automated%20planning.md)
-
 

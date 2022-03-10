@@ -1,5 +1,5 @@
 ---
-title: "ML ops"
+title: "ML Ops"
 disableToc: false 
 ---
 

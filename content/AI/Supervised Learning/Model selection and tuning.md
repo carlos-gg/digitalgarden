@@ -12,7 +12,7 @@ See:
 - Model selection and evaluation: https://scikit-learn.org/stable/model_selection.html
 
 ## Code
-See [MLops](AI/Data%20Science,%20Data%20Engineering/MLops.md)
+See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 - #CODE Optuna - A hyperparameter optimization framework: https://github.com/optuna/optuna
 	- https://optuna.org/
 - #CODE Yellowbrick. Visual analysis and diagnostic tools to facilitate machine learning model selection: http://www.scikit-yb.org/en/latest/

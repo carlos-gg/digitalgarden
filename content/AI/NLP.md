@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 ## Resources
-- https://en.wikipedia.org/wiki/Natural_language_processing
-- A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language. Examples of NLP applications include Siri and Google Now.
 - NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
+- https://en.wikipedia.org/wiki/Natural_language_processing
+- A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language
 - https://github.com/keon/awesome-nlp
 - The most important NLP highlights of 2018: https://github.com/omarsar/nlp_highlights
 - NLP - Udemy ML: https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/NLP%20(Natural%20Language%20Processing).ipynb
@@ -31,6 +31,8 @@ disableToc: false
 	- https://github.com/oxford-cs-deepnlp-2017/lectures
 	- https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 - #COURSE YSDA Natural Language Processing course (Yandex): https://github.com/yandexdataschool/nlp_course
+
+## Talks
 - #TALK Introduction to Natural Language Processing - Cambridge Data Science Bootcamp: https://www.youtube.com/watch?v=8S3qHHUKqYk
 - #TALK Rob Romijnders | Using deep learning in natural language processing (PyData): https://www.youtube.com/watch?v=HVdPWoZ_swY
 - #TALK Jeff Abrahamson - WTF am I doing? An introduction to NLP and ANN's: https://www.youtube.com/watch?v=7Z3ojkuul9U
@@ -173,10 +175,10 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 - http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/
 
 ### Speech recognition
-https://www.wikiwand.com/en/Speech_recognition
+- https://www.wikiwand.com/en/Speech_recognition
 
 #### HMM
-https://en.wikipedia.org/wiki/Hidden_Markov_model
+- https://en.wikipedia.org/wiki/Hidden_Markov_model
 
 
 ### Deep learning approaches
@@ -187,15 +189,15 @@ https://en.wikipedia.org/wiki/Hidden_Markov_model
 - http://blog.aylien.com/modeling-documents-generative-adversarial-networks/
 
 
-#### CNN-baserd 
-See [CNNs](CNNs.md)
+#### CNN-based 
+See [CNNs](AI/Deep%20learning/CNNs.md)
 - CNN for NLP: http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 - http://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html
 - How to read: Character level deep learning: https://offbit.github.io/how-to-read/
 - #PAPER Connectionist Temporal Classification: https://distill.pub/2017/ctc/
 
 #### RNN-based 
-See [[RNNs]]
+See [RNNs](AI/Deep%20learning/RNNs.md)
 - RNN for NLP: https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
 - http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
 - #PAPER RRA: Recurrent Residual Attention for Sequence Learning (2017): https://arxiv.org/abs/1709.03714
@@ -216,4 +218,4 @@ See [[RNNs]]
 	- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 
 #### Transformer-based
-See [Transformers#For NLP](Transformers.md#For%20NLP)
+See [Transformers](AI/Deep%20learning/Transformers.md#For%20NLP)

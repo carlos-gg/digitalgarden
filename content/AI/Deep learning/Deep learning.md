@@ -120,7 +120,7 @@ State of ML frameworks:
 	- http://tensorlayer.org/
 - #CODE Elegy - Neural Networks framework based on Jax and inspired by Keras: https://github.com/poets-ai/elegy
 	- https://poets-ai.github.io/elegy/
-	- See [Math and stats#^jax](AI/Math%20and%20stats.md#%5Ejax)
+	- See [Mathematical Optimization](AI/Math%20and%20Statistics/Mathematical%20Optimization.md) JAX
 - #CODE PyTorch (Facebook): Tensors and Dynamic neural networks in Python with strong GPU acceleration. https://github.com/pytorch/pytorch
 	- http://pytorch.org
 	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
@@ -349,7 +349,7 @@ See:
 - #PAPER TABBIE: Pretrained Representations of Tabular Data (Lida 2021): https://arxiv.org/abs/2105.02584v1
 
 
-## Architectures and types of models
+## Architectures and model types
 - The neural network zoo: http://www.asimovinstitute.org/neural-network-zoo/
 - Deep Learning Tips and Tricks cheatsheet: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 - A Visual and Interactive Guide to the Basics of NNs: https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
@@ -399,3 +399,6 @@ See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
 
 ### Geometric deep learning
 See [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)
+
+### GFlowNets
+See [GFlowNets](AI/Deep%20learning/GFlowNets.md)

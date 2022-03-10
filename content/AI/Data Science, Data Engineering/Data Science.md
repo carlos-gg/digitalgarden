@@ -131,8 +131,8 @@ disableToc: false
 
 ## Related fields
 
-### Math and stats
-See [Math and stats](AI/Math%20and%20stats.md)
+### Math and Statistics
+See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
 
 ### Machine Learning
 See [Machine Learning](AI/Machine%20Learning.md)

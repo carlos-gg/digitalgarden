@@ -3,7 +3,10 @@ title: "Bayesian modelling"
 disableToc: false 
 ---
 
-See [Bayesian neural networks](Bayesian%20neural%20networks.md)
+See: 
+[Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
+[Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
+
 
 ## Resources
 - https://en.wikipedia.org/wiki/Bayesian_statistics
@@ -37,22 +40,21 @@ See [Bayesian neural networks](Bayesian%20neural%20networks.md)
 - https://en.wikipedia.org/wiki/Bayesian_network
 
 ### Variational Bayesian methods
-- See [Normalizing flows](Normalizing%20flows.md)
+- See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
 - Variational Bayesian inference with normalizing flows: a simple example: https://towardsdatascience.com/variational-bayesian-inference-with-normalizing-flows-a-simple-example-1db109d91062
 	- #CODE https://github.com/fraseriainlewis/towardsdatascience
 
+### MCMC
+See [Monte Carlo methods#MCMC](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md#MCMC)
+
+
 ## Code
-- A list of Python-based MCMC packages. Also here’s a nice list of MCMC algorithms: https://gabriel-p.github.io/pythonMCMC/
 - #CODE Stan: https://github.com/stan-dev/stan
 	- http://mc-stan.org
 - #CODE Pymc3 - Probabilistic Programming in Python: http://pymc-devs.github.io/pymc3/
-- #CODE emcee: http://dan.iel.fm/emcee/current/
 - #CODE Arviz - Exploratory analysis of Bayesian models with Python: https://arviz-devs.github.io/arviz/
-- #CODE Sampyl - MCMC samplers for Bayesian estimation in Python, including Metropolis-Hastings, NUTS, and Slice: http://mcleonard.github.io/sampyl/
 - #CODE BayesicFitting - A package for model fitting and bayesian evidence calculation: https://github.com/dokester/BayesicFitting
-- #CODE UltraNest - A Pythonic implementation of the Nested Sampling integration algorithm for Bayesian model comparison and parameter estimation
-	- https://johannesbuchner.github.io/UltraNest/
-	- https://johannesbuchner.github.io/UltraNest/testsuite/
+
 
 ## Books
 - #BOOK Think Bayes - Bayesian Statistics Made Simple (Downey 2012): http://greenteapress.com/wp/think-bayes/

@@ -3,11 +3,11 @@ title: "Data Engineering and Computer Science"
 disableToc: false 
 ---
 
-See [[MLops]]
+See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 
 ## Resources
 - https://github.com/ossu/computer-science
-- Data engineering role is ensuring uninterrupted flow of data between servers and applications.
+- Data engineering role is ensuring uninterrupted flow of data between servers and applications
 - https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY
 - Interaction between ML and CS teams: https://labs.opendoor.com/2017/02/17/two-cultures-of-ml-systems
 - ETL (extract, transform, load): https://en.wikipedia.org/wiki/Extract,_transform,_load
