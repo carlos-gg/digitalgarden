@@ -46,6 +46,16 @@
         },
         {
           "source": "/AI/AI",
+          "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "text": "Math and Statistics"
+        },
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "text": "Data engineering and computer science"
+        },
+        {
+          "source": "/AI/AI",
           "target": "/AI/Data-Science-Data-Engineering/Data-Science",
           "text": "Data Science"
         },
@@ -68,11 +78,6 @@
           "source": "/AI/AI",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
-        },
-        {
-          "source": "/AI/AI",
-          "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "text": "Data engineering and computer science"
         },
         {
           "source": "/AI/AI",
@@ -127,13 +132,23 @@
       "/AI/Bayesian-modelling": [
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/Bayesian-neural-networks",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
+        },
+        {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Deep-learning/Bayesian-neural-networks",
           "text": "Bayesian neural networks"
         },
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/Normalizing-flows",
+          "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
+        },
+        {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
+          "text": "Monte Carlo methods#MCMC"
         }
       ],
       "/AI/Causality": [
@@ -381,8 +396,8 @@
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI/Math-and-stats",
-          "text": "Math and stats"
+          "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "text": "Math and Statistics"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -403,8 +418,8 @@
       "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/MLops",
-          "text": "MLops"
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -575,8 +590,8 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Math-and-stats.md",
-          "text": "Math and stats#^jax"
+          "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+          "text": "Mathematical Optimization"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -692,6 +707,11 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Geometric-deep-learning",
           "text": "Geometric deep learning"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
         }
       ],
       "/AI/Deep-learning/Encoder-decoder-networks": [
@@ -989,63 +1009,83 @@
           "text": "Generative modelling"
         }
       ],
-      "/AI/Math-and-stats": [
+      "/AI/Math-and-Statistics/Math-and-Statistics": [
         {
-          "source": "/AI/Math-and-stats",
-          "target": "/Active-learning",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Linear-Algebra",
+          "text": "Linear Algebra"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Distances",
+          "text": "Distances"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Active-learning",
           "text": "Active learning"
         },
         {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/",
+          "text": "A B testing"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/",
+          "text": "Code"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Probability-Theory",
+          "text": "Probability Theory"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Bayesian-modelling",
           "text": "Bayesian modelling"
         },
         {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling",
-          "text": "Bayesian modelling"
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
         },
         {
-          "source": "/AI/Math-and-stats",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+          "text": "Mathematical Optimization"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/Time-Series-analysis",
+          "text": "Time Series analysis"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
-          "source": "/AI/Math-and-stats",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Regression",
-          "text": "Regression"
-        },
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling.md",
-          "text": "Bayesian modelling#Code"
-        },
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Time-Series-analysis",
-          "text": "Time Series analysis"
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Machine-Learning",
+          "text": "Machine Learning"
         }
       ],
       "/AI/NLP": [
         {
           "source": "/AI/NLP",
-          "target": "/CNNs",
+          "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
         {
           "source": "/AI/NLP",
-          "target": "/RNNs",
+          "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         },
         {
           "source": "/AI/NLP",
-          "target": "/Transformers.md",
-          "text": "Transformers#For NLP"
+          "target": "/AI/Deep-learning/Transformers.md",
+          "text": "Transformers"
         }
       ],
       "/AI/One-few-shot-learning": [
@@ -1063,13 +1103,18 @@
       "/AI/Probabilistic-machine-learning": [
         {
           "source": "/AI/Probabilistic-machine-learning",
-          "target": "/Bayesian-neural-networks",
+          "target": "/AI/Deep-learning/Bayesian-neural-networks",
           "text": "Bayesian neural networks"
         },
         {
           "source": "/AI/Probabilistic-machine-learning",
-          "target": "/Bayesian-modelling",
+          "target": "/AI/Bayesian-modelling",
           "text": "Bayesian modelling"
+        },
+        {
+          "source": "/AI/Probabilistic-machine-learning",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
         }
       ],
       "/AI/Supervised-Learning/Classification": [
@@ -1148,8 +1193,8 @@
         },
         {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-          "target": "/AI/Data-Science-Data-Engineering/MLops",
-          "text": "MLops"
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
         }
       ],
       "/AI/Supervised-Learning/Random-forest": [
@@ -1447,6 +1492,16 @@
           "text": "#^pykale"
         },
         {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/",
+          "text": "A B testing"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/",
+          "text": "Code"
+        },
+        {
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/",
           "text": "#^glmnetpy"
@@ -1565,6 +1620,11 @@
           "text": "Active learning"
         },
         {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Active-learning",
+          "text": "Active learning"
+        },
+        {
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/Active-learning",
           "text": "Active learning"
@@ -1621,6 +1681,18 @@
           "source": "/AI/AI",
           "target": "/AI/Automated-planning",
           "text": "Automated planning"
+        }
+      ],
+      "/AI/Bayesian-modelling": [
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Bayesian-modelling",
+          "text": "Bayesian modelling"
+        },
+        {
+          "source": "/AI/Probabilistic-machine-learning",
+          "target": "/AI/Bayesian-modelling",
+          "text": "Bayesian modelling"
         }
       ],
       "/AI/Causality": [
@@ -1768,11 +1840,16 @@
           "text": "Jupyter"
         }
       ],
-      "/AI/Data-Science-Data-Engineering/MLops": [
+      "/AI/Data-Science-Data-Engineering/MLOps": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
+        },
         {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-          "target": "/AI/Data-Science-Data-Engineering/MLops",
-          "text": "MLops"
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Tensorflow-keras": [
@@ -1815,7 +1892,17 @@
       ],
       "/AI/Deep-learning/Bayesian-neural-networks": [
         {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Deep-learning/Bayesian-neural-networks",
+          "text": "Bayesian neural networks"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Bayesian-neural-networks",
+          "text": "Bayesian neural networks"
+        },
+        {
+          "source": "/AI/Probabilistic-machine-learning",
           "target": "/AI/Deep-learning/Bayesian-neural-networks",
           "text": "Bayesian neural networks"
         }
@@ -1853,6 +1940,11 @@
         },
         {
           "source": "/AI/Deep-learning/Encoder-decoder-networks",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/NLP",
           "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         }
@@ -1997,6 +2089,18 @@
           "text": "GANs#^improvedgans"
         }
       ],
+      "/AI/Deep-learning/GFlowNets": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
+        },
+        {
+          "source": "/AI/Probabilistic-machine-learning",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
+        }
+      ],
       "/AI/Deep-learning/GNNs": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -2065,6 +2169,11 @@
       ],
       "/AI/Deep-learning/Normalizing-flows": [
         {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Deep-learning/Normalizing-flows",
+          "text": "Normalizing flows"
+        },
+        {
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
@@ -2078,6 +2187,11 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/RNNs",
+          "text": "RNNs"
+        },
+        {
+          "source": "/AI/NLP",
           "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         }
@@ -2133,6 +2247,11 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Transformers.md",
           "text": "Transformers#For NLP"
+        },
+        {
+          "source": "/AI/NLP",
+          "target": "/AI/Deep-learning/Transformers.md",
+          "text": "Transformers"
         }
       ],
       "/AI/Feature-learning": [
@@ -2188,23 +2307,78 @@
           "text": "Machine Learning"
         },
         {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Machine-Learning",
+          "text": "Machine Learning"
+        },
+        {
           "source": "/",
           "target": "/AI/Machine-Learning",
           "text": "Machine Learning"
         }
       ],
-      "/AI/Math-and-stats": [
+      "/AI/Math-and-Statistics/Distances": [
         {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI/Math-and-stats",
-          "text": "Math and stats"
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Distances",
+          "text": "Distances"
         }
       ],
-      "/AI/Math-and-stats.md": [
+      "/AI/Math-and-Statistics/Linear-Algebra": [
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Linear-Algebra",
+          "text": "Linear Algebra"
+        }
+      ],
+      "/AI/Math-and-Statistics/Math-and-Statistics": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "text": "Math and Statistics"
+        },
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "text": "Math and Statistics"
+        }
+      ],
+      "/AI/Math-and-Statistics/Mathematical-Optimization": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Math-and-stats.md",
-          "text": "Math and stats#^jax"
+          "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+          "text": "Mathematical Optimization"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+          "text": "Mathematical Optimization"
+        }
+      ],
+      "/AI/Math-and-Statistics/Monte-Carlo-methods": [
+        {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
+        },
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
+        }
+      ],
+      "/AI/Math-and-Statistics/Monte-Carlo-methods.md": [
+        {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
+          "text": "Monte Carlo methods#MCMC"
+        }
+      ],
+      "/AI/Math-and-Statistics/Probability-Theory": [
+        {
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "target": "/AI/Math-and-Statistics/Probability-Theory",
+          "text": "Probability Theory"
         }
       ],
       "/AI/NLP": [
@@ -2299,7 +2473,7 @@
       ],
       "/AI/Supervised-Learning/Regression": [
         {
-          "source": "/AI/Math-and-stats",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         }
@@ -2387,13 +2561,6 @@
           "text": "XAI#Interpretability of deep learning models"
         }
       ],
-      "/Active-learning": [
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Active-learning",
-          "text": "Active learning"
-        }
-      ],
       "/Autoencoders.md": [
         {
           "source": "/AI/Deep-learning/Generative-modelling",
@@ -2408,50 +2575,9 @@
           "text": "Background subtraction#CNN based"
         }
       ],
-      "/Bayesian-modelling": [
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling",
-          "text": "Bayesian modelling"
-        },
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling",
-          "text": "Bayesian modelling"
-        },
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/Bayesian-modelling",
-          "text": "Bayesian modelling"
-        }
-      ],
-      "/Bayesian-modelling.md": [
-        {
-          "source": "/AI/Math-and-stats",
-          "target": "/Bayesian-modelling.md",
-          "text": "Bayesian modelling#Code"
-        }
-      ],
-      "/Bayesian-neural-networks": [
-        {
-          "source": "/AI/Bayesian-modelling",
-          "target": "/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
-        },
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
-        }
-      ],
       "/CNNs": [
         {
           "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/NLP",
           "target": "/CNNs",
           "text": "CNNs"
         }
@@ -2669,13 +2795,6 @@
           "text": "Learning to rank"
         }
       ],
-      "/MLops": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/MLops",
-          "text": "MLops"
-        }
-      ],
       "/Machine-Learning": [
         {
           "source": "/AI/Causality",
@@ -2709,11 +2828,6 @@
       ],
       "/Normalizing-flows": [
         {
-          "source": "/AI/Bayesian-modelling",
-          "target": "/Normalizing-flows",
-          "text": "Normalizing flows"
-        },
-        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/Normalizing-flows",
           "text": "Normalizing flows"
@@ -2736,11 +2850,6 @@
       "/RNNs": [
         {
           "source": "/AI/Forecasting",
-          "target": "/RNNs",
-          "text": "RNNs"
-        },
-        {
-          "source": "/AI/NLP",
           "target": "/RNNs",
           "text": "RNNs"
         },
@@ -2777,11 +2886,6 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Regression",
-          "text": "Regression"
-        },
-        {
-          "source": "/AI/Math-and-stats",
           "target": "/Regression",
           "text": "Regression"
         },
@@ -2857,7 +2961,7 @@
           "text": "Time Series analysis"
         },
         {
-          "source": "/AI/Math-and-stats",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/Time-Series-analysis",
           "text": "Time Series analysis"
         },
@@ -2875,11 +2979,6 @@
         },
         {
           "source": "/AI/Forecasting",
-          "target": "/Transformers.md",
-          "text": "Transformers#For NLP"
-        },
-        {
-          "source": "/AI/NLP",
           "target": "/Transformers.md",
           "text": "Transformers#For NLP"
         }
@@ -2948,11 +3047,6 @@
           "text": "machine learning"
         },
         {
-          "source": "/AI/Math-and-stats",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
-        {
           "source": "/AI/XAI",
           "target": "/machine-learning",
           "text": "machine learning"
@@ -2989,6 +3083,16 @@
     },
     {
       "source": "/AI/AI",
+      "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "text": "Math and Statistics"
+    },
+    {
+      "source": "/AI/AI",
+      "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+      "text": "Data engineering and computer science"
+    },
+    {
+      "source": "/AI/AI",
       "target": "/AI/Data-Science-Data-Engineering/Data-Science",
       "text": "Data Science"
     },
@@ -3011,11 +3115,6 @@
       "source": "/AI/AI",
       "target": "/AI/Deep-learning/Deep-learning",
       "text": "Deep learning"
-    },
-    {
-      "source": "/AI/AI",
-      "target": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "text": "Data engineering and computer science"
     },
     {
       "source": "/AI/AI",
@@ -3064,13 +3163,23 @@
     },
     {
       "source": "/AI/Bayesian-modelling",
-      "target": "/Bayesian-neural-networks",
+      "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+      "text": "Monte Carlo methods"
+    },
+    {
+      "source": "/AI/Bayesian-modelling",
+      "target": "/AI/Deep-learning/Bayesian-neural-networks",
       "text": "Bayesian neural networks"
     },
     {
       "source": "/AI/Bayesian-modelling",
-      "target": "/Normalizing-flows",
+      "target": "/AI/Deep-learning/Normalizing-flows",
       "text": "Normalizing flows"
+    },
+    {
+      "source": "/AI/Bayesian-modelling",
+      "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
+      "text": "Monte Carlo methods#MCMC"
     },
     {
       "source": "/AI/Causality",
@@ -3294,8 +3403,8 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/AI/Math-and-stats",
-      "text": "Math and stats"
+      "target": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "text": "Math and Statistics"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -3314,8 +3423,8 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/MLops",
-      "text": "MLops"
+      "target": "/AI/Data-Science-Data-Engineering/MLOps",
+      "text": "MLOps"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -3474,8 +3583,8 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Math-and-stats.md",
-      "text": "Math and stats#^jax"
+      "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+      "text": "Mathematical Optimization"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3591,6 +3700,11 @@
       "source": "/AI/Deep-learning/Deep-learning",
       "target": "/AI/Deep-learning/Geometric-deep-learning",
       "text": "Geometric deep learning"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/GFlowNets",
+      "text": "GFlowNets"
     },
     {
       "source": "/AI/Deep-learning/Encoder-decoder-networks",
@@ -3868,59 +3982,79 @@
       "text": "Generative modelling"
     },
     {
-      "source": "/AI/Math-and-stats",
-      "target": "/Active-learning",
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Math-and-Statistics/Linear-Algebra",
+      "text": "Linear Algebra"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Math-and-Statistics/Distances",
+      "text": "Distances"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Active-learning",
       "text": "Active learning"
     },
     {
-      "source": "/AI/Math-and-stats",
-      "target": "/Bayesian-modelling",
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/",
+      "text": "A B testing"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/",
+      "text": "Code"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Math-and-Statistics/Probability-Theory",
+      "text": "Probability Theory"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Bayesian-modelling",
       "text": "Bayesian modelling"
     },
     {
-      "source": "/AI/Math-and-stats",
-      "target": "/Bayesian-modelling",
-      "text": "Bayesian modelling"
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+      "text": "Monte Carlo methods"
     },
     {
-      "source": "/AI/Math-and-stats",
-      "target": "/AI/Supervised-Learning/Regression",
-      "text": "Regression"
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Math-and-Statistics/Mathematical-Optimization",
+      "text": "Mathematical Optimization"
     },
     {
-      "source": "/AI/Math-and-stats",
-      "target": "/machine-learning",
-      "text": "machine learning"
-    },
-    {
-      "source": "/AI/Math-and-stats",
-      "target": "/Regression",
-      "text": "Regression"
-    },
-    {
-      "source": "/AI/Math-and-stats",
-      "target": "/Bayesian-modelling.md",
-      "text": "Bayesian modelling#Code"
-    },
-    {
-      "source": "/AI/Math-and-stats",
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
       "target": "/Time-Series-analysis",
       "text": "Time Series analysis"
     },
     {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Supervised-Learning/Regression",
+      "text": "Regression"
+    },
+    {
+      "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+      "target": "/AI/Machine-Learning",
+      "text": "Machine Learning"
+    },
+    {
       "source": "/AI/NLP",
-      "target": "/CNNs",
+      "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
     },
     {
       "source": "/AI/NLP",
-      "target": "/RNNs",
+      "target": "/AI/Deep-learning/RNNs",
       "text": "RNNs"
     },
     {
       "source": "/AI/NLP",
-      "target": "/Transformers.md",
-      "text": "Transformers#For NLP"
+      "target": "/AI/Deep-learning/Transformers.md",
+      "text": "Transformers"
     },
     {
       "source": "/AI/One-few-shot-learning",
@@ -3934,13 +4068,18 @@
     },
     {
       "source": "/AI/Probabilistic-machine-learning",
-      "target": "/Bayesian-neural-networks",
+      "target": "/AI/Deep-learning/Bayesian-neural-networks",
       "text": "Bayesian neural networks"
     },
     {
       "source": "/AI/Probabilistic-machine-learning",
-      "target": "/Bayesian-modelling",
+      "target": "/AI/Bayesian-modelling",
       "text": "Bayesian modelling"
+    },
+    {
+      "source": "/AI/Probabilistic-machine-learning",
+      "target": "/AI/Deep-learning/GFlowNets",
+      "text": "GFlowNets"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
@@ -4009,8 +4148,8 @@
     },
     {
       "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
-      "target": "/AI/Data-Science-Data-Engineering/MLops",
-      "text": "MLops"
+      "target": "/AI/Data-Science-Data-Engineering/MLOps",
+      "text": "MLOps"
     },
     {
       "source": "/AI/Supervised-Learning/Random-forest",
