@@ -26,7 +26,7 @@ Review papers:
 - #PAPER [Partial Convolution based Padding (Liu 2018)](https://arxiv.org/pdf/1811.11718)
 - #PAPER [Probabilistic Semantic Inpainting with Pixel Constrained CNNs (Dupont 2019)](https://arxiv.org/abs/1810.03728)
 	- #CODE https://github.com/Schlumberger/pixel-constrained-cnn-tf
-- #PAPER [A Flexible Deep [[CNNs]] Framework for Image Restoration (2020)](https://ieeexplore.ieee.org/document/8820082)
+- #PAPER [A Flexible Deep CNNs Framework for Image Restoration (2020)](https://ieeexplore.ieee.org/document/8820082)
 	- https://www.researchgate.net/profile/Zhi_Jin6/publication/335500109_A_Flexible_Deep_CNN_Framework_for_Image_Restoration/links/5da7c1a9299bf1c1e4c837c3/A-Flexible-Deep-CNN-Framework-for-Image-Restoration.pdf
 - #PAPER [Deep learning-Based 3D inpainting of brain MR images (Kwan Kang 2021)](https://www.nature.com/articles/s41598-020-80930-w )
 
@@ -36,8 +36,8 @@ Review papers:
 
 - #PAPER [VIGAN: Missing View Imputation with Generative Adversarial Networks (Shang 2017)](https://arxiv.org/abs/1708.06724)
 	- #CODE https://github.com/chaoshangcs/VIGAN
-- #PAPER [Patch-Based Image Inpainting with [[GANs]] (Demir 2018)](https://arxiv.org/abs/1803.07422)
-- #PAPER [GAIN: Missing Data Imputation using [[GANs]] (Yoon 2018)](https://arxiv.org/abs/1806.02920)
+- #PAPER [Patch-Based Image Inpainting with GANs (Demir 2018)](https://arxiv.org/abs/1803.07422)
+- #PAPER [GAIN: Missing Data Imputation using GANs (Yoon 2018)](https://arxiv.org/abs/1806.02920)
 	- #CODE https://github.com/jsyoon0823/GAIN
 - #PAPER [MisGAN: Learning from Incomplete Data with Generative Adversarial Networks (Li 2019)](https://arxiv.org/abs/1902.09599)
 - #PAPER [CollaGAN : Collaborative GAN for Missing Image Data Imputation (Li 2019)](https://arxiv.org/abs/1901.09764)

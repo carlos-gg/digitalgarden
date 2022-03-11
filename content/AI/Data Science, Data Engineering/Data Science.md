@@ -92,19 +92,21 @@ disableToc: false
 	- https://codelabs.developers.google.com/
 	- https://cloud.google.com/products/ai/
 	- https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17
-	- [Cloud [[AI]] building blocks](https://cloud.google.com/products/ai/building-blocks/)
+	- [Cloud AI building blocks](https://cloud.google.com/products/ai/building-blocks/)
 	- [Cloud ML Engine](https://cloud.google.com/ml/)
 		- [Google Cloud Machine Learning platform](https://cloud.google.com/ml-engine/docs/)
 		- #TALK [Machine Intelligence at Google Scale: Vision/Speech API (Guillaume Laforge)](https://www.youtube.com/watch?v=zqWt8oI4gEw)
 		- https://www.slideshare.net/matthiasfeys/machine-learning-at-scale-with-google-cloud-platform
 		- https://github.com/Fematich/mlengine-boilerplate
-	- [[AI]] Hub: https://cloud.google.com/ai-hub/
+	- [AI Hub](https://cloud.google.com/ai-hub/)
 	- [Cloud AutoML](https://cloud.google.com/automl/)
 - #CODE [Amazon web services (AWS)](https://aws.amazon.com/)
 	- https://github.com/donnemartin/awesome-aws
 	- [ML on AWS](https://aws.amazon.com/machine-learning/)
 	- [SageMaker](https://aws.amazon.com/sagemaker/)
-	- [[AI]] on AWS: https://aws.amazon.com/lex/, https://aws.amazon.com/polly, https://aws.amazon.com/rekognition
+	- [AI on AWS](https://aws.amazon.com/lex/) 
+		- https://aws.amazon.com/polly
+		- https://aws.amazon.com/rekognition
 - #CODE [Watson (IBM)](http://www.ibm.com/watson/)
 	- [IBM Watson APIs](https://www.ibm.com/watson/developer/)
 	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe

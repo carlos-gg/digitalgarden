@@ -32,8 +32,8 @@ disableToc: false
 - #PAPER [Generalizing from a Few Examples: A Survey on Few-Shot Learning (Wang 2020)](https://arxiv.org/abs/1904.05046)
 - #PAPER ['Less Than One'-Shot Learning: Learning N Classes From M < N Samples (Sucholutsky 2020)](https://arxiv.org/abs/2009.08449)
 	- https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/
-	- [[AI]] model able to accurately recognize more objects than the number of examples it was trained on
-	- The trick, was to create images that blend multiple digits together and then feed them into an [[AI]] model with hybrid, or “soft,” labels
+	- AI model able to accurately recognize more objects than the number of examples it was trained on
+	- The trick, was to create images that blend multiple digits together and then feed them into an AI model with hybrid, or “soft,” labels
 
 
 ### Few/one-shot learning GANs 

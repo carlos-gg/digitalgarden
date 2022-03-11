@@ -184,12 +184,12 @@ See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 
 ### Feature engineering
 - https://en.wikipedia.org/wiki/Feature_engineering
-- Feature engineering is the process of using domain knowledge of the data to create features that make [[machine learning]] algorithms work. It is fundamental to the application of ML, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated [[feature learning]].
+- Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. It is fundamental to the application of ML, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning
 - http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 - https://tech.zalando.com/blog/feature-extraction-science-or-engineering/
 
 #### Feature extraction
-See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision](AI/Computer%20Vision/Computer%20vision.md).
+See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 
 
 ### Data mining
@@ -248,7 +248,7 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 	- https://en.wikipedia.org/wiki/Key-value_database
 	- A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash.
 	- Dictionaries contain a collection of objects, or records, which in turn have many different fields within them, each containing data. These records are stored and retrieved using a key that uniquely identifies the record, and is used to quickly find the data within the database.
-- [Document](https://en.wikipedia.org/wiki/Document-oriented_database)
+- [Document-oriented database](https://en.wikipedia.org/wiki/Document-oriented_database)
 
 ### Data munging
 - https://www.coursera.org/learn/data-cleaning

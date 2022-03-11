@@ -5,7 +5,7 @@ disableToc: false
 
 ## Resources
 - https://en.wikipedia.org/wiki/Ensemble_learning
-- In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. By analogy, ensemble techniques have been used also in [[unsupervised learning]] scenarios, for example in consensus clustering or in anomaly or [[AI/Anomaly and Outlier Detection]]
+- In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. By analogy, ensemble techniques have been used also in [Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md) scenarios, for example in consensus clustering or in anomaly or [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 - In general, ensembling is a technique of combining two or more algorithms of similar or dissimilar types called base learners. This is done to make a more robust system (improving generalizability / robustness over a single estimator) which incorporates the predictions from all the base learners.
 - http://scikit-learn.org/stable/modules/ensemble.html
 - http://mlwave.com/kaggle-ensembling-guide/
@@ -18,10 +18,10 @@ disableToc: false
 
 ### Bagging
 - With bootstrap aggregating (Bagging) we build models of smaller datasets by sampling with replacement. The results of these bootstrap samples are then aggregated, using majority voting (equal weighting of models)
-- See [Random Forest](Random%20Forest.md)
+- See [Random forest](AI/Supervised%20Learning/Random%20forest.md)]
 
 ### Boosting
-See [Gradient boosting](Gradient%20boosting.md)
+See [Gradient boosting](AI/Supervised%20Learning/Gradient%20boosting.md)]
 - Same as bagging but operates via weighted voting. Algorithm proceeds iteratively (one tries to reduce the bias of the combined estimator); new models are influenced by previous ones. E.g. AdaBoost (Adaptive Boosting) and LogitBoost
 - https://en.wikipedia.org/wiki/AdaBoost
 

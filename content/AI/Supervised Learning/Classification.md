@@ -35,7 +35,7 @@ disableToc: false
 - #TALK [How SVM (Support Vector Machine) algorithm works](https://www.youtube.com/watch?v=1NxnPkZM9bc)
 
 ### K-nearest neighbors
-See [Regression](Regression.md)
+See [Regression](AI/Supervised%20Learning/Regression.md)
 
 ### Logistic regression
 - https://en.wikipedia.org/wiki/Logistic_regression
@@ -51,13 +51,13 @@ See [Regression](Regression.md)
 
 
 ### Gaussian Processes
-See [Regression](Regression.md) 
+See [Regression](AI/Supervised%20Learning/Regression.md) 
 
 ### Tree-based approaches
-See [Ensemble learning](Ensemble%20learning.md)
+See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md), [Random forest](AI/Supervised%20Learning/Random%20forest.md) and [Gradient boosting](AI/Supervised%20Learning/Gradient%20boosting.md)
+
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb
 - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 - Decision trees (DT): DT-learning uses a decision tree as a predictive model which maps observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). Tree models where the target variable can take a finite set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees.
-- See [Random forest](Random%20forest.md)
-- See [Gradient boosting](Gradient%20boosting.md)
+
 

@@ -4,13 +4,13 @@ disableToc: false
 ---
 
 See: 
-- [Time Series analysis](Time%20Series%20analysis.md)
-- [RNNs](RNNs.md)
-- [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
+- [Time Series analysis](AI/Time%20Series%20analysis.md)
+- [RNNs](AI/Deep%20learning/RNNs.md)
+- [CNNs#Sequence time series modelling](AI/Deep%20Learning/CNNs.md#Sequence%20time%20series%20modelling) 
 
 
 ## Resources
-- https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+- https://www.analytics. idhya.com/blog/2015/08/comprehensive-guide-regression/
 - https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
 - http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
 - http://www.datasciencecentral.com/profiles/blogs/23-types-of-regression
@@ -53,7 +53,7 @@ See:
 - #CODE [[#^glmnetpy]]
 
 ### Logistic regression 
-See [classification](classification.md)
+See [Classification](AI/Supervised%20Learning/Classification.md)
 
 ### Regularized regression
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
@@ -70,18 +70,14 @@ See [classification](classification.md)
 	- In the fitting linear or logistic regression models, the elastic net is a regularized regression method that linearly combines the L1 and L2 penalties of the lasso and ridge methods.
 	- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
 
-
 ### SVM
-See [Classification](Classification.md)
-
+See [Classification](AI/Supervised%20Learning/Classification.md)
 
 ### Gaussian Process
-See [Gaussian Process](Gaussian%20Process.md)
-
+See [Gaussian Process](AI/Supervised%20Learning/Gaussian%20Process.md)
 
 ### Tree-based approaches
-See [Ensemble learning](Ensemble%20learning.md) and [Classification](Classification.md)
-
+See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md) and [Classification](AI/Supervised%20Learning/Classification.md)
 
 ### K-nearest neighbors
 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm

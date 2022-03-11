@@ -15,22 +15,22 @@ disableToc: false
 
 
 ### Classification
-See [Classification](Classification.md)
+See [Classification](AI/Supervised%20Learning/Classification.md)]
 
 ### Regression
-See [Regression](Regression.md)
+See [Regression](AI/Supervised%20Learning/Regression.md)]
 
 ### Structured learning
 - https://en.wikipedia.org/wiki/Structured_prediction
 
 ### Ensemble learning
-See [Ensemble learning](Ensemble%20learning.md)
+See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md)]
 
 ### Class imbalance
-See [Class imbalance](Class%20imbalance.md)
+See [Class imbalance](AI/Supervised%20Learning/Class%20imbalance.md)]
 
 ### Model selection and tuning
-See [Model selection and tuning](Model%20selection%20and%20tuning.md)
+See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)]
 
 ### Probability calibration
 - https://en.wikipedia.org/wiki/Calibration_(statistics)

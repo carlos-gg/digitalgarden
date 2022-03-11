@@ -3,7 +3,7 @@ title: "Random forest"
 disableToc: false 
 ---
 
-See [Ensemble learning](Ensemble%20learning.md)
+See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md)]
 
 ## Resources
 - https://github.com/kjw0612/awesome-random-forest
