@@ -23,33 +23,33 @@ See:
 
 
 ## References
-- #PAPER Learning Spatiotemporal Features with 3D Convolutional Networks. C3D, 3D CNNs (Tran 2015): https://arxiv.org/abs/1412.0767
-- #PAPER Unsupervised Learning of Video Representations using LSTMs (Srivastava 2016): https://arxiv.org/abs/1502.04681
-- #PAPER Convolutional Gated Recurrent Networks for Video Segmentation (Siam 2016): https://arxiv.org/abs/1611.05435
+- #PAPER [Learning Spatiotemporal Features with 3D Convolutional Networks. C3D, 3D CNNs (Tran 2015)](https://arxiv.org/abs/1412.0767)
+- #PAPER [Unsupervised Learning of Video Representations using LSTMs (Srivastava 2016)](https://arxiv.org/abs/1502.04681)
+- #PAPER [Convolutional Gated Recurrent Networks for Video Segmentation (Siam 2016)](https://arxiv.org/abs/1611.05435)
 	- Hybrid convolutional and recurrent networks
-- #PAPER LRCN: Long-term Recurrent Convolutional Networks for Visual Recognition and Description (Donahue 2016): https://arxiv.org/abs/1411.4389
+- #PAPER [LRCN: Long-term Recurrent Convolutional Networks for Visual Recognition and Description (Donahue 2016)](https://arxiv.org/abs/1411.4389)
 	- Hybrid convolutional and recurrent networks
-- #PAPER Convolutional Two-Stream Network Fusion for Video Action Recognition (Feichtenhofer 2016): https://arxiv.org/abs/1604.06573
-- #PAPER Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (Lotter 2016): https://arxiv.org/abs/1605.08104
+- #PAPER [Convolutional Two-Stream Network Fusion for Video Action Recognition (Feichtenhofer 2016)](https://arxiv.org/abs/1604.06573)
+- #PAPER [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning (Lotter 2016)](https://arxiv.org/abs/1605.08104)
 	- https://coxlab.github.io/prednet/
-- #PAPER ContextVP: Fully Context-Aware Video Prediction (Byeon 2018): https://arxiv.org/abs/1710.08518
+- #PAPER [ContextVP: Fully Context-Aware Video Prediction (Byeon 2018)](https://arxiv.org/abs/1710.08518)
 	- http://on-demand.gputechconf.com/gtc/2018/presentation/s8713-fully-context-aware-video-prediction.pdf 
-- #PAPER Machine Learning for Spatiotemporal Sequence Forecasting: A Survey (Shi, 2018): https://arxiv.org/abs/1808.06865
-- #PAPER Residual Convolutional LSTM for Tweet Count Prediction (Wei 2018): https://dl.acm.org/doi/fullHtml/10.1145/3184558.3191571
-- #PAPER A Closer Look at Spatiotemporal Convolutions for Action Recognition (Tran 2018): https://arxiv.org/abs/1711.11248
+- #PAPER [Machine Learning for Spatiotemporal Sequence Forecasting: A Survey (Shi, 2018)](https://arxiv.org/abs/1808.06865)
+- #PAPER [Residual Convolutional LSTM for Tweet Count Prediction (Wei 2018)](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3191571)
+- #PAPER [A Closer Look at Spatiotemporal Convolutions for Action Recognition (Tran 2018)](https://arxiv.org/abs/1711.11248)
 	- #CODE https://github.com/facebookresearch/VMZ
 	- #CODE See Ghadiyaram 2019 below
 	- #CODE https://github.com/juenkhaw/action_recognition_project
 	- demonstrate that 3D ResNets significantly outperform 2D ResNets for the same depth when trained and evaluated on large-scale,challenging action recognition benchmarks
 	- introduce two new forms of spatio temporal convolution that can be viewed as middle grounds between the extremes of 2D (spatial convolution) and full 3D: mixed convolution (MC) and consists in employing 3D convolutions only in the early layers of the network, with 2D convolutions in the top layers, and the R(2+1)D spatiotemporal conv block which explicitly factorizes3D convolution into two separate and successive operations,a 2D spatial convolution and a 1D temporal convolution
 	- the first advantage is an additional nonlinear rectification between these two operations. This effectively doubles the number of non-linearities compared to a network using full 3D convolutions for the same number of parameters, thus rendering the model capable of representing more complex functions.The second potential benefit is that the decomposition facilitates the optimization, yielding in practice both a lower training loss and a lower testing loss
-- #PAPER Video Classification with Channel-Separated Convolutional Networks (Tran 2019): https://arxiv.org/abs/1904.02811
+- #PAPER [Video Classification with Channel-Separated Convolutional Networks (Tran 2019)](https://arxiv.org/abs/1904.02811)
 	- #CODE https://github.com/facebookresearch/VMZ
-- #PAPER Dilated 3D Convolutional Neural Networks for Brain MRI Data Classification (Wang 2019): https://ieeexplore.ieee.org/abstract/document/8840843
-- #PAPER Deep Learning for Spatio-Temporal Data Mining: A Survey (Wang 2019): https://arxiv.org/abs/1906.04928
-- #PAPER Large-scale weakly-supervised pre-training for video action recognition (Ghadiyaram 2019): https://arxiv.org/abs/1905.00561
+- #PAPER [Dilated 3D Convolutional Neural Networks for Brain MRI Data Classification (Wang 2019)](https://ieeexplore.ieee.org/abstract/document/8840843)
+- #PAPER [Deep Learning for Spatio-Temporal Data Mining: A Survey (Wang 2019)](https://arxiv.org/abs/1906.04928)
+- #PAPER [Large-scale weakly-supervised pre-training for video action recognition (Ghadiyaram 2019)](https://arxiv.org/abs/1905.00561)
 	- #CODE https://github.com/microsoft/computervision-recipes/tree/master/scenarios/action_recognition
-- #PAPER Eidetic 3D LSTM A Model for Video Prediction and Beyond, E3D-LSTM (Wang 2019): https://openreview.net/forum?id=B1lKS2AqtX
+- #PAPER [Eidetic 3D LSTM A Model for Video Prediction and Beyond, E3D-LSTM (Wang 2019)](https://openreview.net/forum?id=B1lKS2AqtX)
 	- #CODE https://github.com/google/e3d_lstm
-- #PAPER Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition (Esat Kalfaoglu 2020): https://arxiv.org/abs/2008.01232
-- #PAPER An Image is Worth 16x16 Words, What is a Video Worth? (Sharir 2021): https://arxiv.org/abs/2103.13915
+- #PAPER [Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition (Esat Kalfaoglu 2020)](https://arxiv.org/abs/2008.01232)
+- #PAPER [An Image is Worth 16x16 Words, What is a Video Worth? (Sharir 2021)](https://arxiv.org/abs/2103.13915)

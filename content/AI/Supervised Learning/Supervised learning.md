@@ -5,7 +5,7 @@ disableToc: false
 
 ## Resources
 - https://en.wikipedia.org/wiki/Supervised_learning
-- Supervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+- [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - http://scikit-learn.org/stable/supervised_learning.html
 - Metrics:
 	- http://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html

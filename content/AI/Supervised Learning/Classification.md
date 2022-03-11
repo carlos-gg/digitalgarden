@@ -19,7 +19,7 @@ disableToc: false
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb
 - http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification?rq=1
 - https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
-- #TALK 5 Minutes With Ingo - Naïve Bayes: https://www.youtube.com/watch?v=IlVINQDk4o8
+- #TALK [5 Minutes With Ingo - Naïve Bayes](https://www.youtube.com/watch?v=IlVINQDk4o8)
 
 ### Support Vector Machine (SVM)
 - Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. SVM figures out how to separate the data based on the labels or outputs we’ve defined.
@@ -28,11 +28,11 @@ disableToc: false
 - https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 - http://blog.yhat.com/posts/why-support-vector-machine.html
 - The kernel trick takes the data you give it and transforms it. In expanding the dataset there are now more obvious boundaries between your classes and the SVM algorithm is able to compute a much more optimal hyperplane.
-- #TALK How Support Vector Machines work / How to open a black box (Brandon Rohrer): https://www.youtube.com/watch?v=-Z4aojJ-pdg&t=331s
+- #TALK [How Support Vector Machines work / How to open a black box (Brandon Rohrer)](https://www.youtube.com/watch?v=-Z4aojJ-pdg&t=331s)
 - #TALK 5 Minutes With Ingo - Understanding Support Vector Machines: 
 	- https://www.youtube.com/watch?v=YsiWisFFruY
 	- https://www.youtube.com/watch?v=woEwY0Zi6X4
-- #TALK How SVM (Support Vector Machine) algorithm works: https://www.youtube.com/watch?v=1NxnPkZM9bc
+- #TALK [How SVM (Support Vector Machine) algorithm works](https://www.youtube.com/watch?v=1NxnPkZM9bc)
 
 ### K-nearest neighbors
 See [Regression](Regression.md)

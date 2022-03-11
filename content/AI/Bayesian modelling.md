@@ -15,7 +15,7 @@ See:
 - http://willwolf.io/en/2017/02/07/bayesian-inference-via-simulated-annealing/
 - #TALK Bayesian Inference, Shakir Mohamed, MLSS 2020:
 	- Part I:  https://www.youtube.com/watch?v=x4Y90zPjbq0
-	- Part II: https://www.youtube.com/watch?v=x4Y90zPjbq0&feature=youtu.be
+	- [Part II](https://www.youtube.com/watch?v=x4Y90zPjbq0&feature=youtu.be)
 
 ### Bayesian vs frequentist discussion
 - http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
@@ -41,7 +41,7 @@ See:
 
 ### Variational Bayesian methods
 - See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
-- Variational Bayesian inference with normalizing flows: a simple example: https://towardsdatascience.com/variational-bayesian-inference-with-normalizing-flows-a-simple-example-1db109d91062
+- [Variational Bayesian inference with normalizing flows: a simple example](https://towardsdatascience.com/variational-bayesian-inference-with-normalizing-flows-a-simple-example-1db109d91062)
 	- #CODE https://github.com/fraseriainlewis/towardsdatascience
 
 ### MCMC
@@ -49,20 +49,20 @@ See [Monte Carlo methods#MCMC](AI/Math%20and%20Statistics/Monte%20Carlo%20method
 
 
 ## Code
-- #CODE Stan: https://github.com/stan-dev/stan
+- #CODE [Stan](https://github.com/stan-dev/stan)
 	- http://mc-stan.org
-- #CODE Pymc3 - Probabilistic Programming in Python: http://pymc-devs.github.io/pymc3/
-- #CODE Arviz - Exploratory analysis of Bayesian models with Python: https://arviz-devs.github.io/arviz/
-- #CODE BayesicFitting - A package for model fitting and bayesian evidence calculation: https://github.com/dokester/BayesicFitting
+- #CODE [Pymc3 - Probabilistic Programming in Python](http://pymc-devs.github.io/pymc3/)
+- #CODE [Arviz - Exploratory analysis of Bayesian models with Python](https://arviz-devs.github.io/arviz/)
+- #CODE [BayesicFitting - A package for model fitting and bayesian evidence calculation](https://github.com/dokester/BayesicFitting)
 
 
 ## Books
-- #BOOK Think Bayes - Bayesian Statistics Made Simple (Downey 2012): http://greenteapress.com/wp/think-bayes/
+- #BOOK [Think Bayes - Bayesian Statistics Made Simple (Downey 2012)](http://greenteapress.com/wp/think-bayes/)
 	- Think Bayes is an introduction to Bayesian statistics using computational methods
-- #BOOK Probabilistic programming and bayesian methods for hackers: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+- #BOOK [Probabilistic programming and bayesian methods for hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 	- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-- #BOOK Bayesian Modeling and Computation in Python (Martin 2021, CRC): https://bayesiancomputationbook.com/welcome.html
+- #BOOK [Bayesian Modeling and Computation in Python (Martin 2021, CRC)](https://bayesiancomputationbook.com/welcome.html)
 
 
 ## References
-- #PAPER Bayesian model selection for complex dynamic systems (Mark 2018): https://www.nature.com/articles/s41467-018-04241-5 ^1ef748
+- #PAPER [Bayesian model selection for complex dynamic systems (Mark 2018)](https://www.nature.com/articles/s41467-018-04241-5) ^1ef748

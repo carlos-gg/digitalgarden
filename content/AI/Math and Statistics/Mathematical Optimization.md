@@ -6,12 +6,12 @@ disableToc: false
 
 ## Resources
 - https://en.wikipedia.org/wiki/Mathematical_optimization
-- A birds-eye view of optimization algorithms (Pedregosa): http://fa.bianp.net/teaching/2018/eecs227at/
+- [A birds-eye view of optimization algorithms (Pedregosa)](http://fa.bianp.net/teaching/2018/eecs227at/)
 - http://people.duke.edu/~ccc14/sta-663/BlackBoxOptimization.html
 - http://www.benfrederickson.com/numerical-optimization/ (notebook kind of post with python, d3)
 - http://www.kdnuggets.com/2016/12/hard-thing-about-deep-learning.html
 - https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network
-- Why Momentum works: http://distill.pub/2017/momentum/
+- [Why Momentum works](http://distill.pub/2017/momentum/)
 
 ### Heuristics
 - A heuristic is any algorithm which is not guaranteed (mathematically) to find the solution, but which is nevertheless useful in certain practical situations.
@@ -29,19 +29,19 @@ The iterative methods used to solve problems of nonlinear programming differ acc
 - Gradient descent
 	- https://en.wikipedia.org/wiki/Gradient_descent
 	- Gradient descent is a first-order iterative optimization algorithm. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or of the approximate gradient) of the function at the current point. Gradient descent is also known as steepest descent, or the method of steepest descent.
-	- An overview of gradient descent optimization algorithms: http://ruder.io/optimizing-gradient-descent/index.html
+	- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 	- https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a
 	- https://www.jeremyjordan.me/gradient-descent/
-- Conjugate gradient method: https://en.wikipedia.org/wiki/Conjugate_gradient_method
-- Interior point method: https://en.wikipedia.org/wiki/Interior_point_method
+- [Conjugate gradient method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
+- [Interior point method](https://en.wikipedia.org/wiki/Interior_point_method)
 
 
 ## Code
-- #CODE Nevergrad (Facebook) - A Python toolbox for performing gradient-free optimization: https://code.fb.com/ai-research/nevergrad/
-- #CODE scikit-optimize: https://scikit-optimize.github.io/
-- #CODE GPflowOpt - library for Bayesian Optimization with GPflow: https://gpflowopt.readthedocs.io/en/latest/index.html 
-- #CODE JAX: https://github.com/google/jax ^jax
+- #CODE [Nevergrad (Facebook) - A Python toolbox for performing gradient-free optimization](https://code.fb.com/ai-research/nevergrad/)
+- #CODE [scikit-optimize](https://scikit-optimize.github.io/)
+- #CODE [GPflowOpt - library for Bayesian Optimization with GPflow](https://gpflowopt.readthedocs.io/en/latest/index.html )
+- #CODE [JAX](https://github.com/google/jax) ^jax
 	- JAX is Autograd and XLA, brought together for high-performance machine learning research. It can automatically differentiate native Python and NumPy functions
-	- #TALK JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas: https://www.youtube.com/watch?v=z-WSrQDXkuM
+	- #TALK [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://www.youtube.com/watch?v=z-WSrQDXkuM)
 	- https://towardsdatascience.com/deep-learning-with-jax-and-elegy-c0765e3ec31a
-	- #TALK Machine Learning with JAX - From Zero to Hero: https://www.youtube.com/watch?v=SstuvS-tVc0
+	- #TALK [Machine Learning with JAX - From Zero to Hero](https://www.youtube.com/watch?v=SstuvS-tVc0)

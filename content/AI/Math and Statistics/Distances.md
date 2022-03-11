@@ -5,7 +5,7 @@ disableToc: false
 
 
 ## Resources
-- Anscombe dataset: http://datascienceplus.com/the-importance-of-data-visualization/
+- [Anscombe dataset](http://datascienceplus.com/the-importance-of-data-visualization/)
 - Distance = 1 - Similarity 
 - Having a set of points (space), a distance d is a function d(x,y) that takes 2 point in the space and produces a real number. It must satisfy 4 axioms:
 	1. d(x,y)>=0, no negative distances

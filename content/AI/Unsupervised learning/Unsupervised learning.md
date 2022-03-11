@@ -5,7 +5,7 @@ disableToc: false
 
 ## Resources
 - https://en.wikipedia.org/wiki/Unsupervised_learning
-- Unsupervised Learning cheatsheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
+- [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
 - Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from "unlabeled" data (a classification or categorization is not included in the observations).
 
 ## Sub-topics

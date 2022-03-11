@@ -7,15 +7,15 @@ disableToc: false
 ## Resources
 - https://en.wikipedia.org/wiki/Probability_theory
 - https://stanford.edu/~shervine/teaching/cme-106/key-concepts
-- A visual introduction to probability and statistics: http://students.brown.edu/seeing-theory/
+- [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-probability
 - Probability forms the foundation for almost all treatments of statistical inference. Probability is a law that assigns numbers to the long run occurrence of random phenomena after repeated unrelated realizations
 - http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb
 - https://en.wikipedia.org/wiki/Probability_interpretations
 - https://en.wikipedia.org/wiki/Bayesian_probability
-- The Coursera Statistical Inference class: http://youtu.be/oTERv_vrmJM?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
-- Monty Hall problem: https://en.wikipedia.org/wiki/Monty_Hall_problem
-- Coded in Python: https://github.com/cs109/2015lab1/blob/master/hw0.ipynb
+- [The Coursera Statistical Inference class](http://youtu.be/oTERv_vrmJM?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
+- [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+- [Coded in Python](https://github.com/cs109/2015lab1/blob/master/hw0.ipynb)
 - Cheatsheets:
 	- https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability
 	- Probability Cheatsheet (Chen): 
@@ -50,7 +50,7 @@ disableToc: false
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-independence
 - Statistical independence of events is the idea that the events are unrelated. Consider successive coin flips. Knowledge of the result of the first coin flip tells us nothing about the second.
 - The important principle is that probabilities of independent things multiply! This has numerous consequences, including the idea that we shouldn’t multiply non-independent probabilities.
-- IID samples : https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables
+- [IID samples ](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
 	- IID - Independent and identically distributed 
 	- In probability theory and statistics, a sequence or other collection of random variables is independent and identically distributed(i.i.d.) if each random variable has the same probability distribution as the others and all are mutually independent.
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-iid-random-variables
@@ -60,7 +60,7 @@ disableToc: false
 - https://stanford.edu/~shervine/teaching/cme-106/distribution-tables
 - https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-some-common-distributions
-- Normal distribution: http://efavdb.com/normal-distributions/
+- [Normal distribution](http://efavdb.com/normal-distributions/)
 - Bernoulli
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-the-bernoulli-distribution
 	- TheBernoulli distribution arises as the result of a binary outcome, such as a coin flip.
@@ -79,7 +79,7 @@ disableToc: false
 - https://en.wikipedia.org/wiki/Expected_value
 - In probability theory, the expected value of a random variable, intuitively, is the long-run average value of repetitions of the experiment it represents.
 - Less roughly, the law of large numbers states that the arithmetic mean of the values almost surely converges to the expected value as the number of repetitions approaches infinity. The expected value is also known as the expectation, mathematical expectation, EV, average, mean value, mean, or first moment.
-- Expected values: http://youtu.be/zljxRbu6jyc?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
+- [Expected values](http://youtu.be/zljxRbu6jyc?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
 - https://leanpub.com/LittleInferenceBook/read#leanpub-auto-expected-values
 - Expected values characterize a distribution. The most useful expected value, the mean, characterizes the center of a density or mass function. Another expected value summary, the variance, characterizes how spread out a density is. Yet another expected value calculation is the skewness, which considers how much a density is pulled toward high or low values.
 
@@ -95,4 +95,4 @@ disableToc: false
 
 
 ## Books
-- #COURSE Introduction to Probability and Statistics (MIT): https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
+- #COURSE [Introduction to Probability and Statistics (MIT)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)

@@ -15,8 +15,8 @@ disableToc: false
 - https://www.freecodecamp.org/news/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc/
 
 ## References
-- #PAPER Dynamic Routing Between Capsules (Sabour 2017): https://arxiv.org/abs/1710.09829
+- #PAPER [Dynamic Routing Between Capsules (Sabour 2017)](https://arxiv.org/abs/1710.09829)
 	- #CODE https://github.com/XifengGuo/CapsNet-Keras
-- #PAPER Capsule Networks – A survey (Mensah 2019): https://www.sciencedirect.com/science/article/pii/S1319157819309322
+- #PAPER [Capsule Networks – A survey (Mensah 2019)](https://www.sciencedirect.com/science/article/pii/S1319157819309322)
 
 

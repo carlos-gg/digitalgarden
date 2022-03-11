@@ -14,7 +14,7 @@ disableToc: false
 - https://en.wikipedia.org/wiki/Markov_chain
 - https://en.wikipedia.org/wiki/Markov_property
 - A stochastic process has the Markov property if the conditional probability distribution of future states of the process (conditional on both past and present states) depends only upon the present state, not on the sequence of events that preceded it. A process with this property is called a Markov process.
-- Markov Chains Explained Visually: http://setosa.io/ev/markov-chains/
+- [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
 #### Hidden Markov Model (HMM)
 - https://en.wikipedia.org/wiki/Hidden_Markov_model
@@ -36,9 +36,9 @@ disableToc: false
 
 
 ## Code
-- A list of Python-based MCMC packages. Also here’s a nice list of MCMC algorithms: https://gabriel-p.github.io/pythonMCMC/
-- #CODE Sampyl - MCMC samplers for Bayesian estimation in Python, including Metropolis-Hastings, NUTS, and Slice: http://mcleonard.github.io/sampyl/
-- #CODE emcee: http://dan.iel.fm/emcee/current/
+- [A list of Python-based MCMC packages. Also here’s a nice list of MCMC algorithms](https://gabriel-p.github.io/pythonMCMC/)
+- #CODE [Sampyl - MCMC samplers for Bayesian estimation in Python, including Metropolis-Hastings, NUTS, and Slice](http://mcleonard.github.io/sampyl/)
+- #CODE [emcee](http://dan.iel.fm/emcee/current/)
 - #CODE UltraNest - A Pythonic implementation of the Nested Sampling integration algorithm for Bayesian model comparison and parameter estimation
 	- https://johannesbuchner.github.io/UltraNest/
 	- https://johannesbuchner.github.io/UltraNest/testsuite/

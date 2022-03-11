@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 ## Resources
-- The Beginner's Guide to Dimensionality Reduction: https://idyll.pub/post/visxai-dimensionality-reduction-1dbad0a67a092b007c526a45/
-- Distances, Neighborhoods, or Dimensions? Projection Literacy for the Analysis of Multivariate Data: https://visxprojections.dbvis.de/client/index.html
-- Decomposing signals in components (matrix factorization problems): https://scikit-learn.org/stable/modules/decomposition.html
+- [The Beginner's Guide to Dimensionality Reduction](https://idyll.pub/post/visxai-dimensionality-reduction-1dbad0a67a092b007c526a45/)
+- [Distances, Neighborhoods, or Dimensions? Projection Literacy for the Analysis of Multivariate Data](https://visxprojections.dbvis.de/client/index.html)
+- [Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
 - Projection techniques transform high-dimensional data to a lower-dimensional space while preserving its main structure. Often, the data is transformed to two-dimensional space and visualized as a scatter plot as a means to analyze and understand the data
 - Two categories: linear and non-linear projection techniques. 
 
@@ -28,7 +28,7 @@ disableToc: false
 #### Generalized Low Rank Models
 Extension of the idea of PCA to handle arbitrary data sets consisting of numerical, Boolean, categorical, ordinal, and other data types. This framework encompasses many well known techniques in data analysis, such as nonnegative matrix factorization, matrix completion, sparse and robust PCA,-means,-SVD, and maximum margin matrix factorization. The method handles heterogeneous data sets, and leads to coherent schemes for compressing, denoising, and imputing missing entries across all data types simultaneously. It also admits a number of interesting interpretations of the low rank factors, which allow clustering of examples or of features.
 	- https://github.com/cehorn/GLRM
-	- #TALK Generalized Low Rank Models - Madeleine Udell: https://www.youtube.com/watch?v=zwvzGuS82MA
+	- #TALK [Generalized Low Rank Models - Madeleine Udell](https://www.youtube.com/watch?v=zwvzGuS82MA)
 	- #TALK Introduction to generalized low-rank models and missing values (OREILLY): 
 	  - https://conferences.oreilly.com/strata/strata-eu-2016/public/schedule/detail/49771
 	  - http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glrm.html
@@ -36,7 +36,7 @@ Extension of the idea of PCA to handle arbitrary data sets consisting of numeric
 #### Dynamic mode decomposition
 - https://en.wikipedia.org/wiki/Dynamic_mode_decomposition
 - linear dimensionality reduction technique for high-dimensional time-series originating from fluid dynamics. DMD combines the best of two worlds: PCA and Fourier transform. Mathematically, it is related to a fundamental operator in dynamical system theory known as the Koopman operator
-- A case against PCA for time-series analysis: https://towardsdatascience.com/a-case-against-pca-for-time-series-analysis-ac66b47629e0
+- [A case against PCA for time-series analysis](https://towardsdatascience.com/a-case-against-pca-for-time-series-analysis-ac66b47629e0)
 	- Recent studies have shown that DMD behaves as a source separation algorithm (e.g. ICA), although this framework can be more flexible
 	- For a similar computational cost, it moreover provides a far more interpretable model than PCA
 
@@ -57,8 +57,8 @@ Extension of the idea of PCA to handle arbitrary data sets consisting of numeric
 - t-SNE is a technique for nonlinear dimensionality reduction that is particularly well suited for the visualization of high-dimensional datasets. The technique can be implemented via Barnes-Hut approximations, allowing it to be applied on large real-world datasets. It is particularly well-suited for embedding high-dimensional data into a space of two or three dimensions, which can then be visualized in a scatter plot. Specifically, it models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points.
 - https://mark-borg.github.io/blog/2016/tsne/
 - https://blog.alookanalytics.com/2017/02/28/analytical-market-segmentation-with-t-sne-and-clustering-pipeline/
-- How to Use t-SNE Effectively (Interactive): http://distill.pub/2016/misread-tsne/
+- [How to Use t-SNE Effectively (Interactive)](http://distill.pub/2016/misread-tsne/)
 
 #### Uniform Manifold Approximation and Projection (UMAP)
-- #PAPER UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction (McInnes 2020): https://arxiv.org/abs/1802.03426
+- #PAPER [UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction (McInnes 2020)](https://arxiv.org/abs/1802.03426)
 

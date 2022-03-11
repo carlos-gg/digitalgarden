@@ -14,7 +14,7 @@ disableToc: false
 - http://www.kdnuggets.com/2016/11/data-science-basics-intro-ensemble-learners.html
 - https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600
 - https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-- How to Reduce Variance in the Final DL Model With a Horizontal Voting Ensemble: https://machinelearningmastery.com/horizontal-voting-ensemble/
+- [How to Reduce Variance in the Final DL Model With a Horizontal Voting Ensemble](https://machinelearningmastery.com/horizontal-voting-ensemble/)
 
 ### Bagging
 - With bootstrap aggregating (Bagging) we build models of smaller datasets by sampling with replacement. The results of these bootstrap samples are then aggregated, using majority voting (equal weighting of models)

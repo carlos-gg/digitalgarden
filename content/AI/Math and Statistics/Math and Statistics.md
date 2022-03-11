@@ -6,48 +6,47 @@ disableToc: false
 ## Resources
 - https://en.wikipedia.org/wiki/Portal:Mathematics
 - https://en.wikipedia.org/wiki/Mathematics
-- Statistics cheatsheet: https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
+- [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
 - https://github.com/rouseguy/intro2stats
-- Stanford-cs-229 ML, probability and stats refresher: https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf
+- [Stanford-cs-229 ML, probability and stats refresher](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf)
 - https://www.khanacademy.org/math/statistics-probability
 - http://christopherroach.com/articles/statistics-for-hackers/
-- Trigonometry refresher: https://stanford.edu/~shervine/teaching/cme-102/trigonometry
+- [Trigonometry refresher](https://stanford.edu/~shervine/teaching/cme-102/trigonometry)
 
 ## Books
-- #BOOK Essential Mathematics and Statistics for Science (Currell 2009, WILEY): https://www.wiley.com/en-us/Essential+Mathematics+and+Statistics+for+Science%2C+2nd+Edition-p-9780470694480
+- #BOOK [Essential Mathematics and Statistics for Science (Currell 2009, WILEY)](https://www.wiley.com/en-us/Essential+Mathematics+and+Statistics+for+Science%2C+2nd+Edition-p-9780470694480)
 	- http://www.stewartschultz.com/statistics/books/Essential%20Mathematics.pdf
-- #BOOK Think Stats - Exploratory Data Analysis in Python (Downey 2014): https://greenteapress.com/wp/think-stats-2e/
+- #BOOK [Think Stats - Exploratory Data Analysis in Python (Downey 2014)](https://greenteapress.com/wp/think-stats-2e/)
 	- Think Stats is an introduction to Probability and Statistics for Python programmers
-- #BOOK An Introduction to Statistics with Python (Haslwanter, 2015 6 SPRINGER): https://www.springer.com/fr/book/9783319283159
+- #BOOK [An Introduction to Statistics with Python (Haslwanter, 2015 6 SPRINGER)](https://www.springer.com/fr/book/9783319283159)
 	- Applications in the life sciences
 	- https://es.scribd.com/document/338198132/An-Introduction-to-Statistics-With-Python-With-Applications-in-the-Life-Sciences
-- #BOOK Statistical Thinking for the 21st Century (Poldrack 2018): http://statsthinking21.org/index.html
+- #BOOK [Statistical Thinking for the 21st Century (Poldrack 2018)](http://statsthinking21.org/index.html)
 	- R language
-- #BOOK Jupyter Guide to Linear Algebra: https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html
+- #BOOK [Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
 
 ## Courses
-- #COURSE Statistical inference for data science: https://www.coursera.org/learn/statistical-inference
+- #COURSE [Statistical inference for data science](https://www.coursera.org/learn/statistical-inference)
 	- https://leanpub.com/LittleInferenceBook
-	- Coursera Inference Version 3: https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
-- #COURSE Probability and Statistics (Stanford online): https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about
-- #COURSE Modern Applied Statistics: Elements of Statistical Learning (Statistics 315a, Stanford): http://statweb.stanford.edu/~tibs/stat315a/
-- #TALK Statistics in Python (Varoquaux 2015 Euroscipy): https://www.youtube.com/watch?v=yaSgoGLXKOg
+	- [Coursera Inference Version 3](https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
+- #COURSE [Probability and Statistics (Stanford online)](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
+- #COURSE [Modern Applied Statistics: Elements of Statistical Learning (Statistics 315a, Stanford)](http://statweb.stanford.edu/~tibs/stat315a/)
+- #TALK [Statistics in Python (Varoquaux 2015 Euroscipy)](https://www.youtube.com/watch?v=yaSgoGLXKOg)
 
 ## Code
-- #CODE Numpy: https://numpy.org/
-	- #PAPER Array programming with NumPy (Harris 2020): https://www.nature.com/articles/s41586-020-2649-2
-- #CODE Scipy: https://www.scipy.org/
-- #CODE Statsmodels: http://www.statsmodels.org/
-- #CODE PyLops: https://github.com/PyLops/pylops
+- #CODE [Numpy](https://numpy.org/)
+	- #PAPER [Array programming with NumPy (Harris 2020)](https://www.nature.com/articles/s41586-020-2649-2)
+- #CODE [Scipy](https://www.scipy.org/)
+- #CODE [Statsmodels](http://www.statsmodels.org/)
+- #CODE [PyLops](https://github.com/PyLops/pylops)
 	- https://pylops.readthedocs.io/en/latest/index.html
 	- Python library is inspired by the MATLAB Spot – A Linear-Operator Toolbox project
-- #CODE Bayesian bootstrap: https://github.com/lmc2179/bayesian_bootstrap
+- #CODE [Bayesian bootstrap](https://github.com/lmc2179/bayesian_bootstrap)
 
 ### A/B testing
-- #CODE Bootstrapped (Facebook) - Generate Bootstrapped confidence intervals for A/B testing: https://github.com/facebookincubator/bootstrapped
-- #CODE Sixpack: https://github.com/sixpack/sixpack
-- #CODE Expan (Zalando) - A Python library for statistical analysis of randomised control trials (A/B tests): 
-	- https://github.com/zalando/expan
+- #CODE [Sixpack](https://github.com/sixpack/sixpack)
+- #CODE [Expan (Zalando)](https://github.com/zalando/expan)
+	- A Python library for statistical analysis of randomised control trials (A/B tests)
 	- #TALK https://www.youtube.com/watch?v=furJxiZlo6w
 - #CODE Proctor (Indeed): 
 	- https://github.com/indeedeng/proctor
@@ -56,19 +55,19 @@ disableToc: false
 
 ## Subtopics
 ### Calculus
-- Calculus refresher: https://stanford.edu/~shervine/teaching/cme-102/calculus
+- [Calculus refresher](https://stanford.edu/~shervine/teaching/cme-102/calculus)
 - Ordinary Differential Equations
 	- https://stanford.edu/~shervine/teaching/cme-102/cheatsheet-first-ode
 	- https://stanford.edu/~shervine/teaching/cme-102/cheatsheet-second-ode
 	- https://stanford.edu/~shervine/teaching/cme-102/cheatsheet-applications
-- Stanford-cs-229 ML, algebra and calculus refresher: https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf
+- [Stanford-cs-229 ML, algebra and calculus refresher](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf)
 - https://scipy-latinamerica.github.io/revista.io/blog/2018/10/20/introduccion-al-calculo-con-python/
 - https://www.khanacademy.org/math/multivariable-calculus
 
-- #COURSE Calculus introductory courses (MIT): https://ocw.mit.edu/high-school/mathematics/
-	- Single Variable Calculus (18.01SC): https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010
-	- Multivariable Calculus (18.02SC): https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010
-	- Highlights of calculus (Strang): https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010
+- #COURSE [Calculus introductory courses (MIT)](https://ocw.mit.edu/high-school/mathematics/)
+	- [Single Variable Calculus (18.01SC)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010)
+	- [Multivariable Calculus (18.02SC)](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
+	- [Highlights of calculus (Strang)](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010)
 
 ### Linear Algebra
 See [Linear Algebra](AI/Math%20and%20Statistics/Linear%20Algebra.md)
@@ -102,7 +101,7 @@ See [Distances](AI/Math%20and%20Statistics/Distances.md)
 - Covariance (matrix)
 	- https://en.wikipedia.org/wiki/Covariance
 	- In probability theory and statistics, covariance is a measure of the joint variability of two random variables. The sign of the covariance therefore shows the tendency in the linear relationship between the variables. The magnitude of the covariance is not easy to interpret. The normalized version of the covariance, the correlation coefficient, however, shows by its magnitude the strength of the linear relation. 
-	- In multidimensional case: covariance matrix. https://en.wikipedia.org/wiki/Covariance_matrix
+	- [In multidimensional case: covariance matrix](https://en.wikipedia.org/wiki/Covariance_matrix)
 - Correlation & Causation 
 	- https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
 	- "Correlation does not imply causation" is a phrase used in statistics to emphasize that a correlation between two variables does not imply that one causes the other. Spurious statistical associations can be found in a multitude of quantities, simply due to chance.
@@ -114,7 +113,7 @@ See [Distances](AI/Math%20and%20Statistics/Distances.md)
 
 ### Experimental design
 See [Active learning](AI/Active%20learning.md)
-- Coursera - data scientist's toolbox: https://www.youtube.com/watch?v=vSXOJnGNtM4
+- [Coursera - data scientist's toolbox](https://www.youtube.com/watch?v=vSXOJnGNtM4)
 - Good experiment: replication, measure variability, generalise to the problem, transparent
 - Confounding variable - strategies: randomization, stratifying 
 - Prediction is not and inference. Both are important and depend on the problem. Prediction is more challenging that inference. For prediction there are key quantities (metrics): sensitivity, specificity, positive predictive value, negative predictive value, accuracy
@@ -147,7 +146,7 @@ See [A B testing](#code#A%20B%20testing)
 
 #### Frequentist inference
 - https://en.wikipedia.org/wiki/Frequentist_inference
-- Statistical Hypothesis testing: http://youtu.be/Wqvx6_12ZMs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
+- [Statistical Hypothesis testing](http://youtu.be/Wqvx6_12ZMs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-hypothesis-testing
 	- Hypothesis testing is concerned with making decisions using data. 
 	- To make decisions using data, we need to characterize the kinds of conclusions we can make. Classical hypothesis testing is concerned with deciding between two decisions (things get much harder if there’s more than two). The first, a null hypothesis is specified that represents the status quo. This hypothesis is usually labeled, H_0. This is what we assume by default. The alternative or research hypothesis is what we require evidence to conclude. This hypothesis is usually labeled H_a, or sometimes H_1 (or some other number other than 0). So to reiterate, the null hypothesis is assumed true and statistical evidence is required to reject it in favor of a research or alternative hypothesis	
@@ -189,9 +188,9 @@ See [A B testing](#code#A%20B%20testing)
 		- http://youtu.be/GRS2b1aedmk?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-power
 	- Power is the probability of rejecting the null hypothesis when it is false. Ergo, power (as its name would suggest) is a good thing; you want more power. A type II error (a bad thing, as its name would suggest) is failing to reject the null hypothesis when it’s false; the probability of a type II error is usually called Beta. Note Power = 1 - Beta.
-- Effect size: https://en.wikipedia.org/wiki/Effect_size
-- Goodness of fit: https://en.wikipedia.org/wiki/Goodness_of_fit
-	- Chi squared: https://en.wikipedia.org/wiki/Chi-squared_test
+- [Effect size](https://en.wikipedia.org/wiki/Effect_size)
+- [Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit)
+	- [Chi squared](https://en.wikipedia.org/wiki/Chi-squared_test)
 
 ### Bootstrap and permutation tests
 - http://youtu.be/0hNQx9nagq4?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ

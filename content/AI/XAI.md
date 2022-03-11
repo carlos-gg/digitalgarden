@@ -6,11 +6,11 @@ disableToc: false
 ## Resources
 - https://github.com/anguyen8/XAI-papers
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
-- Ideas on interpreting [[machine learning]]: https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
-- Explainable AI demos: https://lrpserver.hhi.fraunhofer.de/
+- [Ideas on interpreting [[machine learning]]](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+- [Explainable AI demos](https://lrpserver.hhi.fraunhofer.de/)
 - [Why you need to care about Explainable Machine Learning](https://medium.com/james-blogs/why-you-need-to-care-about-explainable-machine-learning-d01196a6af76)
 - [Interpreting machine learning models](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
-- I.am.ai. Explaining artificial intelligence: https://www.i-am.ai/
+- [I.am.ai. Explaining artificial intelligence](https://www.i-am.ai/)
 - [Baking recipes made by AI](https://cloud.google.com/blog/topics/developers-practitioners/baking-recipes-made-ai)
 - A Review of Different Interpretation Methods:
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d
@@ -19,83 +19,83 @@ disableToc: false
 
 
 ## Events, talks
-- Workshop on Visualization for [[AI]] Explainability: http://visxai.io/
-- ACM Conference on Fairness, Accountability, and Transparency: https://facctconference.org/
-- Explainable AI xAI 2020: https://human-centered.ai/explainable-ai-2020/
-- #TALK Synthesizing Explainable and Deceptive Behavior for Human-[[AI]] Interaction (AAAI 2020 Tutorial): https://yochan-lab.github.io/tutorial/AAAI-2020/
+- [Workshop on Visualization for [[AI]] Explainability](http://visxai.io/)
+- [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/)
+- [Explainable AI xAI 2020](https://human-centered.ai/explainable-ai-2020/)
+- #TALK [Synthesizing Explainable and Deceptive Behavior for Human-[[AI]] Interaction (AAAI 2020 Tutorial)](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 	- https://www.youtube.com/watch?v=r6KhJ3ORYnc
-- #TALK Explainable [[AI]] in Industry (Tutorial): https://sites.google.com/view/explainable-ai-tutorial
+- #TALK [Explainable [[AI]] in Industry (Tutorial)](https://sites.google.com/view/explainable-ai-tutorial)
 	- https://www.youtube.com/watch?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221&v=rcUw7PXHWF4
-- #TALK Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (AAAI 2020): https://xaitutorial2020.github.io/
+- #TALK [Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (AAAI 2020)](https://xaitutorial2020.github.io/)
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
 
 
 ## Books
-- #BOOK  Interpretable Machine Learning (Molnar 2021): https://christophm.github.io/interpretable-ml-book/
+- #BOOK [ Interpretable Machine Learning (Molnar 2021)](https://christophm.github.io/interpretable-ml-book/)
 
 
 ## Code
 See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#Code)
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
-- #CODE CARLA: https://github.com/carla-recourse/CARLA
+- #CODE [CARLA](https://github.com/carla-recourse/CARLA)
 	- CARLA is a python library to benchmark counterfactual explanation and recourse models
-	- #PAPER CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021): https://arxiv.org/abs/2108.00783
+	- #PAPER [CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021)](https://arxiv.org/abs/2108.00783)
 	- https://www.marktechpost.com/2021/08/22/university-of-tubingen-researchers-open-source-carla-a-python-library-for-benchmarking-counterfactual-explanation-methods-across-data-sets-and-machine-learning-models/
-- #CODE Shapash: https://github.com/MAIF/shapash
+- #CODE [Shapash](https://github.com/MAIF/shapash)
 	- https://shapash.readthedocs.io/en/latest/
-- #CODE ExplainerDashboard: https://github.com/oegedijk/explainerdashboard
+- #CODE [ExplainerDashboard](https://github.com/oegedijk/explainerdashboard)
 	- https://explainerdashboard.readthedocs.io/en/latest/index.html#
 	- library for quickly building interactive dashboards for analyzing and explaining the predictions and workings of (scikit-learn compatible) machine learning models, including xgboost, catboost and lightgbm
 	- #TALK https://www.youtube.com/watch?v=1nMlfrDvwc8
-- #CODE AIX360: https://github.com/Trusted-AI/AIX360 ^aix360
+- #CODE [AIX360](https://github.com/Trusted-AI/AIX360) ^aix360
 	- Interpretability and explainability of data and machine learning models
 	- http://aix360.mybluemix.net/
-- #CODE LIME: Local Interpretable Model-agnostic Explanations: https://github.com/marcotcr/lime ^limegithub
-- #CODE Skater: https://github.com/datascienceinc/Skater
+- #CODE [LIME: Local Interpretable Model-agnostic Explanations](https://github.com/marcotcr/lime) ^limegithub
+- #CODE [Skater](https://github.com/datascienceinc/Skater)
 	- Skater is a python package for model agnostic interpretation of predictive models. With Skater, you can unpack the internal mechanics of arbitrary models; as long as you can obtain inputs, and use a function to obtain outputs, you can use Skater to learn about the models internal decision policies.
 	- https://datascienceinc.github.io/Skater/overview.html
 	- Understanding How and Why Your Model Works:  https://www.datascience.com/learn-data-science/fundamentals/model-interpretation-algorithms
 	- https://www.datascience.com/resources/tools/skater
-- #CODE FairML - Auditing Black-Box Predictive Models: https://github.com/adebayoj/fairml
+- #CODE [FairML - Auditing Black-Box Predictive Models](https://github.com/adebayoj/fairml)
 	- FairML is a python toolbox auditing the machine learning models for bias. 
 	- http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
-- #CODE ELI5: https://github.com/TeamHG-Memex/eli5
+- #CODE [ELI5](https://github.com/TeamHG-Memex/eli5)
 	- ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API. It has built-in support for several ML frameworks and provides a way to explain black-box models.
 	- http://eli5.readthedocs.io/en/latest/
-- #CODE BlackBox Auditing: https://github.com/algofairness/BlackBoxAuditing
-- #CODE SHAP: https://github.com/slundberg/shap ^shapgithub
+- #CODE [BlackBox Auditing](https://github.com/algofairness/BlackBoxAuditing)
+- #CODE [SHAP](https://github.com/slundberg/shap) ^shapgithub
 	- Unified approach to explain the output of any machine learning model. SHAP connects game theory with local explanations, uniting several previous methods and representing the only possible consistent and locally accurate additive feature attribution method based on expectations.
-- #CODE InterpretML - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof: https://github.com/interpretml/interpret
-- #CODE uncertainty-toolbox: https://github.com/uncertainty-toolbox/uncertainty-toolboxç
-- #CODE imodels: https://github.com/csinva/imodels
+- #CODE [InterpretML - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof](https://github.com/interpretml/interpret)
+- #CODE [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolboxç)
+- #CODE [imodels](https://github.com/csinva/imodels)
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
 
 
 ## References
-- #PAPER The Mythos of Model Interpretability (Lipton 2017): https://arxiv.org/abs/1606.03490
-- #PAPER A Survey of Methods for Explaining Black Box Models (Guidotti, 2018): https://dl.acm.org/doi/10.1145/3236009
-- #PAPER Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning (McGovern et al. 2019): https://journals.ametsoc.org/bams/article/100/11/2175/343787/Making-the-Black-Box-More-Transparent
-- #PAPER Towards Explainable Artificial Intelligence (Samek & Muller 2019): https://arxiv.org/abs/1909.12072
-- #PAPER Explaining Explanations: An Overview of Interpretability of Machine Learning (Gilpin et al. 2019): https://arxiv.org/abs/1806.00069
-- #PAPER One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques (Arya 2019): https://arxiv.org/abs/1909.03012
+- #PAPER [The Mythos of Model Interpretability (Lipton 2017)](https://arxiv.org/abs/1606.03490)
+- #PAPER [A Survey of Methods for Explaining Black Box Models (Guidotti, 2018)](https://dl.acm.org/doi/10.1145/3236009)
+- #PAPER [Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning (McGovern et al. 2019)](https://journals.ametsoc.org/bams/article/100/11/2175/343787/Making-the-Black-Box-More-Transparent)
+- #PAPER [Towards Explainable Artificial Intelligence (Samek & Muller 2019)](https://arxiv.org/abs/1909.12072)
+- #PAPER [Explaining Explanations: An Overview of Interpretability of Machine Learning (Gilpin et al. 2019)](https://arxiv.org/abs/1806.00069)
+- #PAPER [One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques (Arya 2019)](https://arxiv.org/abs/1909.03012)
 	- #CODE [[#^aix360]]
-- #PAPER Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead (Rudin 2019): https://www.nature.com/articles/s42256-019-0048-x
+- #PAPER [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead (Rudin 2019)](https://www.nature.com/articles/s42256-019-0048-x)
 	- https://arxiv.org/abs/1811.10154
-- #PAPER Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020): https://arxiv.org/abs/1905.08883
-- #PAPER Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020): https://ieeexplore.ieee.org/document/9234594
+- #PAPER [Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020)](https://arxiv.org/abs/1905.08883)
+- #PAPER [Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020)](https://ieeexplore.ieee.org/document/9234594)
 
 ### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
 	- The great advantage of model-agnostic interpretation methods over model-specific ones is their flexibility
 	- An alternative to model-agnostic interpretation methods is to use only interpretable models, which often has the big disadvantage that predictive performance is lost compared to other machine learning models and you limit yourself to one type of model
-- #PAPER Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016): https://arxiv.org/abs/1606.05386
-- #PAPER SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017): https://arxiv.org/abs/1705.07874
+- #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
+- #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
 	- #CODE [[#^shapgithub]]
 	- Can be used for computer vision tasks
 
-- #PAPER Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014): https://arxiv.org/abs/1309.6392
+- #PAPER [Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014)](https://arxiv.org/abs/1309.6392)
 
 #### Partial Dependence Plot
 - The partial dependence plot (short PDP or PD plot) shows the marginal effect one or two features have on the predicted outcome of a machine learning model
@@ -117,12 +117,12 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 #### Surrogate models
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
-- #PAPER LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016). https://arxiv.org/abs/1602.04938 ^lime
+- #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
 	- #CODE [[#^limegithub]]
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
-	- Interpreting ML models prediction power: http://www.datasciencecentral.com/profiles/blogs/deep-learning-epic-fail-right-answer-wrong-reason
+	- [Interpreting ML models prediction power](http://www.datasciencecentral.com/profiles/blogs/deep-learning-epic-fail-right-answer-wrong-reason)
 	- https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c
 	- Machine Learning Explained - Easysol:  http://blog.easysol.net/machine_learning_explained/
 	- https://www.slideshare.net/albahnsen/demystifying-machine-learning-using-lime
@@ -151,10 +151,10 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - For random forests:
 	- Variable importance is also calculated as it is for a single tree and aggregated, but an additional measure of variable importance is provided by the change in out-of-bag accuracy caused by shuffling the independent variable of interest, where larger decreases in accuracy are taken as larger indications of importance
 	- The default method to compute variable importance is the mean decrease in impurity (or gini importance) mechanism: At each split in each tree, the improvement in the split-criterion is the importance measure attributed to the splitting variable, and is accumulated over all the trees in the forest separately for each variable. Note that this measure is quite like the R^2 in regression on the training set
-	- This example highlights the limitations of impurity-based feature importance in contrast to permutation-based feature importance: https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html
-	- #PAPER Understanding variable importances in forests of randomized trees (Louppe 2013): https://papers.nips.cc/paper/4928-understanding-variable-importances-in-forests-of-randomized-trees.pdf
+	- [This example highlights the limitations of impurity-based feature importance in contrast to permutation-based feature importance](https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html)
+	- #PAPER [Understanding variable importances in forests of randomized trees (Louppe 2013)](https://papers.nips.cc/paper/4928-understanding-variable-importances-in-forests-of-randomized-trees.pdf)
 		- #POSTER https://orbi.uliege.be/bitstream/2268/155642/3/poster.pdf
-	- #PAPER Trees, forests, and impurity-based variable importance (Scornet 2020): https://arxiv.org/abs/2001.04295
+	- #PAPER [Trees, forests, and impurity-based variable importance (Scornet 2020)](https://arxiv.org/abs/2001.04295)
 - For neural networks, variable importance measures are typically associated with the aggregated, absolute magnitude of model parameters for a given variable of interest. 
 - Global variable importance techniques are typically model specific, and practitioners should be aware that unsophisticated measures of variable importance can be biased toward larger scale variables or variables with a high number of categories.
 
@@ -162,12 +162,12 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 ### Neural Networks explainability
 
 #### Resources 
-- Using ML to Explore Neural Network Architecture: https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html
-- The Building Blocks of Interpretability: https://distill.pub/2018/building-blocks/
-- Feature Visualization: https://distill.pub/2017/feature-visualization/
+- [Using ML to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+- [Feature Visualization](https://distill.pub/2017/feature-visualization/)
 - [Applying deep learning to real-world problems (labeled data, imbalance, black box models)](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
-- Unblackboxing webinar (deepsense.io): https://github.com/deepsense-io/unblackboxing_webinar
-- The Dark Secret at the Heart of AI: https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/amp/
+- [Unblackboxing webinar (deepsense.io)](https://github.com/deepsense-io/unblackboxing_webinar)
+- [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/amp/)
 - [How AI detectives are cracking open the black box of deep learning](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
 - [Visualization of activations and filters](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html) 
 	- https://github.com/jacobgil/keras-filter-visualization
@@ -176,36 +176,36 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - [Attributing a deep network’s prediction to its input features](http://www.unofficialgoogledatascience.com/2017/03/attributing-deep-networks-prediction-to.html)
 	- Integrated gradients method
 	- It involves a few calls to a gradient operator yielding insightful results for a variety of deep networks
-- Pixel Attribution (Saliency Maps): https://christophm.github.io/interpretable-ml-book/pixel-attribution.html
+- [Pixel Attribution (Saliency Maps)](https://christophm.github.io/interpretable-ml-book/pixel-attribution.html)
 
 #### Code
-- #CODE TruLens (tf.keras and pytorch): Explainability for Neural Networks: https://github.com/truera/trulens
+- #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
 	- https://www.trulens.org/
-- #CODE Captum (pytorch): https://github.com/pytorch/captum
+- #CODE [Captum (pytorch)](https://github.com/pytorch/captum)
 	- Interpretability of models across modalities including vision, text, and more
 	- https://captum.ai/
 	- https://captum.ai/api/
-- #CODE Saliency: https://github.com/PAIR-code/saliency
+- #CODE [Saliency](https://github.com/PAIR-code/saliency)
 	- XRAI, SmoothGrad, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG
-- #CODE iNNvestigate: https://github.com/albermax/innvestigate ^innvestigate
+- #CODE [iNNvestigate](https://github.com/albermax/innvestigate) ^innvestigate
 	- Vanilla gradient, SmoothGrad, DeConvNet, Guided BackProp, PatternNet, DeepTaylor, PatternAttribution, LRP, IntegratedGradients, DeepLIFT
-- #CODE TF-explain: https://github.com/sicara/tf-explain
+- #CODE [TF-explain](https://github.com/sicara/tf-explain)
 	- implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding
-- #CODE TensorSpace (Tensorflow.js): https://github.com/tensorspace-team/tensorspace
+- #CODE [TensorSpace (Tensorflow.js)](https://github.com/tensorspace-team/tensorspace)
 	- Neural network 3D visualization framework
 	- https://tensorspace.org
-- #CODE Lucid (Tensorflow 1) - A collection of infrastructure and tools for research in neural network interpretability. https://github.com/tensorflow/lucid
-- #CODE tf-keras-vis: https://github.com/keisen/tf-keras-vis
+- #CODE [Lucid (Tensorflow 1) - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
+- #CODE [tf-keras-vis](https://github.com/keisen/tf-keras-vis)
 	- Neural network visualization toolkit for tf.keras
 	- Activation Maximization
 	- Class Activation Maps (GradCAM, GradCAM++, ScoreCAM, Faster-ScoreCAM)
 	- Saliency Maps (Vanilla Saliency, SmoothGrad)
-- #CODE Keras-vis: https://github.com/raghakot/keras-vis
+- #CODE [Keras-vis](https://github.com/raghakot/keras-vis)
 	- https://raghakot.github.io/keras-vis/
 	- Activation maximization, Saliency maps, Class activation maps
-- #CODE DeepExplain (TensorFlow 1): https://github.com/marcoancona/DeepExplain
+- #CODE [DeepExplain (TensorFlow 1)](https://github.com/marcoancona/DeepExplain)
 	- Saliency maps, Gradient * Input, Integrated Gradients, DeepLIFT, ε-LRP
-- #CODE LRP toolbox: https://github.com/sebastian-lapuschkin/lrp_toolbox
+- #CODE [LRP toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
   
 #### References
 - #PAPER [Visualization of neural networks using saliency maps (Morch 1995)](https://www.researchgate.net/publication/3623243_Visualization_of_neural_networks_using_saliency_maps)
@@ -216,7 +216,7 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - #PAPER [Understanding Neural Networks Through Deep Visualization (Yosinski 2015)](https://arxiv.org/abs/1506.06579)
 	- http://yosinski.com/deepvis
 - #PAPER [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability (Raghu 2017)](https://arxiv.org/abs/1706.05806)
-	- Interpreting Deep Neural Networks with SVCCA: https://ai.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html
+	- [Interpreting Deep Neural Networks with SVCCA](https://ai.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html)
 - #PAPER [Axiomatic Attribution for Deep Networks (Sundararajan 2017)](https://arxiv.org/abs/1703.01365)
 - #PAPER [SmoothGrad: removing noise by adding noise (Smilkov 2017)](https://arxiv.org/abs/1706.03825)
 	- https://pair-code.github.io/saliency/
@@ -238,22 +238,22 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - #PAPER [Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications (Samek 2021)](https://ieeexplore.ieee.org/document/9369420)
 - #PAPER [Logic Explained Networks (Ciravegna 2021)](https://arxiv.org/abs/2108.05149)
 	- https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/
-- #PAPER Toward Explainable AI for Regression Models (Letzgus 2021): https://arxiv.org/abs/2112.11407
+- #PAPER [Toward Explainable AI for Regression Models (Letzgus 2021)](https://arxiv.org/abs/2112.11407)
 
  
 ##### Layer-wise Relevance Propagation (LRP)
 - LRP is an inverse method which calculates the contribution of a single pixel to the prediction made by a DNN in an image classification task
 - http://heatmapping.org/
-- Interactive demo: https://lrpserver.hhi.fraunhofer.de/image-classification
+- [Interactive demo](https://lrpserver.hhi.fraunhofer.de/image-classification)
 - https://medium.com/@ODSC/layer-wise-relevance-propagation-means-more-interpretable-deep-learning-219ff5158914
 - https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea
 - Saliency map is a broader term from the field of computer vision (https://en.wikipedia.org/wiki/Saliency\_map). The first reference of saliency maps applied to the predictions of DNNs is Morch et al 1995. Simonyan et al (2014) first proposed a method to produce saliency maps using back-propagation through a CNN, but note that you could compute "saliency" from an image in many ways that do not deal with back-propagating the prediction scores of DNNs. 
 - There are several approaches for calculating attributions by back-propagating the prediction score through each layer of the network, back to the input features /pixels (DeConvNet, SmoothGrad, GradCam, LRP, XRAI). LRP is just one of them. In the first LRP paper, they talk about heatmaps or relevance maps, probably to avoid confusion with older saliency map techniques
 
-- #PAPER On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (Bach 2015): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
-	- #CODE Tutorial: Implementing Layer-Wise Relevance Propagation: https://git.tu-berlin.de/gmontavon/lrp-tutorial
-- #PAPER Understanding Individual Decisions of CNNs via Contrastive Backpropagation (Gu 2019): https://arxiv.org/abs/1812.02100
-- #PAPER Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation (Li 2019): https://arxiv.org/abs/1712.08268
+- #PAPER [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (Bach 2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
+	- #CODE [Tutorial: Implementing Layer-Wise Relevance Propagation](https://git.tu-berlin.de/gmontavon/lrp-tutorial)
+- #PAPER [Understanding Individual Decisions of CNNs via Contrastive Backpropagation (Gu 2019)](https://arxiv.org/abs/1812.02100)
+- #PAPER [Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation (Li 2019)](https://arxiv.org/abs/1712.08268)
 	- proposed a novel two-step understanding method, namely Salient Relevance (SR) map, which aims to shed light on how deep CNNs recognize images and learn features from attention areas
 	- starts out with a layer-wise relevance propagation (LRP) step which estimates a pixel-wise relevance map over the input image. Following, we construct a context-aware saliency map, SR map, from the LRP-generated map which predicts areas close to the foci of attention instead of isolated pixels that LRP reveals
-- #PAPER Towards Best Practice in Explaining Neural Network Decisions with LRP (Kohlbrenner 2020): https://arxiv.org/abs/1910.09840
+- #PAPER [Towards Best Practice in Explaining Neural Network Decisions with LRP (Kohlbrenner 2020)](https://arxiv.org/abs/1910.09840)

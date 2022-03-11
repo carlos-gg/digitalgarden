@@ -16,4 +16,4 @@ See [Ensemble learning](Ensemble%20learning.md)
 
 
 ## References
-- #THESIS/PHD Understanding Random Forests: From Theory to Practice (Louppe 2014): https://arxiv.org/abs/1407.7502
+- [#THESIS/PHD Understanding Random Forests: From Theory to Practice (Louppe 2014)](https://arxiv.org/abs/1407.7502)

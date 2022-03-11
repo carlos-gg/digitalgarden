@@ -14,14 +14,14 @@ disableToc: false
 - http://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/
 
 ## Code
-- #CODE Adarank: https://github.com/rueycheng/AdaRank
-- #CODE Pyltr - LambdaMART: https://github.com/jma127/pyltr
-- #CODE Mord - Ordinal Regression in Python: https://github.com/fabianp/mord
+- #CODE [Adarank](https://github.com/rueycheng/AdaRank)
+- #CODE [Pyltr - LambdaMART](https://github.com/jma127/pyltr)
+- #CODE [Mord - Ordinal Regression in Python](https://github.com/fabianp/mord)
 	- https://pythonhosted.org/mord/
 	- http://fa.bianp.net/blog/2013/logistic-ordinal-regression/
 
 ## References
 ### DL-based ranking
-- #PAPER TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank (Kumar Pasumarthi 2019): https://research.google/pubs/pub48160/
+- #PAPER [TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank (Kumar Pasumarthi 2019)](https://research.google/pubs/pub48160/)
 	- #CODE https://github.com/tensorflow/ranking
-	- New Keras-based TF-Ranking version: https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html
+	- [New Keras-based TF-Ranking version](https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html)
