@@ -13,20 +13,20 @@ disableToc: false
 
 
 ### Autoencoders
-See [Autoencoders#VAEs](Autoencoders.md#VAEs)
+See [Autoencoders - VAEs](AI/Deep%20learning/Autoencoders.md#VAEs)
 
 ### GANs
-See [[GANs]]
+See [GANs](AI/Deep%20learning/GANs.md)
 
 ### Normalizing flows
-See [Normalizing flows](Normalizing%20flows.md)
+See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)]
 
 ### Generative models for Image data
 See:
-- [Image-to-image translation](Image-to-image%20translation.md)
-- [Image-to-image translation#GAN-based](Image-to-image%20translation.md#GAN-based)
-- [GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
-- [Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision)
+- [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+- [Image-to-image translation#GAN-based](AI/Computer%20Vision/Image-to-image%20translation.md#GAN-based)
+- [GANs#GANs for representation learning and image synthesis](AI/Deep%20Learning/GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
+- [Transformers#For Computer Vision](AI/Deep%20Learning/Transformers.md#For%20Computer%20Vision)
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
@@ -51,7 +51,7 @@ See:
 	- Generative models are typically trained on grid-like data such as images (tied to the underlying grid resolution)
 	- Instead of discretized grids, they parametrized individual data points by continuous functions over which they learned distributions --> generative models
 	- Coordinate and feature pairs are treated as point clouds (sets with underlying notion of distance). Leveraged the PointConv framekwork 
-	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [[Super-resolution]]
+	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 - #PAPER [Score-Based Generative Modeling through Stochastic Differential Equations (Song 2021)](https://arxiv.org/abs/2011.13456v2)
 	- #CODE https://paperswithcode.com/paper/score-based-generative-modeling-through-1
 - #PAPER [Diffusion Models Beat GANs on Image Synthesis (Dhariwal 2021)](https://arxiv.org/abs/2105.05233v3)

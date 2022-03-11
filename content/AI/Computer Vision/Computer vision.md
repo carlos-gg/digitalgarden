@@ -73,7 +73,7 @@ See:
 - [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
 - [Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision)
 
-- [Deep Learning](AI/Deep%20learning/Deep%20Learning.md) is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as [CNNs](AI/Deep%20learning/CNNs.md) mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
+- Deep Learning is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as CNNs mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 - https://github.com/kjw0612/awesome-deep-vision
 - https://github.com/timzhang642/3D-Machine-Learning
 - https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531

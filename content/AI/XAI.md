@@ -1,11 +1,12 @@
 ---
-title: "Explainable AI (XAI)"
+title: "XAI"
 disableToc: false 
 ---
 
 ## Resources
-- https://github.com/anguyen8/XAI-papers
+- Explainable AI (XAI), or Interpretable AI, is artificial intelligence (AI) in which the results of the solution can be understood by humans
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
+- https://github.com/anguyen8/XAI-papers
 - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 - [Explainable AI demos](https://lrpserver.hhi.fraunhofer.de/)
 - [Why you need to care about Explainable Machine Learning](https://medium.com/james-blogs/why-you-need-to-care-about-explainable-machine-learning-d01196a6af76)
@@ -22,7 +23,7 @@ disableToc: false
 - [Workshop on Visualization for AI Explainability](http://visxai.io/)
 - [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/)
 - [Explainable AI xAI 2020](https://human-centered.ai/explainable-ai-2020/)
-- #TALK [Synthesizing Explainable and Deceptive Behavior for Human-[[AI]] Interaction (AAAI 2020 Tutorial)](https://yochan-lab.github.io/tutorial/AAAI-2020/)
+- #TALK [Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction (AAAI 2020 Tutorial)](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 	- https://www.youtube.com/watch?v=r6KhJ3ORYnc
 - #TALK [Explainable AI in Industry (Tutorial)](https://sites.google.com/view/explainable-ai-tutorial)
 	- https://www.youtube.com/watch?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221&v=rcUw7PXHWF4
@@ -35,7 +36,6 @@ disableToc: false
 
 
 ## Code
-See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#Code)
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
 - #CODE [CARLA](https://github.com/carla-recourse/CARLA)
@@ -71,7 +71,7 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - #CODE [imodels](https://github.com/csinva/imodels)
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
 
-### Deep XAI
+### Deep NNs XAI
 - #CODE [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
 	- Quantus is an eXplainable AI toolkit for responsible evaluation of neural network explanations
 - #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
