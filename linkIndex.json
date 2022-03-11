@@ -41,11 +41,6 @@
       "/AI/AI": [
         {
           "source": "/AI/AI",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/AI",
           "target": "/AI/Math-and-Statistics/Math-and-Statistics",
           "text": "Math and Statistics"
         },
@@ -195,11 +190,6 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
@@ -2026,11 +2016,6 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/Deep-Learning",
           "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/Deep-belief-network": [
@@ -2683,11 +2668,6 @@
       ],
       "/Deep-Learning": [
         {
-          "source": "/AI/AI",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
           "target": "/Deep-Learning",
           "text": "Deep Learning"
@@ -3056,11 +3036,6 @@
   "links": [
     {
       "source": "/AI/AI",
-      "target": "/Deep-Learning",
-      "text": "Deep Learning"
-    },
-    {
-      "source": "/AI/AI",
       "target": "/AI/Math-and-Statistics/Math-and-Statistics",
       "text": "Math and Statistics"
     },
@@ -3198,11 +3173,6 @@
       "source": "/AI/Computer-Vision/Computer-vision",
       "target": "/AI/Deep-learning/GANs",
       "text": "GANs"
-    },
-    {
-      "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/AI/Deep-learning/Deep-Learning",
-      "text": "Deep Learning"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
