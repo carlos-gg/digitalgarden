@@ -230,7 +230,7 @@
       "/AI/Computer-Vision/Image-to-image-translation": [
         {
           "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/AI/Computer-Vision/Encoder-decoder-networks",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
           "text": "Encoder-decoder networks"
         },
         {
@@ -433,11 +433,6 @@
         }
       ],
       "/AI/Data-Science-Data-Engineering/Distributed-DL": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
         {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
           "target": "/Tensorflow-keras.md",
@@ -1234,16 +1229,6 @@
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/Classification",
           "text": "Classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
         }
       ],
       "/AI/Supervised-Learning/Supervised-learning": [
@@ -1276,27 +1261,27 @@
       "/AI/Time-Series-analysis": [
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/Forecasting",
+          "target": "/AI/Forecasting",
           "text": "Forecasting"
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/RNNs",
+          "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
+          "target": "/CNNs",
+          "text": "Sequence time series modelling"
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/Deep-learning",
+          "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning#Deep learning for tabular data"
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/Forecasting.md",
+          "target": "/AI/Forecasting.md",
           "text": "Forecasting#Code"
         },
         {
@@ -1379,21 +1364,6 @@
       "/AI/XAI": [
         {
           "source": "/AI/XAI",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
           "target": "/AI",
           "text": "AI"
         },
@@ -1426,6 +1396,11 @@
           "source": "/AI/XAI",
           "target": "/",
           "text": "Neural Networks explainability"
+        },
+        {
+          "source": "/AI/XAI",
+          "target": "/",
+          "text": "Code"
         },
         {
           "source": "/AI/XAI",
@@ -1519,6 +1494,11 @@
         {
           "source": "/AI/XAI",
           "target": "/",
+          "text": "Code"
+        },
+        {
+          "source": "/AI/XAI",
+          "target": "/",
           "text": "#^innvestigate"
         }
       ],
@@ -1555,16 +1535,6 @@
         },
         {
           "source": "/AI/One-few-shot-learning",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
           "target": "/AI",
           "text": "AI"
         },
@@ -1716,13 +1686,6 @@
           "source": "/AI/Unsupervised-learning/Clustering",
           "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
-        }
-      ],
-      "/AI/Computer-Vision/Encoder-decoder-networks": [
-        {
-          "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/AI/Computer-Vision/Encoder-decoder-networks",
-          "text": "Encoder-decoder networks"
         }
       ],
       "/AI/Computer-Vision/Image-and-video-captioning": [
@@ -2045,6 +2008,11 @@
           "source": "/AI/Machine-Learning",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning#Deep learning for tabular data"
         }
       ],
       "/AI/Deep-learning/Deep-learning.md": [
@@ -2055,6 +2023,11 @@
         }
       ],
       "/AI/Deep-learning/Encoder-decoder-networks": [
+        {
+          "source": "/AI/Computer-Vision/Image-to-image-translation",
+          "target": "/AI/Deep-learning/Encoder-decoder-networks",
+          "text": "Encoder-decoder networks"
+        },
         {
           "source": "/AI/Computer-Vision/Semantic-segmentation",
           "target": "/AI/Deep-learning/Encoder-decoder-networks",
@@ -2232,6 +2205,11 @@
           "source": "/AI/NLP",
           "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Deep-learning/RNNs",
+          "text": "RNNs"
         }
       ],
       "/AI/Deep-learning/Residual-and-dense-neural-networks": [
@@ -2314,6 +2292,18 @@
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Forecasting",
           "text": "Forecasting"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Forecasting",
+          "text": "Forecasting"
+        }
+      ],
+      "/AI/Forecasting.md": [
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Forecasting.md",
+          "text": "Forecasting#Code"
         }
       ],
       "/AI/Learning-to-rank": [
@@ -2616,6 +2606,11 @@
           "source": "/AI/Computer-Vision/Inpainting",
           "target": "/CNNs",
           "text": "CNNs"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/CNNs",
+          "text": "Sequence time series modelling"
         }
       ],
       "/CNNs.md": [
@@ -2626,11 +2621,6 @@
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
-        },
-        {
-          "source": "/AI/Time-Series-analysis",
           "target": "/CNNs.md",
           "text": "CNNs#Sequence time series modelling"
         }
@@ -2668,11 +2658,6 @@
       ],
       "/Deep-Learning": [
         {
-          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Horovod",
           "target": "/Deep-Learning",
           "text": "Deep Learning"
@@ -2681,13 +2666,6 @@
           "source": "/AI/Deep-learning/Bayesian-neural-networks",
           "target": "/Deep-Learning",
           "text": "Deep Learning"
-        }
-      ],
-      "/Deep-learning": [
-        {
-          "source": "/AI/Time-Series-analysis",
-          "target": "/Deep-learning",
-          "text": "Deep learning#Deep learning for tabular data"
         }
       ],
       "/Ensemble-learning": [
@@ -2715,20 +2693,6 @@
           "source": "/AI/Supervised-Learning/Supervised-learning",
           "target": "/Ensemble-learning",
           "text": "Ensemble learning"
-        }
-      ],
-      "/Forecasting": [
-        {
-          "source": "/AI/Time-Series-analysis",
-          "target": "/Forecasting",
-          "text": "Forecasting"
-        }
-      ],
-      "/Forecasting.md": [
-        {
-          "source": "/AI/Time-Series-analysis",
-          "target": "/Forecasting.md",
-          "text": "Forecasting#Code"
         }
       ],
       "/GANs": [
@@ -2846,11 +2810,6 @@
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/RNNs",
-          "text": "RNNs"
-        },
-        {
-          "source": "/AI/Time-Series-analysis",
           "target": "/RNNs",
           "text": "RNNs"
         }
@@ -2972,16 +2931,6 @@
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/classification",
           "text": "classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
         }
       ],
       "/deep-learning": [
@@ -3001,11 +2950,6 @@
       "/machine-learning": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
-        {
-          "source": "/AI/XAI",
           "target": "/machine-learning",
           "text": "machine learning"
         }
@@ -3211,7 +3155,7 @@
     },
     {
       "source": "/AI/Computer-Vision/Image-to-image-translation",
-      "target": "/AI/Computer-Vision/Encoder-decoder-networks",
+      "target": "/AI/Deep-learning/Encoder-decoder-networks",
       "text": "Encoder-decoder networks"
     },
     {
@@ -3393,11 +3337,6 @@
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "target": "/AI/Computer-Vision/Computer-vision",
       "text": "Computer vision"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-      "target": "/Deep-Learning",
-      "text": "Deep Learning"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
@@ -4145,16 +4084,6 @@
       "text": "Classification"
     },
     {
-      "source": "/AI/Supervised-Learning/Regression",
-      "target": "/classification",
-      "text": "classification"
-    },
-    {
-      "source": "/AI/Supervised-Learning/Regression",
-      "target": "/classification",
-      "text": "classification"
-    },
-    {
       "source": "/AI/Supervised-Learning/Supervised-learning",
       "target": "/Classification",
       "text": "Classification"
@@ -4181,27 +4110,27 @@
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/Forecasting",
+      "target": "/AI/Forecasting",
       "text": "Forecasting"
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/RNNs",
+      "target": "/AI/Deep-learning/RNNs",
       "text": "RNNs"
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/CNNs.md",
-      "text": "CNNs#Sequence time series modelling"
+      "target": "/CNNs",
+      "text": "Sequence time series modelling"
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/Deep-learning",
+      "target": "/AI/Deep-learning/Deep-learning",
       "text": "Deep learning#Deep learning for tabular data"
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/Forecasting.md",
+      "target": "/AI/Forecasting.md",
       "text": "Forecasting#Code"
     },
     {
@@ -4276,21 +4205,6 @@
     },
     {
       "source": "/AI/XAI",
-      "target": "/machine-learning",
-      "text": "machine learning"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/XAI",
       "target": "/AI",
       "text": "AI"
     },
@@ -4323,6 +4237,11 @@
       "source": "/AI/XAI",
       "target": "/",
       "text": "Neural Networks explainability"
+    },
+    {
+      "source": "/AI/XAI",
+      "target": "/",
+      "text": "Code"
     },
     {
       "source": "/AI/XAI",
