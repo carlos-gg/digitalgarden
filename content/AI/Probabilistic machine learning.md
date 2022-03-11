@@ -4,7 +4,7 @@ disableToc: false
 ---
 
 See:
-- [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
+- [Bayesian deep learning](AI/Deep%20learning/Bayesian%20deep%20learning.md)
 - [Bayesian modelling](AI/Bayesian%20modelling.md)
 - [GFlowNets](AI/Deep%20learning/GFlowNets.md)
 

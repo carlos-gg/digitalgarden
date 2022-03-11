@@ -381,7 +381,7 @@ See [CapsNets](AI/Deep%20learning/CapsNets.md)
 See [GANs](AI/Deep%20learning/GANs.md)
 
 ### Bayesian neural networks
-See [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
+See [Bayesian deep learning](AI/Deep%20learning/Bayesian%20deep%20learning.md)
 
 ### GNNs
 See [GNNs](AI/Deep%20learning/GNNs.md)

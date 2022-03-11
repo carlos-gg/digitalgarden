@@ -18,10 +18,10 @@ disableToc: false
 
 ### Bagging
 - With bootstrap aggregating (Bagging) we build models of smaller datasets by sampling with replacement. The results of these bootstrap samples are then aggregated, using majority voting (equal weighting of models)
-- See [Random forest](AI/Supervised%20Learning/Random%20forest.md)]
+- See [Random forest](AI/Supervised%20Learning/Random%20forest.md)
 
 ### Boosting
-See [Gradient boosting](AI/Supervised%20Learning/Gradient%20boosting.md)]
+See [Gradient boosting](AI/Supervised%20Learning/Gradient%20boosting.md)
 - Same as bagging but operates via weighted voting. Algorithm proceeds iteratively (one tries to reduce the bias of the combined estimator); new models are influenced by previous ones. E.g. AdaBoost (Adaptive Boosting) and LogitBoost
 - https://en.wikipedia.org/wiki/AdaBoost
 

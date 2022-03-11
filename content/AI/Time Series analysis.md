@@ -19,7 +19,7 @@ See:
 - [timeseriesAI](https://github.com/timeseriesAI)
 
 ## Code
-See [Forecasting#Code](AI/Forecasting.md#Code)
+See code in [Forecasting](AI/Forecasting.md)
 
 - #CODE [TSflex](https://github.com/predict-idlab/tsflex)
 	- https://predict-idlab.github.io/tsflex/

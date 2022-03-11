@@ -13,12 +13,12 @@ disableToc: false
 - #TALK [Scaling Deep Learning for Scientific Workloads on the #1 Summit Supercomputer](https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/)
 
 ## Code
-See [Tensorflow, keras#Distributed training](Tensorflow,%20keras.md#Distributed%20training)
+See [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md), Distributed training section
 
 - #CODE [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
 	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 	- https://analytics-zoo.readthedocs.io/en/latest/index.html
-- #CODE  [Horovod](Horovod.md)
+- #CODE [Horovod](AI/Data%20Science,%20Data%20Engineering/Horovod.md)
 - #CODE [Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training](https://github.com/hpcaitech/colossalai)
 	- See [[#^colossalai]]
 	-  https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/
