@@ -98,12 +98,12 @@
         },
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/Unsupervised-learning",
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
           "text": "Unsupervised learning"
         },
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/Semi-supervised-learning",
+          "target": "/AI/Semi-supervised-learning",
           "text": "Semi-supervised learning"
         },
         {
@@ -229,23 +229,6 @@
           "text": "GANs#GANs for representation learning and image synthesis"
         }
       ],
-      "/AI/Computer-Vision/Inpainting": [
-        {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/GANs",
-          "text": "GANs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/GANs",
-          "text": "GANs"
-        }
-      ],
       "/AI/Computer-Vision/Object-classification-image-recognition": [
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
@@ -346,21 +329,6 @@
       "/AI/Data-Science-Data-Engineering/Data-Science": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
           "target": "/AI/Data-Science-Data-Engineering/Jupyter",
           "text": "Jupyter"
         },
@@ -400,16 +368,6 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/Dask",
           "text": "Dask"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/feature-learning",
-          "text": "feature learning"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -858,13 +816,8 @@
       "/AI/Learning-to-rank": [
         {
           "source": "/AI/Learning-to-rank",
-          "target": "/reinforcement-learning",
-          "text": "reinforcement learning"
-        },
-        {
-          "source": "/AI/Learning-to-rank",
-          "target": "/regression",
-          "text": "regression"
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
         }
       ],
       "/AI/Machine-Learning": [
@@ -1058,18 +1011,6 @@
           "text": "Transformers"
         }
       ],
-      "/AI/One-few-shot-learning": [
-        {
-          "source": "/AI/One-few-shot-learning",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/One-few-shot-learning",
-          "target": "/AI",
-          "text": "AI"
-        }
-      ],
       "/AI/Probabilistic-machine-learning": [
         {
           "source": "/AI/Probabilistic-machine-learning",
@@ -1090,63 +1031,63 @@
       "/AI/Supervised-Learning/Classification": [
         {
           "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Regression",
+          "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
           "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Regression",
+          "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
           "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
           "text": "Ensemble learning"
         },
         {
           "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Random-forest",
+          "target": "/AI/Supervised-Learning/Random-forest",
           "text": "Random forest"
         },
         {
           "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Gradient-boosting",
+          "target": "/AI/Supervised-Learning/Gradient-boosting",
           "text": "Gradient boosting"
         }
       ],
       "/AI/Supervised-Learning/Ensemble-learning": [
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/unsupervised-learning",
-          "text": "unsupervised learning"
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "text": "Unsupervised learning"
         },
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
           "target": "/AI/Anomaly-and-Outlier-Detection",
-          "text": "AI/Anomaly and Outlier Detection"
+          "text": "Anomaly and Outlier Detection"
         },
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Random-Forest",
-          "text": "Random Forest"
+          "target": "/AI/Supervised-Learning/Random-forest",
+          "text": "Random forest"
         },
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Gradient-boosting",
+          "target": "/AI/Supervised-Learning/Gradient-boosting",
           "text": "Gradient boosting"
         }
       ],
       "/AI/Supervised-Learning/Feature-selection": [
         {
           "source": "/AI/Supervised-Learning/Feature-selection",
-          "target": "/Regression.md",
+          "target": "/AI/Supervised-Learning/Regression.md",
           "text": "Regression#Regularized regression"
         }
       ],
       "/AI/Supervised-Learning/Gradient-boosting": [
         {
           "source": "/AI/Supervised-Learning/Gradient-boosting",
-          "target": "/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
           "text": "Ensemble learning"
         }
       ],
@@ -1170,24 +1111,24 @@
       "/AI/Supervised-Learning/Random-forest": [
         {
           "source": "/AI/Supervised-Learning/Random-forest",
-          "target": "/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
           "text": "Ensemble learning"
         }
       ],
       "/AI/Supervised-Learning/Regression": [
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Time-Series-analysis",
+          "target": "/AI/Time-Series-analysis",
           "text": "Time Series analysis"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/RNNs",
+          "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/CNNs.md",
+          "target": "/AI/Deep-Learning/CNNs.md",
           "text": "CNNs#Sequence time series modelling"
         },
         {
@@ -1197,54 +1138,54 @@
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Classification",
+          "target": "/AI/Supervised-Learning/Classification",
           "text": "Classification"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Gaussian-Process",
+          "target": "/AI/Supervised-Learning/Classification",
+          "text": "Classification"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Gaussian-Process",
           "text": "Gaussian Process"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
           "text": "Ensemble learning"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Classification",
+          "target": "/AI/Supervised-Learning/Classification",
           "text": "Classification"
         }
       ],
       "/AI/Supervised-Learning/Supervised-learning": [
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Classification",
+          "target": "/AI/Supervised-Learning/Classification",
           "text": "Classification"
         },
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Regression",
+          "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
           "text": "Ensemble learning"
         },
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Class-imbalance",
+          "target": "/AI/Supervised-Learning/Class-imbalance",
           "text": "Class imbalance"
         },
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Model-selection-and-tuning",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "text": "Model selection and tuning"
         }
       ],
@@ -1479,37 +1420,12 @@
       ],
       "/AI": [
         {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
           "source": "/AI/Deep-learning/Bayesian-neural-networks",
           "target": "/AI",
           "text": "AI"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/One-few-shot-learning",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/One-few-shot-learning",
           "target": "/AI",
           "text": "AI"
         }
@@ -1571,7 +1487,7 @@
         {
           "source": "/AI/Supervised-Learning/Ensemble-learning",
           "target": "/AI/Anomaly-and-Outlier-Detection",
-          "text": "AI/Anomaly and Outlier Detection"
+          "text": "Anomaly and Outlier Detection"
         },
         {
           "source": "/AI/Time-Series-analysis",
@@ -1857,6 +1773,13 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Data-Science-Data-Engineering/Xarray",
           "text": "Xarray and Dask"
+        }
+      ],
+      "/AI/Deep-Learning/CNNs.md": [
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Deep-Learning/CNNs.md",
+          "text": "CNNs#Sequence time series modelling"
         }
       ],
       "/AI/Deep-Learning/Deep-Learning": [
@@ -2213,6 +2136,11 @@
           "text": "RNNs"
         },
         {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Deep-learning/RNNs",
+          "text": "RNNs"
+        },
+        {
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
@@ -2483,6 +2411,11 @@
       ],
       "/AI/Semi-supervised-learning": [
         {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Semi-supervised-learning",
+          "text": "Semi-supervised learning"
+        },
+        {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Semi-supervised-learning",
           "text": "Semi-supervised learning"
@@ -2498,6 +2431,62 @@
           "text": "semi-supervised learning"
         }
       ],
+      "/AI/Supervised-Learning/Class-imbalance": [
+        {
+          "source": "/AI/Supervised-Learning/Supervised-learning",
+          "target": "/AI/Supervised-Learning/Class-imbalance",
+          "text": "Class imbalance"
+        }
+      ],
+      "/AI/Supervised-Learning/Classification": [
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Classification",
+          "text": "Classification"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Classification",
+          "text": "Classification"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Classification",
+          "text": "Classification"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Supervised-learning",
+          "target": "/AI/Supervised-Learning/Classification",
+          "text": "Classification"
+        }
+      ],
+      "/AI/Supervised-Learning/Ensemble-learning": [
+        {
+          "source": "/AI/Supervised-Learning/Classification",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
+          "text": "Ensemble learning"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Gradient-boosting",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
+          "text": "Ensemble learning"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Random-forest",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
+          "text": "Ensemble learning"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
+          "text": "Ensemble learning"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Supervised-learning",
+          "target": "/AI/Supervised-Learning/Ensemble-learning",
+          "text": "Ensemble learning"
+        }
+      ],
       "/AI/Supervised-Learning/Feature-selection": [
         {
           "source": "/AI/Machine-Learning",
@@ -2505,11 +2494,76 @@
           "text": "Feature selection"
         }
       ],
+      "/AI/Supervised-Learning/Gaussian-Process": [
+        {
+          "source": "/AI/Supervised-Learning/Regression",
+          "target": "/AI/Supervised-Learning/Gaussian-Process",
+          "text": "Gaussian Process"
+        }
+      ],
+      "/AI/Supervised-Learning/Gradient-boosting": [
+        {
+          "source": "/AI/Supervised-Learning/Classification",
+          "target": "/AI/Supervised-Learning/Gradient-boosting",
+          "text": "Gradient boosting"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Gradient-boosting",
+          "text": "Gradient boosting"
+        }
+      ],
+      "/AI/Supervised-Learning/Model-selection-and-tuning": [
+        {
+          "source": "/AI/Supervised-Learning/Supervised-learning",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
+          "text": "Model selection and tuning"
+        }
+      ],
+      "/AI/Supervised-Learning/Random-forest": [
+        {
+          "source": "/AI/Supervised-Learning/Classification",
+          "target": "/AI/Supervised-Learning/Random-forest",
+          "text": "Random forest"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Ensemble-learning",
+          "target": "/AI/Supervised-Learning/Random-forest",
+          "text": "Random forest"
+        }
+      ],
       "/AI/Supervised-Learning/Regression": [
+        {
+          "source": "/AI/Learning-to-rank",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
         {
           "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Classification",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Classification",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Supervised-learning",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        }
+      ],
+      "/AI/Supervised-Learning/Regression.md": [
+        {
+          "source": "/AI/Supervised-Learning/Feature-selection",
+          "target": "/AI/Supervised-Learning/Regression.md",
+          "text": "Regression#Regularized regression"
         }
       ],
       "/AI/Supervised-Learning/Supervised-learning": [
@@ -2527,6 +2581,11 @@
       "/AI/Time-Series-analysis": [
         {
           "source": "/AI/Machine-Learning",
+          "target": "/AI/Time-Series-analysis",
+          "text": "Time Series analysis"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Regression",
           "target": "/AI/Time-Series-analysis",
           "text": "Time Series analysis"
         }
@@ -2569,7 +2628,17 @@
       ],
       "/AI/Unsupervised-learning/Unsupervised-learning": [
         {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "text": "Unsupervised learning"
+        },
+        {
           "source": "/AI/Machine-Learning",
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "text": "Unsupervised learning"
+        },
+        {
+          "source": "/AI/Supervised-Learning/Ensemble-learning",
           "target": "/AI/Unsupervised-learning/Unsupervised-learning",
           "text": "Unsupervised learning"
         }
@@ -2602,11 +2671,6 @@
       ],
       "/CNNs": [
         {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/CNNs",
-          "text": "CNNs"
-        },
-        {
           "source": "/AI/Time-Series-analysis",
           "target": "/CNNs",
           "text": "Sequence time series modelling"
@@ -2617,35 +2681,6 @@
           "source": "/AI/Forecasting",
           "target": "/CNNs.md",
           "text": "CNNs#Sequence time series modelling"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
-        }
-      ],
-      "/Class-imbalance": [
-        {
-          "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Class-imbalance",
-          "text": "Class imbalance"
-        }
-      ],
-      "/Classification": [
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Classification",
-          "text": "Classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Classification",
-          "text": "Classification"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Classification",
-          "text": "Classification"
         }
       ],
       "/Dask": [
@@ -2665,64 +2700,6 @@
           "source": "/AI/Deep-learning/Bayesian-neural-networks",
           "target": "/Deep-Learning",
           "text": "Deep Learning"
-        }
-      ],
-      "/Ensemble-learning": [
-        {
-          "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Ensemble-learning",
-          "text": "Ensemble learning"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Gradient-boosting",
-          "target": "/Ensemble-learning",
-          "text": "Ensemble learning"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Random-forest",
-          "target": "/Ensemble-learning",
-          "text": "Ensemble learning"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Ensemble-learning",
-          "text": "Ensemble learning"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Ensemble-learning",
-          "text": "Ensemble learning"
-        }
-      ],
-      "/GANs": [
-        {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/GANs",
-          "text": "GANs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Inpainting",
-          "target": "/GANs",
-          "text": "GANs"
-        }
-      ],
-      "/Gaussian-Process": [
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Gaussian-Process",
-          "text": "Gaussian Process"
-        }
-      ],
-      "/Gradient-boosting": [
-        {
-          "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Gradient-boosting",
-          "text": "Gradient boosting"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Gradient-boosting",
-          "text": "Gradient boosting"
         }
       ],
       "/Horovod": [
@@ -2763,11 +2740,6 @@
           "source": "/AI/AutoML",
           "target": "/Model-selection-and-tuning",
           "text": "Model selection and tuning"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Model-selection-and-tuning",
-          "text": "Model selection and tuning"
         }
       ],
       "/RNNs": [
@@ -2775,25 +2747,6 @@
           "source": "/AI/Forecasting",
           "target": "/RNNs",
           "text": "RNNs"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/RNNs",
-          "text": "RNNs"
-        }
-      ],
-      "/Random-Forest": [
-        {
-          "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/Random-Forest",
-          "text": "Random Forest"
-        }
-      ],
-      "/Random-forest": [
-        {
-          "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Random-forest",
-          "text": "Random forest"
         }
       ],
       "/Regression": [
@@ -2806,28 +2759,6 @@
           "source": "/AI/Machine-Learning",
           "target": "/Regression",
           "text": "Regression"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Regression",
-          "text": "Regression"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Classification",
-          "target": "/Regression",
-          "text": "Regression"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Supervised-learning",
-          "target": "/Regression",
-          "text": "Regression"
-        }
-      ],
-      "/Regression.md": [
-        {
-          "source": "/AI/Supervised-Learning/Feature-selection",
-          "target": "/Regression.md",
-          "text": "Regression#Regularized regression"
         }
       ],
       "/Residual-and-dense-neural-networks": [
@@ -2835,13 +2766,6 @@
           "source": "/AI/Deep-learning/Neural-ODEs",
           "target": "/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
-        }
-      ],
-      "/Semi-supervised-learning": [
-        {
-          "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/Semi-supervised-learning",
-          "text": "Semi-supervised learning"
         }
       ],
       "/Tensorflow-keras.md": [
@@ -2861,11 +2785,6 @@
           "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/Time-Series-analysis",
           "text": "Time Series analysis"
-        },
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/Time-Series-analysis",
-          "text": "Time Series analysis"
         }
       ],
       "/Transformers.md": [
@@ -2875,60 +2794,11 @@
           "text": "Transformers#For NLP"
         }
       ],
-      "/Unsupervised-learning": [
-        {
-          "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/Unsupervised-learning",
-          "text": "Unsupervised learning"
-        }
-      ],
-      "/classification": [
-        {
-          "source": "/AI/Supervised-Learning/Regression",
-          "target": "/classification",
-          "text": "classification"
-        }
-      ],
       "/deep-learning": [
         {
           "source": "/AI/Computer-Vision/Background-subtraction",
           "target": "/deep-learning",
           "text": "deep learning"
-        }
-      ],
-      "/feature-learning": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/feature-learning",
-          "text": "feature learning"
-        }
-      ],
-      "/machine-learning": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/machine-learning",
-          "text": "machine learning"
-        }
-      ],
-      "/regression": [
-        {
-          "source": "/AI/Learning-to-rank",
-          "target": "/regression",
-          "text": "regression"
-        }
-      ],
-      "/reinforcement-learning": [
-        {
-          "source": "/AI/Learning-to-rank",
-          "target": "/reinforcement-learning",
-          "text": "reinforcement learning"
-        }
-      ],
-      "/unsupervised-learning": [
-        {
-          "source": "/AI/Supervised-Learning/Ensemble-learning",
-          "target": "/unsupervised-learning",
-          "text": "unsupervised learning"
         }
       ]
     }
@@ -2991,12 +2861,12 @@
     },
     {
       "source": "/AI/Anomaly-and-Outlier-Detection",
-      "target": "/Unsupervised-learning",
+      "target": "/AI/Unsupervised-learning/Unsupervised-learning",
       "text": "Unsupervised learning"
     },
     {
       "source": "/AI/Anomaly-and-Outlier-Detection",
-      "target": "/Semi-supervised-learning",
+      "target": "/AI/Semi-supervised-learning",
       "text": "Semi-supervised learning"
     },
     {
@@ -3110,21 +2980,6 @@
       "text": "GANs#GANs for representation learning and image synthesis"
     },
     {
-      "source": "/AI/Computer-Vision/Inpainting",
-      "target": "/CNNs",
-      "text": "CNNs"
-    },
-    {
-      "source": "/AI/Computer-Vision/Inpainting",
-      "target": "/GANs",
-      "text": "GANs"
-    },
-    {
-      "source": "/AI/Computer-Vision/Inpainting",
-      "target": "/GANs",
-      "text": "GANs"
-    },
-    {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
       "target": "/AI/Deep-learning/CNNs",
       "text": "CNNs"
@@ -3211,21 +3066,6 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-Science",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-Science",
       "target": "/AI/Data-Science-Data-Engineering/Jupyter",
       "text": "Jupyter"
     },
@@ -3263,16 +3103,6 @@
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "target": "/Dask",
       "text": "Dask"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/machine-learning",
-      "text": "machine learning"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/feature-learning",
-      "text": "feature learning"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -3691,13 +3521,8 @@
     },
     {
       "source": "/AI/Learning-to-rank",
-      "target": "/reinforcement-learning",
-      "text": "reinforcement learning"
-    },
-    {
-      "source": "/AI/Learning-to-rank",
-      "target": "/regression",
-      "text": "regression"
+      "target": "/AI/Supervised-Learning/Regression",
+      "text": "Regression"
     },
     {
       "source": "/AI/Machine-Learning",
@@ -3885,16 +3710,6 @@
       "text": "Transformers"
     },
     {
-      "source": "/AI/One-few-shot-learning",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/One-few-shot-learning",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
       "source": "/AI/Probabilistic-machine-learning",
       "target": "/AI/Deep-learning/Bayesian-neural-networks",
       "text": "Bayesian neural networks"
@@ -3911,57 +3726,57 @@
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
-      "target": "/Regression",
+      "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
-      "target": "/Regression",
+      "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
-      "target": "/Ensemble-learning",
+      "target": "/AI/Supervised-Learning/Ensemble-learning",
       "text": "Ensemble learning"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
-      "target": "/Random-forest",
+      "target": "/AI/Supervised-Learning/Random-forest",
       "text": "Random forest"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
-      "target": "/Gradient-boosting",
+      "target": "/AI/Supervised-Learning/Gradient-boosting",
       "text": "Gradient boosting"
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
-      "target": "/unsupervised-learning",
-      "text": "unsupervised learning"
+      "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+      "text": "Unsupervised learning"
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
       "target": "/AI/Anomaly-and-Outlier-Detection",
-      "text": "AI/Anomaly and Outlier Detection"
+      "text": "Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
-      "target": "/Random-Forest",
-      "text": "Random Forest"
+      "target": "/AI/Supervised-Learning/Random-forest",
+      "text": "Random forest"
     },
     {
       "source": "/AI/Supervised-Learning/Ensemble-learning",
-      "target": "/Gradient-boosting",
+      "target": "/AI/Supervised-Learning/Gradient-boosting",
       "text": "Gradient boosting"
     },
     {
       "source": "/AI/Supervised-Learning/Feature-selection",
-      "target": "/Regression.md",
+      "target": "/AI/Supervised-Learning/Regression.md",
       "text": "Regression#Regularized regression"
     },
     {
       "source": "/AI/Supervised-Learning/Gradient-boosting",
-      "target": "/Ensemble-learning",
+      "target": "/AI/Supervised-Learning/Ensemble-learning",
       "text": "Ensemble learning"
     },
     {
@@ -3981,22 +3796,22 @@
     },
     {
       "source": "/AI/Supervised-Learning/Random-forest",
-      "target": "/Ensemble-learning",
+      "target": "/AI/Supervised-Learning/Ensemble-learning",
       "text": "Ensemble learning"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Time-Series-analysis",
+      "target": "/AI/Time-Series-analysis",
       "text": "Time Series analysis"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/RNNs",
+      "target": "/AI/Deep-learning/RNNs",
       "text": "RNNs"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/CNNs.md",
+      "target": "/AI/Deep-Learning/CNNs.md",
       "text": "CNNs#Sequence time series modelling"
     },
     {
@@ -4006,52 +3821,52 @@
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/classification",
-      "text": "classification"
-    },
-    {
-      "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Classification",
+      "target": "/AI/Supervised-Learning/Classification",
       "text": "Classification"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Gaussian-Process",
+      "target": "/AI/Supervised-Learning/Classification",
+      "text": "Classification"
+    },
+    {
+      "source": "/AI/Supervised-Learning/Regression",
+      "target": "/AI/Supervised-Learning/Gaussian-Process",
       "text": "Gaussian Process"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Ensemble-learning",
+      "target": "/AI/Supervised-Learning/Ensemble-learning",
       "text": "Ensemble learning"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/Classification",
+      "target": "/AI/Supervised-Learning/Classification",
       "text": "Classification"
     },
     {
       "source": "/AI/Supervised-Learning/Supervised-learning",
-      "target": "/Classification",
+      "target": "/AI/Supervised-Learning/Classification",
       "text": "Classification"
     },
     {
       "source": "/AI/Supervised-Learning/Supervised-learning",
-      "target": "/Regression",
+      "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Supervised-Learning/Supervised-learning",
-      "target": "/Ensemble-learning",
+      "target": "/AI/Supervised-Learning/Ensemble-learning",
       "text": "Ensemble learning"
     },
     {
       "source": "/AI/Supervised-Learning/Supervised-learning",
-      "target": "/Class-imbalance",
+      "target": "/AI/Supervised-Learning/Class-imbalance",
       "text": "Class imbalance"
     },
     {
       "source": "/AI/Supervised-Learning/Supervised-learning",
-      "target": "/Model-selection-and-tuning",
+      "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
       "text": "Model selection and tuning"
     },
     {
