@@ -72,6 +72,8 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
 
 ### Deep XAI
+- #CODE [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
+	- Quantus is an eXplainable AI toolkit for responsible evaluation of neural network explanations
 - #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
 	- https://www.trulens.org/
 - #CODE [Captum (pytorch)](https://github.com/pytorch/captum)
