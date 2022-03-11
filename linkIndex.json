@@ -132,8 +132,8 @@
         },
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         },
         {
           "source": "/AI/Bayesian-modelling",
@@ -383,12 +383,12 @@
       "/AI/Data-Science-Data-Engineering/Distributed-DL": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Tensorflow-keras.md",
-          "text": "Tensorflow, keras#Distributed training"
+          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+          "text": "Tensorflow, keras"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Horovod",
+          "target": "/AI/Data-Science-Data-Engineering/Horovod",
           "text": "Horovod"
         },
         {
@@ -400,8 +400,8 @@
       "/AI/Data-Science-Data-Engineering/Horovod": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Horovod",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
+          "target": "/AI/Data-Science-Data-Engineering/Distributed-DL",
+          "text": "Distributed DL"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Xarray": [
@@ -409,18 +409,6 @@
           "source": "/AI/Data-Science-Data-Engineering/Xarray",
           "target": "/AI/Data-Science-Data-Engineering/Dask",
           "text": "Dask"
-        }
-      ],
-      "/AI/Deep-learning/Bayesian-neural-networks": [
-        {
-          "source": "/AI/Deep-learning/Bayesian-neural-networks",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/Deep-learning/Bayesian-neural-networks",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/CNNs": [
@@ -603,8 +591,8 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -1014,8 +1002,8 @@
       "/AI/Probabilistic-machine-learning": [
         {
           "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         },
         {
           "source": "/AI/Probabilistic-machine-learning",
@@ -1212,8 +1200,8 @@
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/AI/Forecasting.md",
-          "text": "Forecasting#Code"
+          "target": "/AI/Forecasting",
+          "text": "Forecasting"
         },
         {
           "source": "/AI/Time-Series-analysis",
@@ -1419,11 +1407,6 @@
         }
       ],
       "/AI": [
-        {
-          "source": "/AI/Deep-learning/Bayesian-neural-networks",
-          "target": "/AI",
-          "text": "AI"
-        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI",
@@ -1735,6 +1718,20 @@
           "text": "Data engineering and computer science"
         }
       ],
+      "/AI/Data-Science-Data-Engineering/Distributed-DL": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Horovod",
+          "target": "/AI/Data-Science-Data-Engineering/Distributed-DL",
+          "text": "Distributed DL"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Horovod": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
+          "target": "/AI/Data-Science-Data-Engineering/Horovod",
+          "text": "Horovod"
+        }
+      ],
       "/AI/Data-Science-Data-Engineering/Jupyter": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -1755,6 +1752,11 @@
         }
       ],
       "/AI/Data-Science-Data-Engineering/Tensorflow-keras": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
+          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+          "text": "Tensorflow, keras"
+        },
         {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
@@ -1827,21 +1829,21 @@
           "text": "Autoencoders - VAEs"
         }
       ],
-      "/AI/Deep-learning/Bayesian-neural-networks": [
+      "/AI/Deep-learning/Bayesian-deep-learning": [
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         },
         {
           "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Deep-learning/Bayesian-neural-networks",
-          "text": "Bayesian neural networks"
+          "target": "/AI/Deep-learning/Bayesian-deep-learning",
+          "text": "Bayesian deep learning"
         }
       ],
       "/AI/Deep-learning/CNNs": [
@@ -2231,13 +2233,11 @@
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Forecasting",
           "text": "Forecasting"
-        }
-      ],
-      "/AI/Forecasting.md": [
+        },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/AI/Forecasting.md",
-          "text": "Forecasting#Code"
+          "target": "/AI/Forecasting",
+          "text": "Forecasting"
         }
       ],
       "/AI/Learning-to-rank": [
@@ -2690,25 +2690,6 @@
           "text": "Dask"
         }
       ],
-      "/Deep-Learning": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Horovod",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Deep-learning/Bayesian-neural-networks",
-          "target": "/Deep-Learning",
-          "text": "Deep Learning"
-        }
-      ],
-      "/Horovod": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Horovod",
-          "text": "Horovod"
-        }
-      ],
       "/Image-to-image-translation.md": [
         {
           "source": "/AI/Deep-learning/Normalizing-flows",
@@ -2766,13 +2747,6 @@
           "source": "/AI/Deep-learning/Neural-ODEs",
           "target": "/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
-        }
-      ],
-      "/Tensorflow-keras.md": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-          "target": "/Tensorflow-keras.md",
-          "text": "Tensorflow, keras#Distributed training"
         }
       ],
       "/Time-Series-analysis": [
@@ -2891,8 +2865,8 @@
     },
     {
       "source": "/AI/Bayesian-modelling",
-      "target": "/AI/Deep-learning/Bayesian-neural-networks",
-      "text": "Bayesian neural networks"
+      "target": "/AI/Deep-learning/Bayesian-deep-learning",
+      "text": "Bayesian deep learning"
     },
     {
       "source": "/AI/Bayesian-modelling",
@@ -3116,12 +3090,12 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-      "target": "/Tensorflow-keras.md",
-      "text": "Tensorflow, keras#Distributed training"
+      "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+      "text": "Tensorflow, keras"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
-      "target": "/Horovod",
+      "target": "/AI/Data-Science-Data-Engineering/Horovod",
       "text": "Horovod"
     },
     {
@@ -3131,23 +3105,13 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Horovod",
-      "target": "/Deep-Learning",
-      "text": "Deep Learning"
+      "target": "/AI/Data-Science-Data-Engineering/Distributed-DL",
+      "text": "Distributed DL"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Xarray",
       "target": "/AI/Data-Science-Data-Engineering/Dask",
       "text": "Dask"
-    },
-    {
-      "source": "/AI/Deep-learning/Bayesian-neural-networks",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/Deep-learning/Bayesian-neural-networks",
-      "target": "/Deep-Learning",
-      "text": "Deep Learning"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
@@ -3326,8 +3290,8 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/Bayesian-neural-networks",
-      "text": "Bayesian neural networks"
+      "target": "/AI/Deep-learning/Bayesian-deep-learning",
+      "text": "Bayesian deep learning"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3711,8 +3675,8 @@
     },
     {
       "source": "/AI/Probabilistic-machine-learning",
-      "target": "/AI/Deep-learning/Bayesian-neural-networks",
-      "text": "Bayesian neural networks"
+      "target": "/AI/Deep-learning/Bayesian-deep-learning",
+      "text": "Bayesian deep learning"
     },
     {
       "source": "/AI/Probabilistic-machine-learning",
@@ -3891,8 +3855,8 @@
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/AI/Forecasting.md",
-      "text": "Forecasting#Code"
+      "target": "/AI/Forecasting",
+      "text": "Forecasting"
     },
     {
       "source": "/AI/Time-Series-analysis",
