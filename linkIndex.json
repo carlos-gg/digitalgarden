@@ -213,16 +213,6 @@
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/CNNs",
-          "text": "CNNs"
-        },
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
         }
@@ -766,42 +756,42 @@
       "/AI/Deep-learning/Generative-modelling": [
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Autoencoders.md",
-          "text": "Autoencoders#VAEs"
+          "target": "/AI/Deep-learning/Autoencoders.md",
+          "text": "Autoencoders - VAEs"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/GANs",
+          "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Normalizing-flows",
+          "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Image-to-image-translation",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Image-to-image-translation.md",
+          "target": "/AI/Computer-Vision/Image-to-image-translation.md",
           "text": "Image-to-image translation#GAN-based"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/GANs.md",
+          "target": "/AI/Deep-Learning/GANs.md",
           "text": "GANs#GANs for representation learning and image synthesis"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Transformers.md",
+          "target": "/AI/Deep-Learning/Transformers.md",
           "text": "Transformers#For Computer Vision"
         },
         {
           "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Super-resolution",
+          "target": "/AI/Computer-Vision/Super-resolution",
           "text": "Super-resolution"
         }
       ],
@@ -1364,16 +1354,6 @@
       "/AI/XAI": [
         {
           "source": "/AI/XAI",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#Neural Networks explainability#Code"
-        },
-        {
-          "source": "/AI/XAI",
           "target": "/",
           "text": "#^aix360"
         },
@@ -1464,11 +1444,6 @@
         {
           "source": "/AI/XAI",
           "target": "/",
-          "text": "#Neural Networks explainability#Code"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
           "text": "#^aix360"
         },
         {
@@ -1535,11 +1510,6 @@
         },
         {
           "source": "/AI/One-few-shot-learning",
-          "target": "/AI",
-          "text": "AI"
-        },
-        {
-          "source": "/AI/XAI",
           "target": "/AI",
           "text": "AI"
         }
@@ -1705,11 +1675,21 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
+          "text": "Image-to-image translation"
         }
       ],
       "/AI/Computer-Vision/Image-to-image-translation.md": [
         {
           "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Computer-Vision/Image-to-image-translation.md",
+          "text": "Image-to-image translation#GAN-based"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Computer-Vision/Image-to-image-translation.md",
           "text": "Image-to-image translation#GAN-based"
         }
@@ -1765,6 +1745,13 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Semantic-segmentation",
           "text": "Semantic segmentation"
+        }
+      ],
+      "/AI/Computer-Vision/Super-resolution": [
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/AI/Computer-Vision/Super-resolution",
+          "text": "Super-resolution"
         }
       ],
       "/AI/Computer-Vision/Super-resolution.md": [
@@ -1884,6 +1871,20 @@
           "text": "Deep Learning"
         }
       ],
+      "/AI/Deep-Learning/GANs.md": [
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/AI/Deep-Learning/GANs.md",
+          "text": "GANs#GANs for representation learning and image synthesis"
+        }
+      ],
+      "/AI/Deep-Learning/Transformers.md": [
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/AI/Deep-Learning/Transformers.md",
+          "text": "Transformers#For Computer Vision"
+        }
+      ],
       "/AI/Deep-learning/Autoencoders": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -1894,6 +1895,13 @@
           "source": "/AI/Deep-learning/Encoder-decoder-networks",
           "target": "/AI/Deep-learning/Autoencoders",
           "text": "Autoencoders"
+        }
+      ],
+      "/AI/Deep-learning/Autoencoders.md": [
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
+          "target": "/AI/Deep-learning/Autoencoders.md",
+          "text": "Autoencoders - VAEs"
         }
       ],
       "/AI/Deep-learning/Bayesian-neural-networks": [
@@ -1914,11 +1922,6 @@
         }
       ],
       "/AI/Deep-learning/CNNs": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/CNNs",
-          "text": "CNNs"
-        },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/CNNs",
@@ -1972,13 +1975,6 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/CapsNets",
           "text": "CapsNets"
-        }
-      ],
-      "/AI/Deep-learning/Deep-Learning": [
-        {
-          "source": "/AI/Computer-Vision/Computer-vision",
-          "target": "/AI/Deep-learning/Deep-Learning",
-          "text": "Deep Learning"
         }
       ],
       "/AI/Deep-learning/Deep-belief-network": [
@@ -2064,6 +2060,11 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
         }
@@ -2186,6 +2187,11 @@
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/Normalizing-flows",
+          "text": "Normalizing flows"
+        },
+        {
+          "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
         }
@@ -2594,13 +2600,6 @@
           "text": "XAI#Interpretability of deep learning models"
         }
       ],
-      "/Autoencoders.md": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Autoencoders.md",
-          "text": "Autoencoders#VAEs"
-        }
-      ],
       "/CNNs": [
         {
           "source": "/AI/Computer-Vision/Inpainting",
@@ -2705,18 +2704,6 @@
           "source": "/AI/Computer-Vision/Inpainting",
           "target": "/GANs",
           "text": "GANs"
-        },
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/GANs",
-          "text": "GANs"
-        }
-      ],
-      "/GANs.md": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/GANs.md",
-          "text": "GANs#GANs for representation learning and image synthesis"
         }
       ],
       "/Gaussian-Process": [
@@ -2745,19 +2732,7 @@
           "text": "Horovod"
         }
       ],
-      "/Image-to-image-translation": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Image-to-image-translation",
-          "text": "Image-to-image translation"
-        }
-      ],
       "/Image-to-image-translation.md": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Image-to-image-translation.md",
-          "text": "Image-to-image translation#GAN-based"
-        },
         {
           "source": "/AI/Deep-learning/Normalizing-flows",
           "target": "/Image-to-image-translation.md",
@@ -2793,13 +2768,6 @@
           "source": "/AI/Supervised-Learning/Supervised-learning",
           "target": "/Model-selection-and-tuning",
           "text": "Model selection and tuning"
-        }
-      ],
-      "/Normalizing-flows": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Normalizing-flows",
-          "text": "Normalizing flows"
         }
       ],
       "/RNNs": [
@@ -2876,13 +2844,6 @@
           "text": "Semi-supervised learning"
         }
       ],
-      "/Super-resolution": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Super-resolution",
-          "text": "Super-resolution"
-        }
-      ],
       "/Tensorflow-keras.md": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
@@ -2908,11 +2869,6 @@
         }
       ],
       "/Transformers.md": [
-        {
-          "source": "/AI/Deep-learning/Generative-modelling",
-          "target": "/Transformers.md",
-          "text": "Transformers#For Computer Vision"
-        },
         {
           "source": "/AI/Forecasting",
           "target": "/Transformers.md",
@@ -3137,16 +3093,6 @@
       "source": "/AI/Computer-Vision/Computer-vision",
       "target": "/AI/Deep-learning/Transformers.md",
       "text": "Transformers#For Computer Vision"
-    },
-    {
-      "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/AI/Deep-learning/Deep-Learning",
-      "text": "Deep Learning"
-    },
-    {
-      "source": "/AI/Computer-Vision/Computer-vision",
-      "target": "/AI/Deep-learning/CNNs",
-      "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Computer-vision",
@@ -3655,42 +3601,42 @@
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Autoencoders.md",
-      "text": "Autoencoders#VAEs"
+      "target": "/AI/Deep-learning/Autoencoders.md",
+      "text": "Autoencoders - VAEs"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/GANs",
+      "target": "/AI/Deep-learning/GANs",
       "text": "GANs"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Normalizing-flows",
+      "target": "/AI/Deep-learning/Normalizing-flows",
       "text": "Normalizing flows"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Image-to-image-translation",
+      "target": "/AI/Computer-Vision/Image-to-image-translation",
       "text": "Image-to-image translation"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Image-to-image-translation.md",
+      "target": "/AI/Computer-Vision/Image-to-image-translation.md",
       "text": "Image-to-image translation#GAN-based"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/GANs.md",
+      "target": "/AI/Deep-Learning/GANs.md",
       "text": "GANs#GANs for representation learning and image synthesis"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Transformers.md",
+      "target": "/AI/Deep-Learning/Transformers.md",
       "text": "Transformers#For Computer Vision"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
-      "target": "/Super-resolution",
+      "target": "/AI/Computer-Vision/Super-resolution",
       "text": "Super-resolution"
     },
     {
@@ -4202,16 +4148,6 @@
       "source": "/AI/Weakly-supervised-learning",
       "target": "/AI/One-few-shot-learning",
       "text": "One, few-shot learning"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/AI",
-      "text": "AI"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
-      "text": "#Neural Networks explainability#Code"
     },
     {
       "source": "/AI/XAI",
