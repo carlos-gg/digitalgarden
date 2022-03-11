@@ -318,17 +318,17 @@ See [XAI#Interpretability of deep learning models](AI/XAI.md#Interpretability%20
 
 ### Attention
 See: 
-[Transformers#For NLP](AI/Deep%20learning/Transformers.md#For%20NLP)
-[CNNs#Channel/Visual attention](/AI/Deep%20learning/CNNs.md#Channel/Visual%20attention)
+- [Transformers#For NLP](AI/Deep%20learning/Transformers.md#For%20NLP)
+- [CNNs#Channel/Visual attention](/AI/Deep%20learning/CNNs.md#Channel/Visual%20attention)
 
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
 ### Deep learning for multi-dimensional data
 See:
-[Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
-[Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
-[Transformers](AI/Deep%20learning/Transformers.md)
-[Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
+- [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
+- [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
+- [Transformers](AI/Deep%20learning/Transformers.md)
+- [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 

@@ -27,7 +27,7 @@ disableToc: false
 - #PAPER [Augmented Neural ODEs (Dupont 2019)](https://arxiv.org/abs/1904.01681)
 - #PAPER [Differential Bayesian Neural Nets (Look 2020)](https://arxiv.org/abs/1912.00796)
 	- Neural Ordinary Differential Equations (N-ODEs) are a powerful building block for learning systems, which extend residual networks to a continuous-time dynamical system. Propose a Bayesian version of N-ODEs that enables well-calibrated quantification of prediction uncertainty, while maintaining the expressive power of their deterministic counterpart.
-- [#THESIS/MSC Generative Modeling with Neural Ordinary Differential Equations (2019)](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15354/Dockhorn_Tim.pdf)
+- #THESIS/MSC [Generative Modeling with Neural Ordinary Differential Equations (2019)](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15354/Dockhorn_Tim.pdf)
 - #PAPER [Universal Differential Equations for Scientific Machine Learning (Rackauckas 2020)](https://arxiv.org/abs/2001.04385)
 	- https://www.stochasticlifestyle.com/how-to-train-interpretable-neural-networks-that-accurately-extrapolate-from-small-data/
 - #PAPER [Neural Differential Equations for Single Image Super-Resolution (Le Scao 2020)](https://arxiv.org/pdf/2005.00865)

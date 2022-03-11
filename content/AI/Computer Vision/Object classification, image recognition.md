@@ -4,10 +4,10 @@ disableToc: false
 ---
 
 See:
-[CNNs](AI/Deep%20learning/CNNs.md)
-[Object detection](AI/Computer%20Vision/Object%20detection.md)
-[Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
-[Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)
+- [CNNs](AI/Deep%20learning/CNNs.md)
+- [Object detection](AI/Computer%20Vision/Object%20detection.md)
+- [Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
+- [Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)
 
 ## Resources
 - https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/

@@ -4,8 +4,8 @@ disableToc: false
 ---
 
 See:  
-[AutoML](AI/AutoML.md)
-[Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
+- [AutoML](AI/AutoML.md)
+- [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
 
 
 ## Resources

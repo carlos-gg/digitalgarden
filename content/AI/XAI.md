@@ -6,7 +6,7 @@ disableToc: false
 ## Resources
 - https://github.com/anguyen8/XAI-papers
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
-- [Ideas on interpreting [[machine learning]]](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+- [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 - [Explainable AI demos](https://lrpserver.hhi.fraunhofer.de/)
 - [Why you need to care about Explainable Machine Learning](https://medium.com/james-blogs/why-you-need-to-care-about-explainable-machine-learning-d01196a6af76)
 - [Interpreting machine learning models](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
@@ -19,12 +19,12 @@ disableToc: false
 
 
 ## Events, talks
-- [Workshop on Visualization for [[AI]] Explainability](http://visxai.io/)
+- [Workshop on Visualization for AI Explainability](http://visxai.io/)
 - [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/)
 - [Explainable AI xAI 2020](https://human-centered.ai/explainable-ai-2020/)
 - #TALK [Synthesizing Explainable and Deceptive Behavior for Human-[[AI]] Interaction (AAAI 2020 Tutorial)](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 	- https://www.youtube.com/watch?v=r6KhJ3ORYnc
-- #TALK [Explainable [[AI]] in Industry (Tutorial)](https://sites.google.com/view/explainable-ai-tutorial)
+- #TALK [Explainable AI in Industry (Tutorial)](https://sites.google.com/view/explainable-ai-tutorial)
 	- https://www.youtube.com/watch?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221&v=rcUw7PXHWF4
 - #TALK [Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (AAAI 2020)](https://xaitutorial2020.github.io/)
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
@@ -70,6 +70,35 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 - #CODE [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolboxç)
 - #CODE [imodels](https://github.com/csinva/imodels)
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
+
+### Deep XAI
+- #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
+	- https://www.trulens.org/
+- #CODE [Captum (pytorch)](https://github.com/pytorch/captum)
+	- Interpretability of models across modalities including vision, text, and more
+	- https://captum.ai/
+	- https://captum.ai/api/
+- #CODE [Saliency](https://github.com/PAIR-code/saliency)
+	- XRAI, SmoothGrad, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG
+- #CODE [iNNvestigate](https://github.com/albermax/innvestigate) ^innvestigate
+	- Vanilla gradient, SmoothGrad, DeConvNet, Guided BackProp, PatternNet, DeepTaylor, PatternAttribution, LRP, IntegratedGradients, DeepLIFT
+- #CODE [TF-explain](https://github.com/sicara/tf-explain)
+	- implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding
+- #CODE [TensorSpace (Tensorflow.js)](https://github.com/tensorspace-team/tensorspace)
+	- Neural network 3D visualization framework
+	- https://tensorspace.org
+- #CODE [Lucid (Tensorflow 1) - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
+- #CODE [tf-keras-vis](https://github.com/keisen/tf-keras-vis)
+	- Neural network visualization toolkit for tf.keras
+	- Activation Maximization
+	- Class Activation Maps (GradCAM, GradCAM++, ScoreCAM, Faster-ScoreCAM)
+	- Saliency Maps (Vanilla Saliency, SmoothGrad)
+- #CODE [Keras-vis](https://github.com/raghakot/keras-vis)
+	- https://raghakot.github.io/keras-vis/
+	- Activation maximization, Saliency maps, Class activation maps
+- #CODE [DeepExplain (TensorFlow 1)](https://github.com/marcoancona/DeepExplain)
+	- Saliency maps, Gradient * Input, Integrated Gradients, DeepLIFT, ε-LRP
+- #CODE [LRP toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
 
 
 ## References
@@ -160,6 +189,7 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 
 
 ### Neural Networks explainability
+See [Code](#Code#Deep%20XAI)
 
 #### Resources 
 - [Using ML to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
@@ -178,34 +208,6 @@ See [#Neural Networks explainability#Code](#Neural%20Networks%20explainability#C
 	- It involves a few calls to a gradient operator yielding insightful results for a variety of deep networks
 - [Pixel Attribution (Saliency Maps)](https://christophm.github.io/interpretable-ml-book/pixel-attribution.html)
 
-#### Code
-- #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
-	- https://www.trulens.org/
-- #CODE [Captum (pytorch)](https://github.com/pytorch/captum)
-	- Interpretability of models across modalities including vision, text, and more
-	- https://captum.ai/
-	- https://captum.ai/api/
-- #CODE [Saliency](https://github.com/PAIR-code/saliency)
-	- XRAI, SmoothGrad, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG
-- #CODE [iNNvestigate](https://github.com/albermax/innvestigate) ^innvestigate
-	- Vanilla gradient, SmoothGrad, DeConvNet, Guided BackProp, PatternNet, DeepTaylor, PatternAttribution, LRP, IntegratedGradients, DeepLIFT
-- #CODE [TF-explain](https://github.com/sicara/tf-explain)
-	- implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding
-- #CODE [TensorSpace (Tensorflow.js)](https://github.com/tensorspace-team/tensorspace)
-	- Neural network 3D visualization framework
-	- https://tensorspace.org
-- #CODE [Lucid (Tensorflow 1) - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
-- #CODE [tf-keras-vis](https://github.com/keisen/tf-keras-vis)
-	- Neural network visualization toolkit for tf.keras
-	- Activation Maximization
-	- Class Activation Maps (GradCAM, GradCAM++, ScoreCAM, Faster-ScoreCAM)
-	- Saliency Maps (Vanilla Saliency, SmoothGrad)
-- #CODE [Keras-vis](https://github.com/raghakot/keras-vis)
-	- https://raghakot.github.io/keras-vis/
-	- Activation maximization, Saliency maps, Class activation maps
-- #CODE [DeepExplain (TensorFlow 1)](https://github.com/marcoancona/DeepExplain)
-	- Saliency maps, Gradient * Input, Integrated Gradients, DeepLIFT, ε-LRP
-- #CODE [LRP toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
   
 #### References
 - #PAPER [Visualization of neural networks using saliency maps (Morch 1995)](https://www.researchgate.net/publication/3623243_Visualization_of_neural_networks_using_saliency_maps)

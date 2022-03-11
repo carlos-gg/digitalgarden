@@ -4,10 +4,10 @@ disableToc: false
 ---
 
 See: 
-[Forecasting](Forecasting.md)
-[RNNs](RNNs.md)
-[CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
-[Deep learning#Deep learning for tabular data](Deep%20learning#Deep%20learning.md%20for%20tabular%20data)
+- [Forecasting](AI/Forecasting.md)
+- [RNNs](AI/Deep%20learning/RNNs.md)
+- [Sequence time series modelling](CNNs#Sequence%20time%20series%20modelling)
+- [Deep learning#Deep learning for tabular data](AI/Deep%20learning/Deep%20learning#Deep%20learning.md%20for%20tabular%20data)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series
@@ -19,7 +19,7 @@ See:
 - [timeseriesAI](https://github.com/timeseriesAI)
 
 ## Code
-See [Forecasting#Code](Forecasting.md#Code)
+See [Forecasting#Code](AI/Forecasting.md#Code)
 
 - #CODE [TSflex](https://github.com/predict-idlab/tsflex)
 	- https://predict-idlab.github.io/tsflex/

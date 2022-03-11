@@ -10,7 +10,7 @@ disableToc: false
 - [Twelve ways to fool the masses when reporting performance of deep learning workloads](https://htor.inf.ethz.ch/blog/index.php/2018/11/08/twelve-ways-to-fool-the-masses-when-reporting-performance-of-deep-learning-workloads/)
 - [Distributed Deep Learning 101: Introduction](https://towardsdatascience.com/distributed-deep-learning-101-introduction-ebfc1bcd59d9)
 - #TALK [ALCF Datascience frameworks: Tensorflow, PyTorch, Keras, and Horovod](https://www.alcf.anl.gov/files/Zheng_SDL_ML_Frameworks_1.pdf)
-- #TALK [Scaling [[Deep Learning]] for Scientific Workloads on the #1 Summit Supercomputer](https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/)
+- #TALK [Scaling Deep Learning for Scientific Workloads on the #1 Summit Supercomputer](https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/)
 
 ## Code
 See [Tensorflow, keras#Distributed training](Tensorflow,%20keras.md#Distributed%20training)

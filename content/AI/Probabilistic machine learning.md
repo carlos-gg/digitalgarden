@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 See:
-[Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
-[Bayesian modelling](AI/Bayesian%20modelling.md)
-[GFlowNets](AI/Deep%20learning/GFlowNets.md)
+- [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
+- [Bayesian modelling](AI/Bayesian%20modelling.md)
+- [GFlowNets](AI/Deep%20learning/GFlowNets.md)
 
 
 ## Resources

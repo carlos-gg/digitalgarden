@@ -16,7 +16,7 @@ Review papers:
 
 
 ### CNN-based
-See [Encoder-decoder networks](AI/Computer%20Vision/Encoder-decoder%20networks.md)
+See [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
 - Related to the task of supervised semantic segmentation but changing the Y and the loss (MAE, MSE or other reconstruction loss)
 
 

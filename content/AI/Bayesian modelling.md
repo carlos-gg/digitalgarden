@@ -3,9 +3,7 @@ title: "Bayesian modelling"
 disableToc: false 
 ---
 
-See: 
-[Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
-[Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
+See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md) and [Bayesian neural networks](AI/Deep%20learning/Bayesian%20neural%20networks.md)
 
 
 ## Resources

@@ -4,11 +4,11 @@ disableToc: false
 ---
 
 See 
-[CNNs](AI/Deep%20learning/CNNs.md)
-[MLPs#MLPs for vision and language](AI/Deep%20learning/MLPs.md#MLPs%20for%20vision%20and%20language)
-[Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision.md)
-[Generative modelling#Generative models for Image data](AI/Deep%20learning/Generative%20modelling.md#Generative%20models%20for%20Image%20data)
-[GANs](AI/Deep%20learning/GANs.md)
+- [CNNs](AI/Deep%20learning/CNNs.md)
+- [MLPs#MLPs for vision and language](AI/Deep%20learning/MLPs.md#MLPs%20for%20vision%20and%20language)
+- [Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision.md)
+- [Generative modelling#Generative models for Image data](AI/Deep%20learning/Generative%20modelling.md#Generative%20models%20for%20Image%20data)
+- [GANs](AI/Deep%20learning/GANs.md)
 
 
 ## Resources
@@ -68,10 +68,10 @@ See
 ## References
 ### Deep learning-based CV
 See: 
-[CNNs](AI/Deep%20learning/CNNs.md)
-[GANs](AI/Deep%20learning/GANs.md)
-[Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
-[Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision)
+- [CNNs](AI/Deep%20learning/CNNs.md)
+- [GANs](AI/Deep%20learning/GANs.md)
+- [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
+- [Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision)
 
 - [Deep Learning](AI/Deep%20learning/Deep%20Learning.md) is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as [CNNs](AI/Deep%20learning/CNNs.md) mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 - https://github.com/kjw0612/awesome-deep-vision
@@ -150,18 +150,18 @@ https://dsp.stackexchange.com/questions/12684/difference-between-correlation-and
 	- Laplacian filter. Filtering with a Laplacian operator: 
 		- http://aishack.in/tutorials/sobel-laplacian-edge-detectors/
 		- https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/laplace_operator/laplace_operator.html
-		```
-		  0		1		0
-		  1 	-4		1
-		  0 	1		0
-		 ```
+```
+0	 1	  0
+1 	-4	  1
+0 	 1	  0
+```
   
 ##### Frequency domain
 - Fourier transform stores the magnitude and phase at each frequency. The magnitude encodes how much signal there is at a particular frequency whiel the phase encodes spatial information (indirectly). 
 - The Convolution Theorem:
 	- The Fourier transform of the convolution of two functions is the product of their Fourier transforms
 	- The inverse Fourier transform of the product of two Fourier transforms is the convolution of the two inverse Fourier transforms
-	- Convolutionin spatial domain is equivalent to multiplicationin frequency domain
+	- Convolution in spatial domain is equivalent to multiplication in frequency domain
 
 
 #### Template matching
@@ -182,17 +182,16 @@ https://dsp.stackexchange.com/questions/12684/difference-between-correlation-and
 - This method is considered more robust and is state of the art as it can match templates with non-rigid and out of plane transformation, it can match with high background clutter and illumination changes.
 
 #### Feature extraction
-The Computer Vision Pipeline, Part 4: feature extraction. https://freecontent.manning.com/the-computer-vision-pipeline-part-4-feature-extraction/
-- Feature extraction is a core component of the computer vision pipeline. In fact, the entire deep learning model works around the idea of extracting useful features which clearly define the objects in the image. We’re going to spend a little more time here because it’s important that you understand what a feature is, what a vector of features is, and why we extract features.
-- A feature in Machine Learning is an individual measurable property or characteristic of a phenomenon being observed. Features are the input that you feed to your machine learning model to output a prediction or classification. Suppose you want to predict the price of a house, your input features (properties) might include: square_foot, number_of_rooms, bathrooms, etc. and the model will output the predicted price based on the values of your features. Selecting good features that clearly distinguish your objects increases the predictive power of machine learning algorithms.
-
-In image processing, algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition. 
-- Low-level: Edge detection, Corner detection, Blob detection, Ridge detection, Scale-invariant feature transform,
-- Curvature: Edge direction, changing intensity, autocorrelation
-- Image motion: Motion detection. Area based, differential approach, Optical flow (https://en.wikipedia.org/wiki/Optical_flow)
-- Shape based: Thresholding, Blob extraction, Template matching, Hough transform
-	- Lines: Circles/ellipses, Arbitrary shapes (generalized Hough transform). Works with any parameterizable feature (class variables, cluster detection, etc..)
-- Flexible methods: Deformable, parameterized shapesActive contours (snakes)
+- The Computer Vision Pipeline, Part 4: feature extraction. https://freecontent.manning.com/the-computer-vision-pipeline-part-4-feature-extraction/
+	- Feature extraction is a core component of the computer vision pipeline. In fact, the entire deep learning model works around the idea of extracting useful features which clearly define the objects in the image. We’re going to spend a little more time here because it’s important that you understand what a feature is, what a vector of features is, and why we extract features.
+	- A feature in Machine Learning is an individual measurable property or characteristic of a phenomenon being observed. Features are the input that you feed to your machine learning model to output a prediction or classification. Suppose you want to predict the price of a house, your input features (properties) might include: square_foot, number_of_rooms, bathrooms, etc. and the model will output the predicted price based on the values of your features. Selecting good features that clearly distinguish your objects increases the predictive power of machine learning algorithms.
+- In image processing, algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition. 
+	- Low-level: Edge detection, Corner detection, Blob detection, Ridge detection, Scale-invariant feature transform,
+	- Curvature: Edge direction, changing intensity, autocorrelation
+	- Image motion: Motion detection. Area based, differential approach, Optical flow (https://en.wikipedia.org/wiki/Optical_flow)
+	- Shape based: Thresholding, Blob extraction, Template matching, Hough transform
+		- Lines: Circles/ellipses, Arbitrary shapes (generalized Hough transform). Works with any parameterizable feature (class variables, cluster detection, etc..)
+	- Flexible methods: Deformable, parameterized shapesActive contours (snakes)
 
 ##### Blob detection
 - https://en.wikipedia.org/wiki/Blob_detection

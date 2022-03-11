@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 See: 
-[Time Series analysis](Time%20Series%20analysis.md)
-[RNNs](RNNs.md)
-[CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
+- [Time Series analysis](Time%20Series%20analysis.md)
+- [RNNs](RNNs.md)
+- [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
 
 
 ## Resources
@@ -85,8 +85,8 @@ See [Ensemble learning](Ensemble%20learning.md) and [Classification](Classificat
 
 ### K-nearest neighbors
 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-- k-NN is a non-parametric method used for [classification](classification.md) and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
-	- for [classification](classification.md) - An object is classified by a majority vote of its k nearest neighbors.
+- k-NN is a non-parametric method used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
+	- for classification - An object is classified by a majority vote of its k nearest neighbors.
 	- for regression - The value is the average of the values of its k nearest neighbors.
 - k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until classification. The k-NN algorithm is among the simplest of all machine learning algorithms.
 

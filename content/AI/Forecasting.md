@@ -4,11 +4,11 @@ disableToc: false
 ---
 
 See: 
-[Time Series analysis](Time%20Series%20analysis.md)
-[Regression](Regression.md)
-[RNNs](RNNs.md)
-[CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
-[Transformers#For NLP](Transformers.md#For%20NLP)
+- [Time Series analysis](Time%20Series%20analysis.md)
+- [Regression](Regression.md)
+- [RNNs](RNNs.md)
+- [CNNs#Sequence time series modelling](CNNs.md#Sequence%20time%20series%20modelling)
+- [Transformers#For NLP](Transformers.md#For%20NLP)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Forecasting

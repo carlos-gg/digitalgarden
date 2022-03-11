@@ -9,6 +9,8 @@ disableToc: false
 	- #CODE [Jupyter(hub)](https://jupyter.org/hub )
 	- #CODE [Jupyterlite](https://github.com/jupyterlite)
 		- https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa
+	- #CODE [Stickyland](https://github.com/xiaohk/stickyland)
+		- Break the linear presentation of Jupyter Notebooks with sticky cells
 - #CODE [Papermill - Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
 - #CODE [Beaker kernels and extensions](http://beakerx.com/)
 - [Juypterbook - Books with Jupyter](https://jupyterbook.org/intro.html)

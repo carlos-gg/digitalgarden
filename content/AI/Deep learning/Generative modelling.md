@@ -23,10 +23,10 @@ See [Normalizing flows](Normalizing%20flows.md)
 
 ### Generative models for Image data
 See:
-[Image-to-image translation](Image-to-image%20translation.md)
-[Image-to-image translation#GAN-based](Image-to-image%20translation.md#GAN-based)
-[GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
-[Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision)
+- [Image-to-image translation](Image-to-image%20translation.md)
+- [Image-to-image translation#GAN-based](Image-to-image%20translation.md#GAN-based)
+- [GANs#GANs for representation learning and image synthesis](GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
+- [Transformers#For Computer Vision](Transformers.md#For%20Computer%20Vision)
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)

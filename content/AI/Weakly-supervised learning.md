@@ -4,9 +4,9 @@ disableToc: false
 ---
 
 See:
-[Transfer learning](AI/Transfer%20learning.md)
-[Active learning](AI/Active%20learning.md)
-[Semi-supervised learning](AI/Semi-supervised%20learning.md)
+- [Transfer learning](AI/Transfer%20learning.md)
+- [Active learning](AI/Active%20learning.md)
+- [Semi-supervised learning](AI/Semi-supervised%20learning.md)
 
 ## Resources
 - Weak supervision is a branch of machine learning where noisy, limited, or imprecise sources are used to provide supervision signal for labeling large amounts of training data in a supervised learning setting. This approach alleviates the burden of obtaining hand-labeled data sets, which can be costly or impractical. Instead, inexpensive weak labels are employed with the understanding that they are imperfect, but can nonetheless be used to create a strong predictive model.
