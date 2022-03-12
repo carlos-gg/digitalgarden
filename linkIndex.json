@@ -361,11 +361,6 @@
       "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/AI/Data-Science-Data-Engineering/MLOps",
-          "text": "MLOps"
-        },
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Data-Science-Data-Engineering/Xarray",
           "text": "Xarray and Dask"
         },
@@ -383,6 +378,11 @@
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Computer-Vision/Computer-vision",
           "text": "Computer vision"
+        },
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Distributed-DL": [
@@ -3072,11 +3072,6 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/AI/Data-Science-Data-Engineering/MLOps",
-      "text": "MLOps"
-    },
-    {
-      "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "target": "/AI/Data-Science-Data-Engineering/Xarray",
       "text": "Xarray and Dask"
     },
@@ -3094,6 +3089,11 @@
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "target": "/AI/Computer-Vision/Computer-vision",
       "text": "Computer vision"
+    },
+    {
+      "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+      "target": "/AI/Data-Science-Data-Engineering/MLOps",
+      "text": "MLOps"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
