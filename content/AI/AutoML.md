@@ -3,7 +3,7 @@ title: "AutoML"
 disableToc: false 
 ---
 
-See [Model selection and tuning](Model%20selection%20and%20tuning.md)
+See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Automated_machine_learning
@@ -18,7 +18,7 @@ See [Model selection and tuning](Model%20selection%20and%20tuning.md)
 		- Feature extraction
 		- Meta learning and transfer learning
 		- Detection and handling of skewed data and/or missing values
-	- Model selection. See [Model selection and tuning](Model%20selection%20and%20tuning.md)
+	- Model selection. See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)
 	- Hyperparameter optimization of the learning algorithm and featurization
 	- Pipeline selection under time, memory, and complexity constraints
 	- Selection of evaluation metrics and validation procedures

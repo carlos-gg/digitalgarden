@@ -197,4 +197,4 @@ disableToc: false
 See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
 
 ## For RL
-See [Reinforcement learning#^decisiontransformer](AI/Reinforcement%20learning.md#%5Edecisiontransformer)
+See ^decisiontransformer in [Reinforcement learning](AI/Reinforcement%20learning.md)

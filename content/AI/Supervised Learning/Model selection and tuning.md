@@ -43,16 +43,15 @@ See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 	- https://www.quora.com/How-do-we-detect-overfitting-and-under-fitting-in-Machine-Learning
 
 ## Cross-validation
-- Cross-validation
-	- [Train, test and validation](https://machinelearningmastery.com/difference-test-validation-datasets/)
-	- http://scikit-learn.org/stable/modules/cross_validation.html (also about train, test, validation)
-	- http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html
-	- https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
-	- https://blog.dataiku.com/model-sucks-evaluating-models-validation-set-infographic
-	- [Making Predictive Models Robust: Holdout vs Cross-Validation](https://www.kdnuggets.com/2017/08/dataiku-predictive-model-holdout-cross-validation.html)
-	- [How to Train a Final ML Model](http://machinelearningmastery.com/train-final-machine-learning-model/)
-	- http://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_10_cross_val.ipynb
+- [Train, test and validation](https://machinelearningmastery.com/difference-test-validation-datasets/)
+- [Train, test, validation split and cross-validation (scikit-learn documentation)](http://scikit-learn.org/stable/modules/cross_validation.html)
+- http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html
+- https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
+- https://blog.dataiku.com/model-sucks-evaluating-models-validation-set-infographic
+- [Making Predictive Models Robust: Holdout vs Cross-Validation](https://www.kdnuggets.com/2017/08/dataiku-predictive-model-holdout-cross-validation.html)
+- [How to Train a Final ML Model](http://machinelearningmastery.com/train-final-machine-learning-model/)
+- http://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_10_cross_val.ipynb
 - [Hyperparameter optimization](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))
-- [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)
+- [Tuning the hyper-parameters of an estimator (scikit-learn documentation)](https://scikit-learn.org/stable/modules/grid_search.html)
   
   

@@ -6,8 +6,8 @@ disableToc: false
 See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 
 ## Resources
-- https://github.com/ossu/computer-science
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications
+- https://github.com/ossu/computer-science
 - https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY
 - [Interaction between ML and CS teams](https://labs.opendoor.com/2017/02/17/two-cultures-of-ml-systems)
 - [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
@@ -112,46 +112,49 @@ See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 	- https://opensource.com/article/19/1/why-data-scientists-love-kubernetes
 	- https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 	- https://blog.alexellis.io/kubernetes-in-10-minutes/
-- Big data, distributed computing
-	- #CODE [Ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
-		- https://ray.readthedocs.io/en/latest/
-		- https://ray-project.github.io/
-		- https://ray-project.github.io/2017/10/15/fast-python-serialization-with-ray-and-arrow.html
-		- #TALK [Ray: A Distributed Execution Framework for AI | SciPy 2018 | Robert Nishihara](https://www.youtube.com/watch?v=D_oz7E4v-U0)
-		- #TALK [Ray: A System for Scalable Python and ML |SciPy 2020| Robert Nishihara](https://www.youtube.com/watch?v=XIu8ZF7RSkw)
-	- #CODE Dask [[Dask]]
-	- #CODE [PyGDF - GPU Data Frame](https://github.com/gpuopenanalytics/pygdf)
-		- https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/
-	- #CODE [Apache Hadoop](http://hadoop.apache.org/)
-		- The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
-		- https://www.quora.com/What-is-the-difference-between-Apache-Spark-and-Apache-Hadoop-Map-Reduce
-		- [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
-		- https://datawanderings.com/2017/01/15/your-first-diy-hadoop-cluster/
-		- http://ruhanixedu.com/blog/interview-question-and-answers/big-data/
-	- #CODE [Ache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
-		- http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext
-		- http://www.kdnuggets.com/2015/11/introduction-spark-python.html
-		- https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html
-		- [Spark ML](https://pages.databricks.com/definitive-guide-spark.html)
-		- #TALK [A brief introduction to Distributed Computing with PySpark (Pydata)](https://www.youtube.com/watch?v=bJouNc1REno)
-		- #TALK [Connecting Python To The Spark Ecosystem](https://www.youtube.com/watch?v=niTAJYCEAUM)
-	    - [Photon ML (LinkedIn)](https://github.com/linkedin/photon-ml)
-	    - http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
-	    - http://ruhanixedu.com/blog/interview-question-and-answers/apache-spark-interview-questions-answers/
-	    - [Text Normalization with Spark](http://www.treselle.com/blog/text-normalization-with-spark-part-1/)
-	    - [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)
-			- https://www.infoq.com/articles/apache-sparkml-data-pipelines
-			- https://commitlogs.com/2017/02/18/serve-spark-ml-model-using-play-framework-and-s3/
-		- [MLlib](http://spark.apache.org/mllib/, https://spark.apache.org/docs/latest/ml-guide.html)
-		- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
-		- [Optimus](https://github.com/ironmussa/Optimus)
-	- #CODE [Apache Storm](https://storm.apache.org/)
-		- http://zdatainc.com/2014/09/apache-storm-apache-spark/
-		- http://www.collaberatact.com/understanding-hadoop-vs-spark-vs-storm/
-	- #CODE [Apache Arrow](https://arrow.apache.org/)
-		- http://wesmckinney.com/blog/apache-arrow-pandas-internals/
-	- #CODE [Blaze](http://blaze.pydata.org/)
-		- http://blaze.readthedocs.io/en/latest/index.html
+
+ ### Big data, distributed computing
+- #CODE [Ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
+	- https://ray.readthedocs.io/en/latest/
+	- https://ray-project.github.io/
+	- https://ray-project.github.io/2017/10/15/fast-python-serialization-with-ray-and-arrow.html
+	- #TALK [Ray: A Distributed Execution Framework for AI | SciPy 2018 | Robert Nishihara](https://www.youtube.com/watch?v=D_oz7E4v-U0)
+	- #TALK [Ray: A System for Scalable Python and ML |SciPy 2020| Robert Nishihara](https://www.youtube.com/watch?v=XIu8ZF7RSkw)
+- #CODE [Dask](AI/Data%20Science,%20Data%20Engineering/Dask.md)
+- #CODE [PyGDF - GPU Data Frame](https://github.com/gpuopenanalytics/pygdf)
+	- https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/
+- #CODE [Apache Hadoop](http://hadoop.apache.org/)
+	- The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+	- https://www.quora.com/What-is-the-difference-between-Apache-Spark-and-Apache-Hadoop-Map-Reduce
+	- [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
+	- https://datawanderings.com/2017/01/15/your-first-diy-hadoop-cluster/
+	- http://ruhanixedu.com/blog/interview-question-and-answers/big-data/
+- #CODE [Ache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
+	- http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext
+	- http://www.kdnuggets.com/2015/11/introduction-spark-python.html
+	- https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html
+	- [Spark ML](https://pages.databricks.com/definitive-guide-spark.html)
+	- #TALK [A brief introduction to Distributed Computing with PySpark (Pydata)](https://www.youtube.com/watch?v=bJouNc1REno)
+	- #TALK [Connecting Python To The Spark Ecosystem](https://www.youtube.com/watch?v=niTAJYCEAUM)
+	- [Photon ML (LinkedIn)](https://github.com/linkedin/photon-ml)
+	- http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
+	- http://ruhanixedu.com/blog/interview-question-and-answers/apache-spark-interview-questions-answers/
+	- [Text Normalization with Spark](http://www.treselle.com/blog/text-normalization-with-spark-part-1/)
+	- [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)
+		- https://www.infoq.com/articles/apache-sparkml-data-pipelines
+		- https://commitlogs.com/2017/02/18/serve-spark-ml-model-using-play-framework-and-s3/
+	- [MLlib](http://spark.apache.org/mllib/, https://spark.apache.org/docs/latest/ml-guide.html)
+	- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+	- [Optimus](https://github.com/ironmussa/Optimus)
+- #CODE [Apache Storm](https://storm.apache.org/)
+	- http://zdatainc.com/2014/09/apache-storm-apache-spark/
+	- http://www.collaberatact.com/understanding-hadoop-vs-spark-vs-storm/
+- #CODE [Apache Arrow](https://arrow.apache.org/)
+	- http://wesmckinney.com/blog/apache-arrow-pandas-internals/
+- #CODE [Blaze](http://blaze.pydata.org/)
+	- http://blaze.readthedocs.io/en/latest/index.html
+
+### Databases
 - SQL:
 	- #CODE [SQLAlchemy](https://www.sqlalchemy.org/)
 		- https://github.com/zzzeek/sqlalchemy

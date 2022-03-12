@@ -1,5 +1,5 @@
 ---
-title: "Bayesian deep leanring"
+title: "Bayesian deep learning"
 disableToc: false 
 ---
 
