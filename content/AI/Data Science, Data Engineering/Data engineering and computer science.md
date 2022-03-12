@@ -3,7 +3,6 @@ title: "Data Engineering and Computer Science"
 disableToc: false 
 ---
 
-See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 
 ## Resources
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications
@@ -63,9 +62,8 @@ See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
 - #BOOK [Problem Solving with Algorithms and Data Structures using Python (Interactive book)](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - #BOOK [Large Scale Machine Learning with Python (Sjandin 2016, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python)
 - #BOOK [Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE)](http://www.mmds.org/)
-- #BOOK Advanced Analytics with Spark (Ryza, 2017 OREILLY): 
-	- http://shop.oreilly.com/product/0636920056591.do
-	- https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf
+- #BOOK [Advanced Analytics with Spark (Ryza, 2017 OREILLY)](http://shop.oreilly.com/product/0636920056591.do)
+	- [Advanced Analytics with Spark, 2nd Edition.pdf](https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf)
 - #BOOK Pandas cookbook (Petrou, 2017 PACKT): packtpub.com/big-data-and-business-intelligence/pandas-cookbook
 
 ## Courses
@@ -281,3 +279,5 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 - A MapReduce program is composed of aMap() procedure (method) that performs filtering and sorting (such as sorting students by first name into queues, one queue for each name) and aReduce() method that performs a summary operation (such as counting the number of students in each queue, yielding name frequencies)
 
 
+### MLOps
+See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)

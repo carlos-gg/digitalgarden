@@ -23,6 +23,20 @@ disableToc: false
 	- https://clear.ml/
 
 ### Workflow managers
+- #CODE [Kedro](https://github.com/kedro-org/kedro)
+	- A Python framework for creating reproducible, maintainable and modular data science code
+	- https://kedro.readthedocs.io/
+	- #CODE [kedro-viz](https://github.com/kedro-org/kedro-viz)
+- #CODE [MLrun](https://github.com/mlrun/mlrun)
+	- The Open-Source MLOps Orchestration Framework
+	- https://docs.mlrun.org/en/stable/
+- #CODE [Metaflow](https://github.com/Netflix/metaflow)
+	- Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects
+	- Originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning
+	- https://metaflow.org/
+- #CODE [Flyte](https://github.com/flyteorg/flyte)
+	- Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source
+	- https://flyte.org/
 - #CODE [MLFlow](https://github.com/mlflow/mlflow/ )
 	- [An open source platform for the machine learning lifecycle](https://mlflow.org)
 - #CODE [Airflow: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows](https://github.com/apache/airflow)
@@ -30,7 +44,6 @@ disableToc: false
 	- https://medium.com/datasd/why-data-automation-matters-4391d59e1952
 - #CODE [Luigi (Spotify)](https://github.com/spotify/luigi)
 	- https://luigi.readthedocs.io/en/latest/
+- #CODE [Kale](https://github.com/kubeflow-kale/kale)
 - #CODE [Azkaban](https://github.com/azkaban/azkaban)
-	- https://azkaban.github.io/
-- #CODE [Clipper	- A low-latency prediction-serving system](http://clipper.ai)
-- #CODE [PredictionIO](https://predictionio.apache.org)
+- #CODE [PredictionIO (Apache)](https://predictionio.apache.org)
