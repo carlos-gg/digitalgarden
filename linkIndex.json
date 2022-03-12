@@ -115,12 +115,12 @@
       "/AI/AutoML": [
         {
           "source": "/AI/AutoML",
-          "target": "/Model-selection-and-tuning",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "text": "Model selection and tuning"
         },
         {
           "source": "/AI/AutoML",
-          "target": "/Model-selection-and-tuning",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "text": "Model selection and tuning"
         }
       ],
@@ -252,18 +252,23 @@
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^resnet"
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^resnext"
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
         },
         {
           "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^densenet"
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
         }
       ],
       "/AI/Computer-Vision/Object-detection": [
@@ -366,7 +371,7 @@
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/Dask",
+          "target": "/AI/Data-Science-Data-Engineering/Dask",
           "text": "Dask"
         },
         {
@@ -770,8 +775,8 @@
         },
         {
           "source": "/AI/Deep-learning/Transformers",
-          "target": "/AI/Reinforcement-learning.md",
-          "text": "Reinforcement learning#^decisiontransformer"
+          "target": "/AI/Reinforcement-learning",
+          "text": "Reinforcement learning"
         }
       ],
       "/AI/Forecasting": [
@@ -1684,6 +1689,11 @@
       ],
       "/AI/Data-Science-Data-Engineering/Dask": [
         {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/AI/Data-Science-Data-Engineering/Dask",
+          "text": "Dask"
+        },
+        {
           "source": "/AI/Data-Science-Data-Engineering/Xarray",
           "target": "/AI/Data-Science-Data-Engineering/Dask",
           "text": "Dask"
@@ -1854,6 +1864,11 @@
         },
         {
           "source": "/AI/Computer-Vision/Computer-vision",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
           "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
         },
@@ -2155,26 +2170,24 @@
           "text": "Residual and dense neural networks"
         },
         {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
+        },
+        {
+          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
-        }
-      ],
-      "/AI/Deep-learning/Residual-and-dense-neural-networks.md": [
-        {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^resnet"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^resnext"
-        },
-        {
-          "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-          "text": "Residual and dense neural networks#^densenet"
         }
       ],
       "/AI/Deep-learning/Transformers": [
@@ -2390,16 +2403,14 @@
       ],
       "/AI/Reinforcement-learning": [
         {
+          "source": "/AI/Deep-learning/Transformers",
+          "target": "/AI/Reinforcement-learning",
+          "text": "Reinforcement learning"
+        },
+        {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Reinforcement-learning",
           "text": "Reinforcement learning"
-        }
-      ],
-      "/AI/Reinforcement-learning.md": [
-        {
-          "source": "/AI/Deep-learning/Transformers",
-          "target": "/AI/Reinforcement-learning.md",
-          "text": "Reinforcement learning#^decisiontransformer"
         }
       ],
       "/AI/Self-supervised-learning": [
@@ -2514,6 +2525,16 @@
         }
       ],
       "/AI/Supervised-Learning/Model-selection-and-tuning": [
+        {
+          "source": "/AI/AutoML",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
+          "text": "Model selection and tuning"
+        },
+        {
+          "source": "/AI/AutoML",
+          "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
+          "text": "Model selection and tuning"
+        },
         {
           "source": "/AI/Supervised-Learning/Supervised-learning",
           "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
@@ -2683,13 +2704,6 @@
           "text": "CNNs#Sequence time series modelling"
         }
       ],
-      "/Dask": [
-        {
-          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-          "target": "/Dask",
-          "text": "Dask"
-        }
-      ],
       "/Image-to-image-translation.md": [
         {
           "source": "/AI/Deep-learning/Normalizing-flows",
@@ -2709,18 +2723,6 @@
           "source": "/AI/Causality",
           "target": "/Machine-Learning",
           "text": "Machine Learning"
-        }
-      ],
-      "/Model-selection-and-tuning": [
-        {
-          "source": "/AI/AutoML",
-          "target": "/Model-selection-and-tuning",
-          "text": "Model selection and tuning"
-        },
-        {
-          "source": "/AI/AutoML",
-          "target": "/Model-selection-and-tuning",
-          "text": "Model selection and tuning"
         }
       ],
       "/RNNs": [
@@ -2850,12 +2852,12 @@
     },
     {
       "source": "/AI/AutoML",
-      "target": "/Model-selection-and-tuning",
+      "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
       "text": "Model selection and tuning"
     },
     {
       "source": "/AI/AutoML",
-      "target": "/Model-selection-and-tuning",
+      "target": "/AI/Supervised-Learning/Model-selection-and-tuning",
       "text": "Model selection and tuning"
     },
     {
@@ -2975,18 +2977,23 @@
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-      "text": "Residual and dense neural networks#^resnet"
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+      "text": "Residual and dense neural networks"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-      "text": "Residual and dense neural networks#^resnext"
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+      "text": "Residual and dense neural networks"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
-      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks.md",
-      "text": "Residual and dense neural networks#^densenet"
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+      "text": "Residual and dense neural networks"
+    },
+    {
+      "source": "/AI/Computer-Vision/Object-classification-image-recognition",
+      "target": "/AI/Deep-learning/CNNs",
+      "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Object-detection",
@@ -3075,7 +3082,7 @@
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
-      "target": "/Dask",
+      "target": "/AI/Data-Science-Data-Engineering/Dask",
       "text": "Dask"
     },
     {
@@ -3455,8 +3462,8 @@
     },
     {
       "source": "/AI/Deep-learning/Transformers",
-      "target": "/AI/Reinforcement-learning.md",
-      "text": "Reinforcement learning#^decisiontransformer"
+      "target": "/AI/Reinforcement-learning",
+      "text": "Reinforcement learning"
     },
     {
       "source": "/AI/Forecasting",
