@@ -108,8 +108,8 @@
         },
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs for anomaly detection"
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
         }
       ],
       "/AI/AutoML": [
@@ -142,20 +142,8 @@
         },
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
-          "text": "Monte Carlo methods#MCMC"
-        }
-      ],
-      "/AI/Causality": [
-        {
-          "source": "/AI/Causality",
-          "target": "/",
-          "text": "#^rupe17"
-        },
-        {
-          "source": "/AI/Causality",
-          "target": "/Machine-Learning",
-          "text": "Machine Learning"
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
         }
       ],
       "/AI/Computer-Vision/Background-subtraction": [
@@ -303,8 +291,8 @@
         },
         {
           "source": "/AI/Computer-Vision/Super-resolution",
-          "target": "/AI/Deep-learning/CNNs.md",
-          "text": "CNNs#^tfvisualattention"
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
         }
       ],
       "/AI/Computer-Vision/Video-segmentation-and-prediction": [
@@ -409,6 +397,13 @@
           "text": "Distributed DL"
         }
       ],
+      "/AI/Data-Science-Data-Engineering/Pytorch": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
+        }
+      ],
       "/AI/Data-Science-Data-Engineering/Xarray": [
         {
           "source": "/AI/Data-Science-Data-Engineering/Xarray",
@@ -479,11 +474,6 @@
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "Channel visual attention"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Super-resolution.md",
           "text": "Super-resolution with pixel attention"
         }
@@ -501,13 +491,13 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI",
-          "text": "AI"
+          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+          "text": "Tensorflow, keras"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
-          "text": "Tensorflow, keras"
+          "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "text": "Pytorch"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -516,23 +506,18 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/NLP",
-          "text": "NLP"
+          "target": "/AI/XAI",
+          "text": "XAI"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/XAI.md",
-          "text": "XAI#Interpretability of deep learning models"
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Transformers.md",
-          "text": "Transformers#For NLP"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/CNNs.md",
-          "text": "CNNs#Channel/Visual attention"
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -556,8 +541,8 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/",
-          "text": "#^pytorchtab"
+          "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "text": "Pytorch"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -680,28 +665,28 @@
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Super-resolution.md",
-          "text": "Super-resolution#GAN-based"
+          "target": "/AI/Computer-Vision/Super-resolution",
+          "text": "Super-resolution"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Inpainting.md",
-          "text": "Inpainting#GAN-based"
+          "target": "/AI/Computer-Vision/Inpainting",
+          "text": "Inpainting"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Image-to-image-translation.md",
-          "text": "Image-to-image translation#GAN-based"
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
+          "text": "Image-to-image translation"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/One-few-shot-learning.md",
-          "text": "One, few-shot learning#Few one-shot learning GANs"
+          "target": "/AI/One-few-shot-learning",
+          "text": "One, few-shot learning"
         },
         {
           "source": "/AI/Deep-learning/GANs",
-          "target": "/",
-          "text": "#^oriontfanomalies"
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "Anomaly and Outlier Detection"
         }
       ],
       "/AI/Deep-learning/Generative-modelling": [
@@ -756,15 +741,15 @@
       "/AI/Deep-learning/Neural-ODEs": [
         {
           "source": "/AI/Deep-learning/Neural-ODEs",
-          "target": "/Residual-and-dense-neural-networks",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
         }
       ],
       "/AI/Deep-learning/Normalizing-flows": [
         {
           "source": "/AI/Deep-learning/Normalizing-flows",
-          "target": "/Image-to-image-translation.md",
-          "text": "Image-to-image translation#Flow-based"
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation"
         }
       ],
       "/AI/Deep-learning/Transformers": [
@@ -782,28 +767,28 @@
       "/AI/Forecasting": [
         {
           "source": "/AI/Forecasting",
-          "target": "/Time-Series-analysis",
+          "target": "/AI/Time-Series-analysis",
           "text": "Time Series analysis"
         },
         {
           "source": "/AI/Forecasting",
-          "target": "/Regression",
+          "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
           "source": "/AI/Forecasting",
-          "target": "/RNNs",
+          "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
         },
         {
           "source": "/AI/Forecasting",
-          "target": "/CNNs.md",
+          "target": "/AI/Deep-learning/CNNs.md",
           "text": "CNNs#Sequence time series modelling"
         },
         {
           "source": "/AI/Forecasting",
-          "target": "/Transformers.md",
-          "text": "Transformers#For NLP"
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
         }
       ],
       "/AI/Learning-to-rank": [
@@ -1073,8 +1058,8 @@
       "/AI/Supervised-Learning/Feature-selection": [
         {
           "source": "/AI/Supervised-Learning/Feature-selection",
-          "target": "/AI/Supervised-Learning/Regression.md",
-          "text": "Regression#Regularized regression"
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
         }
       ],
       "/AI/Supervised-Learning/Gradient-boosting": [
@@ -1121,13 +1106,13 @@
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/AI/Deep-Learning/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
+          "target": "/AI/Deep-Learning/CNNs",
+          "text": "CNNs"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/",
-          "text": "#^glmnetpy"
+          "text": "Code"
         },
         {
           "source": "/AI/Supervised-Learning/Regression",
@@ -1195,13 +1180,13 @@
         },
         {
           "source": "/AI/Time-Series-analysis",
-          "target": "/CNNs",
-          "text": "Sequence time series modelling"
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
         },
         {
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Deep-learning/Deep-learning",
-          "text": "Deep learning#Deep learning for tabular data"
+          "text": "Deep learning"
         },
         {
           "source": "/AI/Time-Series-analysis",
@@ -1326,11 +1311,6 @@
     "backlinks": {
       "/": [
         {
-          "source": "/AI/Causality",
-          "target": "/",
-          "text": "#^rupe17"
-        },
-        {
           "source": "/AI/Data-Science-Data-Engineering/Distributed-DL",
           "target": "/",
           "text": "#^colossalai"
@@ -1339,21 +1319,6 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/",
           "text": "Channel visual attention"
-        },
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/",
-          "text": "Channel visual attention"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/",
-          "text": "#^pytorchtab"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/",
-          "text": "#^oriontfanomalies"
         },
         {
           "source": "/AI/Deep-learning/Multimodal-learning",
@@ -1373,7 +1338,7 @@
         {
           "source": "/AI/Supervised-Learning/Regression",
           "target": "/",
-          "text": "#^glmnetpy"
+          "text": "Code"
         },
         {
           "source": "/AI/XAI",
@@ -1409,13 +1374,6 @@
           "source": "/AI/XAI",
           "target": "/",
           "text": "#^innvestigate"
-        }
-      ],
-      "/AI": [
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI",
-          "text": "AI"
         }
       ],
       "/AI/": [
@@ -1467,6 +1425,11 @@
         }
       ],
       "/AI/Anomaly-and-Outlier-Detection": [
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Anomaly-and-Outlier-Detection",
+          "text": "Anomaly and Outlier Detection"
+        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Anomaly-and-Outlier-Detection",
@@ -1581,6 +1544,11 @@
           "text": "Image-to-image translation"
         },
         {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Computer-Vision/Image-to-image-translation",
+          "text": "Image-to-image translation"
+        },
+        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
@@ -1588,14 +1556,16 @@
       ],
       "/AI/Computer-Vision/Image-to-image-translation.md": [
         {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Image-to-image-translation.md",
-          "text": "Image-to-image translation#GAN-based"
-        },
-        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Computer-Vision/Image-to-image-translation.md",
           "text": "Image-to-image translation#GAN-based"
+        }
+      ],
+      "/AI/Computer-Vision/Inpainting": [
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Computer-Vision/Inpainting",
+          "text": "Inpainting"
         }
       ],
       "/AI/Computer-Vision/Inpainting.md": [
@@ -1603,11 +1573,6 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Inpainting.md",
           "text": "Inpainting"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Inpainting.md",
-          "text": "Inpainting#GAN-based"
         }
       ],
       "/AI/Computer-Vision/Object-classification-image-recognition": [
@@ -1653,6 +1618,11 @@
       ],
       "/AI/Computer-Vision/Super-resolution": [
         {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Computer-Vision/Super-resolution",
+          "text": "Super-resolution"
+        },
+        {
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Computer-Vision/Super-resolution",
           "text": "Super-resolution"
@@ -1668,11 +1638,6 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Super-resolution.md",
           "text": "Super-resolution with pixel attention"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Computer-Vision/Super-resolution.md",
-          "text": "Super-resolution#GAN-based"
         }
       ],
       "/AI/Computer-Vision/Video-segmentation-and-prediction": [
@@ -1756,9 +1721,26 @@
           "text": "MLOps"
         },
         {
+          "source": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "target": "/AI/Data-Science-Data-Engineering/MLOps",
+          "text": "MLOps"
+        },
+        {
           "source": "/AI/Supervised-Learning/Model-selection-and-tuning",
           "target": "/AI/Data-Science-Data-Engineering/MLOps",
           "text": "MLOps"
+        }
+      ],
+      "/AI/Data-Science-Data-Engineering/Pytorch": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "text": "Pytorch"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+          "text": "Pytorch"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Tensorflow-keras": [
@@ -1787,11 +1769,11 @@
           "text": "Xarray and Dask"
         }
       ],
-      "/AI/Deep-Learning/CNNs.md": [
+      "/AI/Deep-Learning/CNNs": [
         {
           "source": "/AI/Supervised-Learning/Regression",
-          "target": "/AI/Deep-Learning/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
+          "target": "/AI/Deep-Learning/CNNs",
+          "text": "CNNs"
         }
       ],
       "/AI/Deep-Learning/Deep-Learning": [
@@ -1883,6 +1865,16 @@
           "text": "CNNs"
         },
         {
+          "source": "/AI/Computer-Vision/Super-resolution",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
@@ -1896,18 +1888,18 @@
           "source": "/AI/NLP",
           "target": "/AI/Deep-learning/CNNs",
           "text": "CNNs"
+        },
+        {
+          "source": "/AI/Time-Series-analysis",
+          "target": "/AI/Deep-learning/CNNs",
+          "text": "CNNs"
         }
       ],
       "/AI/Deep-learning/CNNs.md": [
         {
-          "source": "/AI/Computer-Vision/Super-resolution",
+          "source": "/AI/Forecasting",
           "target": "/AI/Deep-learning/CNNs.md",
-          "text": "CNNs#^tfvisualattention"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/CNNs.md",
-          "text": "CNNs#Channel/Visual attention"
+          "text": "CNNs#Sequence time series modelling"
         }
       ],
       "/AI/Deep-learning/CapsNets": [
@@ -1948,7 +1940,7 @@
         {
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Deep-learning/Deep-learning",
-          "text": "Deep learning#Deep learning for tabular data"
+          "text": "Deep learning"
         }
       ],
       "/AI/Deep-learning/Deep-learning.md": [
@@ -1989,6 +1981,11 @@
       ],
       "/AI/Deep-learning/GANs": [
         {
+          "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
+        },
+        {
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
@@ -2010,11 +2007,6 @@
         }
       ],
       "/AI/Deep-learning/GANs.md": [
-        {
-          "source": "/AI/Anomaly-and-Outlier-Detection",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs for anomaly detection"
-        },
         {
           "source": "/AI/Computer-Vision/Image-to-image-translation",
           "target": "/AI/Deep-learning/GANs.md",
@@ -2148,6 +2140,11 @@
           "text": "RNNs"
         },
         {
+          "source": "/AI/Forecasting",
+          "target": "/AI/Deep-learning/RNNs",
+          "text": "RNNs"
+        },
+        {
           "source": "/AI/NLP",
           "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
@@ -2188,11 +2185,26 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
           "text": "Residual and dense neural networks"
+        },
+        {
+          "source": "/AI/Deep-learning/Neural-ODEs",
+          "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
+          "text": "Residual and dense neural networks"
         }
       ],
       "/AI/Deep-learning/Transformers": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
+        },
+        {
+          "source": "/AI/Forecasting",
           "target": "/AI/Deep-learning/Transformers",
           "text": "Transformers"
         }
@@ -2207,11 +2219,6 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Deep-learning/Transformers.md",
           "text": "Transformers#For Computer Vision"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Transformers.md",
-          "text": "Transformers#For NLP"
         },
         {
           "source": "/AI/NLP",
@@ -2337,16 +2344,14 @@
           "text": "Monte Carlo methods"
         },
         {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+          "text": "Monte Carlo methods"
+        },
+        {
           "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
           "text": "Monte Carlo methods"
-        }
-      ],
-      "/AI/Math-and-Statistics/Monte-Carlo-methods.md": [
-        {
-          "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
-          "text": "Monte Carlo methods#MCMC"
         }
       ],
       "/AI/Math-and-Statistics/Probability-Theory": [
@@ -2361,14 +2366,14 @@
           "source": "/AI/AI",
           "target": "/AI/NLP",
           "text": "NLP"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/NLP",
-          "text": "NLP"
         }
       ],
       "/AI/One-few-shot-learning": [
+        {
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/One-few-shot-learning",
+          "text": "One, few-shot learning"
+        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/AI/One-few-shot-learning",
@@ -2378,13 +2383,6 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/One-few-shot-learning",
           "text": "One, few-shot learning"
-        }
-      ],
-      "/AI/One-few-shot-learning.md": [
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/One-few-shot-learning.md",
-          "text": "One, few-shot learning#Few one-shot learning GANs"
         }
       ],
       "/AI/Probabilistic-machine-learning": [
@@ -2555,6 +2553,11 @@
       ],
       "/AI/Supervised-Learning/Regression": [
         {
+          "source": "/AI/Forecasting",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
+        {
           "source": "/AI/Learning-to-rank",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
@@ -2575,16 +2578,14 @@
           "text": "Regression"
         },
         {
+          "source": "/AI/Supervised-Learning/Feature-selection",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
+        {
           "source": "/AI/Supervised-Learning/Supervised-learning",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
-        }
-      ],
-      "/AI/Supervised-Learning/Regression.md": [
-        {
-          "source": "/AI/Supervised-Learning/Feature-selection",
-          "target": "/AI/Supervised-Learning/Regression.md",
-          "text": "Regression#Regularized regression"
         }
       ],
       "/AI/Supervised-Learning/Supervised-learning": [
@@ -2600,6 +2601,11 @@
         }
       ],
       "/AI/Time-Series-analysis": [
+        {
+          "source": "/AI/Forecasting",
+          "target": "/AI/Time-Series-analysis",
+          "text": "Time Series analysis"
+        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Time-Series-analysis",
@@ -2673,6 +2679,11 @@
       ],
       "/AI/XAI": [
         {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/XAI",
+          "text": "XAI"
+        },
+        {
           "source": "/AI/Machine-Learning",
           "target": "/AI/XAI",
           "text": "XAI"
@@ -2683,32 +2694,13 @@
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/XAI.md",
           "text": "Neural Networks explainability"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/XAI.md",
-          "text": "XAI#Interpretability of deep learning models"
         }
       ],
-      "/CNNs": [
-        {
-          "source": "/AI/Time-Series-analysis",
-          "target": "/CNNs",
-          "text": "Sequence time series modelling"
-        }
-      ],
-      "/CNNs.md": [
-        {
-          "source": "/AI/Forecasting",
-          "target": "/CNNs.md",
-          "text": "CNNs#Sequence time series modelling"
-        }
-      ],
-      "/Image-to-image-translation.md": [
+      "/Image-to-image-translation": [
         {
           "source": "/AI/Deep-learning/Normalizing-flows",
-          "target": "/Image-to-image-translation.md",
-          "text": "Image-to-image translation#Flow-based"
+          "target": "/Image-to-image-translation",
+          "text": "Image-to-image translation"
         }
       ],
       "/Learning-to-rank": [
@@ -2718,56 +2710,18 @@
           "text": "Learning to rank"
         }
       ],
-      "/Machine-Learning": [
-        {
-          "source": "/AI/Causality",
-          "target": "/Machine-Learning",
-          "text": "Machine Learning"
-        }
-      ],
-      "/RNNs": [
-        {
-          "source": "/AI/Forecasting",
-          "target": "/RNNs",
-          "text": "RNNs"
-        }
-      ],
       "/Regression": [
-        {
-          "source": "/AI/Forecasting",
-          "target": "/Regression",
-          "text": "Regression"
-        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/Regression",
           "text": "Regression"
         }
       ],
-      "/Residual-and-dense-neural-networks": [
-        {
-          "source": "/AI/Deep-learning/Neural-ODEs",
-          "target": "/Residual-and-dense-neural-networks",
-          "text": "Residual and dense neural networks"
-        }
-      ],
       "/Time-Series-analysis": [
-        {
-          "source": "/AI/Forecasting",
-          "target": "/Time-Series-analysis",
-          "text": "Time Series analysis"
-        },
         {
           "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/Time-Series-analysis",
           "text": "Time Series analysis"
-        }
-      ],
-      "/Transformers.md": [
-        {
-          "source": "/AI/Forecasting",
-          "target": "/Transformers.md",
-          "text": "Transformers#For NLP"
         }
       ],
       "/deep-learning": [
@@ -2847,8 +2801,8 @@
     },
     {
       "source": "/AI/Anomaly-and-Outlier-Detection",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs for anomaly detection"
+      "target": "/AI/Deep-learning/GANs",
+      "text": "GANs"
     },
     {
       "source": "/AI/AutoML",
@@ -2877,18 +2831,8 @@
     },
     {
       "source": "/AI/Bayesian-modelling",
-      "target": "/AI/Math-and-Statistics/Monte-Carlo-methods.md",
-      "text": "Monte Carlo methods#MCMC"
-    },
-    {
-      "source": "/AI/Causality",
-      "target": "/",
-      "text": "#^rupe17"
-    },
-    {
-      "source": "/AI/Causality",
-      "target": "/Machine-Learning",
-      "text": "Machine Learning"
+      "target": "/AI/Math-and-Statistics/Monte-Carlo-methods",
+      "text": "Monte Carlo methods"
     },
     {
       "source": "/AI/Computer-Vision/Background-subtraction",
@@ -3022,8 +2966,8 @@
     },
     {
       "source": "/AI/Computer-Vision/Super-resolution",
-      "target": "/AI/Deep-learning/CNNs.md",
-      "text": "CNNs#^tfvisualattention"
+      "target": "/AI/Deep-learning/CNNs",
+      "text": "CNNs"
     },
     {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
@@ -3116,6 +3060,11 @@
       "text": "Distributed DL"
     },
     {
+      "source": "/AI/Data-Science-Data-Engineering/Pytorch",
+      "target": "/AI/Data-Science-Data-Engineering/MLOps",
+      "text": "MLOps"
+    },
+    {
       "source": "/AI/Data-Science-Data-Engineering/Xarray",
       "target": "/AI/Data-Science-Data-Engineering/Dask",
       "text": "Dask"
@@ -3182,11 +3131,6 @@
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/",
-      "text": "Channel visual attention"
-    },
-    {
-      "source": "/AI/Deep-learning/CNNs",
       "target": "/AI/Computer-Vision/Super-resolution.md",
       "text": "Super-resolution with pixel attention"
     },
@@ -3202,13 +3146,13 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI",
-      "text": "AI"
+      "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
+      "text": "Tensorflow, keras"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Data-Science-Data-Engineering/Tensorflow-keras",
-      "text": "Tensorflow, keras"
+      "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+      "text": "Pytorch"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3217,23 +3161,18 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/NLP",
-      "text": "NLP"
+      "target": "/AI/XAI",
+      "text": "XAI"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/XAI.md",
-      "text": "XAI#Interpretability of deep learning models"
+      "target": "/AI/Deep-learning/Transformers",
+      "text": "Transformers"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/Transformers.md",
-      "text": "Transformers#For NLP"
-    },
-    {
-      "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/CNNs.md",
-      "text": "CNNs#Channel/Visual attention"
+      "target": "/AI/Deep-learning/CNNs",
+      "text": "CNNs"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3257,8 +3196,8 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/",
-      "text": "#^pytorchtab"
+      "target": "/AI/Data-Science-Data-Engineering/Pytorch",
+      "text": "Pytorch"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3377,28 +3316,28 @@
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Computer-Vision/Super-resolution.md",
-      "text": "Super-resolution#GAN-based"
+      "target": "/AI/Computer-Vision/Super-resolution",
+      "text": "Super-resolution"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Computer-Vision/Inpainting.md",
-      "text": "Inpainting#GAN-based"
+      "target": "/AI/Computer-Vision/Inpainting",
+      "text": "Inpainting"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Computer-Vision/Image-to-image-translation.md",
-      "text": "Image-to-image translation#GAN-based"
+      "target": "/AI/Computer-Vision/Image-to-image-translation",
+      "text": "Image-to-image translation"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/One-few-shot-learning.md",
-      "text": "One, few-shot learning#Few one-shot learning GANs"
+      "target": "/AI/One-few-shot-learning",
+      "text": "One, few-shot learning"
     },
     {
       "source": "/AI/Deep-learning/GANs",
-      "target": "/",
-      "text": "#^oriontfanomalies"
+      "target": "/AI/Anomaly-and-Outlier-Detection",
+      "text": "Anomaly and Outlier Detection"
     },
     {
       "source": "/AI/Deep-learning/Generative-modelling",
@@ -3447,13 +3386,13 @@
     },
     {
       "source": "/AI/Deep-learning/Neural-ODEs",
-      "target": "/Residual-and-dense-neural-networks",
+      "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
       "text": "Residual and dense neural networks"
     },
     {
       "source": "/AI/Deep-learning/Normalizing-flows",
-      "target": "/Image-to-image-translation.md",
-      "text": "Image-to-image translation#Flow-based"
+      "target": "/Image-to-image-translation",
+      "text": "Image-to-image translation"
     },
     {
       "source": "/AI/Deep-learning/Transformers",
@@ -3467,28 +3406,28 @@
     },
     {
       "source": "/AI/Forecasting",
-      "target": "/Time-Series-analysis",
+      "target": "/AI/Time-Series-analysis",
       "text": "Time Series analysis"
     },
     {
       "source": "/AI/Forecasting",
-      "target": "/Regression",
+      "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Forecasting",
-      "target": "/RNNs",
+      "target": "/AI/Deep-learning/RNNs",
       "text": "RNNs"
     },
     {
       "source": "/AI/Forecasting",
-      "target": "/CNNs.md",
+      "target": "/AI/Deep-learning/CNNs.md",
       "text": "CNNs#Sequence time series modelling"
     },
     {
       "source": "/AI/Forecasting",
-      "target": "/Transformers.md",
-      "text": "Transformers#For NLP"
+      "target": "/AI/Deep-learning/Transformers",
+      "text": "Transformers"
     },
     {
       "source": "/AI/Learning-to-rank",
@@ -3742,8 +3681,8 @@
     },
     {
       "source": "/AI/Supervised-Learning/Feature-selection",
-      "target": "/AI/Supervised-Learning/Regression.md",
-      "text": "Regression#Regularized regression"
+      "target": "/AI/Supervised-Learning/Regression",
+      "text": "Regression"
     },
     {
       "source": "/AI/Supervised-Learning/Gradient-boosting",
@@ -3782,13 +3721,13 @@
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
-      "target": "/AI/Deep-Learning/CNNs.md",
-      "text": "CNNs#Sequence time series modelling"
+      "target": "/AI/Deep-Learning/CNNs",
+      "text": "CNNs"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
       "target": "/",
-      "text": "#^glmnetpy"
+      "text": "Code"
     },
     {
       "source": "/AI/Supervised-Learning/Regression",
@@ -3852,13 +3791,13 @@
     },
     {
       "source": "/AI/Time-Series-analysis",
-      "target": "/CNNs",
-      "text": "Sequence time series modelling"
+      "target": "/AI/Deep-learning/CNNs",
+      "text": "CNNs"
     },
     {
       "source": "/AI/Time-Series-analysis",
       "target": "/AI/Deep-learning/Deep-learning",
-      "text": "Deep learning#Deep learning for tabular data"
+      "text": "Deep learning"
     },
     {
       "source": "/AI/Time-Series-analysis",
