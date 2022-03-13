@@ -36,9 +36,19 @@
           "source": "/",
           "target": "/AI/Data-Science-Data-Engineering/Data-Science",
           "text": "Data Science"
+        },
+        {
+          "source": "/",
+          "target": "/AI4G/AI4good",
+          "text": "AI for good"
         }
       ],
       "/AI/AI": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI4G/AI4good",
+          "text": "AI4good"
+        },
         {
           "source": "/AI/AI",
           "target": "/AI/Math-and-Statistics/Math-and-Statistics",
@@ -303,8 +313,8 @@
         },
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/AI/Deep-learning/Deep-learning.md",
-          "text": "Deep learning#Deep learning for multi-dimensional data"
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
         },
         {
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
@@ -320,6 +330,11 @@
         }
       ],
       "/AI/Data-Science-Data-Engineering/Data-Science": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI4G/AI4good",
+          "text": "AI4good"
+        },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-Science",
           "target": "/AI/Data-Science-Data-Engineering/Jupyter",
@@ -1256,6 +1271,18 @@
           "target": "/",
           "text": "Neural Networks explainability"
         }
+      ],
+      "/AI4G/AI4good": [
+        {
+          "source": "/AI4G/AI4good",
+          "target": "/AI4G/Bootcamps-and-fellowships",
+          "text": "Bootcamps and fellowships"
+        },
+        {
+          "source": "/AI4G/AI4good",
+          "target": "/AI4G/Entrepreneurship",
+          "text": "Entrepreneurship"
+        }
       ]
     },
     "backlinks": {
@@ -1829,6 +1856,11 @@
           "text": "Deep learning"
         },
         {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "target": "/AI/Deep-learning/Deep-learning",
+          "text": "Deep learning"
+        },
+        {
           "source": "/AI/Deep-learning/Encoder-decoder-networks",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
@@ -1842,13 +1874,6 @@
           "source": "/AI/Time-Series-analysis",
           "target": "/AI/Deep-learning/Deep-learning",
           "text": "Deep learning"
-        }
-      ],
-      "/AI/Deep-learning/Deep-learning.md": [
-        {
-          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-          "target": "/AI/Deep-learning/Deep-learning.md",
-          "text": "Deep learning#Deep learning for multi-dimensional data"
         }
       ],
       "/AI/Deep-learning/Encoder-decoder-networks": [
@@ -2591,6 +2616,37 @@
           "text": "XAI"
         }
       ],
+      "/AI4G/AI4good": [
+        {
+          "source": "/AI/AI",
+          "target": "/AI4G/AI4good",
+          "text": "AI4good"
+        },
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+          "target": "/AI4G/AI4good",
+          "text": "AI4good"
+        },
+        {
+          "source": "/",
+          "target": "/AI4G/AI4good",
+          "text": "AI for good"
+        }
+      ],
+      "/AI4G/Bootcamps-and-fellowships": [
+        {
+          "source": "/AI4G/AI4good",
+          "target": "/AI4G/Bootcamps-and-fellowships",
+          "text": "Bootcamps and fellowships"
+        }
+      ],
+      "/AI4G/Entrepreneurship": [
+        {
+          "source": "/AI4G/AI4good",
+          "target": "/AI4G/Entrepreneurship",
+          "text": "Entrepreneurship"
+        }
+      ],
       "/Learning-to-rank": [
         {
           "source": "/AI/Machine-Learning",
@@ -2622,6 +2678,11 @@
     }
   },
   "links": [
+    {
+      "source": "/AI/AI",
+      "target": "/AI4G/AI4good",
+      "text": "AI4good"
+    },
     {
       "source": "/AI/AI",
       "target": "/AI/Math-and-Statistics/Math-and-Statistics",
@@ -2864,8 +2925,8 @@
     },
     {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
-      "target": "/AI/Deep-learning/Deep-learning.md",
-      "text": "Deep learning#Deep learning for multi-dimensional data"
+      "target": "/AI/Deep-learning/Deep-learning",
+      "text": "Deep learning"
     },
     {
       "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
@@ -2876,6 +2937,11 @@
       "source": "/AI/Data-Science-Data-Engineering/Dask",
       "target": "/AI/Machine-Learning",
       "text": "Machine Learning"
+    },
+    {
+      "source": "/AI/Data-Science-Data-Engineering/Data-Science",
+      "target": "/AI4G/AI4good",
+      "text": "AI4good"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
@@ -3748,6 +3814,16 @@
       "text": "Neural Networks explainability"
     },
     {
+      "source": "/AI4G/AI4good",
+      "target": "/AI4G/Bootcamps-and-fellowships",
+      "text": "Bootcamps and fellowships"
+    },
+    {
+      "source": "/AI4G/AI4good",
+      "target": "/AI4G/Entrepreneurship",
+      "text": "Entrepreneurship"
+    },
+    {
       "source": "/",
       "target": "/AI/",
       "text": "full list of notes"
@@ -3781,6 +3857,11 @@
       "source": "/",
       "target": "/AI/Data-Science-Data-Engineering/Data-Science",
       "text": "Data Science"
+    },
+    {
+      "source": "/",
+      "target": "/AI4G/AI4good",
+      "text": "AI for good"
     }
   ]
 }
