@@ -1249,37 +1249,12 @@
         {
           "source": "/AI/XAI",
           "target": "/",
-          "text": "#^aix360"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^shapgithub"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^limegithub"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
           "text": "Neural Networks explainability"
         },
         {
           "source": "/AI/XAI",
           "target": "/",
           "text": "Neural Networks explainability"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "Code"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^innvestigate"
         }
       ]
     },
@@ -1298,37 +1273,12 @@
         {
           "source": "/AI/XAI",
           "target": "/",
-          "text": "#^aix360"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^shapgithub"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^limegithub"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
           "text": "Neural Networks explainability"
         },
         {
           "source": "/AI/XAI",
           "target": "/",
           "text": "Neural Networks explainability"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "Code"
-        },
-        {
-          "source": "/AI/XAI",
-          "target": "/",
-          "text": "#^innvestigate"
         }
       ],
       "/AI/": [
@@ -3790,37 +3740,12 @@
     {
       "source": "/AI/XAI",
       "target": "/",
-      "text": "#^aix360"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
-      "text": "#^shapgithub"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
-      "text": "#^limegithub"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
       "text": "Neural Networks explainability"
     },
     {
       "source": "/AI/XAI",
       "target": "/",
       "text": "Neural Networks explainability"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
-      "text": "Code"
-    },
-    {
-      "source": "/AI/XAI",
-      "target": "/",
-      "text": "#^innvestigate"
     },
     {
       "source": "/",
