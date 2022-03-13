@@ -6,7 +6,7 @@ disableToc: false
 ## Resources
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
-- In [Deep learning](AI/Deep%20learning/Deep%20learning.md), a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
+- A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
 - [CNNs chapter in d2l.ai](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
 - [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - http://cs231n.github.io/convolutional-networks/
@@ -154,7 +154,7 @@ See [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md#CN
 
 
 ### Visual/Channel attention and Saliency
-See [Neural Networks explainability](AI/XAI.md#Neural%20Networks%20explainability)
+See "Neural Networks explainability" section in [XAI](AI/XAI.md)
 
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context
@@ -166,7 +166,6 @@ See [Neural Networks explainability](AI/XAI.md#Neural%20Networks%20explainabilit
 	- https://programmerclick.com/article/4934219785/
  - #PAPER [CBAM: Convolutional Block Attention Module (Woo 2018)](https://arxiv.org/abs/1807.06521) ^cbam
 	 -  #CODE https://kobiso.github.io//research/research-CBAM/
-	 -  #CODE [Channel visual attention](#Channel%20visual%20attention)
 	 -  https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
 - #PAPER [ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks (Wang 2020)](https://arxiv.org/abs/1910.03151)
 	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain

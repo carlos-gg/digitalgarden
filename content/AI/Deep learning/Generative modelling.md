@@ -13,20 +13,20 @@ disableToc: false
 
 
 ### Autoencoders
-See [Autoencoders - VAEs](AI/Deep%20learning/Autoencoders.md#VAEs)
+See "VAEs" section in [Autoencoders](AI/Deep%20learning/Autoencoders.md)
 
 ### GANs
 See [GANs](AI/Deep%20learning/GANs.md)
 
 ### Normalizing flows
-See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)]
+See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
 
 ### Generative models for Image data
 See:
 - [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
-- [Image-to-image translation#GAN-based](AI/Computer%20Vision/Image-to-image%20translation.md#GAN-based)
-- [GANs#GANs for representation learning and image synthesis](AI/Deep%20Learning/GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
-- [Transformers#For Computer Vision](AI/Deep%20Learning/Transformers.md#For%20Computer%20Vision)
+- "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+- "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20Learning/GANs.md)
+- "For Computer Vision" section in [Transformers](AI/Deep%20Learning/Transformers.md)
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)

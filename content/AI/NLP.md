@@ -109,7 +109,7 @@ Web scrapping and cleaning:
 - BoW is different from Word2vec, which we’ll cover next. The main difference is that Word2vec produces one vector per word, whereas BoW produces one number (a wordcount). Word2vec is great for digging into documents and identifying content and subsets of content. Its vectors represent each word’s context, the ngrams of which it is a part. BoW is good for classifying documents as a whole.
 
 #### tf–idf (Term Frequency-Inverse Document Frequency)
-- https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+- [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 - tf–idf, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus.
 -  The tf-idf value increases proportionally to the number of times a word appears in the document, but is often offset by the frequency of the word in the corpus, which helps to adjust for the fact that some words appear more frequently in general.
 - https://deeplearning4j.org/bagofwords-tf-idf
@@ -191,7 +191,7 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 
 #### CNN-based 
 See [CNNs](AI/Deep%20learning/CNNs.md)
-- [CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+- [Convolutional Neural Network for Sentence Classification](https://cnvrg.io/cnn-sentence-classification/)
 - http://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html
 - [How to read: Character level deep learning](https://offbit.github.io/how-to-read/)
 - #PAPER [Connectionist Temporal Classification](https://distill.pub/2017/ctc/)
@@ -213,7 +213,7 @@ See [RNNs](AI/Deep%20learning/RNNs.md)
 #### Google Neural Machine Translation (GNMT)
 - https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation
 - Google Neural Machine Translation (GNMT) is a neural machine translation (NMT) system developed by Google and introduced in November 2016, that uses an artificial neural network to increase fluency and accuracy in Google Translate.
-- #PAPER [ Zero-shot translation](https://arxiv.org/abs/1611.04558)
+- #PAPER [Zero-shot translation](https://arxiv.org/abs/1611.04558)
 	- Google Neural Machine Translation (GNMT) is a neural machine translation (NMT) system developed by Google and introduced in November 2016, that uses an artificial neural network to increase fluency and accuracy in Google Translate.
 	- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 

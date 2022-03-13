@@ -91,7 +91,7 @@ See [Distances](AI/Math%20and%20Statistics/Distances.md)
 - Types:
 	- Pearson’s Correlation: 
 		- Pearson is the most widely used correlation coefficient. Pearson correlation measures the linear association between continuous variables. In other words, this coefficient quantifies the degree to which a relationship between two variables can be described by a line. Raw observations are centered by subtracting their means and re-scaled by a measure of standard deviations.
-		- Ro_X,Y = E[(X - mu_X)(Y - mu_Y)] / simga_X sigma_Y
+		- `Ro_X,Y = E[(X - mu_X)(Y - mu_Y)] / simga_X sigma_Y `
 		- numerator  -> covariance
 		- Dividing the covariance between two variables by the product of standard deviations ensures that correlation will always fall between -1 and 1 (much easier to interpret)
 	- Spearman's Correlation:
@@ -119,7 +119,6 @@ See [Active learning](AI/Active%20learning.md)
 - Prediction is not and inference. Both are important and depend on the problem. Prediction is more challenging that inference. For prediction there are key quantities (metrics): sensitivity, specificity, positive predictive value, negative predictive value, accuracy
 
 #### A/B testing
-See [A B testing](#code#A%20B%20testing)
 - https://en.wikipedia.org/wiki/A/B_testing
 - In marketing and business intelligence, A/B testing is a term for a randomized experiment with two variants, A and B, which are the control and variation in the controlled experiment. A/B testing is a form of statistical hypothesis testing with two variants leading to the technical term, two-sample hypothesis testing, used in the field of statistics. Other terms used for this method include bucket tests and split-run testing.
 - https://www.optimizely.com/ab-testing/
@@ -205,7 +204,6 @@ See [A B testing](#code#A%20B%20testing)
 	- calculate the percentage of simulations where the simulated statistic was more extreme (toward the alternative) than the observed.
 
 #### Bayesian bootstrap
-See [Code](#Code)
 - http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 
 ### Probability theory

@@ -5,9 +5,9 @@ disableToc: false
 
 See 
 - [CNNs](AI/Deep%20learning/CNNs.md)
-- [MLPs#MLPs for vision and language](AI/Deep%20learning/MLPs.md#MLPs%20for%20vision%20and%20language)
-- [Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision.md)
-- [Generative modelling#Generative models for Image data](AI/Deep%20learning/Generative%20modelling.md#Generative%20models%20for%20Image%20data)
+- "MLPs for vision and language" section in [MLPs](AI/Deep%20learning/MLPs.md)
+- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
+- "Generative models for Image data" section in [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 - [GANs](AI/Deep%20learning/GANs.md)
 
 
@@ -71,7 +71,7 @@ See:
 - [CNNs](AI/Deep%20learning/CNNs.md)
 - [GANs](AI/Deep%20learning/GANs.md)
 - [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
-- [Transformers#For Computer Vision](AI/Deep%20learning/Transformers.md#For%20Computer%20Vision)
+- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
 
 - Deep Learning is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as CNNs mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 - https://github.com/kjw0612/awesome-deep-vision
