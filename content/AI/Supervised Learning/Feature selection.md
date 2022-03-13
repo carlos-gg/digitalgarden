@@ -3,7 +3,7 @@ title: "Feature selection"
 disableToc: false 
 ---
 
-See [Regression#Regularized regression](AI/Supervised%20Learning/Regression.md#Regularized%20regression)
+See "Regularized regression" section in [Regression](AI/Supervised%20Learning/Regression.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Feature_selection

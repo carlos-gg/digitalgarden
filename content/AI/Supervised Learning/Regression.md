@@ -6,7 +6,7 @@ disableToc: false
 See: 
 - [Time Series analysis](AI/Time%20Series%20analysis.md)
 - [RNNs](AI/Deep%20learning/RNNs.md)
-- [CNNs#Sequence time series modelling](AI/Deep%20Learning/CNNs.md#Sequence%20time%20series%20modelling) 
+- "Sequence time series modelling" section in [CNNs](AI/Deep%20Learning/CNNs.md) 
 
 
 ## Resources
@@ -50,8 +50,8 @@ See:
 - [Understand Generalized Linear Models, and How It Relates to Linear, Logistic and Poisson Regression](https://towardsdatascience.com/understand-generalized-linear-models-and-how-it-relates-to-linear-logistic-and-poisson-regression-53f3aea8a9d)
 - https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c
 	- Under the GLM assumptions, the output variable Y can now follow any probability distribution within the “exponential family”, which includes not only the exponential distribution, but also the normal, gamma, chi-squared, Poisson, binomial (for a fixed number of trails), negative binomial (for a fixed number of failures), beta and lognormal distributions, among others
-- #CODE [[#^glmnetpy]]
-
+- #CODE See ^glmnetpy in [Code](#Code)
+ 
 ### Logistic regression 
 See [Classification](AI/Supervised%20Learning/Classification.md)
 

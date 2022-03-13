@@ -46,14 +46,14 @@ disableToc: false
 - #TALK [Randomized Singular Value Decomposition (SVD)](https://www.youtube.com/watch?v=fJ2EyvR85ro)
 
 ## Code
+- #CODE [Tensorly](https://github.com/tensorly/tensorly)
+	- http://tensorly.org
+	- TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning and tensor algebra. Its backend system allows to seamlessly perform computation with NumPy, PyTorch, JAX, MXNet, TensorFlow or CuPy, and run methods at scale on CPU or GPU
+	- https://github.com/JeanKossaifi/tensorly-notebooks/
+	- http://tensorly.org/stable/modules/api.html#module-tensorly.decomposition
+- #CODE [Eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 - #CODE [Nimfa](https://github.com/marinkaz/nimfa)
 - #CODE [Pymf](https://github.com/cthurau/pymf)
-- #CODE Tensorly - fast and simple Python library for tensor learning: 
-	- https://tensorly.github.io/stable/home.html
-	- http://tensorly.org/stable/modules/api.html#module-tensorly.decomposition
-	- https://github.com/JeanKossaifi/tensorly-notebooks/blob/master/02_tensor_decomposition/cp_decomposition.ipynb
-- #CODE [Eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-
 
 ## Books
 - #BOOK [Templates for the Solution of Algebraic Eigenvalue Problems (Bai, Demmel 2000)](https://www.cs.ucdavis.edu/~bai/ET/contents.html)

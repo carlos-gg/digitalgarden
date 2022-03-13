@@ -91,7 +91,7 @@ disableToc: false
 	- https://www.udacity.com/course/deep-learning-pytorch--ud188
 - #COURSE [Deep Learning with PyTorch: Zero to GANs (Jovian)](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
 - #COURSE [Fast AI - Practical Deep Learning For Coders](http://course.fast.ai/)
-	- Deep Learning for Coders with fastai and PyTorch: [[AI]] Applications Without a PhD - the book and the course
+	- Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD - the book and the course
 	- https://github.com/fastai/fastbook
 - #COURSE [Deep Learning course (U Paris-Saclay)](https://m2dsupsdlclass.github.io/lectures-labs/)
 - #COURSE [Introduction to Machine Learning and Neural Networks (Uniandes)](https://albahnsen.com/courses/applied-deep-learning/)
@@ -108,6 +108,7 @@ State of ML frameworks:
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
 - #CODE [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md)
+- #CODE [Pytorch](AI/Data%20Science,%20Data%20Engineering/Pytorch.md)
 - #CODE [Triton](https://github.com/openai/triton)
 	- language and compiler for writing highly efficient custom Deep-Learning primitives
 	- https://openai.com/blog/triton/
@@ -122,16 +123,6 @@ State of ML frameworks:
 - #CODE [Elegy - Neural Networks framework based on Jax and inspired by Keras](https://github.com/poets-ai/elegy)
 	- https://poets-ai.github.io/elegy/
 	- See [Mathematical Optimization](AI/Math%20and%20Statistics/Mathematical%20Optimization.md) JAX
-- #CODE [PyTorch (Facebook): Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
-	- http://pytorch.org
-	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
-	- #CODE [Pytorch-lightning](https://pytorchlightning.ai/)
-		- https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
-	- #CODE [Pytext (Facebook) - A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext )
-		- https://fb.me/pytextdocs
-		- PyText is a deep-learning based [NLP](AI/NLP.md) modeling framework built on PyTorch
-	- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) ^pytorchtab
-		- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 - #CODE [Paddle (Baidu)](https://github.com/PaddlePaddle/Paddle)
 	- http://www.paddlepaddle.org/
 	- PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice
@@ -188,7 +179,7 @@ State of ML frameworks:
 
 
 ### Generalization
-See [XAI#Interpretability of deep learning models](AI/XAI.md#Interpretability%20of%20deep%20learning%20models)
+See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
 
 - #PAPER [Understanding deep learning requires re-thinking generalization (Zhang 2016)](https://arxiv.org/abs/1611.03530)
@@ -257,7 +248,7 @@ See [XAI#Interpretability of deep learning models](AI/XAI.md#Interpretability%20
 
 ### Activations
 - https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
-- https://mlfromscratch.com/activation-functions-explained/#/
+- https://mlfromscratch.com/activation-functions-explained/
 - [RELU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 	- https://www.quora.com/What-is-special-about-rectifier-neural-units-used-in-NN-learning
 - http://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-network
@@ -272,7 +263,7 @@ See [XAI#Interpretability of deep learning models](AI/XAI.md#Interpretability%20
 	- https://arxiv.org/pdf/1511.06409.pdf (Learning to Generate Images With Perceptual Similarity Metrics) 
 	- #PAPER [Loss Functions for Image Restoration with Neural Networks (Zhao 2018)](https://arxiv.org/abs/1511.08861)
 	- https://medium.com/@sanari85/rediscovery-of-ssim-index-in-image-reconstruction-ssim-as-a-loss-function-a1ffef7d2be 
-		- We use three different metric for comparing each different methods such  as  DSSIM,  MSE,  and  MAE.  Structural  dissimilarity(DSSIM)[14]  is  an  image  distance  metric,  that  corresponds better to the human perception than MAE or RMSE. MeanSquared  Error(MSE)  measures  the  average  of  the  squares of the errors that is, the average squared difference between the  estimated  values  and  the  actual  value.  Mean  AbsoluteError  (MAE)  is  the  average  distance  between  each  pixel point. https://arxiv.org/pdf/2001.05372.pdf 
+		- We use three different metric for comparing each different methods such as DSSIM, MSE, and MAE. Structural dissimilarity(DSSIM) is an image distance metric, that corresponds better to the human perception than MAE or RMSE. Mean Squared Error (MSE) measures the average of the squares of the errors that is, the average squared difference between the estimated values and the actual value. Mean Absolute Error (MAE) is the average distance between each pixel point. https://arxiv.org/abs/2001.05372
 - [Deep learning image enhancement insights on loss function engineering](https://towardsdatascience.com/deep-learning-image-enhancement-insights-on-loss-function-engineering-f57ccbb585d7)
 - Mean squared logarithmic error 
 	- https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/mean-squared-logarithmic-error-(msle) 
@@ -318,8 +309,8 @@ See [XAI#Interpretability of deep learning models](AI/XAI.md#Interpretability%20
 
 ### Attention
 See: 
-- [Transformers#For NLP](AI/Deep%20learning/Transformers.md#For%20NLP)
-- [CNNs#Channel/Visual attention](/AI/Deep%20learning/CNNs.md#Channel/Visual%20attention)
+- "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
+- "Channel/Visual attention" section in [CNNs](/AI/Deep%20learning/CNNs.md)
 
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
@@ -335,7 +326,7 @@ See:
 ### Deep learning for tabular data
 - [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 - [Applying Deep Learning on Tabular Data Using TensorFlow 2.0](https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20)
-- #CODE See Pytorch tabular [[#^pytorchtab]]
+- #CODE See Pytorch tabular in [Pytorch](AI/Data%20Science,%20Data%20Engineering/Pytorch.md) 
 - #PAPER [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019)](https://arxiv.org/abs/1909.06312)
 - #PAPER [TabNet: Attentive Interpretable Tabular Learning (Arik 2020)](https://arxiv.org/abs/1908.07442)
 - #PAPER [Converting tabular data into images for deep learning with convolutional neural networks (Zhu 2021)](https://www.nature.com/articles/s41598-021-90923-y)

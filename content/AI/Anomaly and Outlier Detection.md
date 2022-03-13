@@ -45,7 +45,7 @@ See [Active learning for anomaly discovery](AI/Active%20learning.md#Active%20lea
 
 
 ### DL-based
-See [GANs for anomaly detection](AI/Deep%20learning/GANs.md#GANs%20for%20anomaly%20detection)
+See "GANs for anomaly detection" section in [GANs](AI/Deep%20learning/GANs.md)
 
 - #PAPER [Learning Deep Features for One-Class Classification (Perera 2018)](https://arxiv.org/abs/1801.05365)
 - #PAPER [Deep One-Class Classification (Ruff 2018)](http://proceedings.mlr.press/v80/ruff18a.html)
@@ -56,4 +56,5 @@ See [GANs for anomaly detection](AI/Deep%20learning/GANs.md#GANs%20for%20anomaly
 	- https://openvinotoolkit.github.io/anomalib/
 	- Anomalib is a deep learning library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets
 - #CODE [Orion - A machine learning library for detecting anomalies in signals](https://github.com/signals-dev/Orion) ^oriontfanomalies
-	- https://signals-dev.github.io/Orion/
+	- https://sintel.dev/Orion/
+	- Orion is a machine learning library built for unsupervised time series anomaly detection

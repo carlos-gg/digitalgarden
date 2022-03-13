@@ -86,15 +86,15 @@ Review papers:
 ## Subtopics
 
 ### GANs for super-resolution
-See [Super-resolution#GAN-based](AI/Computer%20Vision/Super-resolution.md#GAN-based)
+See "GAN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 
 
 ### GANs for missing data, imputation and inpainting
-See [Inpainting#GAN-based](AI/Computer%20Vision/Inpainting.md#GAN-based)
+See "GAN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
 
 
 ### Image-to-image translation. Conditional GANs
-See [Image-to-image translation#GAN-based](AI/Computer%20Vision/Image-to-image%20translation.md#GAN-based)
+See "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 
 ### GANs for spatio-temporal data generation
@@ -138,11 +138,11 @@ See [Image-to-image translation#GAN-based](AI/Computer%20Vision/Image-to-image%2
 
 
 ### Few/one-shot learning GANs 
-See [One, few-shot learning#Few one-shot learning GANs](AI/One,%20few-shot%20learning.md#Few%20one-shot%20learning%20GANs)
+See "Few one-shot learning GANs" section in [One, few-shot learning](AI/One,%20few-shot%20learning.md)
 
 
 ### GANs for anomaly detection
 - #PAPER [A Survey on GANs for Anomaly Detection (Di Mattia 2019)](https://arxiv.org/abs/1906.11632 )
 - #PAPER [TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks (Geiger 2020)](https://arxiv.org/abs/2009.07769)
-	- #CODE [[#^oriontfanomalies]]
+	- #CODE ^oriontfanomalies in [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 	- https://analyticsindiamag.com/hands-on-guide-to-tadgan-with-python-codes/

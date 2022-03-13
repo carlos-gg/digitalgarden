@@ -44,7 +44,7 @@ disableToc: false
 ## References
 - #PAPER [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (Marcus 2020)](https://arxiv.org/abs/2002.06177v3)
 	- https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/
-	- #TALK [AI DEBATE : Yoshua Bengio | Gary Marcus](https://www.youtube.com/watch?v=EeqwFjqFvJA)
+	- #TALK [AI debate: Yoshua Bengio | Gary Marcus](https://www.youtube.com/watch?v=EeqwFjqFvJA)
 
 ## Books
 - #BOOK [AI Transformation Playbook (Andrew Ng, 2018)](https://landing.ai/ai-transformation-playbook/)

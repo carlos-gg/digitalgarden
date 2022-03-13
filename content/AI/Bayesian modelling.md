@@ -12,7 +12,7 @@ See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
 - http://brohrer.github.io/how_bayesian_inference_works.html
 - http://willwolf.io/en/2017/02/07/bayesian-inference-via-simulated-annealing/
 - #TALK Bayesian Inference, Shakir Mohamed, MLSS 2020:
-	- Part I:  https://www.youtube.com/watch?v=x4Y90zPjbq0
+	- [Part I](https://www.youtube.com/watch?v=x4Y90zPjbq0)
 	- [Part II](https://www.youtube.com/watch?v=x4Y90zPjbq0&feature=youtu.be)
 
 ### Bayesian vs frequentist discussion
@@ -43,7 +43,7 @@ See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
 	- #CODE https://github.com/fraseriainlewis/towardsdatascience
 
 ### MCMC
-See [Monte Carlo methods#MCMC](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md#MCMC)
+See MCMC section in [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
 
 
 ## Code

@@ -9,14 +9,15 @@ disableToc: false
 - [Reasoning over time](https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture7.md)
 - [Making decisions](https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture8.md)
 - [Causal Analysis Introduction - Examples in Python and PyMC](https://engl.is/causal-analysis-introduction-examples-in-python-and-pymc.html)
-- Granger causality: 
-	- https://en.wikipedia.org/wiki/Granger_causality
+- [Granger causality](https://en.wikipedia.org/wiki/Granger_causality)
 	- The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another, first proposed in 1969
 	- Granger causality is a fundamental technique for causal inference in time series data, commonly used in the social and biological sciences
 - PCMCI:
 	- https://jakobrunge.github.io/tigramite/#tigramite-pcmci-pcmci
 	- PCMCI causal discovery for time series datasets. It is a 2-step causal discovery method for large-scale time series datasets. The first step is a condition-selection followed by the MCI conditional independence test.
 
+
+## Talks
 - #TALK [Interview - Causal Reasoning, Counterfactuals, and the Path to AGI (Judea Pearl)](https://www.youtube.com/watch?v=pEBI0vF45ic)
 - #TALK Causality, Bernhard Schölkopf and Stefan Bauer, MLSS 2020: 
 	- [Part I](https://www.youtube.com/watch?v=btmJtThWmhA&feature=youtu.be)
@@ -43,14 +44,13 @@ disableToc: false
 - #PAPER [DAGs with NO TEARS: Continuous Optimization for Structure Learning (Zheng 2018)](https://arxiv.org/abs/1803.01422)
 	- #CODE https://github.com/xunzheng/notears
 - #PAPER [Local causal states and discrete coherent structures (Rupe 2018)](https://aip.scitation.org/doi/10.1063/1.5021130) ^f00b92
-	- see [[#^rupe17]]
 - #PAPER [Learning Functional Causal Models with Generative Neural Networks (Goudet 2018)](https://arxiv.org/abs/1709.05321)
 - #PAPER [Variable-lag Granger Causality for Time Series Analysis (2019)](https://arxiv.org/abs/1912.10829)
 - #PAPER [Learning Sparse Nonparametric DAGs (Zheng 2020)](https://arxiv.org/abs/1909.13189)
 	- #CODE https://github.com/xunzheng/notears
 	- #CODE https://github.com/jmoss20/notears
 - #PAPER [When causal inference meets deep learning (Luo 2020)](https://www.nature.com/articles/s42256-020-0218-x)
-	- Learning causal relations, rather than correlations, is a fundamental problem in both statistical [[Machine Learning]] and computer sciences
+	- Learning causal relations, rather than correlations, is a fundamental problem in both statistical Machine Learning and computer sciences
 	- Bayesian networks (BNs) can capture causal relations, but learning such a network from data is NP-hard
 	- Recent work has made it possible to approximate this problem as a continuous optimization task that can be solved efficiently with well-established numerical techniques
 	- BNs encode the conditional independencies between variables using directed acyclic graphs (DAGs)
