@@ -49,6 +49,9 @@ See "GANs for anomaly detection" section in [GANs](AI/Deep%20learning/GANs.md)
 
 - #PAPER [Learning Deep Features for One-Class Classification (Perera 2018)](https://arxiv.org/abs/1801.05365)
 - #PAPER [Deep One-Class Classification (Ruff 2018)](http://proceedings.mlr.press/v80/ruff18a.html)
+- #PAPER [VOS: Learning What You Don't Know by Virtual Outlier Synthesis (Du 2022)](https://arxiv.org/pdf/2202.01197)
+	- #CODE https://github.com/deeplearning-wisc/vos
+	- [Paper explained](https://www.youtube.com/watch?v=i-J4T3uLC9M&list=WL&index=59&t=4s)
 
 #### Code
 - #CODE [Anomalib](https://github.com/openvinotoolkit/anomalib)

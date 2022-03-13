@@ -114,8 +114,9 @@ disableToc: false
 	- #CODE [cuSignal - RAPIDS Signal Processing Library](https://github.com/rapidsai/cusignal)
 	- #CODE [cuGraph - RAPIDS Graph Analytics Library](https://github.com/rapidsai/cugraph)
 	- #CODE [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
-- #CODE [Daal4Py](https://github.com/IntelPython/daal4py) ^4d4f07
-	- Python API to Intel(R) oneAPI Data Analytics Library that allows for fast usage of the framework suited for Data Scientists or Machine Learning users
+- #CODE [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex)
+	- Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
+	- https://intel.github.io/scikit-learn-intelex/
 - #CODE [CuPy - NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
 	- https://cupy.chainer.org/
 	- https://docs-cupy.chainer.org/en/stable/

@@ -5,7 +5,7 @@ disableToc: false
 
 See: 
 - [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
-- [Deep learning#Deep learning for multi-dimensional data](AI/Deep%20learning/Deep%20learning.md#Deep%20learning%20for%20multi-dimensional%20data)
+- "Deep learning for multi-dimensional data" section in [Deep learning](AI/Deep%20learning/Deep%20learning.md)
 - [RNNs](AI/Deep%20learning/RNNs.md)
 
 ## Resources

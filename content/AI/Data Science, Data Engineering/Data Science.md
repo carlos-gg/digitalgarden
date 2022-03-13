@@ -25,6 +25,9 @@ disableToc: false
 - [Updated DS Venn diagram](http://www.kdnuggets.com/2016/09/new-data-science-venn-diagram.html)
 - [DS vs STATS vs DATA-ENG](https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/)
 
+### Data Science for good
+- See [AI4good](AI4G/AI4good.md)
+
 ## References
 - #PAPER [Science and data science (Blei 2017)](https://www.pnas.org/content/114/33/8689)
 - #PAPER [50 Years of Data Science (Donoho 2017)](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)

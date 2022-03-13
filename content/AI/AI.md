@@ -31,6 +31,9 @@ disableToc: false
 - [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
 - [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
 
+### AI for good
+- See [AI4good](AI4G/AI4good.md)
+
 ## Events
 - [Neural Information Processing Systems Conference (NeurIPS)](https://nips.cc/)
 	- [Proceedings](http://papers.nips.cc/)
