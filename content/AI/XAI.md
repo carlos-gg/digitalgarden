@@ -110,7 +110,7 @@ disableToc: false
 - #PAPER [Towards Explainable Artificial Intelligence (Samek & Muller 2019)](https://arxiv.org/abs/1909.12072)
 - #PAPER [Explaining Explanations: An Overview of Interpretability of Machine Learning (Gilpin et al. 2019)](https://arxiv.org/abs/1806.00069)
 - #PAPER [One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques (Arya 2019)](https://arxiv.org/abs/1909.03012)
-	- #CODE [[#^aix360]]
+	- #CODE See Code section
 - #PAPER [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead (Rudin 2019)](https://www.nature.com/articles/s42256-019-0048-x)
 	- https://arxiv.org/abs/1811.10154
 - #PAPER [Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020)](https://arxiv.org/abs/1905.08883)
@@ -123,7 +123,7 @@ disableToc: false
 - #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
 - #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
-	- #CODE [[#^shapgithub]]
+	- #CODE See Code section
 	- Can be used for computer vision tasks
 
 - #PAPER [Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014)](https://arxiv.org/abs/1309.6392)
@@ -149,7 +149,7 @@ disableToc: false
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
 - #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
-	- #CODE [[#^limegithub]]
+	- #CODE See Code section
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
@@ -191,7 +191,7 @@ disableToc: false
 
 
 ### Neural Networks explainability
-See [Code](#Code#Deep%20XAI)
+See Code section
 
 #### Resources 
 - [Using ML to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
@@ -225,7 +225,7 @@ See [Code](#Code#Deep%20XAI)
 - #PAPER [SmoothGrad: removing noise by adding noise (Smilkov 2017)](https://arxiv.org/abs/1706.03825)
 	- https://pair-code.github.io/saliency/
 - #PAPER [iNNvestigate Neural Networks! (Alber 2018)](http://arxiv.org/abs/1808.04260)
-	- #CODE [[#^innvestigate]]
+	- #CODE See Code section
 - #PAPER [XRAI: Better Attributions Through Regions (Kapishnikov 2019)](https://arxiv.org/abs/1906.02825)
 - #PAPER [DeepLIFT - Learning Important Features Through Propagating Activation Differences (Shrikumar 2019)](https://arxiv.org/abs/1704.02685)
  - #PAPER [Saliency Prediction in the Deep Learning Era: Successes, Limitations, and Future Challenges (Borji 2019)](https://arxiv.org/abs/1810.03716)
