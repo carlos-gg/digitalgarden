@@ -21,8 +21,7 @@ See [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
 
 
 ### GAN-based
-See [GANs#GANs for representation learning and image synthesis](AI/Deep%20learning/GANs.md#GANs%20for%20representation%20learning%20and%20image%20synthesis)
-Review papers:
+See "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20learning/GANs.md)
 - #PAPER [Deep Generative Adversarial Networks for Image-to-Image Translation: A Review (Alotaibi 2020)](https://www.mdpi.com/2073-8994/12/10/1705/htm#) ^I2IGANs20
 	- The powerful ability of deep feature learning to automatically utilize complex and high-level feature representations has significantly advanced the performance of state-of-the-art methods across computer applications
 	- The underlying structure and distinctive (complex) features are both discovered via deep learning-based methods that can be classified further into discriminative feature-learning algorithms and generative feature-learning algorithms

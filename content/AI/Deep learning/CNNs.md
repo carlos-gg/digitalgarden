@@ -120,13 +120,13 @@ See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20capt
 See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ### Super-resolution 
-See [Super-resolution](AI/Computer%20Vision/Super-resolution.md#CNN-based)
+See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 
 ### Inpainting
-See [Inpainting](AI/Computer%20Vision/Inpainting.md#CNN-based)
+See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
 
 ### Background subtraction, foreground detection
-See [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md#CNN-based)
+See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
 
 ### Edge detection
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
