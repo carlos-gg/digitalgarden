@@ -223,8 +223,8 @@
         },
         {
           "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#GANs for representation learning and image synthesis"
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
         }
       ],
       "/AI/Computer-Vision/Object-classification-image-recognition": [
@@ -459,17 +459,17 @@
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Super-resolution.md",
+          "target": "/AI/Computer-Vision/Super-resolution",
           "text": "Super-resolution"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Inpainting.md",
+          "target": "/AI/Computer-Vision/Inpainting",
           "text": "Inpainting"
         },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Background-subtraction.md",
+          "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
         },
         {
@@ -648,26 +648,6 @@
         }
       ],
       "/AI/Deep-learning/GANs": [
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^wgangp"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^190c58"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^sagan"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^improvedgans"
-        },
         {
           "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Super-resolution",
@@ -1431,12 +1411,10 @@
           "source": "/AI/Computer-Vision/Computer-vision",
           "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
-        }
-      ],
-      "/AI/Computer-Vision/Background-subtraction.md": [
+        },
         {
           "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Background-subtraction.md",
+          "target": "/AI/Computer-Vision/Background-subtraction",
           "text": "Background subtraction"
         }
       ],
@@ -1498,15 +1476,13 @@
       ],
       "/AI/Computer-Vision/Inpainting": [
         {
-          "source": "/AI/Deep-learning/GANs",
+          "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Inpainting",
           "text": "Inpainting"
-        }
-      ],
-      "/AI/Computer-Vision/Inpainting.md": [
+        },
         {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Inpainting.md",
+          "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Computer-Vision/Inpainting",
           "text": "Inpainting"
         }
       ],
@@ -1553,6 +1529,11 @@
       ],
       "/AI/Computer-Vision/Super-resolution": [
         {
+          "source": "/AI/Deep-learning/CNNs",
+          "target": "/AI/Computer-Vision/Super-resolution",
+          "text": "Super-resolution"
+        },
+        {
           "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Super-resolution",
           "text": "Super-resolution"
@@ -1564,11 +1545,6 @@
         }
       ],
       "/AI/Computer-Vision/Super-resolution.md": [
-        {
-          "source": "/AI/Deep-learning/CNNs",
-          "target": "/AI/Computer-Vision/Super-resolution.md",
-          "text": "Super-resolution"
-        },
         {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/Computer-Vision/Super-resolution.md",
@@ -1922,6 +1898,11 @@
           "text": "GANs"
         },
         {
+          "source": "/AI/Computer-Vision/Image-to-image-translation",
+          "target": "/AI/Deep-learning/GANs",
+          "text": "GANs"
+        },
+        {
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
@@ -1930,33 +1911,6 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Deep-learning/GANs",
           "text": "GANs"
-        }
-      ],
-      "/AI/Deep-learning/GANs.md": [
-        {
-          "source": "/AI/Computer-Vision/Image-to-image-translation",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#GANs for representation learning and image synthesis"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^wgangp"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^190c58"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^sagan"
-        },
-        {
-          "source": "/AI/Deep-learning/GANs",
-          "target": "/AI/Deep-learning/GANs.md",
-          "text": "GANs#^improvedgans"
         }
       ],
       "/AI/Deep-learning/GFlowNets": [
@@ -2845,8 +2799,8 @@
     },
     {
       "source": "/AI/Computer-Vision/Image-to-image-translation",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs#GANs for representation learning and image synthesis"
+      "target": "/AI/Deep-learning/GANs",
+      "text": "GANs"
     },
     {
       "source": "/AI/Computer-Vision/Object-classification-image-recognition",
@@ -3055,17 +3009,17 @@
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/AI/Computer-Vision/Super-resolution.md",
+      "target": "/AI/Computer-Vision/Super-resolution",
       "text": "Super-resolution"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/AI/Computer-Vision/Inpainting.md",
+      "target": "/AI/Computer-Vision/Inpainting",
       "text": "Inpainting"
     },
     {
       "source": "/AI/Deep-learning/CNNs",
-      "target": "/AI/Computer-Vision/Background-subtraction.md",
+      "target": "/AI/Computer-Vision/Background-subtraction",
       "text": "Background subtraction"
     },
     {
@@ -3237,26 +3191,6 @@
       "source": "/AI/Deep-learning/Encoder-decoder-networks",
       "target": "/AI/Supervised-Learning/Supervised-learning",
       "text": "Supervised learning"
-    },
-    {
-      "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs#^wgangp"
-    },
-    {
-      "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs#^190c58"
-    },
-    {
-      "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs#^sagan"
-    },
-    {
-      "source": "/AI/Deep-learning/GANs",
-      "target": "/AI/Deep-learning/GANs.md",
-      "text": "GANs#^improvedgans"
     },
     {
       "source": "/AI/Deep-learning/GANs",
