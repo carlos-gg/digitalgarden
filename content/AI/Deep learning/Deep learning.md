@@ -81,6 +81,7 @@ disableToc: false
 - #COURSE [Tensorflow for Deep Learning Research (CS20SI, Stanford)](http://web.stanford.edu/class/cs20si/syllabus.html)
 - #COURSE [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 - #COURSE [Introduction to Deep Learning (6.S191, MIT)](http://introtodeeplearning.com/)
+	- [MIT Introduction to Deep Learning | 6.S191 | 2022](https://www.youtube.com/watch?v=7sB052Pz0sQ)
 - #COURSE [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/)
 	- [Youtube playlist](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8)

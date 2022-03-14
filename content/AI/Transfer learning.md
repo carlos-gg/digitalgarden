@@ -12,6 +12,9 @@ disableToc: false
 
 
 ## Code
+- #CODE [pytorch-adapt](https://github.com/KevinMusgrave/pytorch-adapt)
+	- Domain adaptation made easy. Fully featured, modular, and customizable
+	- https://kevinmusgrave.github.io/pytorch-adapt/
 - #CODE [TLlib](https://github.com/thuml/Transfer-Learning-Library)
 	- open-source and well-documented library for Transfer Learning. It is based on pure PyTorch with high performance and friendly API
 - #code [Salad](https://github.com/domainadaptation/salad)
