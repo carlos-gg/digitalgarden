@@ -4,15 +4,15 @@ disableToc: false
 ---
 
 ## Resources
+- A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
-- A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
 - [CNNs chapter in d2l.ai](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
 - [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - http://cs231n.github.io/convolutional-networks/
 - http://cs231n.github.io/understanding-cnn/
 - https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/
-* Best deep CNN architectures and their principles: from AlexNet to EfficientNet: https://theaisummer.com/cnn-architectures/
+* [Best deep CNN architectures and their principles: from AlexNet to EfficientNet](https://theaisummer.com/cnn-architectures/)
 
 ### Convolutions
 - [Understanding convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
@@ -63,7 +63,7 @@ disableToc: false
 - #PAPER [A Survey of the Recent Architectures of Deep Convolutional Neural Networks (Khan 2020)](https://arxiv.org/abs/1901.06032v7)
 - #PAPER [Revisiting Spatial Invariance with Low-Rank Local Connectivity (Elsayed 2020)](https://arxiv.org/abs/2002.02959)
 	- #CODE https://github.com/google-research/google-research/tree/master/low_rank_local_connectivity
-- #THESIS/PHD Multi-modal Medical Image Processing with Applications in HybridX-ray/Magnetic Resonance Imaging (Stimpel 2021): https://opus4.kobv.de/opus4-fau/frontdoor/deliver/index/docId/15697/file/Dissertation_Bernhard_Stimpel.pdf
+- #THESIS/PHD [Multi-modal Medical Image Processing with Applications in HybridX-ray/Magnetic Resonance Imaging (Stimpel 2021)](https://opus4.kobv.de/opus4-fau/frontdoor/deliver/index/docId/15697/file/Dissertation_Bernhard_Stimpel.pdf)
 - #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition (Li 2021)](https://arxiv.org/abs/2103.06255)
 	- #CODE https://github.com/d-li14/involution
 	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds

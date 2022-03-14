@@ -5,9 +5,10 @@ disableToc: false
 
 
 ## Google impact challenge
-- [https://ai.google/social-good/impact-challenge](https://ai.google/social-good/impact-challenge)
+- https://www.google.org/opportunities/
 - Working together to apply AI for social good
 - Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges. Selected organizations will receive support from Google’s AI experts, Google.org grant funding from a $25M pool, credit and consulting from Google Cloud, and more.
+- [Supporting social impact startups](https://www.blog.google/around-the-globe/google-europe/supporting-social-impact-startups/)
 
 ## UNICEF Innovation Fund Call for DS & AI
 - [http://unicefstories.org/datascienceAI/](http://unicefstories.org/datascienceAI/)
@@ -31,3 +32,18 @@ disableToc: false
 - [https://www.microsoft.com/en-us/ai-for-earth/grants](https://www.microsoft.com/en-us/ai-for-earth/grants)
 - [https://www.microsoft.com/en-us/ai-for-earth](https://www.microsoft.com/en-us/ai-for-earth)
 - AI for Earth awards grants to support projects that change the way people and organizations monitor, model, and ultimately manage Earth’s natural systems. Depending on project need, our grants can award Microsoft Azure cloud computing resources (including AI tools) and/or data labeling services.
+
+
+## Social Nest
+- https://socialnest.org/
+- We are a global platform supporting entrepreneurs, corporates, governments and investors with needed resources, opportunities and tailored guidance so they can create solutions to the world's most pressing challenges.
+
+
+## Samsung For Impact
+- https://www.samsungforimpact.com/
+- Samsung For Impact is a European impact acceleration program designed to discover and bolster promising impact startups and entrepreneurs working to achieve social good through their business or developing innovative technologies with a social purpose.
+
+
+## Good AI capital
+- https://goodai.capital/
+- Based on a high conviction strategy, Good AI Capital invests in a small number of high-quality startups where we can add value and contribute towards their long-term success.

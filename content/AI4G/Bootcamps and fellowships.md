@@ -10,12 +10,8 @@ disableToc: false
 
 
 ## Data Science for Social Good
-- [DSSG, U British Columbia](https://dsi.ubc.ca/apply-dssg-program)
-- [DSSG, U Washington](https://escience.washington.edu/dssg/)
-- [Atlanta DSSG](https://ptc.gatech.edu/dssg)
-- [DSSG, U North Florida](http://dssg.unf.edu/index.html)
-- [DSSG, Alan Turing Institute](https://www.turing.ac.uk/collaborate-turing/data-science-social-good)
-- [DSSG - U Chicago](https://dssg.uchicago.edu/)
+- https://www.dssgfellowship.org/
+- The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more.
 
 
 ## Data Fellows Programme

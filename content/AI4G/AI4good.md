@@ -15,12 +15,16 @@ disableToc: false
 - [Report - AI for Good](https://www.diplomaticourier.com/report-ai-for-good/)
 - [How to Use Data for Good to Impact Society](https://www.gartner.com/doc/3880666/use-data-good-impact-society#a1960121054)
 - [Challenges and opportunities of Artificial Intelligence for Good.](https://news.itu.int/challenges-and-opportunities-of-artificial-intelligence-for-good/)
+- [La inteligencia artificial al servicio del bien social en América Latina y el Caribe](https://publications.iadb.org/publications/spanish/document/La-inteligencia-artificial-al-servicio-del-bien-social-en-America-Latina-y-el-Caribe-Panor%C3%A1mica-regional-e-instant%C3%A1neas-de-doce-paises.pdf) 
 - [A skeptic’s guide to thinking about AI](https://www.fastcompany.com/90252753/a-skeptics-guide-to-thinking-about-ai)
 - [Why “data for good” lacks precision](https://towardsdatascience.com/why-data-for-good-lacks-precision-87fb48e341f1)
 - [Five principles for applying data science for social good](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
 - [Artificial Intelligence as a Force for Good](https://ssir.org/articles/entry/artificial_intelligence_as_a_force_for_good)
 - [AI for the Common Good?! Pitfalls, challenges, and Ethics Pen-Testing (paper on Arxiv)](https://arxiv.org/abs/1810.12847)
 - [AI for Good – An Overview of Benevolent AI Initiatives (AI by nonprofits and companies in education, environment and health sectors)](https://emerj.com/ai-sector-overviews/ai-for-good-initiatives/)
+- [Why AI for social good is a thing (podcast)](https://www.techtarget.com/searchcio/podcast/Why-AI-for-social-good-is-a-thing)
+- [Is the Purpose of Artificial Intelligence to Sell Sugar Water?](https://medium.com/intuitionmachine/is-the-purpose-of-ai-to-sell-sugar-water-e6466d574ec0)
+
 
 ### Sustainable Development Goals (SDGs)
 - [United Nations SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -58,6 +62,9 @@ See [Entrepreneurship](AI4G/Entrepreneurship.md)
 	- Launched in 2017, the Ethics and Governance of AI Initiative is a hybrid research effort and philanthropic fund that seeks to ensure that technologies of automation and machine learning are researched, developed, and deployed in a way which vindicate social values of fairness, human autonomy, and justice. The Initiative is a joint project of the MIT Media Lab and the Harvard Berkman-Klein Center for Internet and Society. It incubates a range of research, prototyping, and advocacy activities within these two anchor institutions and across the broader ecosystem of civil society. 
 - [AI for Good (UK)](https://www.aiforgood.co.uk/)
 	- On a mission to help 100 million people by solving some of the toughest challenges facing humanity
+- [AI for Good (Microsoft)](https://www.microsoft.com/en-us/ai/ai-for-good)
+	- #TALK [AI for Good: Deploying Microsoft AI to help solve society’s greatest challenges](https://www.youtube.com/watch?v=YtiWxpuD1Rc)
+- [Google AI for social good](https://ai.google/social-good)
 - [Partnership for sustainable development data](http://www.data4sdgs.org/index.php/)
 	- The Global Partnership for Sustainable Development Data is a global network bringing together governments, the private sector, and civil society organizations dedicated to using the data revolution to achieve the Sustainable Development Goals.
 - [Data for democracy](https://www.datafordemocracy.org/)
@@ -75,11 +82,12 @@ See [Entrepreneurship](AI4G/Entrepreneurship.md)
 - [DSSG Berlin](https://dssg-berlin.org/)
 - [Data for good lab](http://www.ise.bgu.ac.il/labs/fire/index.html)
 	- Our name-the Data Science for Social Good Lab-reflects our goal: to improve the world through data. A gigantic volume of data is now available in the world, and much can be accomplished if we attain and utilize it in an effective manner. Our aim is to make our research reproducible and open on this website.
-- [AI for Good (Microsoft)](https://www.microsoft.com/en-us/ai/ai-for-good)
+
 
 ### Organizations
 - [AI for good foundation](https://ai4good.org/)
 	- Chartered in 2016, the AI for Good Foundation fosters activities to maximize the benefit of AI technologies for social good through the lens of global sustainable development.
+	- [Applying data science for a sustainable planet](https://ai4good.org/what-we-do/fragile-earth/)
 - [Partnership on AI](https://www.partnershiponai.org/)
 	- The Partnership on AI to Benefit People and Society was established to study and formulate best practices on AI technologies, to advance the public’s understanding of AI, and to serve as an open platform for discussion and engagement about AI and its influences on people and society.
 - [Copernicus Institute of Sustainable Development](https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development)
