@@ -95,8 +95,7 @@ disableToc: false
 		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c
 - #CODE [Modin - Scale your pandas workflows by changing one line of code](https://github.com/modin-project/modin)
-- #CODE [Xarray and Dask](AI/Data%20Science,%20Data%20Engineering/Xarray.md)
-- #CODE [Dora - Exploratory data analysis toolkit for Python](https://github.com/NathanEpstein/Dora)
+- #CODE [Xarray](AI/Data%20Science,%20Data%20Engineering/Xarray.md)
 - #CODE [Dedupe - A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution](https://github.com/dedupeio/dedupe)
 	- http://blog.districtdatalabs.com/basics-of-entity-resolution
 - #CODE [PyTables](https://github.com/PyTables/PyTables)
@@ -112,13 +111,13 @@ disableToc: false
 	- https://blog.alexellis.io/kubernetes-in-10-minutes/
 
  ### Big data, distributed computing
+- #CODE [Dask](AI/Data%20Science,%20Data%20Engineering/Dask.md)
 - #CODE [Ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
 	- https://ray.readthedocs.io/en/latest/
 	- https://ray-project.github.io/
 	- https://ray-project.github.io/2017/10/15/fast-python-serialization-with-ray-and-arrow.html
 	- #TALK [Ray: A Distributed Execution Framework for AI | SciPy 2018 | Robert Nishihara](https://www.youtube.com/watch?v=D_oz7E4v-U0)
 	- #TALK [Ray: A System for Scalable Python and ML |SciPy 2020| Robert Nishihara](https://www.youtube.com/watch?v=XIu8ZF7RSkw)
-- #CODE [Dask](AI/Data%20Science,%20Data%20Engineering/Dask.md)
 - #CODE [PyGDF - GPU Data Frame](https://github.com/gpuopenanalytics/pygdf)
 	- https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/
 - #CODE [Apache Hadoop](http://hadoop.apache.org/)
@@ -143,7 +142,7 @@ disableToc: false
 		- https://commitlogs.com/2017/02/18/serve-spark-ml-model-using-play-framework-and-s3/
 	- [MLlib](http://spark.apache.org/mllib/, https://spark.apache.org/docs/latest/ml-guide.html)
 	- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
-	- [Optimus](https://github.com/ironmussa/Optimus)
+	- [Optimus](https://github.com/hi-primus/optimus)
 - #CODE [Apache Storm](https://storm.apache.org/)
 	- http://zdatainc.com/2014/09/apache-storm-apache-spark/
 	- http://www.collaberatact.com/understanding-hadoop-vs-spark-vs-storm/
