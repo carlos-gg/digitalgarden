@@ -4,11 +4,6 @@
       "/": [
         {
           "source": "/",
-          "target": "/AI/",
-          "text": "main index of Ai-related notes"
-        },
-        {
-          "source": "/",
           "target": "/AI/Unsupervised-learning/Clustering",
           "text": "Clustering"
         },
@@ -41,6 +36,11 @@
           "source": "/",
           "target": "/AI4G/AI4good",
           "text": "AI for good"
+        },
+        {
+          "source": "/",
+          "target": "/AI/",
+          "text": "notes related to AI"
         }
       ],
       "/AI/AI": [
@@ -1292,7 +1292,7 @@
         {
           "source": "/",
           "target": "/AI/",
-          "text": "main index of Ai-related notes"
+          "text": "notes related to AI"
         }
       ],
       "/AI/AI": [
@@ -3759,11 +3759,6 @@
     },
     {
       "source": "/",
-      "target": "/AI/",
-      "text": "main index of Ai-related notes"
-    },
-    {
-      "source": "/",
       "target": "/AI/Unsupervised-learning/Clustering",
       "text": "Clustering"
     },
@@ -3796,6 +3791,11 @@
       "source": "/",
       "target": "/AI4G/AI4good",
       "text": "AI for good"
+    },
+    {
+      "source": "/",
+      "target": "/AI/",
+      "text": "notes related to AI"
     }
   ]
 }
