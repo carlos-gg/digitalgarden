@@ -375,7 +375,7 @@
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Data-Science-Data-Engineering/Xarray",
-          "text": "Xarray and Dask"
+          "text": "Xarray"
         },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -1702,7 +1702,7 @@
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Data-Science-Data-Engineering/Xarray",
-          "text": "Xarray and Dask"
+          "text": "Xarray"
         }
       ],
       "/AI/Deep-Learning/CNNs": [
@@ -2989,7 +2989,7 @@
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
       "target": "/AI/Data-Science-Data-Engineering/Xarray",
-      "text": "Xarray and Dask"
+      "text": "Xarray"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
