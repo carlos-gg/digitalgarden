@@ -116,3 +116,5 @@ See [Problem Solving and Search](AI/Problem%20Solving%20and%20Search.md)
 ### Automated planning
 See [Automated planning](AI/Automated%20planning.md)
 
+### Fair AI
+See [FairAI](AI/FairAI.md)

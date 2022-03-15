@@ -372,6 +372,9 @@ See [CapsNets](AI/Deep%20learning/CapsNets.md)
 ### GANs
 See [GANs](AI/Deep%20learning/GANs.md)
 
+### Diffusion models
+See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+
 ### Bayesian deep learning
 See [Bayesian deep learning](AI/Deep%20learning/Bayesian%20deep%20learning.md)
 

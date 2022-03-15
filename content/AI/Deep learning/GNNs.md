@@ -7,6 +7,7 @@ disableToc: false
 - Graph Neural networks (GNNs) are being widely adopted for diverse applications and domains. This is in part due to their effectiveness on complex data structures, improved performance and scalability, and availability of approaches
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - [Must read papers on GNNs](https://github.com/thunlp/GNNPapers)
+- [Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing](https://towardsdatascience.com/graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing-bc8605fa59a)
 - [Time Series Forecasting with Graph Convolutional Neural Network](https://towardsdatascience.com/time-series-forecasting-with-graph-convolutional-neural-network-7ffb3b70afcf)
 - https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
@@ -14,17 +15,24 @@ disableToc: false
 - #TALK [Intro to graph neural networks (ML Tech Talks, Deepmind)](https://www.youtube.com/watch?v=8owQBFAHw7E)
 
 ## Code
+- #CODE [TensorFlow GNN](https://github.com/tensorflow/gnn)
+	- https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html
+	- https://venturebeat.com/2021/11/18/google-releases-tf-gnn-for-creating-graph-neural-networks-in-tensorflow/
 - #CODE [DGL - Deep graph library](https://github.com/dmlc/dgl)
 	- https://www.dgl.ai/
 - #CODE [Pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
 - #CODE [Spektral - Graph Neural Networks with Keras and Tensorflow 2](https://github.com/danielegrattarola/spektral)
-- #CODE Deep Graph Library (DGL) - Python package built to ease deep learning on graph, on top of existing DL frameworks. 
-	- https://github.com/dmlc/dgl
+- #CODE [Deep Graph Library (DGL)](https://github.com/dmlc/dgl) 
 	- http://dgl.ai
+	- Python package built to ease deep learning on graph, on top of existing DL frameworks. 
 	- It makes implementing graph neural networks (including Graph Convolution Networks, TreeLSTM, and many others) easy while maintaining high computation efficiency.
 - #CODE [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG)
 - #CODE [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 	- A Temporal Extension Library for PyTorch Geometric
+- #CODE [PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic)
+	- https://pyneuralogic.readthedocs.io/
+	- PyNeuraLogic lets you use Python to create Differentiable Logic Programs
+	- https://towardsdatascience.com/beyond-graph-neural-networks-with-pyneuralogic-c1e6502c46f7
 
 ## References
 - #PAPER [Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016)](https://arxiv.org/abs/1612.07659)

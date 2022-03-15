@@ -3,6 +3,10 @@ title: "GFlowNets"
 disableToc: false 
 ---
 
+
+## Resources
+- [Generative Flow Networks (Bengio)](https://yoshuabengio.org/2022/03/05/generative-flow-networks/)
+
 ## Talks
 - #TALK [GFlowNets for generative active learning | Amazon Science](https://www.youtube.com/watch?v=2s_GtmofbyU)
 - #TALK [Prof. YOSHUA BENGIO - GFlowNets, Consciousness & Causality (Podcast, discussion)](https://www.youtube.com/watch?v=M49TMqK5uCE)

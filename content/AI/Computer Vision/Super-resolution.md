@@ -6,10 +6,14 @@ disableToc: false
 See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ## Resources
+- [Papers and related resources, mainly state-of-the-art and novel works in ICCV, ECCV and CVPR about image super-resolution and video super-resolution](https://github.com/HymEric/latest-development-of-ISR-VSR)
 - https://github.com/ptkin/Awesome-Super-Resolution
 - https://github.com/ChaofWang/Awesome-Super-Resolution
 - https://keras.io/examples/vision/super_resolution_sub_pixel/
 - [Image Super-Resolution: A Comprehensive Review (2020)](https://blog.paperspace.com/image-super-resolution/ )
+
+
+## Talks
 - #TALK [How Super Resolution Works (2019)](https://www.youtube.com/watch?v=KULkSwLk62I)
 - #TALK [Can you enhance that? Single Image Super Resolution (Pydata 2019)](https://www.youtube.com/watch?v=lmUxbRY7H2I)
 
@@ -112,12 +116,6 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM
-- #PAPER [Image Super-Resolution via Iterative Refinement (Saharia 2021)](https://arxiv.org/abs/2104.07636)
-	- https://iterative-refinement.github.io/
-	- SR3 is inspired by recent work on Denoising Diffusion Probabilistic Models (DDPM) and denoising score matching
-	- SR3 adapts denoising diffusion probabilistic models to conditional image generation and performs super-resolution through a stochastic denoising process
-	- Inference starts with pure Gaussian noise and iteratively refines the noisy output using a U-Net model trained on denoising at various noise levels
-	- #CODE https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
 
 
 ### GAN-based
@@ -158,3 +156,14 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 	- LR and Ref images are formulated as queries and keys in a transformer, respectively
 	- The proposed texture transformer consists of a learnable texture extractor which learns a jointly feature embedding for further attention computation and two attention based modules which transfer HR textures from the Ref image. 
 	- Furthermore, the proposed texture transformer can be stacked in a cross-scale way with the proposed CSFI module to learn a more powerful feature representation
+
+
+### Diffusion models-based
+- #PAPER [Image Super-Resolution via Iterative Refinement (Saharia 2021)](https://arxiv.org/abs/2104.07636)
+	- https://iterative-refinement.github.io/
+	- Related to [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+	- SR3 is inspired by recent work on Denoising Diffusion Probabilistic Models (DDPM) and denoising score matching
+	- SR3 adapts denoising diffusion probabilistic models to conditional image generation and performs super-resolution through a stochastic denoising process
+	- Inference starts with pure Gaussian noise and iteratively refines the noisy output using a U-Net model trained on denoising at various noise levels
+	- #CODE https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
+	- #CODE https://paperswithcode.com/paper/image-super-resolution-via-iterative

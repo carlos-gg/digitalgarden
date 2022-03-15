@@ -21,12 +21,16 @@ See [GANs](AI/Deep%20learning/GANs.md)
 ### Normalizing flows
 See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
 
+### Diffusion models
+See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+
 ### Generative models for Image data
 See:
 - [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 - "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 - "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20Learning/GANs.md)
 - "For Computer Vision" section in [Transformers](AI/Deep%20Learning/Transformers.md)
+- [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
@@ -54,6 +58,4 @@ See:
 	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 - #PAPER [Score-Based Generative Modeling through Stochastic Differential Equations (Song 2021)](https://arxiv.org/abs/2011.13456v2)
 	- #CODE https://paperswithcode.com/paper/score-based-generative-modeling-through-1
-- #PAPER [Diffusion Models Beat GANs on Image Synthesis (Dhariwal 2021)](https://arxiv.org/abs/2105.05233v3)
-	- #CODE https://github.com/openai/guided-diffusion
-	- Diffusion models are a class of likelihood-based models that have shown to produce high-quality images with desired properties such as distribution coverage and easy scalability. These models generate samples by gradually removing noise from a signal. Previous research has shown that they improve reliably with increased compute. The proposed method brings improvements to diffusions models that have worked for GANs, such as improved model architecture and a scheme to trade off diversity for quality. The proposed diffusion model achieves several state-of-the-art results, surpassing GANs on several metrics and datasets
+
