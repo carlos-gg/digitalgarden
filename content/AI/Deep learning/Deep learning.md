@@ -10,14 +10,14 @@ disableToc: false
 - https://github.com/endymecy/awesome-deeplearning-resources
 - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
-- https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
+- [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](http://karpathy.github.io/2022/03/14/lecun1989/)
 - http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/
 - [A Brief History of Neural Nets and Deep Learning (2020)](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 ### DL news aggregators
-- DeepAI:  https://deepai.org/
+- [DeepAI](https://deepai.org/)
 - [Papers with code](https://paperswithcode.com/)
 - [Deep learning monitor](https://deeplearn.org/)
 
