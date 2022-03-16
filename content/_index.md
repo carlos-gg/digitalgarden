@@ -15,13 +15,13 @@ Keeping up with the literature related to Artificial Intelligence (AI) and Machi
 
 ## What to find in here
 
-Most notes in this knowledge garden are focused on specific topics (e.g., [Clustering](AI/Unsupervised%20learning/Clustering.md)) but some are broader [_maps of content_](https://jing.io/garden/MOC/) (e.g., [Deep Learning](AI/Deep%20Learning/Deep%20Learning.md)). The notes are composed of common subsections:
+Most notes in this knowledge garden are focused on specific topics (e.g., [GFlowNets](AI/Deep%20learning/GFlowNets.md)) but others are broader [_maps of content_](https://jing.io/garden/MOC/) (e.g., [Deep Learning](AI/Deep%20Learning/Deep%20Learning.md)). The notes are composed of common subsections:
 
-- **Resources**: definitions, wikipedia entries, blog posts, non-peer-reviewed articles and other useful resources.
+- **Resources**: definitions, wikipedia entries, blog posts and other useful stuff.
 - **Books**: well... books, mostly free or open source.
 - **Courses**: online and free/open courses mostly by recognized universities and institutions.
-- **References**: peer-review publications and papers.
-- **Code**: open source code and useful libraries.
+- **References**: peer-reviewed publications and papers.
+- **Code**: open source code and relevant libraries.
 - **Talks**: talks, video summaries and video podcasts.
 
 Most of the entries (bullet points) in a note carry a specific tag, depending on the subsections they belong to, for example: _#PAPER_,  _#COURSE_, _#BOOK_ or _#CODE_. The following are some _maps of content_ or important pages you may want to start from:
@@ -32,5 +32,5 @@ Most of the entries (bullet points) in a note carry a specific tag, depending on
 - [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
 - [AI for good](AI4G/AI4good.md)
 
-Feel free to look around, either by exploring the _maps of content_ above, checking out the main index of [notes related to AI](/AI/), using the search box, or by interacting with the mind map on top of the page. Expect some broken links and all sort of bugs and errors. I hope you find something useful in this knowledge garden. Enjoy and use at your own risk! 
+Feel free to look around, either by exploring the _maps of content_ above, checking out the main index of [notes related to AI](/AI/), using the search box, or by interacting with the mind map on top of the page. Expect some broken links and all sort of bugs and errors. I hope you find something useful in this knowledge garden. Enjoy! 
 
