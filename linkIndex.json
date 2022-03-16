@@ -147,8 +147,8 @@
         },
         {
           "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
+          "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "text": "Probabilistic deep learning"
         },
         {
           "source": "/AI/Bayesian-modelling",
@@ -330,6 +330,11 @@
           "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
           "target": "/AI/Deep-learning/RNNs",
           "text": "RNNs"
+        },
+        {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "text": "Unsupervised learning"
         }
       ],
       "/AI/Data-Science-Data-Engineering/Dask": [
@@ -496,6 +501,31 @@
       "/AI/Deep-learning/Deep-learning": [
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Multimodal-learning",
+          "text": "Multimodal learning"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Geometric-deep-learning",
+          "text": "Geometric deep learning"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "text": "Probabilistic deep learning"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Time-Series-analysis",
+          "text": "Time Series analysis"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Forecasting",
+          "text": "Forecasting"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Machine-Learning",
           "text": "Machine Learning"
         },
@@ -561,6 +591,11 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Neural-ODEs",
+          "text": "Neural ODEs"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/MLPs",
           "text": "MLPs"
         },
@@ -601,11 +636,6 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/GNNs",
           "text": "GNNs"
         },
@@ -623,16 +653,6 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Fourier-Neural-Operators",
           "text": "Fourier Neural Operators"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Multimodal-learning",
-          "text": "Multimodal learning"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Geometric-deep-learning",
-          "text": "Geometric deep learning"
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
@@ -741,13 +761,6 @@
           "text": "Super-resolution"
         }
       ],
-      "/AI/Deep-learning/Multimodal-learning": [
-        {
-          "source": "/AI/Deep-learning/Multimodal-learning",
-          "target": "/",
-          "text": "#^pykale"
-        }
-      ],
       "/AI/Deep-learning/Neural-ODEs": [
         {
           "source": "/AI/Deep-learning/Neural-ODEs",
@@ -760,6 +773,18 @@
           "source": "/AI/Deep-learning/Normalizing-flows",
           "target": "/AI/Computer-Vision/Image-to-image-translation",
           "text": "Image-to-image translation"
+        }
+      ],
+      "/AI/Deep-learning/Probabilistic-deep-learning": [
+        {
+          "source": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "target": "/AI/Bayesian-modelling",
+          "text": "Bayesian modelling"
+        },
+        {
+          "source": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
         }
       ],
       "/AI/Deep-learning/Transformers": [
@@ -799,6 +824,11 @@
           "source": "/AI/Forecasting",
           "target": "/AI/Deep-learning/Transformers",
           "text": "Transformers"
+        },
+        {
+          "source": "/AI/Forecasting",
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
         }
       ],
       "/AI/Learning-to-rank": [
@@ -811,12 +841,12 @@
       "/AI/Machine-Learning": [
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Regression",
+          "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/Learning-to-rank",
+          "target": "/AI/Learning-to-rank",
           "text": "Learning to rank"
         },
         {
@@ -906,11 +936,6 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/AI/Probabilistic-machine-learning",
-          "text": "Probabilistic machine learning"
-        },
-        {
-          "source": "/AI/Machine-Learning",
           "target": "/AI/Learning-to-rank",
           "text": "Learning to rank"
         },
@@ -987,23 +1012,6 @@
           "source": "/AI/NLP",
           "target": "/AI/Deep-learning/Transformers.md",
           "text": "Transformers"
-        }
-      ],
-      "/AI/Probabilistic-machine-learning": [
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
-        },
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Bayesian-modelling",
-          "text": "Bayesian modelling"
-        },
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Deep-learning/GFlowNets",
-          "text": "GFlowNets"
         }
       ],
       "/AI/Supervised-Learning/Classification": [
@@ -1298,11 +1306,6 @@
           "text": "#^colossalai"
         },
         {
-          "source": "/AI/Deep-learning/Multimodal-learning",
-          "target": "/",
-          "text": "#^pykale"
-        },
-        {
           "source": "/AI/XAI",
           "target": "/",
           "text": "Neural Networks explainability"
@@ -1409,12 +1412,12 @@
       ],
       "/AI/Bayesian-modelling": [
         {
-          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
+          "source": "/AI/Deep-learning/Probabilistic-deep-learning",
           "target": "/AI/Bayesian-modelling",
           "text": "Bayesian modelling"
         },
         {
-          "source": "/AI/Probabilistic-machine-learning",
+          "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Bayesian-modelling",
           "text": "Bayesian modelling"
         }
@@ -1755,23 +1758,6 @@
           "text": "Autoencoders"
         }
       ],
-      "/AI/Deep-learning/Bayesian-deep-learning": [
-        {
-          "source": "/AI/Bayesian-modelling",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
-        },
-        {
-          "source": "/AI/Deep-learning/Deep-learning",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
-        },
-        {
-          "source": "/AI/Probabilistic-machine-learning",
-          "target": "/AI/Deep-learning/Bayesian-deep-learning",
-          "text": "Bayesian deep learning"
-        }
-      ],
       "/AI/Deep-learning/CNNs": [
         {
           "source": "/AI/Computer-Vision/Computer-vision",
@@ -1967,7 +1953,7 @@
           "text": "GFlowNets"
         },
         {
-          "source": "/AI/Probabilistic-machine-learning",
+          "source": "/AI/Deep-learning/Probabilistic-deep-learning",
           "target": "/AI/Deep-learning/GFlowNets",
           "text": "GFlowNets"
         }
@@ -2032,6 +2018,11 @@
           "source": "/AI/Deep-learning/Deep-learning",
           "target": "/AI/Deep-learning/Neural-ODEs",
           "text": "Neural ODEs"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Neural-ODEs",
+          "text": "Neural ODEs"
         }
       ],
       "/AI/Deep-learning/Normalizing-flows": [
@@ -2049,6 +2040,18 @@
           "source": "/AI/Deep-learning/Generative-modelling",
           "target": "/AI/Deep-learning/Normalizing-flows",
           "text": "Normalizing flows"
+        }
+      ],
+      "/AI/Deep-learning/Probabilistic-deep-learning": [
+        {
+          "source": "/AI/Bayesian-modelling",
+          "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "text": "Probabilistic deep learning"
+        },
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+          "text": "Probabilistic deep learning"
         }
       ],
       "/AI/Deep-learning/RNNs": [
@@ -2140,6 +2143,11 @@
           "source": "/AI/Forecasting",
           "target": "/AI/Deep-learning/Transformers",
           "text": "Transformers"
+        },
+        {
+          "source": "/AI/Forecasting",
+          "target": "/AI/Deep-learning/Transformers",
+          "text": "Transformers"
         }
       ],
       "/AI/Deep-learning/Transformers.md": [
@@ -2170,6 +2178,11 @@
       ],
       "/AI/Forecasting": [
         {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Forecasting",
+          "text": "Forecasting"
+        },
+        {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Forecasting",
           "text": "Forecasting"
@@ -2191,6 +2204,11 @@
         }
       ],
       "/AI/Learning-to-rank": [
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/Learning-to-rank",
+          "text": "Learning to rank"
+        },
         {
           "source": "/AI/Machine-Learning",
           "target": "/AI/Learning-to-rank",
@@ -2313,13 +2331,6 @@
           "source": "/AI/Weakly-supervised-learning",
           "target": "/AI/One-few-shot-learning",
           "text": "One, few-shot learning"
-        }
-      ],
-      "/AI/Probabilistic-machine-learning": [
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/AI/Probabilistic-machine-learning",
-          "text": "Probabilistic machine learning"
         }
       ],
       "/AI/Problem-Solving-and-Search": [
@@ -2493,6 +2504,11 @@
           "text": "Regression"
         },
         {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/Supervised-Learning/Regression",
+          "text": "Regression"
+        },
+        {
           "source": "/AI/Math-and-Statistics/Math-and-Statistics",
           "target": "/AI/Supervised-Learning/Regression",
           "text": "Regression"
@@ -2531,6 +2547,11 @@
         }
       ],
       "/AI/Time-Series-analysis": [
+        {
+          "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Time-Series-analysis",
+          "text": "Time Series analysis"
+        },
         {
           "source": "/AI/Forecasting",
           "target": "/AI/Time-Series-analysis",
@@ -2586,6 +2607,11 @@
       "/AI/Unsupervised-learning/Unsupervised-learning": [
         {
           "source": "/AI/Anomaly-and-Outlier-Detection",
+          "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+          "text": "Unsupervised learning"
+        },
+        {
+          "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
           "target": "/AI/Unsupervised-learning/Unsupervised-learning",
           "text": "Unsupervised learning"
         },
@@ -2653,20 +2679,6 @@
           "source": "/AI4G/AI4good",
           "target": "/AI4G/Entrepreneurship",
           "text": "Entrepreneurship"
-        }
-      ],
-      "/Learning-to-rank": [
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/Learning-to-rank",
-          "text": "Learning to rank"
-        }
-      ],
-      "/Regression": [
-        {
-          "source": "/AI/Machine-Learning",
-          "target": "/Regression",
-          "text": "Regression"
         }
       ],
       "/Time-Series-analysis": [
@@ -2783,8 +2795,8 @@
     },
     {
       "source": "/AI/Bayesian-modelling",
-      "target": "/AI/Deep-learning/Bayesian-deep-learning",
-      "text": "Bayesian deep learning"
+      "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+      "text": "Probabilistic deep learning"
     },
     {
       "source": "/AI/Bayesian-modelling",
@@ -2952,6 +2964,11 @@
       "text": "RNNs"
     },
     {
+      "source": "/AI/Computer-Vision/Video-segmentation-and-prediction",
+      "target": "/AI/Unsupervised-learning/Unsupervised-learning",
+      "text": "Unsupervised learning"
+    },
+    {
       "source": "/AI/Data-Science-Data-Engineering/Dask",
       "target": "/AI/Machine-Learning",
       "text": "Machine Learning"
@@ -3098,6 +3115,31 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/Multimodal-learning",
+      "text": "Multimodal learning"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/Geometric-deep-learning",
+      "text": "Geometric deep learning"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/Probabilistic-deep-learning",
+      "text": "Probabilistic deep learning"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Time-Series-analysis",
+      "text": "Time Series analysis"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Forecasting",
+      "text": "Forecasting"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
       "target": "/AI/Machine-Learning",
       "text": "Machine Learning"
     },
@@ -3163,6 +3205,11 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
+      "target": "/AI/Deep-learning/Neural-ODEs",
+      "text": "Neural ODEs"
+    },
+    {
+      "source": "/AI/Deep-learning/Deep-learning",
       "target": "/AI/Deep-learning/MLPs",
       "text": "MLPs"
     },
@@ -3203,11 +3250,6 @@
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/Bayesian-deep-learning",
-      "text": "Bayesian deep learning"
-    },
-    {
-      "source": "/AI/Deep-learning/Deep-learning",
       "target": "/AI/Deep-learning/GNNs",
       "text": "GNNs"
     },
@@ -3225,16 +3267,6 @@
       "source": "/AI/Deep-learning/Deep-learning",
       "target": "/AI/Deep-learning/Fourier-Neural-Operators",
       "text": "Fourier Neural Operators"
-    },
-    {
-      "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/Multimodal-learning",
-      "text": "Multimodal learning"
-    },
-    {
-      "source": "/AI/Deep-learning/Deep-learning",
-      "target": "/AI/Deep-learning/Geometric-deep-learning",
-      "text": "Geometric deep learning"
     },
     {
       "source": "/AI/Deep-learning/Deep-learning",
@@ -3337,11 +3369,6 @@
       "text": "Super-resolution"
     },
     {
-      "source": "/AI/Deep-learning/Multimodal-learning",
-      "target": "/",
-      "text": "#^pykale"
-    },
-    {
       "source": "/AI/Deep-learning/Neural-ODEs",
       "target": "/AI/Deep-learning/Residual-and-dense-neural-networks",
       "text": "Residual and dense neural networks"
@@ -3350,6 +3377,16 @@
       "source": "/AI/Deep-learning/Normalizing-flows",
       "target": "/AI/Computer-Vision/Image-to-image-translation",
       "text": "Image-to-image translation"
+    },
+    {
+      "source": "/AI/Deep-learning/Probabilistic-deep-learning",
+      "target": "/AI/Bayesian-modelling",
+      "text": "Bayesian modelling"
+    },
+    {
+      "source": "/AI/Deep-learning/Probabilistic-deep-learning",
+      "target": "/AI/Deep-learning/GFlowNets",
+      "text": "GFlowNets"
     },
     {
       "source": "/AI/Deep-learning/Transformers",
@@ -3387,18 +3424,23 @@
       "text": "Transformers"
     },
     {
+      "source": "/AI/Forecasting",
+      "target": "/AI/Deep-learning/Transformers",
+      "text": "Transformers"
+    },
+    {
       "source": "/AI/Learning-to-rank",
       "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Regression",
+      "target": "/AI/Supervised-Learning/Regression",
       "text": "Regression"
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/Learning-to-rank",
+      "target": "/AI/Learning-to-rank",
       "text": "Learning to rank"
     },
     {
@@ -3488,11 +3530,6 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/AI/Probabilistic-machine-learning",
-      "text": "Probabilistic machine learning"
-    },
-    {
-      "source": "/AI/Machine-Learning",
       "target": "/AI/Learning-to-rank",
       "text": "Learning to rank"
     },
@@ -3565,21 +3602,6 @@
       "source": "/AI/NLP",
       "target": "/AI/Deep-learning/Transformers.md",
       "text": "Transformers"
-    },
-    {
-      "source": "/AI/Probabilistic-machine-learning",
-      "target": "/AI/Deep-learning/Bayesian-deep-learning",
-      "text": "Bayesian deep learning"
-    },
-    {
-      "source": "/AI/Probabilistic-machine-learning",
-      "target": "/AI/Bayesian-modelling",
-      "text": "Bayesian modelling"
-    },
-    {
-      "source": "/AI/Probabilistic-machine-learning",
-      "target": "/AI/Deep-learning/GFlowNets",
-      "text": "GFlowNets"
     },
     {
       "source": "/AI/Supervised-Learning/Classification",
