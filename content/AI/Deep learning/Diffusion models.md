@@ -7,6 +7,7 @@ disableToc: false
 ## Resources
 - [Diffusion models are autoencoders (Dieleman | Deepmind)](https://benanne.github.io/2022/01/31/diffusion.html "Diffusion models are autoencoders")
 - [High Fidelity Image Generation Using Diffusion Models](http://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html "High Fidelity Image Generation Using Diffusion Models")
+- [Introduction to deep generative modeling: Diffusion-based Deep Generative Models](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html)
 
 ## References
 - #PAPER [Improved Denoising Diffusion Probabilistic Models (Nichol 2021)](https://arxiv.org/abs/2102.09672)

@@ -3,12 +3,15 @@ title: "Generative Adversarial Networks (GANs)"
 disableToc: false 
 ---
 
+See:
+- [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
+
 ## Resources
 - A GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train. 
 - [List of papers and other on Generative Adversarial Networks](https://github.com/pshams55/GAN-Case-Study)
 - [Generative Adversarial Networks](https://spectra.pub/ml/gans)
-- #TALK [GANs for Good - A Virtual Expert Panel by DeepLearning.AI](https://www.youtube.com/watch?v=9d4jmPmTWmc)
 - [Generative adversarial networks](https://deepgenerativemodels.github.io/notes/gan/ )
+- [Introduction to deep generative modeling: Generative Adversarial Networks (GANs)](https://jmtomczak.github.io/blog/12/12_gans.html)
 - [Generative adversarial networks for beginners](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
 - [Intuitive explanation of GANs. Subtypes](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 - https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
@@ -16,7 +19,7 @@ disableToc: false
 - http://edwardlib.org/tutorials/gan
 - [Play with GANs in your browser](https://poloclub.github.io/ganlab/)
 - [Do GANs actually do distribution learning?](http://www.offconvex.org/2017/07/06/GANs3/)
-- The GAN Zoo - A list of all named GANs! https://deephunt.in/the-gan-zoo-79597dc8c347
+- [The GAN Zoo - A list of all named GANs!](https://deephunt.in/the-gan-zoo-79597dc8c347)
 - [Advances in Generative Adversarial Networks](https://beyondminds.ai/advances-in-generative-adversarial-networks-gans/) ^advancesingans
 	- Drawbacks of using GANs: Mode collapse, Convergence, Quality evaluation, Metrics
 	- Techniques for Improving Performance:
@@ -32,6 +35,11 @@ disableToc: false
 
 ## Courses
 - #COURSE [Generative Adversarial Networks ( DeepMind x UCL | Deep Learning Lectures | 9/12)](https://www.youtube.com/watch?v=wFsI2WqUfdA&t=850s)
+
+
+## Talks
+- #TALK [GANs for Good - A Virtual Expert Panel by DeepLearning.AI](https://www.youtube.com/watch?v=9d4jmPmTWmc)
+
 
 ## Code
 - #CODE [Keras-GAN - Collection of Keras implementations of GANs](https://github.com/eriklindernoren/Keras-GAN)

@@ -47,6 +47,7 @@ See:
 	- Deep Ensembles
 
 ## Books
+- #BOOK [Probabilistic Graphical Models: Principles and Techniques (Koller, 2009 MIT)](http://pgm.stanford.edu/ )
 - #BOOK [Probabilistic Deep Learning - With Python, Keras and TensorFlow Probability (Durr, MANNING 2020)](https://www.manning.com/books/probabilistic-deep-learning)
 	- https://tensorchiefs.github.io/dl_book/
 
@@ -57,7 +58,6 @@ See:
 - Review papers: 
 	- #PAPER [A Survey of Uncertainty in Deep Neural Networks (Gawlikowski 2022)](https://arxiv.org/abs/2107.03342)
 
-- #BOOK [Probabilistic Graphical Models: Principles and Techniques (Koller, 2009 MIT)](http://pgm.stanford.edu/ )
 - #PAPER [Probabilistic machine learning and artificial intelligence (Ghahramani 2015)](https://www.nature.com/articles/nature14541)
 - #PAPER [Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning (Gal 2016)](https://arxiv.org/abs/1506.02142)
 - #PAPER [Bayesian Neural Networks (Mullachery, 2018)](https://arxiv.org/abs/1801.07710)
