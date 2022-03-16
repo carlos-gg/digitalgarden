@@ -42,7 +42,7 @@ See:
 	- #CODE See Ghadiyaram 2019 below
 	- #CODE https://github.com/juenkhaw/action_recognition_project
 	- demonstrate that 3D ResNets significantly outperform 2D ResNets for the same depth when trained and evaluated on large-scale,challenging action recognition benchmarks
-	- introduce two new forms of spatio temporal convolution that can be viewed as middle grounds between the extremes of 2D (spatial convolution) and full 3D: mixed convolution (MC) and consists in employing 3D convolutions only in the early layers of the network, with 2D convolutions in the top layers, and the R(2+1)D spatiotemporal conv block which explicitly factorizes3D convolution into two separate and successive operations,a 2D spatial convolution and a 1D temporal convolution
+	- introduce two new forms of spatio temporal convolution that can be viewed as middle grounds between the extremes of 2D (spatial convolution) and full 3D: mixed convolution (MC) and consists in employing 3D convolutions only in the early layers of the network, with 2D convolutions in the top layers, and the R(2+1)D spatiotemporal conv block which explicitly factorizes 3D convolution into two separate and successive operations, a 2D spatial convolution and a 1D temporal convolution
 	- the first advantage is an additional nonlinear rectification between these two operations. This effectively doubles the number of non-linearities compared to a network using full 3D convolutions for the same number of parameters, thus rendering the model capable of representing more complex functions.The second potential benefit is that the decomposition facilitates the optimization, yielding in practice both a lower training loss and a lower testing loss
 - #PAPER [Video Classification with Channel-Separated Convolutional Networks (Tran 2019)](https://arxiv.org/abs/1904.02811)
 	- #CODE https://github.com/facebookresearch/VMZ
@@ -61,3 +61,5 @@ See:
 	- https://github.com/visinf/dense-ulearn-vos
 	- methods that learns spatio-temporal correspondences without any supervision ([Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md)), and achieves state-of-the-art accuracy of video object segmentation
 	- #TALK https://www.youtube.com/watch?v=tSBWZ6nYld0
+- #PAPER [Mask2Former for Video Instance Segmentation (Cheng 2021)](https://arxiv.org/abs/2112.10764v1)
+	- #CODE https://github.com/facebookresearch/Mask2Former

@@ -119,6 +119,10 @@ State of ML frameworks:
 
 - #CODE [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md)
 - #CODE [Pytorch](AI/Data%20Science,%20Data%20Engineering/Pytorch.md)
+- #CODE [Ivy](https://github.com/unifyai/ivy)
+	- The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
+	- [lets-unify.ai](https://lets-unify.ai/ "https://lets-unify.ai")
+	- #PAPER [Ivy: Templated Deep Learning for Inter-Framework Portability (Lenton 2021)](https://arxiv.org/abs/2102.02886)
 - #CODE [Triton](https://github.com/openai/triton)
 	- language and compiler for writing highly efficient custom Deep-Learning primitives
 	- https://openai.com/blog/triton/

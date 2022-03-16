@@ -14,6 +14,7 @@ disableToc: false
 - #CODE [Papermill - Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
 - #CODE [Beaker kernels and extensions](http://beakerx.com/)
 - [Juypterbook - Books with Jupyter](https://jupyterbook.org/intro.html)
+- [Jupyter everywhere](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
 - [Executing notebooks from the command line](https://nbconvert.readthedocs.io/en/latest/execute_api.html#executing-notebooks-from-the-command-line "Permalink to this headline")
 	- `$ jupyter nbconvert --to notebook --inplace --ExecutePreprocessor.timeout=None --execute mynotebook.ipynb`
 

@@ -221,3 +221,9 @@ See [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 
 ### Explainable AI
 See [XAI](AI/XAI.md)
+
+### Machine learning for scientific discovery
+- [Optimizing the synergy between physics and machine learning](https://www.nature.com/articles/s42256-021-00416-w)
+- [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
+- #PAPER [Machine learning and the physical sciences (Carleo 2019)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002)
+

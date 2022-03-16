@@ -31,6 +31,10 @@ disableToc: false
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
 
 
+## Courses
+- #COURSE [Interpretable Machine Learning for Computer Vision (CVPR 2020)](https://interpretablevision.github.io/index_cvpr2020.html)
+
+
 ## Books
 - #BOOK [ Interpretable Machine Learning (Molnar 2021)](https://christophm.github.io/interpretable-ml-book/)
 

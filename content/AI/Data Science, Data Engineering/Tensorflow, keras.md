@@ -11,6 +11,8 @@ disableToc: false
 	- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
 	- [Tensorflow 2.0: models migration and new design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 	- http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
+- #CODE [TF Compression](https://github.com/tensorflow/compression)
+	- TensorFlow Compression (TFC) contains data compression tools for TensorFlow
 - #CODE [TF Similarity](https://github.com/tensorflow/similarity)
 	- https://blog.tensorflow.org/2021/09/introducing-tensorflow-similarity.html
 	- Metric learning is different from traditional classification as it's objective is different. The model learns to minimize the distance between similar examples and maximize the distance between dissimilar examples, in a supervised or self-supervised fashion
