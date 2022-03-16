@@ -180,9 +180,6 @@ disableToc: false
 ### Feature selection
 See [Feature selection](AI/Supervised%20Learning/Feature%20selection.md)
 
-### Explainable AI
-See [XAI](AI/XAI.md)
-
 ### Feature learning
 See [Feature learning](AI/Feature%20learning.md)
 
@@ -222,3 +219,5 @@ See [Learning to rank](AI/Learning%20to%20rank.md)
 ### Generative modelling
 See [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 
+### Explainable AI
+See [XAI](AI/XAI.md)

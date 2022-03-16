@@ -119,3 +119,6 @@ See [Automated planning](AI/Automated%20planning.md)
 
 ### Fair AI
 See [FairAI](AI/FairAI.md)
+
+### Explainable AI
+See [XAI](AI/XAI.md)

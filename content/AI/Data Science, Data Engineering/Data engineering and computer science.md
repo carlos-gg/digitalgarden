@@ -7,8 +7,7 @@ disableToc: false
 ## Resources
 - Data engineering role is ensuring uninterrupted flow of data between servers and applications
 - https://github.com/ossu/computer-science
-- https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic#gs.pvMeguY
-- [Interaction between ML and CS teams](https://labs.opendoor.com/2017/02/17/two-cultures-of-ml-systems)
+- [What is Data Engineering and Why Is It So Important?](https://quanthub.com/what-is-data-engineering/)
 - [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - [Have we bridged the gap between Data Science and DevOps?](https://jaxenter.com/bridge-gap-data-science-devops-134712.html)
 
@@ -64,7 +63,9 @@ disableToc: false
 - #BOOK [Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE)](http://www.mmds.org/)
 - #BOOK [Advanced Analytics with Spark (Ryza, 2017 OREILLY)](http://shop.oreilly.com/product/0636920056591.do)
 	- [Advanced Analytics with Spark, 2nd Edition.pdf](https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf)
-- #BOOK Pandas cookbook (Petrou, 2017 PACKT): packtpub.com/big-data-and-business-intelligence/pandas-cookbook
+- #BOOK [Pandas cookbook (Petrou, 2017 PACKT)](packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+- #BOOK [The Big Book of Data Engineering (Databricks)](https://databricks.com/p/ebook/the-big-book-of-data-engineering)
+
 
 ## Courses
 - #COURSE [Data Structures & Algorithms - Python](https://pythonschool.net/category/data-structures-algorithms.html)
