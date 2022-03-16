@@ -82,6 +82,7 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 	- #CODE https://github.com/yulunzhang/RCAN
 - #PAPER [Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks (Lai 2018)](http://vllab.ucmerced.edu/wlai24/LapSRN/)
 - #PAPER [Super-Resolution using Convolutional Neural Networks without Any Checkerboard Artifacts (Sugawara 2018)](https://arxiv.org/abs/1806.02658v1)
+- #PAPER [Supervised Deep Kriging for Single-Image Super-Resolution (Franchis 2018)](https://arxiv.org/abs/1812.04042)
 - #PAPER [Single Image Super Resolution based on a Modified U-net with Mixed Gradient Loss (Lu, 2019)](https://arxiv.org/abs/1911.09428)
 - #PAPER [Densely Residual Laplacian Super-Resolution (Anwar 2019)](https://arxiv.org/abs/1906.12021)
 	- #CODE https://github.com/saeed-anwar/DRLN
@@ -167,3 +168,4 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 	- Inference starts with pure Gaussian noise and iteratively refines the noisy output using a U-Net model trained on denoising at various noise levels
 	- #CODE https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
 	- #CODE https://paperswithcode.com/paper/image-super-resolution-via-iterative
+	- https://beebom.com/google-new-ai-models-turn-low-resolution-images-into-high-quality/

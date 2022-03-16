@@ -14,28 +14,23 @@ disableToc: false
 - [ML Resources (MIT student)](https://sgfin.github.io/learning-resources/)
 - [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [How to pick an algo (mind map)](http://i.imgur.com/HnRwlce.png)
 - [ML Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
 - [A friendly introduction to linear algebra for ML (ML Tech Talks)](https://www.youtube.com/watch?v=LlKAna21fLE)
-- Naive/homemade implementations
-	- https://github.com/trekhleb/homemade-machine-learning
-	- https://github.com/anhquan0412/basic_model_scratch
-	- https://github.com/rushter/MLAlgorithms
-	- https://github.com/ahmedbesbes/Neural-Network-from-scratch
-	- https://github.com/eriklindernoren/ML-From-Scratch
 - [Best practices for ML engineering (Google)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- https://github.com/GokuMohandas/practicalAI
-- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
-- http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 - [Recommendation System Algorithms](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
+- [Training Machine Learning Models More Efficiently with Dataset Distillation](http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html "Training Machine Learning Models More Efficiently with Dataset Distillation")
 
 ### Cheatsheets and notes
 - https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
 - [ML-AI guide](https://csinva.io/blog/compiled_notes/_build/html//intro.html)
 
-## References
-- #PAPER [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (Raschka 2020)](https://arxiv.org/abs/2002.04803)
+### Naive/homemade implementations
+- https://github.com/trekhleb/homemade-machine-learning
+- https://github.com/anhquan0412/basic_model_scratch
+- https://github.com/rushter/MLAlgorithms
+- https://github.com/ahmedbesbes/Neural-Network-from-scratch
+- https://github.com/eriklindernoren/ML-From-Scratch
 
 
 ## Books
@@ -75,7 +70,8 @@ disableToc: false
 	- [Contrib packages](https://github.com/scikit-learn-contrib)
 	- #TALK [PyData tutorial by Sebastian Raschka](https://www.youtube.com/watch?v=9fOWryQq9J8)
 	- #CODE [scikit-plot](http://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
-	- #CODE [Lightning - Large-scale linear classification, [Regression](Regression.md) and ranking ([Learning to rank](Learning%20to%20rank.md)) in Python](http://contrib.scikit-learn.org/lightning/)
+	- #CODE [Lightning](http://contrib.scikit-learn.org/lightning/)
+		- Large-scale linear classification, [Regression](AI/Supervised%20Learning/Regression.md) and ranking ([Learning to rank](AI/Learning%20to%20rank.md)] in Python
 - #CODE [mlinsights](https://github.com/sdpython/mlinsights/)
 	- http://www.xavierdupre.fr/app/mlinsights/helpsphinx/notebooks/piecewise_linear_regression.html
 - #CODE [PyCaret](https://github.com/pycaret/pycaret)
@@ -90,7 +86,8 @@ disableToc: false
 	- http://blog.kaggle.com/2017/04/10/exploring-the-structure-of-high-dimensional-data-with-hypertools-in-kaggle-kernels/
 - #CODE [PySAL: Python Spatial Analysis Library Meta-Package](https://github.com/pysal/pysal)
 	- http://pysal.org/pysal/
-- #CODE [MLxtend - A library of extension and helper modules for Python's data analysis and machine learning libraries](http://rasbt.github.io/mlxtend/)
+- #CODE [MLxtend](http://rasbt.github.io/mlxtend/)
+	- A library of extension and helper modules for Python's data analysis and machine learning libraries
 - #CODE [H2O](https://github.com/h2oai/)
 	- http://www.h2o.ai/
 	- https://github.com/h2oai/h2o-3
@@ -128,9 +125,8 @@ disableToc: false
 	- TuriCreate simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app
 	- https://developer.apple.com/videos/play/wwdc2018/712/
 - #CODE [ThunderSVM - A Fast SVM Library on GPUs and CPUs](https://github.com/zeyiwen/thundersvm)
-- #CODE PyGAM - Generalized Additive Models in Python: 
+- #CODE [PyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
 	- https://pygam.readthedocs.io
-	- https://github.com/dswah/pyGAM
 - #CODE [SurPRISE - A Python scikit for building and analyzing recommender systems](http://surpriselib.com)
 - #CODE [Facets](https://github.com/PAIR-code/facets)
 	- visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive. The visualizations are implemented as Polymer web components, backed by Typescript code and can be easily embedded into Jupyter notebooks or webpages
@@ -138,6 +134,46 @@ disableToc: false
 - #CODE [PyCM](https://github.com/sepandhaghighi/pycm)
 	- PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 	- http://www.pycm.ir/
+
+### ML platforms
+- #CODE [Azure (Microsoft)](https://azure.microsoft.com/en-gb/)
+	- [Azure ML Studio](https://azure.microsoft.com/en-us/services/machine-learning/)
+	- [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
+- #CODE [Google Cloud Platform](https://cloud.google.com/)
+	- https://codelabs.developers.google.com/
+	- https://cloud.google.com/products/ai/
+	- https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17
+	- [Cloud AI building blocks](https://cloud.google.com/products/ai/building-blocks/)
+	- [Cloud ML Engine](https://cloud.google.com/ml/)
+		- [Google Cloud Machine Learning platform](https://cloud.google.com/ml-engine/docs/)
+		- #TALK [Machine Intelligence at Google Scale: Vision/Speech API (Guillaume Laforge)](https://www.youtube.com/watch?v=zqWt8oI4gEw)
+		- https://www.slideshare.net/matthiasfeys/machine-learning-at-scale-with-google-cloud-platform
+		- https://github.com/Fematich/mlengine-boilerplate
+	- [AI Hub](https://cloud.google.com/ai-hub/)
+	- [Cloud AutoML](https://cloud.google.com/automl/)
+- #CODE [Amazon web services (AWS)](https://aws.amazon.com/)
+	- https://github.com/donnemartin/awesome-aws
+	- [ML on AWS](https://aws.amazon.com/machine-learning/)
+	- [SageMaker](https://aws.amazon.com/sagemaker/)
+	- [AI on AWS](https://aws.amazon.com/lex/) 
+		- https://aws.amazon.com/polly
+		- https://aws.amazon.com/rekognition
+- #CODE [Watson (IBM)](http://www.ibm.com/watson/)
+	- [IBM Watson APIs](https://www.ibm.com/watson/developer/)
+	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe
+	- https://www.codecademy.com/learn/ibm-watson
+	- https://www.ibm.com/cloud/watson-studio
+	- https://www.ibm.com/watson/services/knowledge-studio/
+- #CODE [Dataiku DSS](https://www.dataiku.com/)
+- #CODE [Domino DataLab](https://www.dominodatalab.com/)
+- #CODE [RapidMiner](https://rapidminer.com/)
+- #CODE [Knime](https://www.knime.org/knime-analytics-platform)
+
+
+## References
+- #PAPER [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (Raschka 2020)](https://arxiv.org/abs/2002.04803)
+- #PAPER [How to avoid machine learning pitfalls: a guide for academic researchers (Lones 2021)](https://arxiv.org/abs/2108.02497)
+	- https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/
 
 ## Subtopics
 
@@ -179,9 +215,6 @@ See [One, few-shot learning](AI/One,%20few-shot%20learning.md)
 
 ### Self-supervised learning
 See [Self-supervised learning](AI/Self-supervised%20learning.md)
-
-### Probabilistic machine learning
-See [Probabilistic machine learning](AI/Probabilistic%20machine%20learning.md)
 
 ### Learning to rank and ordinal regression
 See [Learning to rank](AI/Learning%20to%20rank.md)

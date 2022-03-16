@@ -60,6 +60,8 @@ disableToc: false
 	- http://autokeras.com/
 	- #PAPER [Auto-Keras: An Efficient Neural Architecture Search System (Jin 2019)](https://arxiv.org/abs/1806.10282)
 	- https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
+- #CODE [Ktrain](https://github.com/amaiya/ktrain)
+	- https://analyticsindiamag.com/a-complete-guide-to-ktrain-a-wrapper-for-tensorflow-keras/
 
 
 ## Distributed training

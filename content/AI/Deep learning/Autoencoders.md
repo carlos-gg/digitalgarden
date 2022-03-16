@@ -18,7 +18,11 @@ disableToc: false
 - #PAPER [Image-To-Image Translation Using a Cross-Domain Auto-Encoder and Decoder (Yoo 2019)](https://www.mdpi.com/2076-3417/9/22/4780/htm )
 	- Early image-to-image translation methods used convolutional neural networks (CNN), which learn to minimize the loss of a pixel value between the source domain image and the target domain image but had the limitation of failing to produce more photorealistic images 
 	- Unlike other approaches… our method is not limited to a specific task, nor do we rely on predefined relationships between the source and target domains. Our method can be applied to make a general-domain solution for many image-to-image translation tasks. 
-
+- #PAPER [Masked Autoencoders Are Scalable Vision Learners (He 2021)](https://arxiv.org/abs/2111.06377)
+	- #CODE https://github.com/facebookresearch/mae
+	- #CODE https://github.com/ariG23498/mae-scalable-vision-learners
+	- https://keras.io/examples/vision/masked_image_modeling/
+	- Masked autoencoder (MAE) is a simple autoencoding approach that reconstructs the original signal given its partial observation
 
 ### VAEs
 - Variational autoencoders are generative models. Traditional autoencoders that just do reconstruction don’t have an obvious generative interpretation. There are some cases in between, like denoising autoencoders, where it is possible to construct a Markov chain that uses the autoencoder to sample from the data distribution, but the autoencoder doesn’t give direct explicit access to an estimate of the density or the ability to sample directly.

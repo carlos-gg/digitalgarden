@@ -63,6 +63,7 @@ See
 	- https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
 	- A Jax Library for Computer Vision Research and Beyond
 	- codebase with a focus on research around attention-based models for computer vision
+	- #PAPER [SCENIC: A JAX Library for Computer Vision Research and Beyond (2021)](https://arxiv.org/abs/2110.11403)
 
 
 ## References

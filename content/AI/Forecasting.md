@@ -24,6 +24,9 @@ See:
 	- https://unit8co.github.io/darts/
 	- Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA, Prophet,  deep neural networks (NBEATS, RNNs, Transformers)
 	- https://towardsdatascience.com/darts-swiss-knife-for-time-series-forecasting-in-python-f37bb74c126
+- #CODE [Neuralforecast](https://github.com/Nixtla/neuralforecast)
+	- NeuralForecast is a Python library for time series forecasting with deep learning models. It includes benchmark datasets, data-loading utilities, evaluation functions, statistical tests, univariate model benchmarks and SOTA models implemented in PyTorch and PyTorchLightning
+	- https://nixtla.github.io/neuralforecast
 - #CODE [Prophet (Facebook)](https://github.com/facebook/prophet)
 	- https://facebook.github.io/prophet/
 	- Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data.
@@ -41,6 +44,9 @@ See:
 - #CODE [Scalecast](https://github.com/mikekeith52/scalecast)
 	- https://towardsdatascience.com/introducing-scalecast-a-forecasting-library-pt-1-33b556d9b019
 - #CODE [Skforecast](https://github.com/JoaquinAmatRodrigo/skforecast)
+- #CODE [Deep_XF](https://github.com/ajayarunachalam/Deep_XF)
+	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
+	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
 	
 
 ## Books
@@ -49,5 +55,9 @@ See:
 
 ## References
 - #PAPER [Time Series Forecasting With Deep Learning: A Survey (Lim 2020)](https://arxiv.org/abs/2004.13408)
+- #PAPER [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting (Oreshkin 2020)](https://arxiv.org/abs/1905.10437)
 - #PAPER [A flexible forecasting model for production systems (Hosseini 2021)](https://arxiv.org/abs/2105.01098)
 - #PAPER [An Experimental Review on Deep Learning Architectures for Time Series Forecasting (Lara-Benitez 2021)](https://arxiv.org/abs/2103.12057)
+- #PAPER [Temporal Fusion Transformers for interpretable multi-horizon time series forecasting (Lim 2021)](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
+	- https://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html
+	- [Transformers](AI/Deep%20learning/Transformers.md)

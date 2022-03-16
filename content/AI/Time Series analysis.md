@@ -21,6 +21,9 @@ See:
 ## Code
 See code in [Forecasting](AI/Forecasting.md)
 
+- #CODE [Orbit](https://github.com/uber/orbit)
+	- A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+	- https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/
 - #CODE [TSflex](https://github.com/predict-idlab/tsflex)
 	- https://predict-idlab.github.io/tsflex/
 - #CODE [Merlion](https://github.com/salesforce/merlion)

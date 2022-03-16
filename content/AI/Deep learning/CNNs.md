@@ -77,6 +77,7 @@ disableToc: false
 * #PAPER [ConvNext: A ConvNet for the 2020s (Liu 2022)](https://arxiv.org/abs/2201.03545) ^convnext
 	* #CODE https://github.com/facebookresearch/ConvNeXt
 	* #CODE https://github.com/bamps53/convnext-tf/
+	* #CODE https://github.com/sayakpaul/ConvNeXt-TF
 	* Paper explained: 
 		* https://www.youtube.com/watch?v=WvKsMI4Iemk&t=330s
 		* https://www.youtube.com/watch?v=idiIllIQOfU&list=WL&index=55
@@ -155,6 +156,8 @@ See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Backgro
 
 ### Visual/Channel attention and Saliency
 See "Neural Networks explainability" section in [XAI](AI/XAI.md)
+- #PAPER [Attention Mechanisms in Computer Vision: A Survey (Guo 2021)](https://arxiv.org/abs/2111.07624v1)
+	- https://github.com/MenghaoGuo/Awesome-Vision-Attentions
 
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context

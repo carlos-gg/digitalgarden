@@ -6,6 +6,7 @@ disableToc: false
 ## Resources
 - The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
+- [AtHomeWithAI | Deepmind](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/amusi/awesome-ai-awesomeness
 - https://github.com/JosPolfliet/awesome-ai-usecases

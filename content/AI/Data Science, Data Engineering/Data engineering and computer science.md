@@ -79,7 +79,8 @@ disableToc: false
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
 ## Code
-- #CODE [ABSL.flags - defines a distributed command line system and manual argument parsing](https://abseil.io/docs/python/guides/flags)
+- #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)
+	- Defines a distributed command line system and manual argument parsing
 - #CODE [StreamAlert](https://github.com/airbnb/streamalert)
 	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
 - #CODE [Pandas](https://github.com/pandas-dev/pandas)
@@ -110,12 +111,16 @@ disableToc: false
 	- https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 	- https://blog.alexellis.io/kubernetes-in-10-minutes/
 
+ ### Business Intelligence
+ - #CODE [kuwala](https://github.com/kuwala-io/kuwala)
+	 - https://kuwala.io/
+ 
  ### Big data, distributed computing
 - #CODE [Dask](AI/Data%20Science,%20Data%20Engineering/Dask.md)
-- #CODE [Ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
+- #CODE [Ray](https://github.com/ray-project/ray)
+	- A system for parallel and distributed Python that unifies the ML ecosystem
 	- https://ray.readthedocs.io/en/latest/
 	- https://ray-project.github.io/
-	- https://ray-project.github.io/2017/10/15/fast-python-serialization-with-ray-and-arrow.html
 	- #TALK [Ray: A Distributed Execution Framework for AI | SciPy 2018 | Robert Nishihara](https://www.youtube.com/watch?v=D_oz7E4v-U0)
 	- #TALK [Ray: A System for Scalable Python and ML |SciPy 2020| Robert Nishihara](https://www.youtube.com/watch?v=XIu8ZF7RSkw)
 - #CODE [PyGDF - GPU Data Frame](https://github.com/gpuopenanalytics/pygdf)
@@ -126,20 +131,19 @@ disableToc: false
 	- [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
 	- https://datawanderings.com/2017/01/15/your-first-diy-hadoop-cluster/
 	- http://ruhanixedu.com/blog/interview-question-and-answers/big-data/
-- #CODE [Ache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
+- #CODE [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
 	- http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext
 	- http://www.kdnuggets.com/2015/11/introduction-spark-python.html
 	- https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html
-	- [Spark ML](https://pages.databricks.com/definitive-guide-spark.html)
 	- #TALK [A brief introduction to Distributed Computing with PySpark (Pydata)](https://www.youtube.com/watch?v=bJouNc1REno)
 	- #TALK [Connecting Python To The Spark Ecosystem](https://www.youtube.com/watch?v=niTAJYCEAUM)
-	- [Photon ML (LinkedIn)](https://github.com/linkedin/photon-ml)
 	- http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
 	- http://ruhanixedu.com/blog/interview-question-and-answers/apache-spark-interview-questions-answers/
 	- [Text Normalization with Spark](http://www.treselle.com/blog/text-normalization-with-spark-part-1/)
 	- [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)
 		- https://www.infoq.com/articles/apache-sparkml-data-pipelines
 		- https://commitlogs.com/2017/02/18/serve-spark-ml-model-using-play-framework-and-s3/
+		- https://pages.databricks.com/definitive-guide-spark.html
 	- [MLlib](http://spark.apache.org/mllib/, https://spark.apache.org/docs/latest/ml-guide.html)
 	- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 	- [Optimus](https://github.com/hi-primus/optimus)

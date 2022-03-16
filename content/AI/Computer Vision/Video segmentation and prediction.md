@@ -1,3 +1,4 @@
+
 ---
 title: "Video segmentation and prediction"
 disableToc: false 
@@ -53,3 +54,10 @@ See:
 	- #CODE https://github.com/google/e3d_lstm
 - #PAPER [Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition (Esat Kalfaoglu 2020)](https://arxiv.org/abs/2008.01232)
 - #PAPER [An Image is Worth 16x16 Words, What is a Video Worth? (Sharir 2021)](https://arxiv.org/abs/2103.13915)
+- #PAPER [UNETR: Transformers for 3D Medical Image Segmentation (Hatamizadeh 2021)](https://arxiv.org/abs/2103.10504)
+	- https://theaisummer.com/medical-segmentation-transformers/
+	- UNETR is the first successful transformer architecture for 3D medical image segmentation
+- #PAPER [Dense Unsupervised Learning for Video Segmentation (Araslanov 2021)](https://arxiv.org/abs/2111.06265)
+	- https://github.com/visinf/dense-ulearn-vos
+	- methods that learns spatio-temporal correspondences without any supervision ([Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md)), and achieves state-of-the-art accuracy of video object segmentation
+	- #TALK https://www.youtube.com/watch?v=tSBWZ6nYld0

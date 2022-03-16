@@ -34,6 +34,8 @@ disableToc: false
 	- Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects
 	- Originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning
 	- https://metaflow.org/
+	- #CODE [metaflow-ui](https://github.com/Netflix/metaflow-ui)
+		- https://netflixtechblog.com/open-sourcing-a-monitoring-gui-for-metaflow-75ff465f0d60
 - #CODE [Flyte](https://github.com/flyteorg/flyte)
 	- Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source
 	- https://flyte.org/

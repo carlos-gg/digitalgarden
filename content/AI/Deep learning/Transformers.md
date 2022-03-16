@@ -11,6 +11,7 @@ disableToc: false
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
 - #CODE [Xformers](https://github.com/facebookresearch/xformers)
+- #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
 
 
 ## For NLP
@@ -136,6 +137,8 @@ disableToc: false
 	- Introduced a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time
 	- The approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms
 - #PAPER [Segmenter: Transformer for Semantic Segmentation (Strudel 2021)](https://arxiv.org/abs/2105.05633)
+- #PAPER [Focal Self-attention for Local-Global Interactions in Vision Transformers (Yang 2021)](https://arxiv.org/abs/2107.00641)
+	- https://www.marktechpost.com/2021/08/24/microsoft-ai-open-source-the-code-for-its-focal-transformer/
 - #PAPER [Do Vision Transformers See Like Convolutional Neural Networks (Raghu 2021)](https://arxiv.org/abs/2108.08810)
 	- [Paper explained](https://www.youtube.com/watch?v=rk9bhIRInC0)
 - #PAPER [DECIMER 1.0: deep learning for chemical image recognition using transformers (Rajan 2021)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8)

@@ -58,4 +58,5 @@ See:
 	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 - #PAPER [Score-Based Generative Modeling through Stochastic Differential Equations (Song 2021)](https://arxiv.org/abs/2011.13456v2)
 	- #CODE https://paperswithcode.com/paper/score-based-generative-modeling-through-1
+- #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)
 

@@ -44,7 +44,8 @@ disableToc: false
 - #CODE [Beir - Heterogeneous Benchmark for Information Retrieval](https://github.com/UKPLab/beir)
 	- #PAPER [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models (Thakur 2021)](https://arxiv.org/abs/2104.08663)
 - #CODE [FastText - Library for efficient text classification and representation learning](https://fasttext.cc/)
-- #CODE [fairseq](https://github.com/facebookresearch/fairseq)
+- #CODE [Fairseq](https://github.com/facebookresearch/fairseq)
+	- Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks
 - #CODE [OpenNMT-tf - OpenNMT-tf is a general purpose sequence learning toolkit using TensorFlow 2](https://github.com/OpenNMT/OpenNMT-tf)
 - #CODE [OpenNLP - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)
 - #CODE [Huggingface](https://huggingface.co/)

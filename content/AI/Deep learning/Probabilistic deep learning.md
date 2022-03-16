@@ -1,7 +1,12 @@
 ---
-title: "Bayesian deep learning"
+title: "Probabilistic deep learning"
 disableToc: false 
 ---
+
+See:
+- [Bayesian modelling](AI/Bayesian%20modelling.md)
+- [GFlowNets](AI/Deep%20learning/GFlowNets.md)
+
 
 ## Resources
 - [A Comprehensive Introduction to Bayesian Deep Learning](https://jorisbaan.nl/2021/03/02/introduction-to-bayesian-deep-learning.html)
@@ -29,6 +34,8 @@ disableToc: false
 	- http://pyro.ai
 	- http://eng.uber.com/pyro
 - #CODE [Blitz - Bayesian Layers in Torch Zoo](https://github.com/piEsposito/blitz-bayesian-deep-learning)
+- #CODE [Bean machine (Meta/Facebook)](https://github.com/facebookresearch/beanmachine)
+	- https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/
 - #CODE Edwardlib - Edward is a Python library for probabilistic modeling, inference, and criticism
 	- https://theintelligenceofinformation.wordpress.com/2017/06/02/pydata-london-2017-bayesian-deep-learning-talk-by-andrew-rowan/
 	- #TALK https://www.youtube.com/watch?v=I09QVNrUS3Q
@@ -39,11 +46,19 @@ disableToc: false
 	- Monte Carlo Dropout (MC-Dropout)
 	- Deep Ensembles
 
+## Books
+- #BOOK [Probabilistic Deep Learning - With Python, Keras and TensorFlow Probability (Durr, MANNING 2020)](https://www.manning.com/books/probabilistic-deep-learning)
+	- https://tensorchiefs.github.io/dl_book/
+
+## Courses
+- #COURSE [Introductory course on probabilistic graphical models](https://ermongroup.github.io/cs228-notes/)
 
 ## References
 - Review papers: 
 	- #PAPER [A Survey of Uncertainty in Deep Neural Networks (Gawlikowski 2022)](https://arxiv.org/abs/2107.03342)
 
+- #BOOK [Probabilistic Graphical Models: Principles and Techniques (Koller, 2009 MIT)](http://pgm.stanford.edu/ )
+- #PAPER [Probabilistic machine learning and artificial intelligence (Ghahramani 2015)](https://www.nature.com/articles/nature14541)
 - #PAPER [Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning (Gal 2016)](https://arxiv.org/abs/1506.02142)
 - #PAPER [Bayesian Neural Networks (Mullachery, 2018)](https://arxiv.org/abs/1801.07710)
 - #PAPER [Deep Sub-Ensembles for Fast Uncertainty Estimation in Image Classification (Valdenegro-Toro 2019)](https://arxiv.org/abs/1910.08168)
@@ -56,3 +71,7 @@ disableToc: false
 - #PAPER [Epistemic Neural Networks (Osband 2021)](https://arxiv.org/abs/2107.08924)
 	- #CODE https://github.com/deepmind/enn
 	- https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/
+- #PAPER [Uncertainty Baselines: Benchmarks for Uncertainty & Robustness in Deep Learning (Nado 2021)](https://arxiv.org/abs/2106.04015)
+	- https://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html
+	- #CODE https://github.com/google/uncertainty-baselines
+- #PAPER [Probabilistic Deep Learning with Probabilistic Neural Networks and Deep Probabilistic Models](https://arxiv.org/pdf/2106.00120)

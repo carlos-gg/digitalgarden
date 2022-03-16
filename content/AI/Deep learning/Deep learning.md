@@ -3,6 +3,13 @@ title: "Deep Learning (DL)"
 disableToc: false 
 ---
 
+See:
+- [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
+- [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)
+- [Probabilistic deep learning](AI/Deep%20learning/Probabilistic%20deep%20learning.md)
+- [Time Series analysis](AI/Time%20Series%20analysis.md) and [Forecasting](AI/Forecasting.md)
+
+
 ## Resources
 - DL is a branch of [Machine Learning](AI/Machine%20Learning.md) and [AI](AI/AI.md) based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
@@ -11,10 +18,12 @@ disableToc: false
 - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](http://karpathy.github.io/2022/03/14/lecun1989/)
-- http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/
+- [Deep learning's diminish returns (Thompson)](https://spectrum.ieee.org/deep-learning-computational-cost)
+	- https://towardsdatascience.com/the-future-of-deep-learning-7e8574ad6ae3
 - [A Brief History of Neural Nets and Deep Learning (2020)](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 
 ### DL news aggregators
 - [DeepAI](https://deepai.org/)
@@ -160,7 +169,6 @@ State of ML frameworks:
 	- http://decsai.ugr.es/vip/files/journals/08253590.pdf
 - #PAPER [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (Jacot 2018)](https://arxiv.org/abs/1806.07572#)
 	- https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/
-- #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
 - #PAPER [Neural circuit policies enabling auditable autonomy (Lechner 2020)](https://www.nature.com/articles/s42256-020-00237-3)
 	- #CODE https://github.com/mlech26l/keras-ncp
 	- https://www.csail.mit.edu/news/new-deep-learning-models-require-fewer-neurons
@@ -175,8 +183,9 @@ State of ML frameworks:
 	- #TALK https://recorder-v3.slideslive.com/#/share?share=40334&s=f7988e61-bece-4a7a-a6ba-3e1a2b49b37b
 - #PAPER [Neural circuit policies enabling auditable autonomy (Lechner 2021)](https://www.nature.com/articles/s42256-020-00237-3)
 	- #CODE https://github.com/mlech26l/keras-ncp
-- #PAPER [Uncertainty Baselines: Benchmarks for Uncertainty & Robustness in Deep Learning (Nado 2021)](https://arxiv.org/abs/2106.04015)
-	- https://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html
+- #PAPER [Controlling Neural Networks with Rule Representations (Seo 2021)](https://arxiv.org/abs/2106.07804)
+	- https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html
+- #PAPER [Deep physical neural networks trained with backpropagation (Wrigth 2022)](https://www.nature.com/articles/s41586-021-04223-6)
 
 
 ### Generalization
@@ -198,6 +207,8 @@ See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
 - #PAPER [Stochastic Training is Not Necessary for Generalization (Geiping 2021)](https://arxiv.org/abs/2109.14119)
 - #PAPER [Underspecification Presents Challenges for Credibility in Modern Machine Learning (D'Amour 2021)](https://arxiv.org/abs/2011.03395)
 	- https://ai.googleblog.com/2021/10/how-underspecification-presents.html
+- #PAPER [Learning in High Dimension Always Amounts to Extrapolation (Balestriero 2021)](https://arxiv.org/abs/2110.09485)
+	- In order for NNs to succeed at solving a task, they have to operate in the “extrapolation” regime! But not all of them generalise as well as others. So this opens up new questions about the relationship between this specific notion of extrapolation and generalisation more generally.
 - #PAPER [Grokking - Generatlization beyond overfitting on small algorithmic datasets (Power 2022)](https://arxiv.org/abs/2201.02177v1)
 	- [Paper explained](https://www.youtube.com/watch?v=dND-7llwrpw)
 
@@ -205,6 +216,7 @@ See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
 ### Regularization
 - In general, techniques aimed at reducing overfitting and improve generalization
 - [Overfit and underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
+- [Regularization techniques for training deep neural networks](https://theaisummer.com/regularization/)
 - https://towardsdatascience.com/regularization-in-deep-learning-l1-l2-and-dropout-377e75acc036
 - https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
 - https://medium.com/intelligentmachines/convolutional-neural-network-and-regularization-techniques-with-tensorflow-and-keras-5a09e6e65dc7
@@ -341,6 +353,14 @@ See:
 	- https://yandex-research.github.io/rtdl/
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
+### Deep learning for scientific discovery
+See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
+- #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
+- #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
+	- #CODE https://github.com/lululxvi/deepxde
+	- https://deepxde.readthedocs.io/en/latest/
+- #PAPER [SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks (Haghighat 2020)](https://arxiv.org/abs/2202.07575)
+	 - #CODE https://github.com/sciann/sciann
 
 ## Architectures and model types
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -375,9 +395,6 @@ See [GANs](AI/Deep%20learning/GANs.md)
 ### Diffusion models
 See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
 
-### Bayesian deep learning
-See [Bayesian deep learning](AI/Deep%20learning/Bayesian%20deep%20learning.md)
-
 ### GNNs
 See [GNNs](AI/Deep%20learning/GNNs.md)
 
@@ -390,11 +407,7 @@ See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 ### Fourier Neural Operators
 See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.md)
 
-### Multimodal learning
-See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
-
-### Geometric deep learning
-See [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)
-
 ### GFlowNets
 See [GFlowNets](AI/Deep%20learning/GFlowNets.md)
+
+

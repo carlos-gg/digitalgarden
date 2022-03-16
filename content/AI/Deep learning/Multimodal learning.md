@@ -9,7 +9,7 @@ disableToc: false
 
 ## Code
 - #CODE [Pykale (in pytorch)](https://github.com/pykale/pykale)
-	- [[#^pykale]]
+
 
 ## References
 Review papers:
@@ -36,3 +36,6 @@ Review papers:
 	- [Paper explained](https://www.youtube.com/watch?v=InhMx1h0N40&list=WL&index=50)
 	- NÜWA consists of an adaptive encoder that takes either text or visual input, and a pre-trained decoder shared by 8 visual tasks
 	- 3D Nearby Attention mechanism (3DNA) is proposed to reduce computational complexity and improve visual quality of results, by considering the locality characteristics for both spatial and temporal axes to better deal with the nature of the visual data
+- #PAPER [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language (Baevski 2022)](https://arxiv.org/abs/2202.03555)
+	- #CODE https://github.com/pytorch/fairseq/tree/main/examples/data2vec
+	- https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/

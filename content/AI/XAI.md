@@ -69,7 +69,8 @@ disableToc: false
 - #CODE [InterpretML - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof](https://github.com/interpretml/interpret)
 - #CODE [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolboxç)
 - #CODE [imodels](https://github.com/csinva/imodels)
-	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use.
+	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use
+	- [UC Berkeley Researchers Introduce ‘imodels: A Python Package For Fitting Interpretable Machine Learning Models](https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/)
 
 ### Deep NNs XAI
 - #CODE [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
@@ -115,6 +116,7 @@ disableToc: false
 	- https://arxiv.org/abs/1811.10154
 - #PAPER [Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020)](https://arxiv.org/abs/1905.08883)
 - #PAPER [Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020)](https://ieeexplore.ieee.org/document/9234594)
+- #PAPER [Explainable neural networks that simulate reasoning (Blazek 2021)](https://www.nature.com/articles/s43588-021-00132-w)
 
 ### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
@@ -243,6 +245,8 @@ See Code section
 - #PAPER [Logic Explained Networks (Ciravegna 2021)](https://arxiv.org/abs/2108.05149)
 	- https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/
 - #PAPER [Toward Explainable AI for Regression Models (Letzgus 2021)](https://arxiv.org/abs/2112.11407)
+- #PAPER [Explaining in Style: Training a GAN to explain a classifier in StyleSpace (Lang 2021)](https://explaining-in-style.github.io/)
+	- https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html
 
  
 ##### Layer-wise Relevance Propagation (LRP)
