@@ -4,8 +4,8 @@
       "/": [
         {
           "source": "/",
-          "target": "/AI/Unsupervised-learning/Clustering",
-          "text": "Clustering"
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
         },
         {
           "source": "/",
@@ -1971,6 +1971,11 @@
           "source": "/AI/Deep-learning/Probabilistic-deep-learning",
           "target": "/AI/Deep-learning/GFlowNets",
           "text": "GFlowNets"
+        },
+        {
+          "source": "/",
+          "target": "/AI/Deep-learning/GFlowNets",
+          "text": "GFlowNets"
         }
       ],
       "/AI/Deep-learning/GNNs": [
@@ -2608,11 +2613,6 @@
       "/AI/Unsupervised-learning/Clustering": [
         {
           "source": "/AI/Unsupervised-learning/Unsupervised-learning",
-          "target": "/AI/Unsupervised-learning/Clustering",
-          "text": "Clustering"
-        },
-        {
-          "source": "/",
           "target": "/AI/Unsupervised-learning/Clustering",
           "text": "Clustering"
         }
@@ -3907,8 +3907,8 @@
     },
     {
       "source": "/",
-      "target": "/AI/Unsupervised-learning/Clustering",
-      "text": "Clustering"
+      "target": "/AI/Deep-learning/GFlowNets",
+      "text": "GFlowNets"
     },
     {
       "source": "/",
