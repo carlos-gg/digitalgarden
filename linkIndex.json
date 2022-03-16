@@ -685,6 +685,11 @@
       "/AI/Deep-learning/GANs": [
         {
           "source": "/AI/Deep-learning/GANs",
+          "target": "/AI/Deep-learning/Generative-modelling",
+          "text": "Generative modelling"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Computer-Vision/Super-resolution",
           "text": "Super-resolution"
         },
@@ -1973,6 +1978,11 @@
         },
         {
           "source": "/AI/Deep-learning/Deep-learning",
+          "target": "/AI/Deep-learning/Generative-modelling",
+          "text": "Generative modelling"
+        },
+        {
+          "source": "/AI/Deep-learning/GANs",
           "target": "/AI/Deep-learning/Generative-modelling",
           "text": "Generative modelling"
         },
@@ -3292,6 +3302,11 @@
       "source": "/AI/Deep-learning/Encoder-decoder-networks",
       "target": "/AI/Supervised-Learning/Supervised-learning",
       "text": "Supervised learning"
+    },
+    {
+      "source": "/AI/Deep-learning/GANs",
+      "target": "/AI/Deep-learning/Generative-modelling",
+      "text": "Generative modelling"
     },
     {
       "source": "/AI/Deep-learning/GANs",
