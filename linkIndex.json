@@ -103,6 +103,11 @@
           "source": "/AI/AI",
           "target": "/AI/FairAI",
           "text": "FairAI"
+        },
+        {
+          "source": "/AI/AI",
+          "target": "/AI/XAI",
+          "text": "XAI"
         }
       ],
       "/AI/Anomaly-and-Outlier-Detection": [
@@ -377,6 +382,11 @@
         }
       ],
       "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/packtpub.com/big-data-and-business-intelligence/pandas-cookbook",
+          "text": "Pandas cookbook (Petrou, 2017 PACKT)"
+        },
         {
           "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
           "target": "/AI/Data-Science-Data-Engineering/Xarray",
@@ -861,11 +871,6 @@
         },
         {
           "source": "/AI/Machine-Learning",
-          "target": "/AI/XAI",
-          "text": "XAI"
-        },
-        {
-          "source": "/AI/Machine-Learning",
           "target": "/AI/Feature-learning",
           "text": "Feature learning"
         },
@@ -948,6 +953,11 @@
           "source": "/AI/Machine-Learning",
           "target": "/AI/Deep-learning/Generative-modelling",
           "text": "Generative modelling"
+        },
+        {
+          "source": "/AI/Machine-Learning",
+          "target": "/AI/XAI",
+          "text": "XAI"
         }
       ],
       "/AI/Math-and-Statistics/Math-and-Statistics": [
@@ -2645,6 +2655,11 @@
       ],
       "/AI/XAI": [
         {
+          "source": "/AI/AI",
+          "target": "/AI/XAI",
+          "text": "XAI"
+        },
+        {
           "source": "/AI/Deep-learning/CNNs",
           "target": "/AI/XAI",
           "text": "XAI"
@@ -2703,6 +2718,13 @@
           "source": "/AI/Computer-Vision/Background-subtraction",
           "target": "/deep-learning",
           "text": "deep learning"
+        }
+      ],
+      "/packtpub.com/big-data-and-business-intelligence/pandas-cookbook": [
+        {
+          "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+          "target": "/packtpub.com/big-data-and-business-intelligence/pandas-cookbook",
+          "text": "Pandas cookbook (Petrou, 2017 PACKT)"
         }
       ]
     }
@@ -2767,6 +2789,11 @@
       "source": "/AI/AI",
       "target": "/AI/FairAI",
       "text": "FairAI"
+    },
+    {
+      "source": "/AI/AI",
+      "target": "/AI/XAI",
+      "text": "XAI"
     },
     {
       "source": "/AI/Anomaly-and-Outlier-Detection",
@@ -3012,6 +3039,11 @@
       "source": "/AI/Data-Science-Data-Engineering/Data-Science",
       "target": "/AI/Data-Science-Data-Engineering/Visualization",
       "text": "Visualization"
+    },
+    {
+      "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
+      "target": "/packtpub.com/big-data-and-business-intelligence/pandas-cookbook",
+      "text": "Pandas cookbook (Petrou, 2017 PACKT)"
     },
     {
       "source": "/AI/Data-Science-Data-Engineering/Data-engineering-and-computer-science",
@@ -3465,11 +3497,6 @@
     },
     {
       "source": "/AI/Machine-Learning",
-      "target": "/AI/XAI",
-      "text": "XAI"
-    },
-    {
-      "source": "/AI/Machine-Learning",
       "target": "/AI/Feature-learning",
       "text": "Feature learning"
     },
@@ -3552,6 +3579,11 @@
       "source": "/AI/Machine-Learning",
       "target": "/AI/Deep-learning/Generative-modelling",
       "text": "Generative modelling"
+    },
+    {
+      "source": "/AI/Machine-Learning",
+      "target": "/AI/XAI",
+      "text": "XAI"
     },
     {
       "source": "/AI/Math-and-Statistics/Math-and-Statistics",
