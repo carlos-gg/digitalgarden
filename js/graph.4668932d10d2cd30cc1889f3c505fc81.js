@@ -70,7 +70,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       .on("end", enableDrag ? dragended : noop);
   }
 
-  const height = 250
+  const height = 350
   const width = document.getElementById("graph-container").offsetWidth
 
   const simulation = d3.forceSimulation(data.nodes)
