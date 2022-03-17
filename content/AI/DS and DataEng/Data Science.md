@@ -90,7 +90,7 @@ disableToc: false
 
 ## Code
 ### Interactive Computing Environments
-- #CODE [Jupyter](AI/Data%20Science,%20Data%20Engineering/Jupyter.md)
+- #CODE [Jupyter](AI/DS%20and%20DataEng/Jupyter.md)
 - #CODE [Zepelin](https://zeppelin.apache.org/)
 - #CODE [Rstudio](https://www.rstudio.com/products/rstudio/)
 - #CODE [Cauldron](https://github.com/sernst/cauldron)
@@ -109,7 +109,7 @@ See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
 See [Machine Learning](AI/Machine%20Learning.md)
 
 ### Data engineering and Computer Science
-See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
+See [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
 
 ### Visualization
-See [Visualization](AI/Data%20Science,%20Data%20Engineering/Visualization.md)
+See [Visualization](AI/DS%20and%20DataEng/Visualization.md)

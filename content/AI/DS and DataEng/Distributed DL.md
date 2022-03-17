@@ -16,12 +16,12 @@ disableToc: false
 - #TALK [Scaling Neural Networks Training - Thorsten Kurth](https://www.youtube.com/watch?v=cRjiwIi_kuc)
 
 ## Code
-See [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md), Distributed training section
+See [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md), Distributed training section
 
 - #CODE [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
 	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 	- https://analytics-zoo.readthedocs.io/en/latest/index.html
-- #CODE [Horovod](AI/Data%20Science,%20Data%20Engineering/Horovod.md)
+- #CODE [Horovod](AI/DS%20and%20DataEng/Horovod.md)
 - #CODE [Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training](https://github.com/hpcaitech/colossalai)
 	- See [[#^colossalai]]
 	-  https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/

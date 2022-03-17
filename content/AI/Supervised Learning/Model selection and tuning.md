@@ -5,14 +5,14 @@ disableToc: false
 
 See:  
 - [AutoML](AI/AutoML.md)
-- [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
+- [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
 
 
 ## Resources
 - [Model selection and evaluation](https://scikit-learn.org/stable/model_selection.html)
 
 ## Code
-See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
+See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)
 - #CODE [Optuna - A hyperparameter optimization framework](https://github.com/optuna/optuna)
 	- https://optuna.org/
 - #CODE [Yellowbrick. Visual analysis and diagnostic tools to facilitate machine learning model selection](http://www.scikit-yb.org/en/latest/)

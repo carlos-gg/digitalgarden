@@ -97,7 +97,7 @@ disableToc: false
 		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c
 - #CODE [Modin - Scale your pandas workflows by changing one line of code](https://github.com/modin-project/modin)
-- #CODE [Xarray](AI/Data%20Science,%20Data%20Engineering/Xarray.md)
+- #CODE [Xarray](AI/DS%20and%20DataEng/Xarray.md)
 - #CODE [Dedupe - A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution](https://github.com/dedupeio/dedupe)
 	- http://blog.districtdatalabs.com/basics-of-entity-resolution
 - #CODE [PyTables](https://github.com/PyTables/PyTables)
@@ -117,7 +117,7 @@ disableToc: false
 	 - https://kuwala.io/
  
  ### Big data, distributed computing
-- #CODE [Dask](AI/Data%20Science,%20Data%20Engineering/Dask.md)
+- #CODE [Dask](AI/DS%20and%20DataEng/Dask.md)
 - #CODE [Ray](https://github.com/ray-project/ray)
 	- A system for parallel and distributed Python that unifies the ML ecosystem
 	- https://ray.readthedocs.io/en/latest/
@@ -284,4 +284,4 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 
 
 ### MLOps
-See [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md)
+See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)

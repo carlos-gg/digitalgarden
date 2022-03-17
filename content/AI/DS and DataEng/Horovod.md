@@ -22,6 +22,6 @@ disableToc: false
 - [Distributed Deep Learning with Horovod (Jordi Torres)](https://towardsdatascience.com/distributed-deep-learning-with-horovod-2d1eea004cb2)
 - https://towardsdatascience.com/a-quick-guide-to-distributed-training-with-tensorflow-and-horovod-on-amazon-sagemaker-dae18371ef6e 
 - [with SLURM on the BSC-P9 cluster](https://towardsdatascience.com/distributed-deep-learning-with-horovod-2d1eea004cb2)
-- With SLURM workload manager. See paper Ramirez-Gargallo 2019 in [Distributed DL](AI/Data%20Science,%20Data%20Engineering/Distributed%20DL.md)
+- With SLURM workload manager. See paper Ramirez-Gargallo 2019 in [Distributed DL](AI/DS%20and%20DataEng/Distributed%20DL.md)
 - [Example with SLURM](http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-hvd-tf-multi-eng.html)
 

@@ -118,8 +118,8 @@ State of ML frameworks:
 - https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
-- #CODE [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md)
-- #CODE [Pytorch](AI/Data%20Science,%20Data%20Engineering/Pytorch.md)
+- #CODE [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md)
+- #CODE [Pytorch](AI/DS%20and%20DataEng/Pytorch.md)
 - #CODE [Ivy](https://github.com/unifyai/ivy)
 	- The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
 	- [lets-unify.ai](https://lets-unify.ai/ "https://lets-unify.ai")
@@ -350,7 +350,7 @@ See:
 ### Deep learning for tabular data
 - [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 - [Applying Deep Learning on Tabular Data Using TensorFlow 2.0](https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20)
-- #CODE See Pytorch tabular in [Pytorch](AI/Data%20Science,%20Data%20Engineering/Pytorch.md) 
+- #CODE See Pytorch tabular in [Pytorch](AI/DS%20and%20DataEng/Pytorch.md) 
 - #PAPER [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019)](https://arxiv.org/abs/1909.06312)
 - #PAPER [TabNet: Attentive Interpretable Tabular Learning (Arik 2020)](https://arxiv.org/abs/1908.07442)
 - #PAPER [Converting tabular data into images for deep learning with convolutional neural networks (Zhu 2021)](https://www.nature.com/articles/s41598-021-90923-y)

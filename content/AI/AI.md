@@ -93,10 +93,10 @@ disableToc: false
 See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
 
 ### Data engineering and computer science
-See [Data engineering and computer science](AI/Data%20Science,%20Data%20Engineering/Data%20engineering%20and%20computer%20science.md)
+See [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
 
 ### Data Science
-See [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
+See [Data Science](AI/DS%20and%20DataEng/Data%20Science.md)
 
 ### Machine Learning
 See [Machine Learning](AI/Machine%20Learning.md)

@@ -33,5 +33,5 @@ disableToc: false
 	- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) ^pytorchtab
 		- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 	- #CODE [Clearml](https://github.com/allegroai/clearml)
-		- ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, [MLOps](AI/Data%20Science,%20Data%20Engineering/MLOps.md) and Data-Management
+		- ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md) and Data-Management
 		- https://clear.ml/docs
