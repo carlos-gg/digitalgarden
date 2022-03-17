@@ -10,6 +10,8 @@ disableToc: false
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/amusi/awesome-ai-awesomeness
 - https://github.com/JosPolfliet/awesome-ai-usecases
+- [Stop Calling Everything AI, Machine-Learning Pioneer](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
+- [Artificial Intelligence—The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/9)
 - [Making sense of artificial intelligence (Google)](https://atozofai.withgoogle.com/)
 - [People + AI guidebook (Google)](https://pair.withgoogle.com/guidebook/patterns )
 - [General AI Challenge](https://www.general-ai-challenge.org/)

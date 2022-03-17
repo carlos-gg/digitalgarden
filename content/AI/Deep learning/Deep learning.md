@@ -24,6 +24,7 @@ See:
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+- [SurvNet: A backward elimination procedure to enhance variable selection for deep neural networks](https://techxplore.com/news/2021-05-survnet-procedure-variable-deep-neural.html)
 
 ### DL news aggregators
 - [DeepAI](https://deepai.org/)
@@ -128,6 +129,9 @@ State of ML frameworks:
 	- https://openai.com/blog/triton/
 	- https://www.infoq.com/news/2021/08/openAI-triton/
 	- Triton uses Python as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem, currently the biggest destination for developing machine-learning solutions
+- #CODE [Oneflow](https://github.com/Oneflow-Inc/oneflow)
+	- OneFlow is a performance-centered and open-source deep learning framework
+	- http://www.oneflow.org/
 - #CODE [MindSpore (Huawei)](https://github.com/mindspore-ai/mindspore) ^huaweimindpore
 	- https://towardsdatascience.com/program-your-first-neural-network-with-huawei-mindspore-1fc50023e90d
 	- https://towardsdatascience.com/huaweis-mindspore-a-new-competitor-for-tensorflow-and-pytorch-d319deff2aec
@@ -190,6 +194,7 @@ State of ML frameworks:
 - #PAPER [Controlling Neural Networks with Rule Representations (Seo 2021)](https://arxiv.org/abs/2106.07804)
 	- https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html
 - #PAPER [Deep physical neural networks trained with backpropagation (Wrigth 2022)](https://www.nature.com/articles/s41586-021-04223-6)
+- #PAPER [Ensemble deep learning: A review (Ganaie 2022)](https://arxiv.org/pdf/2104.02395)            
 
 
 ### Generalization
@@ -213,6 +218,8 @@ See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
 	- https://ai.googleblog.com/2021/10/how-underspecification-presents.html
 - #PAPER [Learning in High Dimension Always Amounts to Extrapolation (Balestriero 2021)](https://arxiv.org/abs/2110.09485)
 	- In order for NNs to succeed at solving a task, they have to operate in the “extrapolation” regime! But not all of them generalise as well as others. So this opens up new questions about the relationship between this specific notion of extrapolation and generalisation more generally.
+- #PAPER [Incorporating Symmetry into Deep Dynamics Models for Improved Generalization (Wang 2021)](https://arxiv.org/abs/2002.03061)
+	- #CODE https://github.com/Rose-STL-Lab/Equivariant-Net
 - #PAPER [Grokking - Generatlization beyond overfitting on small algorithmic datasets (Power 2022)](https://arxiv.org/abs/2201.02177v1)
 	- [Paper explained](https://www.youtube.com/watch?v=dND-7llwrpw)
 
@@ -365,6 +372,7 @@ See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 	- https://deepxde.readthedocs.io/en/latest/
 - #PAPER [SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks (Haghighat 2020)](https://arxiv.org/abs/2202.07575)
 	 - #CODE https://github.com/sciann/sciann
+- #PAPER [Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning (Jiang 2021)](http://ai.googleblog.com/2021/06/learning-accurate-physics-simulator-via.html "Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning")
 
 ## Architectures and model types
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -414,4 +422,6 @@ See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.m
 ### GFlowNets
 See [GFlowNets](AI/Deep%20learning/GFlowNets.md)
 
+### Neural Cellular Automata
+See [Neural Cellular Automata](AI/Deep%20learning/Neural%20Cellular%20Automata.md)
 

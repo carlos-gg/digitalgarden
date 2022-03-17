@@ -24,9 +24,11 @@ disableToc: false
 		- https://drive.google.com/file/d/1qlUYuU7wfoD6C8Qo0x4Eyz5aT2k0B_jC/view
 	- [Part II](https://www.youtube.com/watch?v=9DJWJpn0DmU&feature=youtu.be)
 		- https://drive.google.com/file/d/1_-bUoyY-Thfqu1ac4EwBSv6cCoS-qtnn/view
+- #TALK [Yoshua Bengio Guest Talk - Towards Causal Representation Learning](https://www.youtube.com/watch?v=rKZJ0TJWvTk)
 
 
 ## Code
+- #CODE [Causalml](https://github.com/uber/causalml)
 - #CODE [Causality - Tools for causal analysis](https://github.com/akelleh/causality)
 	- https://medium.com/@akelleh/causal-inference-with-pandas-dataframes-fc3e64fce5d
 - #CODE [CausalImpact (for R)](https://google.github.io/CausalImpact/)
@@ -62,6 +64,7 @@ disableToc: false
 	- #CODE https://github.com/deepmind/deepmind-research/tree/master/causal_reasoning
 	- https://syncedreview.com/2020/10/29/deepmind-introduces-algorithms-for-causal-reasoning-in-probability-trees/
 - #PAPER [Off-the-shelf deep learning is not enough, and requires parsimony, Bayesianity, and causality (Vasudevan 2021)](https://www.nature.com/articles/s41524-020-00487-0)
+- #PAPER [Towards Causal Representation Learning (Schölkopf 2021)](https://arxiv.org/abs/2102.11107)
 
 
 

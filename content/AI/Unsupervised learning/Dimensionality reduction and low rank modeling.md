@@ -3,7 +3,7 @@ title: "Dimensionality reduction and low-rank modeling"
 disableToc: false 
 ---
 
-## Resources
+## Resources and references
 - [The Beginner's Guide to Dimensionality Reduction](https://idyll.pub/post/visxai-dimensionality-reduction-1dbad0a67a092b007c526a45/)
 - [Distances, Neighborhoods, or Dimensions? Projection Literacy for the Analysis of Multivariate Data](https://visxprojections.dbvis.de/client/index.html)
 - [Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
@@ -17,6 +17,8 @@ disableToc: false
 - Principal component analysis(PCA) is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. The number of principal components is less than or equal to the number of original variables. This transformation is defined in such a way that the first principal component has the largest possible variance(that is, accounts for as much of the variability in the data as possible), and each succeeding component in turn has the highest variance possible under the constraint that it is orthogonal to the preceding components. The resulting vectors are an uncorrelated orthogonal basis set.
 - http://setosa.io/ev/principal-component-analysis/
 - https://www.neuraldesigner.com/blog/principal-components-analysis
+- #PAPER [EigenGame: PCA as a Nash Equilibrium (Gemp 2021)](https://openreview.net/forum?id=NzTU59SYbNq)
+	- https://pub.towardsai.net/deepmind-wants-to-reimagine-one-of-the-most-important-algorithms-in-machine-learning-381884d42de
 
 #### Non-negative matrix factorization (NMF)
 - Non-negative matrix factorization (NNMF, or NMF) is a method for factorizing a matrix into two lower rank matrices with strictly non-negative elements.

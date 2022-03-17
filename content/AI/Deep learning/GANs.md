@@ -39,6 +39,7 @@ See:
 
 ## Talks
 - #TALK [GANs for Good - A Virtual Expert Panel by DeepLearning.AI](https://www.youtube.com/watch?v=9d4jmPmTWmc)
+- #TALK [A Friendly Introduction to Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=8L11aMN5KY8)
 
 
 ## Code
@@ -89,6 +90,10 @@ Review papers:
 	- #CODE https://github.com/locuslab/fast_adversarial
 	- The goal of DEAT is to improve adversarial training while maintaining effectiveness. It begins by training one batch replay and gradually increases it during training
 	- This method reduces large amount of computation when doing backpropagation and consequently achieves a more efficient training paradigm
+- #PAPER [ExGAN: Adversarial Generation of Extreme Samples (Bathia 2021)](https://arxiv.org/abs/2009.08454)
+	- #CODE https://github.com/Stream-AD/ExGAN
+	- Existing approaches based on GANs excel at generating realistic samples, but seek to generate typical samples, rather than extreme samples
+	- ExGAN is a GAN-based approach to generate realistic and extreme samples. To model the extremes of the training distribution in a principled way, our work draws from Extreme Value Theory (EVT), a probabilistic approach for modelling the extreme tails of distributions
 
 
 ## Subtopics

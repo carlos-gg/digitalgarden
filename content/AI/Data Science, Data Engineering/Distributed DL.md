@@ -9,8 +9,11 @@ disableToc: false
 - https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce 
 - [Twelve ways to fool the masses when reporting performance of deep learning workloads](https://htor.inf.ethz.ch/blog/index.php/2018/11/08/twelve-ways-to-fool-the-masses-when-reporting-performance-of-deep-learning-workloads/)
 - [Distributed Deep Learning 101: Introduction](https://towardsdatascience.com/distributed-deep-learning-101-introduction-ebfc1bcd59d9)
+
+## Talks
 - #TALK [ALCF Datascience frameworks: Tensorflow, PyTorch, Keras, and Horovod](https://www.alcf.anl.gov/files/Zheng_SDL_ML_Frameworks_1.pdf)
 - #TALK [Scaling Deep Learning for Scientific Workloads on the #1 Summit Supercomputer](https://insidehpc.com/2019/04/scaling-deep-learning-for-scientific-workloads-on-the-1-summit-supercomputer/)
+- #TALK [Scaling Neural Networks Training - Thorsten Kurth](https://www.youtube.com/watch?v=cRjiwIi_kuc)
 
 ## Code
 See [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20keras.md), Distributed training section
@@ -48,6 +51,7 @@ See [Tensorflow, keras](AI/Data%20Science,%20Data%20Engineering/Tensorflow,%20ke
 	- https://core.ac.uk/download/pdf/196280993.pdf 
 	- Compared MN4, Power9 and Dibona HPC clusters. Only CPUs compared (Power9 GPUs are not evaluated)
 - #PAPER [Exascale Deep Learning for Scientific Inverse Problems (Laanait 2019)](http://arxiv.org/abs/1909.11150)
+- #PAPER [TensorFlow Doing HPC (Chien 2019)](https://arxiv.org/abs/1903.04364)
 - #PAPER [ZeRO: memory optimizations toward training trillion parameter models (Rajbhandari 2019)](https://arxiv.org/abs/1910.02054)
 	- #CODE [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 		- DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. For pytorch

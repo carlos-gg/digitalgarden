@@ -3,7 +3,9 @@ title: "Feature selection"
 disableToc: false 
 ---
 
-See "Regularized regression" section in [Regression](AI/Supervised%20Learning/Regression.md)
+See:
+- "Regularized regression" section in [Regression](AI/Supervised%20Learning/Regression.md)
+- [Feature learning](AI/Feature%20learning.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Feature_selection
@@ -37,3 +39,6 @@ See "Regularized regression" section in [Regression](AI/Supervised%20Learning/Re
 	- Methods: Missing Values, Single Unique Values, Collinear Features, Zero Importance Features, Low Importance Features
     - https://github.com/WillKoehrsen/feature-selector/blob/master/Feature%20Selector%20Usage.ipynb
     - https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0
+- #CODE [ITMO_FS](https://github.com/ctlab/ITMO_FS)
+	- Feature selection library in python
+	- https://itmo-fs.readthedocs.io/en/latest/
