@@ -1,4 +1,3 @@
-
 ---
 title: "Video segmentation and prediction"
 disableToc: false 

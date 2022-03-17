@@ -121,7 +121,7 @@ See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20capt
 See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ### Super-resolution 
-See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
+See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)]
 
 ### Inpainting
 See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
@@ -173,7 +173,7 @@ See "Neural Networks explainability" section in [XAI](AI/XAI.md)
 - #PAPER [ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks (Wang 2020)](https://arxiv.org/abs/1910.03151)
 	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain
 	- proposed a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution
-- #PAPER [Super-resolution with pixel attention](AI/Computer%20Vision/Super-resolution.md#^srwithpixelattention)
+- #PAPER See ^srwithpixelattention in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 - #PAPER [Visual Attention Network (Guo 2022)](https://arxiv.org/abs/2202.09741)
 	- #CODE https://paperswithcode.com/paper/visual-attention-network?from=n26
 	- This work presents an approach that decomposes a large kernel convolution operation to capture long-range relationship. After obtaining long-range relationship, it estimates the importance of a point and generates attention map

@@ -6,7 +6,7 @@ disableToc: false
 See: 
 - [Time Series analysis](AI/Time%20Series%20analysis.md)
 - [RNNs](AI/Deep%20learning/RNNs.md)
-- "Sequence time series modelling" section in [CNNs](AI/Deep%20Learning/CNNs.md) 
+- "Sequence time series modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
 
 
 ## Resources

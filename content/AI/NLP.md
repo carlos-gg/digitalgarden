@@ -219,4 +219,4 @@ See [RNNs](AI/Deep%20learning/RNNs.md)
 	- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 
 #### Transformer-based
-See [Transformers](AI/Deep%20learning/Transformers.md#For%20NLP)
+See "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
