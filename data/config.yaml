@@ -1,13 +1,12 @@
-name: Jacky Zhao
+name: Carlos Alberto Gomez Gonzalez # shown in "Made by XXX using Quartz"
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  CarlosGG's Knowledge Garden
 page_title:
-  "🪴 Quartz 3.1"
+  "CarlosGG's Knowledge Garden 🪴"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Root
+    link: https://carlos-gg.github.io/digitalgarden/
+  - link_name: CarlosGG
+    link: https://carlos-gg.github.io
