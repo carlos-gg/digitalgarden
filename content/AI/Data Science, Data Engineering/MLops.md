@@ -1,5 +1,5 @@
 ---
-title: "MLOps"
+title: "Machine Learning Operations (MLOps)"
 disableToc: false 
 ---
 

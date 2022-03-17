@@ -7,8 +7,8 @@ See:
 - [Time Series analysis](AI/Time%20Series%20analysis.md)
 - [Regression](AI/Supervised%20Learning/Regression.md)
 - [RNNs](AI/Deep%20learning/RNNs.md)
-- [CNNs#Sequence time series modelling](AI/Deep%20learning/CNNs.md#Sequence%20time%20series%20modelling)
-- See For NLP section in [Transformers](AI/Deep%20learning/Transformers.md)
+- "Sequence time series modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
+- "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Forecasting
