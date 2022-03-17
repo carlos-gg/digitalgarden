@@ -4,12 +4,14 @@ disableToc: false
 ---
 
 ## Resources
+- https://github.com/IDEACVR/awesome-detection-transformer
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
 - https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
 - https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
 
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
+	- thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
 - #CODE [Xformers](https://github.com/facebookresearch/xformers)
 - #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
 
