@@ -74,7 +74,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
   const width = document.getElementById("graph-container").offsetWidth
 
   const simulation = d3.forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-30))
+    .force("charge", d3.forceManyBody().strength(-50))
     .force("link", d3.forceLink(data.links).id(d => d.id))
     .force("center", d3.forceCenter());
 
