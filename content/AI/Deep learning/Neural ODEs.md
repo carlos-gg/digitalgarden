@@ -35,3 +35,4 @@ disableToc: false
 	- #TALK https://www.youtube.com/watch?v=IlliqYiRhMU
 	- #CODE https://github.com/raminmh/liquid_time_constant_networks
 	- https://news.mit.edu/2021/machine-learning-adapts-0128
+- #PAPER [On Neural Differential Equations (Kidger 2022)](https://arxiv.org/abs/2202.02435)
