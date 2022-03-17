@@ -12,11 +12,11 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.9
+        uses: jackyzha0/hugo-obsidian@v2.10
         with:
           index: true
           input: content
-          output: static
+          output: assets/indices
           root: .
 
       - name: Setup Hugo
@@ -34,4 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-#          cname: 
+          cname: quartz.jzhao.xyz

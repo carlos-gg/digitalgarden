@@ -1,6 +1,6 @@
-baseURL = "https://carlos-gg.github.io/digitalgarden"
+baseURL = "https://quartz.jzhao.xyz/"
 languageCode = "en-us"
-googleAnalytics = "G-S103D50NQ0"
+googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
