@@ -33,8 +33,8 @@ See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
 See:
 - [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 - "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
-- "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20Learning/GANs.md)
-- "For Computer Vision" section in [Transformers](AI/Deep%20Learning/Transformers.md)
+- "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20learning/GANs.md)
+- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
 - [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)

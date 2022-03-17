@@ -419,6 +419,9 @@ See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 ### Fourier Neural Operators
 See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.md)
 
+### Transformers
+See [Transformers](AI/Deep%20learning/Transformers.md)
+
 ### GFlowNets
 See [GFlowNets](AI/Deep%20learning/GFlowNets.md)
 
