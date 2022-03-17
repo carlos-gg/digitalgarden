@@ -193,7 +193,7 @@ See [Time Series analysis](AI/Time%20Series%20analysis.md) and [Forecasting](AI/
 See [AutoML](AI/AutoML.md)
 
 ### Deep Learning
-See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
+See [DL](AI/Deep%20learning/DL.md)
 
 ### Reinforcement learning
 See [Reinforcement learning](AI/Reinforcement%20learning.md)

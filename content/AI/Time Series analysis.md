@@ -7,7 +7,7 @@ See:
 - [Forecasting](AI/Forecasting.md)
 - [RNNs](AI/Deep%20learning/RNNs.md)
 - "Sequence (time series) modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
-- "Deep learning for tabular data" section in [Deep learning](AI/Deep%20learning/Deep%20learning.md)
+- "Deep learning for tabular data" section in [DL](AI/Deep%20learning/DL.md)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series

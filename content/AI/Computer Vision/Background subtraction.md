@@ -32,4 +32,4 @@ Review papers:
 - #PAPER [A 3D Atrous Convolutional Long Short-Term Memory Network for Background Subtraction](https://ieeexplore.ieee.org/abstract/document/8423055/similar#similar)
 - #PAPER [Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816)
 - #PAPER [BSCGAN - Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603)
-- #PAPER [Interactive [[deep learning]] method for segmenting moving objects](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302471)
+- #PAPER [Interactive [[AI/Deep learning/DL]] method for segmenting moving objects](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302471)

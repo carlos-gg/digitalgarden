@@ -108,7 +108,7 @@ See [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 See [NLP](AI/NLP.md)
 
 ### Deep Learning
-See [Deep learning](AI/Deep%20learning/Deep%20learning.md)
+See [DL](AI/Deep%20learning/DL.md)
 
 ### Causality
 See [Causality](AI/Causality.md)

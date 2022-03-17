@@ -27,10 +27,10 @@ Most notes in this knowledge garden are focused on specific topics (e.g., [GFlow
 Most of the entries (bullet points) in a note carry a specific tag, depending on the subsections they belong to, for example: _#PAPER_,  _#COURSE_, _#BOOK_ or _#CODE_. The following are some _maps of content_ or important pages you may want to start from:
 
 - [AI](AI/AI.md)
-- [Deep Learning](AI/Deep%20Learning/Deep%20Learning.md)
+- [Deep Learning](AI/Deep%20Learning/DL.md)
 - [Machine Learning](AI/Machine%20Learning.md) 
 - [Data Science](AI/Data%20Science,%20Data%20Engineering/Data%20Science.md)
 - [AI for good](AI4G/AI4good.md)
 
-Feel free to look around, either by exploring the _maps of content_ above, checking out the main index of [notes related to AI](/AI/), using the search box, or by interacting with the mind map on top of the page. Expect some broken links and all sort of bugs and errors. I hope you find something useful in this knowledge garden. Enjoy! 
+Feel free to look around, either by exploring the _maps of content_ above, checking out the main index of [notes related to AI](https://carlos-gg.github.io/digitalgarden/ai/), using the search box, or by interacting with the mind map on top of the page. Expect some broken links and all sort of bugs and errors. I hope you find something useful in this knowledge garden. Enjoy! 
 
