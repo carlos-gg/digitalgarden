@@ -175,6 +175,15 @@ disableToc: false
 - #PAPER [How to avoid machine learning pitfalls: a guide for academic researchers (Lones 2021)](https://arxiv.org/abs/2108.02497)
 	- https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/
 
+
+### Machine learning for scientific discovery
+- [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
+- #PAPER [Machine learning and the physical sciences (Carleo 2019)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002)
+- #PAPER [Machine Learning for Scientific Discovery (Surana 2021)](https://arxiv.org/abs/2102.12712)
+- #PAPER [Machine Intelligence for Scientific Discovery and Engineering Invention (Daniels 2021)](https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/). White paper
+- #PAPER [Optimizing the synergy between physics and machine learning (2021)](https://www.nature.com/articles/s42256-021-00416-w). Editorial
+
+
 ## Subtopics
 
 ### Feature selection
@@ -222,8 +231,5 @@ See [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
 ### Explainable AI
 See [XAI](AI/XAI.md)
 
-### Machine learning for scientific discovery
-- [Optimizing the synergy between physics and machine learning](https://www.nature.com/articles/s42256-021-00416-w)
-- [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
-- #PAPER [Machine learning and the physical sciences (Carleo 2019)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002)
+
 

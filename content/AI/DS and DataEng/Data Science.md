@@ -10,6 +10,7 @@ disableToc: false
 - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 - [An Executive's Guide To Understanding Cloud-based ML Services](https://www.forbes.com/sites/janakirammsv/2019/01/01/an-executives-guide-to-understanding-cloud-based-machine-learning-services/)
 - [Why data-driven science is more than just a buzzword](https://sydney.edu.au/news-opinion/news/2017/05/11/Why-data-driven-science-is-more-than-just-a-buzzword.html)
+- [A Complete Data Science Curriculum for Beginners](https://towardsdatascience.com/a-complete-data-science-curriculum-for-beginners-825a39915b54)
 
 ### Cheatsheets
 - https://github.com/ml874/Data-Science-Cheatsheet

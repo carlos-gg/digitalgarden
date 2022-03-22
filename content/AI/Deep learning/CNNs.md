@@ -36,6 +36,7 @@ disableToc: false
 
 
 ## Code 
+- #CODE [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets)
 - #CODE [Keras Layers (for TensorFlow 2.x)](https://github.com/mvoelk/keras_layers)
 - #CODE [Model Zoo - Discover open source deep learning code and pretrained models](https://modelzoo.co/)
 - #CODE https://github.com/microsoft/computervision-recipes

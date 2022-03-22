@@ -121,6 +121,10 @@ disableToc: false
 - #PAPER [Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020)](https://arxiv.org/abs/1905.08883)
 - #PAPER [Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020)](https://ieeexplore.ieee.org/document/9234594)
 - #PAPER [Explainable neural networks that simulate reasoning (Blazek 2021)](https://www.nature.com/articles/s43588-021-00132-w)
+- #PAPER [Turning biases into hypotheses through method: A logic of scientific discovery for machine learning (Aagaard Enni 2021)](https://journals.sagepub.com/doi/full/10.1177/20539517211020775)
+	- bridging the gap in the understanding of ML models and their reasonableness requires a focus on developing an improved methodology for their creation
+	- this process has been likened to “alchemy” and criticized for involving a large degree of “black art,” owing to its reliance on poorly understood “best practices”
+	- authors soften this critique and argue that the seeming arbitrariness often is the result of a lack of explicit hypothesizing stemming from an empiricist and myopic focus on optimizing for predictive performance rather than from an occult or mystical process
 
 ### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
