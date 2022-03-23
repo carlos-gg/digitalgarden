@@ -70,8 +70,10 @@ disableToc: false
 - #CODE [BlackBox Auditing](https://github.com/algofairness/BlackBoxAuditing)
 - #CODE [SHAP](https://github.com/slundberg/shap) ^shapgithub
 	- Unified approach to explain the output of any machine learning model. SHAP connects game theory with local explanations, uniting several previous methods and representing the only possible consistent and locally accurate additive feature attribution method based on expectations.
-- #CODE [InterpretML - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof](https://github.com/interpretml/interpret)
-- #CODE [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolboxç)
+- #CODE [FastTreeSHAP](https://github.com/linkedin/FastTreeSHAP)
+	- Fast SHAP value computation for interpreting tree-based models
+	- [LinkedIn Researchers Open-Source FastTreeSHAP](https://www.marktechpost.com/2022/03/20/linkedin-researchers-open-source-fasttreeshap-a-python-package-that-enables-an-efficient-interpretation-of-tree-based-machine-learning-models/)
+- #CODE [InterpretML](https://github.com/interpretml/interpret). Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof
 - #CODE [imodels](https://github.com/csinva/imodels)
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use
 	- [UC Berkeley Researchers Introduce ‘imodels: A Python Package For Fitting Interpretable Machine Learning Models](https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/)
@@ -126,17 +128,19 @@ disableToc: false
 	- this process has been likened to “alchemy” and criticized for involving a large degree of “black art,” owing to its reliance on poorly understood “best practices”
 	- authors soften this critique and argue that the seeming arbitrariness often is the result of a lack of explicit hypothesizing stemming from an empiricist and myopic focus on optimizing for predictive performance rather than from an occult or mystical process
 
+
 ### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
 	- The great advantage of model-agnostic interpretation methods over model-specific ones is their flexibility
 	- An alternative to model-agnostic interpretation methods is to use only interpretable models, which often has the big disadvantage that predictive performance is lost compared to other machine learning models and you limit yourself to one type of model
+
+- #PAPER [Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014)](https://arxiv.org/abs/1309.6392)
 - #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
 - #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
-	- #CODE See Code section
+	- #CODE See [Code](#Code) section
 	- Can be used for computer vision tasks
-
-- #PAPER [Peeking Inside the Black Box: Visualizing Statistical Learning With Plots of Individual Conditional Expectation (Goldstein 2014)](https://arxiv.org/abs/1309.6392)
+- #PAPER [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (Yang 2021)](https://arxiv.org/abs/2109.09847)
 
 #### Partial Dependence Plot
 - The partial dependence plot (short PDP or PD plot) shows the marginal effect one or two features have on the predicted outcome of a machine learning model
@@ -159,13 +163,12 @@ disableToc: false
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
 - #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
-	- #CODE See Code section
+	- #CODE See [Code](#Code) section
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
 	- [Interpreting ML models prediction power](http://www.datasciencecentral.com/profiles/blogs/deep-learning-epic-fail-right-answer-wrong-reason)
 	- https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c
-	- Machine Learning Explained - Easysol:  http://blog.easysol.net/machine_learning_explained/
 	- https://www.slideshare.net/albahnsen/demystifying-machine-learning-using-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
 
@@ -201,7 +204,7 @@ disableToc: false
 
 
 ### Neural Networks explainability
-See Code section
+See [Code](#Code) section
 
 #### Resources 
 - [Using ML to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
@@ -235,7 +238,7 @@ See Code section
 - #PAPER [SmoothGrad: removing noise by adding noise (Smilkov 2017)](https://arxiv.org/abs/1706.03825)
 	- https://pair-code.github.io/saliency/
 - #PAPER [iNNvestigate Neural Networks! (Alber 2018)](http://arxiv.org/abs/1808.04260)
-	- #CODE See Code section
+	- #CODE See [Code](#Code) section
 - #PAPER [XRAI: Better Attributions Through Regions (Kapishnikov 2019)](https://arxiv.org/abs/1906.02825)
 - #PAPER [DeepLIFT - Learning Important Features Through Propagating Activation Differences (Shrikumar 2019)](https://arxiv.org/abs/1704.02685)
  - #PAPER [Saliency Prediction in the Deep Learning Era: Successes, Limitations, and Future Challenges (Borji 2019)](https://arxiv.org/abs/1810.03716)
