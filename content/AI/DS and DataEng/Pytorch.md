@@ -15,23 +15,26 @@ disableToc: false
 	- [Ecosystem tools](https://pytorch.org/ecosystem/)
 	- Tensors and Dynamic neural networks in Python with strong GPU acceleration
 	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
-	- #CODE [Pytorch-lightning](https://pytorchlightning.ai/)
-		- https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
-    - #CODE [Fastai](https://github.com/fastai/fastai)
-	    - fastai simplifies training fast and accurate neural nets using modern best practices
-	    - https://docs.fast.ai/
-	    - #PAPER [Fastai: A Layered API for Deep Learning (Howard 2020)](https://www.mdpi.com/2078-2489/11/2/108/htm)
-	- #CODE [kornia](https://github.com/kornia/kornia)
-		- Open Source Differentiable Computer Vision Library
-		- https://kornia.github.io/
-    - #CODE [NMF](https://github.com/facebookresearch/mmf)
-	    - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-	    - https://mmf.sh/
-	- #CODE [Pytext (Facebook) - A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext )
-		- https://fb.me/pytextdocs
-		- PyText is a deep-learning based NLP modeling framework built on PyTorch
-	- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) ^pytorchtab
-		- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
-	- #CODE [Clearml](https://github.com/allegroai/clearml)
-		- ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md) and Data-Management
-		- https://clear.ml/docs
+- #CODE [Pytorch-lightning](https://pytorchlightning.ai/)
+	- https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
+- #CODE [Fastai](https://github.com/fastai/fastai)
+	- fastai simplifies training fast and accurate neural nets using modern best practices
+	- https://docs.fast.ai/
+	- #PAPER [Fastai: A Layered API for Deep Learning (Howard 2020)](https://www.mdpi.com/2078-2489/11/2/108/htm)
+- #CODE [kornia](https://github.com/kornia/kornia)
+	- Open Source Differentiable Computer Vision Library
+	- https://kornia.github.io/
+- #CODE [NMF](https://github.com/facebookresearch/mmf)
+	- A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+	- https://mmf.sh/
+- #CODE [Pytext (Facebook) - A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext )
+	- https://fb.me/pytextdocs
+	- PyText is a deep-learning based NLP modeling framework built on PyTorch
+- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) ^pytorchtab
+	- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
+- #CODE [Clearml](https://github.com/allegroai/clearml)
+	- ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md) and Data-Management
+	- https://clear.ml/docs
+- #CODE [Composer](https://github.com/mosaicml/composer)
+	- A PyTorch Library for Efficient Neural Network Training
+

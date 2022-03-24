@@ -20,6 +20,7 @@ See:
 - [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](http://karpathy.github.io/2022/03/14/lecun1989/)
 - [Deep learning's diminish returns (Thompson)](https://spectrum.ieee.org/deep-learning-computational-cost)
 	- https://towardsdatascience.com/the-future-of-deep-learning-7e8574ad6ae3
+- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 - [A Brief History of Neural Nets and Deep Learning (2020)](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
@@ -124,6 +125,12 @@ State of ML frameworks:
 	- The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
 	- [lets-unify.ai](https://lets-unify.ai/ "https://lets-unify.ai")
 	- #PAPER [Ivy: Templated Deep Learning for Inter-Framework Portability (Lenton 2021)](https://arxiv.org/abs/2102.02886)
+- #CODE [Huggingface](https://huggingface.co/)
+	- Build, train and deploy state of the art models powered by the reference open source in ML
+	- [Datasets](https://github.com/huggingface/datasets)
+	- [Datasets-viewer](https://github.com/huggingface/datasets-viewer)
+		- https://huggingface.co/datasets/viewer/
+	- [Transformers](https://github.com/huggingface/transformers)
 - #CODE [Triton](https://github.com/openai/triton)
 	- language and compiler for writing highly efficient custom Deep-Learning primitives
 	- https://openai.com/blog/triton/

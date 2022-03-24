@@ -41,6 +41,8 @@ disableToc: false
 - #TALK [Deep Learning for Natural Language Processing (2015)](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 
 ## Code
+- #CODE [Rubrix](https://github.com/recognai/rubrix)
+	- Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP
 - #CODE [Beir - Heterogeneous Benchmark for Information Retrieval](https://github.com/UKPLab/beir)
 	- #PAPER [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models (Thakur 2021)](https://arxiv.org/abs/2104.08663)
 - #CODE [FastText - Library for efficient text classification and representation learning](https://fasttext.cc/)
@@ -48,10 +50,6 @@ disableToc: false
 	- Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks
 - #CODE [OpenNMT-tf - OpenNMT-tf is a general purpose sequence learning toolkit using TensorFlow 2](https://github.com/OpenNMT/OpenNMT-tf)
 - #CODE [OpenNLP - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)
-- #CODE [Huggingface](https://huggingface.co/)
-	- [Datasets](https://github.com/huggingface/datasets)
-	- [NLP-viewer](https://github.com/huggingface/nlp-viewer)
-		- https://huggingface.co/nlp/viewer/
 - #CODE [Textgen RNN](https://github.com/minimaxir/textgenrnn)
 - #CODE [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 - #CODE [NLTK - NLTK is a leading platform for building Python programs to work with human language data](http://www.nltk.org/)
