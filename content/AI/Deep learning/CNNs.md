@@ -125,10 +125,10 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 See [CNN-based](AI/Computer%20Vision/Super-resolution.md#CNN-based)
 
 ### Inpainting
-See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
+See [CNN-based](AI/Computer%20Vision/Inpainting.md#CNN-based)
 
 ### Background subtraction, foreground detection
-See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
+See [CNN based](AI/Computer%20Vision/Background%20subtraction.md#CNN%20based)
 
 ### Edge detection
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
@@ -156,9 +156,7 @@ See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Backgro
 
 
 ### Visual/Channel attention and Saliency
-See "Neural Networks explainability" section in [XAI](AI/XAI.md)
-- #PAPER [Attention Mechanisms in Computer Vision: A Survey (Guo 2021)](https://arxiv.org/abs/2111.07624v1)
-	- https://github.com/MenghaoGuo/Awesome-Vision-Attentions
+See [XAI - Neural Networks explainability](AI/XAI.md#Neural%20Networks%20explainability)
 
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context
@@ -175,6 +173,8 @@ See "Neural Networks explainability" section in [XAI](AI/XAI.md)
 	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain
 	- proposed a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution
 - #PAPER See ^srwithpixelattention in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
+- #PAPER [Attention Mechanisms in Computer Vision: A Survey (Guo 2021)](https://arxiv.org/abs/2111.07624v1)
+	- https://github.com/MenghaoGuo/Awesome-Vision-Attentions
 - #PAPER [Visual Attention Network (Guo 2022)](https://arxiv.org/abs/2202.09741)
 	- #CODE https://paperswithcode.com/paper/visual-attention-network?from=n26
 	- This work presents an approach that decomposes a large kernel convolution operation to capture long-range relationship. After obtaining long-range relationship, it estimates the importance of a point and generates attention map
