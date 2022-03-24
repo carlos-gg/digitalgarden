@@ -122,13 +122,13 @@ See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20capt
 See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ### Super-resolution 
-See [CNN-based](AI/Computer%20Vision/Super-resolution.md#CNN-based)
+See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
 
 ### Inpainting
-See [CNN-based](AI/Computer%20Vision/Inpainting.md#CNN-based)
+See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
 
 ### Background subtraction, foreground detection
-See [CNN based](AI/Computer%20Vision/Background%20subtraction.md#CNN%20based)
+See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
 
 ### Edge detection
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
@@ -156,7 +156,7 @@ See [CNN based](AI/Computer%20Vision/Background%20subtraction.md#CNN%20based)
 
 
 ### Visual/Channel attention and Saliency
-See [XAI - Neural Networks explainability](AI/XAI.md#Neural%20Networks%20explainability)
+See "Neural Networks explainability" section in [XAI](AI/XAI.md)
 
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context
