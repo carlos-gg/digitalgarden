@@ -122,7 +122,7 @@ See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20capt
 See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
 
 ### Super-resolution 
-See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)]
+See [CNN-based](AI/Computer%20Vision/Super-resolution.md#CNN-based)
 
 ### Inpainting
 See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
