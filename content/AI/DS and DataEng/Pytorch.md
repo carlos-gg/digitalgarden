@@ -37,4 +37,6 @@ disableToc: false
 	- https://clear.ml/docs
 - #CODE [Composer](https://github.com/mosaicml/composer)
 	- A PyTorch Library for Efficient Neural Network Training
-
+- #CODE [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+	- Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
+	- https://analyticsindiamag.com/a-guide-to-parallel-deep-learning-with-colossal-ai/
