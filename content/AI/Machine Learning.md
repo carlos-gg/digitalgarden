@@ -32,6 +32,9 @@ disableToc: false
 - https://github.com/ahmedbesbes/Neural-Network-from-scratch
 - https://github.com/eriklindernoren/ML-From-Scratch
 
+### Open datasets (for ML, DL and DS)
+See [Open ML data](AI/DS%20and%20DataEng/Open%20ML%20data.md)
+
 
 ## Books
 - #BOOK [The elements of statistical learning (Hastie 2015, SPRINGER)](https://web.stanford.edu/~hastie/ElemStatLearn/)

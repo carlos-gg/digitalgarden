@@ -23,7 +23,7 @@ See:
 
 ## References
 Review papers:
-- #PAPER [Deep learning for cardiac imagesegmentation: A review (2019)](https://arxiv.org/abs/1911.03723)
+- #PAPER [Deep learning for cardiac image segmentation: A review (2019)](https://arxiv.org/abs/1911.03723)
 - #PAPER [Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey (Sultana, 2020)](https://arxiv.org/abs/2001.0407430)
 
 - #PAPER [Fully Convolutional Networks for Semantic Segmentation (Long 2015)](https://arxiv.org/abs/1411.4038)
@@ -37,3 +37,4 @@ Review papers:
 	- #CODE https://github.com/csrhddlam/axial-deeplab
 	- [Paper explained](https://www.youtube.com/watch?v=hv3UO3G0Ofo)
 - #PAPER [Towards infield, live plant phenotyping using a reduced-parameter CNN (Atanbori 2020)](https://link.springer.com/article/10.1007%2Fs00138-019-01051-7)
+- #PAPER [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (Lang 2022)](https://arxiv.org/pdf/2203.07615v2)            

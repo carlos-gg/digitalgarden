@@ -86,7 +86,8 @@ disableToc: false
 	* https://twitter.com/papers_daily/status/1481937771732566021
 	* ConvNeXt essentially takes a ResNet and gradually "modernizes" it to discover components that contribute to performance gains. ConvNeXt applies several tricks like larger kernels, layer norm, fewer activation functions, separate downsampling layers to name a few. 
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
-
+- #PAPER [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs (Ding 2022)](https://arxiv.org/pdf/2203.06717v3)            
+	- #CODE https://paperswithcode.com/paper/scaling-up-your-kernels-to-31x31-revisiting
 
 ## Subtopics and applications
 ### Sequence (time series) modelling

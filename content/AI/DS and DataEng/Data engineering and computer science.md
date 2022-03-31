@@ -171,21 +171,11 @@ disableToc: false
 
 ## Subtopics
 
-### Open datasets (for ML and DS)
-- https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
-- https://paperswithcode.com/datasets
-- [OpenML (open-source datasets)](http://www.openml.org/)
-	- [API](https://docs.openml.org/APIs/)
-- [Awesome Public Datasets (high quality datasets from communities such as academia, education etc)](https://github.com/awesomedata/awesome-public-datasets)
-- [Registry of Open Data on AWS](https://aws.amazon.com/es/public-datasets/?nc1=h_ls)
-- http://blog.thedataincubator.com/tag/data-sources/
-- [For reinforcement learning algorithms](https://gym.openai.com/)
-- [Data Is Plural - newsfeed](http://tinyletter.com/data-is-plural/archive)
-- [A list of publicly available datasets](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
-- [Datasets for data mining (ML)](http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html)
-- [Greatest Public Datasets for AI/ML](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
-- [Open knowledge foundation repository (varied formats and sources)](https://datahub.io/dataset)
+### Open datasets (for ML, DL and DS)
+See [Open ML data](AI/DS%20and%20DataEng/Open%20ML%20data.md)
 
+### MLOps
+See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)
 
 ### Feature engineering
 - https://en.wikipedia.org/wiki/Feature_engineering
@@ -283,5 +273,3 @@ See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision]
 - A MapReduce program is composed of aMap() procedure (method) that performs filtering and sorting (such as sorting students by first name into queues, one queue for each name) and aReduce() method that performs a summary operation (such as counting the number of students in each queue, yielding name frequencies)
 
 
-### MLOps
-See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)

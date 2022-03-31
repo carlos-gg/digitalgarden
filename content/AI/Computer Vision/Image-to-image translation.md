@@ -114,7 +114,8 @@ See "GANs for representation learning and image synthesis" section in [GANs](AI/
 	- #CODE https://github.com/clovaai/tunit
 	- [Paper explained](https://www.youtube.com/watch?v=sEG8hD64c_Q)
 - #PAPER [Implicit Pairs for Boosting Unpaired Image-to-Image Translation (Ginger 2020)](https://arxiv.org/abs/1904.06913v4)
-
+- #PAPER [TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images (Lin 2020)](https://arxiv.org/pdf/2004.04634)            
+	- #CODE https://github.com/linjx-ustc1106/TuiGAN-PyTorch
 
 ### Flow-based
 - #CODE [Image-to-image translation with flow-based generative model](https://github.com/yenchenlin/pix2pix-flow)
