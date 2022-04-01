@@ -64,5 +64,5 @@ See [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md), Distribut
 	- Tests only on CPU. Does it support GPUs?
 - #PAPER [Distributed Training of Deep Learning Models: A Taxonomic Perspective (Langer 2020)](https://arxiv.org/abs/2007.03970)
 - #PAPER [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training (Bian 2021)](https://arxiv.org/abs/2110.14883) ^colossalai
-
+- #PAPER [Pathways: Asynchronous Distributed Dataflow for ML (Barham 2022)](https://arxiv.org/pdf/2203.12533)            
 

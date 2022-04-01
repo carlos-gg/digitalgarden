@@ -21,6 +21,8 @@ See:
 ## Code
 See code in [Forecasting](AI/Forecasting.md)
 
+- #CODE [Stumpy](https://github.com/TDAmeritrade/stumpy)
+	- STUMPY is a powerful and scalable Python library for modern time series analysis
 - #CODE [Orbit](https://github.com/uber/orbit)
 	- A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 	- https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/
