@@ -13,6 +13,7 @@ disableToc: false
 - [Interpreting machine learning models](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
 - [I.am.ai. Explaining artificial intelligence](https://www.i-am.ai/)
 - [Baking recipes made by AI](https://cloud.google.com/blog/topics/developers-practitioners/baking-recipes-made-ai)
+- [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
 - A Review of Different Interpretation Methods:
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-2-input-gradient-layerwise-e077609b6377
