@@ -125,6 +125,7 @@ State of ML frameworks:
 	- The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
 	- [lets-unify.ai](https://lets-unify.ai/ "https://lets-unify.ai")
 	- #PAPER [Ivy: Templated Deep Learning for Inter-Framework Portability (Lenton 2021)](https://arxiv.org/abs/2102.02886)
+	- https://medium.com/@unifyai/why-unify-21b502f2015e
 - #CODE [Huggingface](https://huggingface.co/)
 	- Build, train and deploy state of the art models powered by the reference open source in ML
 	- [Datasets](https://github.com/huggingface/datasets)
