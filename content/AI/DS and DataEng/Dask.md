@@ -21,6 +21,6 @@ disableToc: false
 	- https://jobqueue.dask.org/en/latest/
 	- Easily deploy Dask on job queuing systems like PBS, Slurm, MOAB, SGE, LSF, and HTCondor
 	- [Scalable interactive analysis workflows using dask on HPC Systems](https://medium.com/pangeo/dask-jobqueue-d7754e42ca53)
-- #code [Dask-ml - [Machine Learning](AI/Machine%20Learning.md) with Dask](https://github.com/dask/dask-ml)
+- #code [Dask-ml - Machine Learning with Dask](https://github.com/dask/dask-ml)
 
 
