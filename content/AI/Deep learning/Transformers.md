@@ -5,6 +5,7 @@ disableToc: false
 
 ## Resources
 - https://github.com/IDEACVR/awesome-detection-transformer
+- https://github.com/Yangzhangcst/Transformer-in-Computer-Vision
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
 - https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
 - https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
