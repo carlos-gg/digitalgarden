@@ -1,8 +1,10 @@
 name: Carlos Alberto Gomez Gonzalez # shown in "Made by XXX using Quartz"
 enableToc: true
+openToc: true
 enableLinkPreview: true
+enableLatex: true
 description:
-  CarlosGG's Knowledge Garden
+  CarlosGG's Knowledge Garden - AI, ML, DL, Data Science, AI4G
 page_title:
   "CarlosGG's Knowledge Garden 🪴"
 links:
