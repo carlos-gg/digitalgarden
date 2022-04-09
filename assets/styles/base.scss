@@ -23,6 +23,23 @@ p, ul, text {
   padding: revert;
 }
 
+.mainTOC {
+  background: var(--lightgray);
+  border-radius: 5px;
+  padding: 0.75em 1em;
+}
+
+.mainTOC details summary {
+  cursor: zoom-in;
+  font-family: Inter;
+  color: var(--dark);
+  font-weight: 700;
+}
+
+.mainTOC details[open] summary {
+    cursor: zoom-out;
+}
+
 #TableOfContents > ol {
   counter-reset: section;
   margin-left: 0em;
@@ -49,12 +66,6 @@ p, ul, text {
     font-weight: 700;
   }
 }
-
-footer {
-  margin-top: 4em;
-  text-align: center;
-}
-
 
 table {
   width: 100%;
@@ -111,6 +122,10 @@ td, th {
   margin-top: 2em;
   gap: 1.5em;
   justify-content: center;
+
+  .disabled {
+    opacity: 0.2;
+  }
 
   & > li {
     text-align: center;
@@ -181,6 +196,11 @@ article {
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
+
+      &.broken {
+        opacity: 0.5;
+        background-color: transparent; 
+      }
     }
   }
   
@@ -255,12 +275,10 @@ body {
 
 footer {
   margin-top: 4em;
-
-  & > a {
-    font-size: 1em;
-    color: var(--secondary);
-    padding: 0 0.5em 3em 0.5em;
-  }
+  text-align: center;
+  & ul {
+    padding-left: 0;
+  } 
 }
 
 hr {
@@ -473,22 +491,39 @@ header {
   }
 }
 
+@keyframes dropin {
+  0% {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+  }
+  1% {
+    display: inline-block;
+    opacity: 0;
+    transform: translate(-50%, 40%);
+  }
+  100% {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 20%);
+  }
+}
+
 .popover {
   z-index: 999;
   position: absolute;
   width: 20em;
-  display: inline-block;
-  visibility: hidden;
+  display: none;
   background-color: var(--light);
   padding: 1em;
   border: 1px solid var(--outlinegray);
   border-radius: 5px;
   transform: translate(-50%, 40%);
-  opacity: 0;
   pointer-events: none;
   transition: opacity 0.2s ease, transform 0.2s ease;
-  transition-delay: 0.3s;
   user-select: none;
+  overflow-wrap: anywhere;
+  box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
 
   @media all and (max-width: 600px) {
     display: none;
@@ -498,6 +533,8 @@ header {
     opacity: 1;
     visibility: visible;
     transform: translate(-50%, 20%);
+    display: inline-block;
+    animation: dropin 0.2s ease;
   }
 
   & > h3 {
@@ -508,11 +545,27 @@ header {
   & > .meta {
     margin-top: 0.25em;
     opacity: 0.5;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.8rem;
   }
 
   & > p {
     margin: 0;
     font-weight: 400;
     user-select: none;
+  }
+}
+
+
+
+#contact_buttons ul {
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+  }
+
+  li a {
+    padding: 0 1em;
   }
 }
