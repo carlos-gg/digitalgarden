@@ -70,11 +70,11 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       .on("end", enableDrag ? dragended : noop);
   }
 
-  const height = 350
+  const height = 250
   const width = document.getElementById("graph-container").offsetWidth
 
   const simulation = d3.forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-70))
+    .force("charge", d3.forceManyBody().strength(-30))
     .force("link", d3.forceLink(data.links).id(d => d.id))
     .force("center", d3.forceCenter());
 
@@ -185,7 +185,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
   const labels = graphNode.append("text")
     .attr("dx", 12)
     .attr("dy", ".35em")
-    .text((d) => content[decodeURI(d.id).replace(/\s+/g, '-')]?.title || d.id.replace("-", " "))
+    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
     .style("opacity", 0)
     .style("pointer-events", "none")
     .call(drag(simulation));
