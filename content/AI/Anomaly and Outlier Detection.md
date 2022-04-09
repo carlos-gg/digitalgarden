@@ -3,10 +3,11 @@ title: "Anomaly and Outlier Detection"
 disableToc: false 
 ---
 
-See "Active learning for anomaly discovery" section in [Active learning](AI/Active%20learning.md)
+> Most of the outlier detection approaches belong to [[AI/Unsupervised learning/Unsupervised learning]] although it might be framed as a [[AI/Semi-supervised learning]] problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
+
+> See "Active learning for anomaly discovery" section in [[AI/Active learning]]
 
 ## Resources
-- Most of the outlier detection approaches belong to [Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md) although it might be framed as a [Semi-supervised learning](AI/Semi-supervised%20learning.md) problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
 - https://towardsdatascience.com/density-based-algorithm-for-outlier-detection-8f278d2f7983 
 - https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561 
 - [Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
@@ -45,7 +46,7 @@ See "Active learning for anomaly discovery" section in [Active learning](AI/Acti
 
 
 ### DL-based
-See "GANs for anomaly detection" section in [GANs](AI/Deep%20learning/GANs.md)
+See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
 
 - #PAPER [Learning Deep Features for One-Class Classification (Perera 2018)](https://arxiv.org/abs/1801.05365)
 - #PAPER [Deep One-Class Classification (Ruff 2018)](http://proceedings.mlr.press/v80/ruff18a.html)

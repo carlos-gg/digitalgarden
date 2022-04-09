@@ -3,8 +3,9 @@ title: "Machine Learning (ML)"
 disableToc: false 
 ---
 
+> Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
+
 ## Resources
-- Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [Machine Learning Research Articles](https://deepai.org/publications/statistics-machine-learning/1)
 - [Rules of ML (Google)](https://developers.google.com/machine-learning/rules-of-ml/)
@@ -33,7 +34,7 @@ disableToc: false
 - https://github.com/eriklindernoren/ML-From-Scratch
 
 ### Open datasets (for ML, DL and DS)
-See [Open ML data](AI/DS%20and%20DataEng/Open%20ML%20data.md)
+See [[AI/DS and DataEng/Open ML data]]
 
 
 ## Books
@@ -190,49 +191,49 @@ See [Open ML data](AI/DS%20and%20DataEng/Open%20ML%20data.md)
 ## Subtopics
 
 ### Feature selection
-See [Feature selection](AI/Supervised%20Learning/Feature%20selection.md)
+See [[AI/Supervised Learning/Feature selection]]
 
 ### Feature learning
-See [Feature learning](AI/Feature%20learning.md)
+See [[AI/Feature learning]]
 
 ### Anomaly and Outlier Detection
-See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+See [[AI/Anomaly and Outlier Detection]]
 
 ### Time Series analysis and forecasting
-See [Time Series analysis](AI/Time%20Series%20analysis.md) and [Forecasting](AI/Forecasting.md)
+See [[AI/Time Series analysis]] and [[AI/Forecasting]]
 
 ### AutoML
-See [AutoML](AI/AutoML.md)
+See [[AI/AutoML]]
 
 ### Deep Learning
-See [DL](AI/Deep%20learning/DL.md)
+See [[AI/Deep learning/DL]]
 
 ### Reinforcement learning
-See [Reinforcement learning](AI/Reinforcement%20learning.md)
+See [[AI/Reinforcement learning]]
 
 ### Unsupervised learning
-See [Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md)
+See [[AI/Unsupervised learning/Unsupervised learning]]
 
 ### Supervised learning
-See [Supervised learning](AI/Supervised%20Learning/Supervised%20learning.md)
+See [[AI/Supervised Learning/Supervised learning]]
 
 ### Weakly-supervised learning
-See [Weakly-supervised learning](AI/Weakly-supervised%20learning.md). It includes these topics: [Semi-supervised learning](AI/Semi-supervised%20learning.md), [Active learning](AI/Active%20learning.md) and [Transfer learning](AI/Transfer%20learning.md)
+See [[AI/Weakly-supervised learning]]. It includes these topics: [[AI/Semi-supervised learning]], [[AI/Active learning]] and [[AI/Transfer learning]]
 
 ### One, few-shot learning
-See [One, few-shot learning](AI/One,%20few-shot%20learning.md)
+See [[AI/One, few-shot learning]]
 
 ### Self-supervised learning
-See [Self-supervised learning](AI/Self-supervised%20learning.md)
+See [[AI/Self-supervised learning]]
 
 ### Learning to rank and ordinal regression
-See [Learning to rank](AI/Learning%20to%20rank.md)
+See [[AI/Learning to rank]]
 
 ### Generative modelling
-See [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
+See [[AI/Deep learning/Generative modelling]]
 
 ### Explainable AI
-See [XAI](AI/XAI.md)
+See [[AI/XAI]]
 
 
 

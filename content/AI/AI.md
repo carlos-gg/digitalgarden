@@ -1,10 +1,10 @@
 ---
 title: "Artificial Intelligence"
-disableToc: false 
 ---
 
+> The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
+
 ## Resources
-- The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - [AtHomeWithAI | Deepmind](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - https://github.com/owainlewis/awesome-artificial-intelligence
@@ -26,6 +26,7 @@ disableToc: false
 - [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 	- [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 
+
 ### AI in Science and research
 - [The AI revolution in science: applications and new research directions](https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/)
 - [The AI revolution in scientific research (The Royal Society, The Alan Turing Institute)](https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf)
@@ -34,7 +35,6 @@ disableToc: false
 
 ### AI for good
 - See [[AI4G/AI4good]]
-- [[AI4G/AI4good#Sustainable Development Goals SDGs]]
 
 ## Events
 - [Neural Information Processing Systems Conference (NeurIPS)](https://nips.cc/)
@@ -91,37 +91,37 @@ disableToc: false
 ## Related fields and concepts
 
 ### Math and Statistics
-See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
+See [[AI/Math and Statistics/Math and Statistics]]
 
 ### Data engineering and computer science
-See [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
+See [[AI/DS and DataEng/Data engineering and computer science]]
 
 ### Data Science
-See [Data Science](AI/DS%20and%20DataEng/Data%20Science.md)
+See [[AI/DS and DataEng/Data Science]]
 
 ### Machine Learning
-See [Machine Learning](AI/Machine%20Learning.md)
+See [[AI/Machine Learning]]
 
 ### Computer vision
-See [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
+See [[AI/Computer Vision/Computer vision]]
 
 ### NLP
-See [NLP](AI/NLP.md)
+See [[AI/NLP]]
 
 ### Deep Learning
-See [DL](AI/Deep%20learning/DL.md)
+See [[AI/Deep learning/DL]]
 
 ### Causality
-See [Causality](AI/Causality.md)
+See [[AI/Causality]]
 
 ### Problem Solving and Search
-See [Problem Solving and Search](AI/Problem%20Solving%20and%20Search.md)
+See [[AI/Problem Solving and Search]]
 
 ### Automated planning
-See [Automated planning](AI/Automated%20planning.md)
+See [[AI/Automated planning]]
 
 ### Fair AI
-See [FairAI](AI/FairAI.md)
+See [[AI/FairAI]]
 
 ### Explainable AI
-See [XAI](AI/XAI.md)
+See [[AI/XAI]]
