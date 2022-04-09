@@ -33,7 +33,8 @@ disableToc: false
 - [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
 
 ### AI for good
-- See [AI4good](AI4G/AI4good.md)
+- See [[AI4G/AI4good]]
+- [[AI4G/AI4good#Sustainable Development Goals SDGs]]
 
 ## Events
 - [Neural Information Processing Systems Conference (NeurIPS)](https://nips.cc/)
