@@ -1,6 +1,5 @@
 ---
 title: CarlosGG's Knowledge Garden 🪴 
-disableToc: true
 ---
 
 Welcome to my personal digital knowledge garden, a collection of notes and resources that I started to compile a couple of years ago as my best attempt to become a somewhat functional _information junkie_. Here I curate, organize and catalog the stuff I ~~read~~ [skim over](https://learningcenter.unc.edu/tips-and-tools/skimming/) everyday. 
