@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning Operations (MLOps)"
-disableToc: false 
 ---
 
+> Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently. The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field
+
 ## Resources
-- Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently. The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field
 - https://en.wikipedia.org/wiki/MLOps
 - https://github.com/GokuMohandas/MadeWithML
 - https://github.com/visenger/awesome-mlops

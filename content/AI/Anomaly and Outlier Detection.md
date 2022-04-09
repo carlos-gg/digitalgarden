@@ -1,6 +1,5 @@
 ---
 title: "Anomaly and Outlier Detection"
-disableToc: false 
 ---
 
 > Most of the outlier detection approaches belong to [[AI/Unsupervised learning/Unsupervised learning]] although it might be framed as a [[AI/Semi-supervised learning]] problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.

@@ -1,10 +1,10 @@
 ---
 title: "Reservoir computing"
-disableToc: false 
 ---
 
+> Reservoir computing is a framework for computation derived from recurrent neural network theory that maps input signals into higher dimensional computational spaces through the dynamics of a fixed, non-linear system called a reservoir. After the input signal is fed into the reservoir, which is treated as a "black box," a simple readout mechanism is trained to read the state of the reservoir and map it to the desired output
+
 ## Resources
-- Reservoir computing is a framework for computation derived from recurrent neural network theory that maps input signals into higher dimensional computational spaces through the dynamics of a fixed, non-linear system called a reservoir. After the input signal is fed into the reservoir, which is treated as a "black box," a simple readout mechanism is trained to read the state of the reservoir and map it to the desired output.
 - https://en.wikipedia.org/wiki/Reservoir_computing
 
 #### Echo state networks (ESN)

@@ -1,13 +1,13 @@
 ---
 title: "AutoML"
-disableToc: false 
 ---
 
-See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)
+> Automated machine learning (AutoML) is the process of automating the process of applying machine learning to real-world problems. AutoML covers the complete pipeline from the raw dataset to the deployable machine learning model. AutoML was proposed as an artificial intelligence-based solution to the ever-growing challenge of applying machine learning.
+
+> See [[AI/Supervised Learning/Model selection and tuning]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Automated_machine_learning
-- Automated machine learning (AutoML) is the process of automating the process of applying machine learning to real-world problems. AutoML covers the complete pipeline from the raw dataset to the deployable machine learning model. AutoML was proposed as an artificial intelligence-based solution to the ever-growing challenge of applying machine learning.
 - Automated machine learning can target various stages of the machine learning process. Steps to automate are:
 	- Data preparation and ingestion (from raw data and miscellaneous formats)
 		- Column type detection; e.g., boolean, discrete numerical, continuous numerical, or text
@@ -18,7 +18,7 @@ See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20an
 		- Feature extraction
 		- Meta learning and transfer learning
 		- Detection and handling of skewed data and/or missing values
-	- Model selection. See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)
+	- Model selection. See [[AI/Supervised Learning/Model selection and tuning]]
 	- Hyperparameter optimization of the learning algorithm and featurization
 	- Pipeline selection under time, memory, and complexity constraints
 	- Selection of evaluation metrics and validation procedures

@@ -1,6 +1,5 @@
 ---
 title: "Pytorch"
-disableToc: false 
 ---
 
 

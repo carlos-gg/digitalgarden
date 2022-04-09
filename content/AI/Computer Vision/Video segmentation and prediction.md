@@ -1,12 +1,8 @@
 ---
 title: "Video segmentation and prediction"
-disableToc: false 
 ---
 
-See: 
-- [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
-- "Deep learning for multi-dimensional data" section in [DL](AI/Deep%20learning/DL.md)
-- [RNNs](AI/Deep%20learning/RNNs.md)
+> See [[AI/Deep learning/Encoder-decoder networks]], "Deep learning for multi-dimensional data" section in [[AI/Deep learning/DL]] and [[AI/Deep learning/RNNs]]
 
 ## Resources
 - Spatiotemporal classification and regression
@@ -58,7 +54,7 @@ See:
 	- UNETR is the first successful transformer architecture for 3D medical image segmentation
 - #PAPER [Dense Unsupervised Learning for Video Segmentation (Araslanov 2021)](https://arxiv.org/abs/2111.06265)
 	- https://github.com/visinf/dense-ulearn-vos
-	- methods that learns spatio-temporal correspondences without any supervision ([Unsupervised learning](AI/Unsupervised%20learning/Unsupervised%20learning.md)), and achieves state-of-the-art accuracy of video object segmentation
+	- methods that learns spatio-temporal correspondences without any supervision ([[AI/Unsupervised learning/Unsupervised learning]], and achieves state-of-the-art accuracy of video object segmentation
 	- #TALK https://www.youtube.com/watch?v=tSBWZ6nYld0
 - #PAPER [Mask2Former for Video Instance Segmentation (Cheng 2021)](https://arxiv.org/abs/2112.10764v1)
 	- #CODE https://github.com/facebookresearch/Mask2Former

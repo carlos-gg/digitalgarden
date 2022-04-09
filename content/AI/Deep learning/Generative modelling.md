@@ -1,6 +1,5 @@
 ---
 title: "Generative modeling"
-disableToc: false 
 ---
 
 ## Resources
@@ -18,24 +17,19 @@ disableToc: false
 
 ## Subtopics
 ### Autoencoders
-See "VAEs" section in [Autoencoders](AI/Deep%20learning/Autoencoders.md)
+See "VAEs" section in [[AI/Deep learning/Autoencoders]]
 
 ### GANs
-See [GANs](AI/Deep%20learning/GANs.md)
+See [[AI/Deep learning/GANs]]
 
 ### Normalizing flows
-See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
+See [[AI/Deep learning/Normalizing flows]]
 
 ### Diffusion models
-See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+See [[AI/Deep learning/Diffusion models]]
 
 ### Generative models for Image data
-See:
-- [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
-- "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
-- "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20learning/GANs.md)
-- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
-- [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+See [[AI/Computer Vision/Image-to-image translation]], "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]], "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]], "For Computer Vision" section in [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Diffusion models]]
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
@@ -60,7 +54,7 @@ See:
 	- Generative models are typically trained on grid-like data such as images (tied to the underlying grid resolution)
 	- Instead of discretized grids, they parametrized individual data points by continuous functions over which they learned distributions --> generative models
 	- Coordinate and feature pairs are treated as point clouds (sets with underlying notion of distance). Leveraged the PointConv framekwork 
-	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
+	- Their model can learn rich distributions of functions independently of data type and resolution. Application to [[AI/Computer Vision/Super-resolution]]
 - #PAPER [Score-Based Generative Modeling through Stochastic Differential Equations (Song 2021)](https://arxiv.org/abs/2011.13456v2)
 	- #CODE https://paperswithcode.com/paper/score-based-generative-modeling-through-1
 - #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)

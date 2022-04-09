@@ -1,11 +1,11 @@
 ---
 title: "Semi-supervised learning"
-disableToc: false 
 ---
+
+>  Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning (with no labeled training data) and supervised learning (with only labeled training data)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Semi-supervised_learning
-- Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning (with no labeled training data) and supervised learning (with only labeled training data).
 - In contrast (to active learning), semi-supervised learning attempts to automatically exploit unlabeled data in addition to labeled data to improve learning performance, where no human intervention is assumed. 
 - https://deepai.org/machine-learning-glossary-and-terms/semi-supervised-learning
 - https://scikit-learn.org/stable/modules/label_propagation.html

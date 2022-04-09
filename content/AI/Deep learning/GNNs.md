@@ -1,10 +1,10 @@
 ---
 title: "Graph neural networks (GNNs)"
-disableToc: false 
 ---
 
+> A GNN is an optimizable transformation on all attributes of the graph (nodes, edges, global-context) that preserves graph symmetries (permutation invariances). Graph Neural networks (GNNs) are being widely adopted for diverse applications and domains. This is in part due to their effectiveness on complex data structures, improved performance and scalability, and availability of approaches
+
 ## Resources
-- Graph Neural networks (GNNs) are being widely adopted for diverse applications and domains. This is in part due to their effectiveness on complex data structures, improved performance and scalability, and availability of approaches
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - [Must read papers on GNNs](https://github.com/thunlp/GNNPapers)
 - [Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing](https://towardsdatascience.com/graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing-bc8605fa59a)

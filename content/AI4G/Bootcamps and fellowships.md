@@ -1,6 +1,5 @@
 ---
 title: AI4G - Bootcamps and fellowships
-disableToc: false
 ---
 
 

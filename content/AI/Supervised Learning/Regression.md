@@ -1,12 +1,8 @@
 ---
 title: "Regression"
-disableToc: false 
 ---
 
-See: 
-- [Time Series analysis](AI/Time%20Series%20analysis.md)
-- [RNNs](AI/Deep%20learning/RNNs.md)
-- "Sequence time series modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
+> See [[AI/Time Series analysis]], [[AI/Deep learning/RNNs]] and "Sequence time series modelling" section in [[AI/Deep learning/CNNs]]
 
 
 ## Resources
@@ -52,7 +48,7 @@ See:
 	- Under the GLM assumptions, the output variable Y can now follow any probability distribution within the “exponential family”, which includes not only the exponential distribution, but also the normal, gamma, chi-squared, Poisson, binomial (for a fixed number of trails), negative binomial (for a fixed number of failures), beta and lognormal distributions, among others
  
 ### Logistic regression 
-See [Classification](AI/Supervised%20Learning/Classification.md)
+See [[AI/Supervised Learning/Classification]]
 
 ### Regularized regression
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
@@ -70,13 +66,13 @@ See [Classification](AI/Supervised%20Learning/Classification.md)
 	- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
 
 ### SVM
-See [Classification](AI/Supervised%20Learning/Classification.md)
+See [[AI/Supervised Learning/Classification]]
 
 ### Gaussian Process
-See [Gaussian Process](AI/Supervised%20Learning/Gaussian%20Process.md)
+See [[AI/Supervised Learning/Gaussian Process]]
 
 ### Tree-based approaches
-See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md) and [Classification](AI/Supervised%20Learning/Classification.md)
+See [[AI/Supervised Learning/Ensemble learning]] and [[AI/Supervised Learning/Classification]]
 
 ### K-nearest neighbors
 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm

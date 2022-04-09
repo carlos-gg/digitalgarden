@@ -1,6 +1,5 @@
 ---
 title: "Math and Statistics"
-disableToc: false 
 ---
 
 ## Resources
@@ -70,11 +69,11 @@ disableToc: false
 	- [Highlights of calculus (Strang)](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010)
 
 ### Linear Algebra
-See [Linear Algebra](AI/Math%20and%20Statistics/Linear%20Algebra.md)
+See [[AI/Math and Statistics/Linear Algebra]]
 
 
 ### Distances
-See [Distances](AI/Math%20and%20Statistics/Distances.md)
+See [[AI/Math and Statistics/Distances]]
 
 
 ### Descriptive stats
@@ -112,7 +111,7 @@ See [Distances](AI/Math%20and%20Statistics/Distances.md)
 
 
 ### Experimental design
-See [Active learning](AI/Active%20learning.md)
+See [[AI/Active learning]]
 - [Coursera - data scientist's toolbox](https://www.youtube.com/watch?v=vSXOJnGNtM4)
 - Good experiment: replication, measure variability, generalise to the problem, transparent
 - Confounding variable - strategies: randomization, stratifying 
@@ -207,24 +206,24 @@ See [Active learning](AI/Active%20learning.md)
 - http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 
 ### Probability theory
-See [Probability Theory](AI/Math%20and%20Statistics/Probability%20Theory.md)
+See [[AI/Math and Statistics/Probability Theory]]
 
 ### Bayesian modelling
-See [Bayesian modelling](AI/Bayesian%20modelling.md)
+See [[AI/Bayesian modelling]]
 
 ### Monte Carlo methods
-See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
+See [[AI/Math and Statistics/Monte Carlo methods]]
 
 ### Mathematical Optimization
-See [Mathematical Optimization](AI/Math%20and%20Statistics/Mathematical%20Optimization.md)
+See [[AI/Math and Statistics/Mathematical Optimization]]
 
 ### Time series analysis
-See [Time Series analysis](Time%20Series%20analysis.md)
+See [[Time Series analysis]]
 
 ### Regression analysis
-See [Regression](AI/Supervised%20Learning/Regression.md)
+See [[AI/Supervised Learning/Regression]]
 - https://en.wikipedia.org/wiki/Regression_analysis
-- Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [Machine Learning](AI/Machine%20Learning.md)
+- Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[AI/Machine Learning]]
 
 ### Compressed sensing
 - https://en.wikipedia.org/wiki/Compressed_sensing

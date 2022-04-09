@@ -1,17 +1,14 @@
 ---
 title: "Weakly supervised learning"
-disableToc: false 
 ---
 
-See:
-- [Transfer learning](AI/Transfer%20learning.md)
-- [Active learning](AI/Active%20learning.md)
-- [Semi-supervised learning](AI/Semi-supervised%20learning.md)
+> Weak supervision is a branch of machine learning where noisy, limited, or imprecise sources are used to provide supervision signal for labeling large amounts of training data in a supervised learning setting. This approach alleviates the burden of obtaining hand-labeled data sets, which can be costly or impractical. Instead, inexpensive weak labels are employed with the understanding that they are imperfect, but can nonetheless be used to create a strong predictive model.
+
+> See [[AI/Transfer learning]], [[AI/Active learning]] and [[AI/Semi-supervised learning]]
 
 ## Resources
-- Weak supervision is a branch of machine learning where noisy, limited, or imprecise sources are used to provide supervision signal for labeling large amounts of training data in a supervised learning setting. This approach alleviates the burden of obtaining hand-labeled data sets, which can be costly or impractical. Instead, inexpensive weak labels are employed with the understanding that they are imperfect, but can nonetheless be used to create a strong predictive model.
-- Other areas of machine learning exist that are likewise motivated by the demand for increased quantity and quality of labeled training data but employ different high-level techniques to approach this demand. These other approaches include [active learning](AI/Active%20learning.md), [semi-supervised learning](AI/Semi-supervised%20learning.md), and [transfer learning](AI/Transfer%20learning.md).
-- Related to [One, few-shot learning](AI/One,%20few-shot%20learning.md). The most relevant problem to few-shot learning is weakly supervised learning with incomplete supervision where only a small amount of samples have supervised. By definition, weakly supervised learning with incomplete supervision includes only classification and regression, while few-shot learning also includes reinforcement learning problems. Moreover, weakly supervised learning with incomplete supervision mainly uses unlabeled data as additional information in E, while few-shot learning leverages various kinds of prior knowledge such as pretrained models, supervised data from other domains or modalities and does not restrict to using unlabeled data. Therefore, few-shot learning becomes weakly supervised learning problem only when prior knowledge is unlabeled data and the task is classification or regression.information.
+- Other areas of machine learning exist that are likewise motivated by the demand for increased quantity and quality of labeled training data but employ different high-level techniques to approach this demand. These other approaches include [[AI/Active learning]], [[AI/Semi-supervised learning]], and [[AI/Transfer learning]].
+- Related to [[AI/One, few-shot learning]]. The most relevant problem to few-shot learning is weakly supervised learning with incomplete supervision where only a small amount of samples have supervised. By definition, weakly supervised learning with incomplete supervision includes only classification and regression, while few-shot learning also includes reinforcement learning problems. Moreover, weakly supervised learning with incomplete supervision mainly uses unlabeled data as additional information in E, while few-shot learning leverages various kinds of prior knowledge such as pretrained models, supervised data from other domains or modalities and does not restrict to using unlabeled data. Therefore, few-shot learning becomes weakly supervised learning problem only when prior knowledge is unlabeled data and the task is classification or regression.information.
 - [Weakly Supervised Learning: Introduction and Best Practices](https://datasciencemilan.medium.com/weakly-supervised-learning-introduction-and-best-practices-c65f490d4a0a)
 
 

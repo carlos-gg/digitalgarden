@@ -1,6 +1,5 @@
 ---
 title: "Geometric deep learning"
-disableToc: false 
 ---
 
 

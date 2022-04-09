@@ -1,6 +1,5 @@
 ---
 title: "Dimensionality reduction and low-rank modeling"
-disableToc: false 
 ---
 
 ## Resources and references

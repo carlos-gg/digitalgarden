@@ -1,10 +1,10 @@
 ---
 title: "Image-to-image translation"
-disableToc: false 
 ---
 
+> The task of Image-to-image translation is to learn the mapping from a given image (X) to a specific target image (Y), e.g., mapping grayscale images to RGB images
+
 ## Resources
-- The task of Image-to-image translation is to learn the mapping from a given image (X) to a specific target image (Y), e.g., mapping grayscale images to RGB images.
 - Learning the mapping from one visual representation to another requires an understanding of underlying features that are shared between these representations, such features are either domain-independent or domain-specific.
 - https://paperswithcode.com/task/image-to-image-translation
 - https://github.com/weihaox/awesome-image-translation
@@ -16,12 +16,12 @@ Review papers:
 
 
 ### CNN-based
-See [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
+See [[AI/Deep learning/Encoder-decoder networks]]
 - Related to the task of supervised semantic segmentation but changing the Y and the loss (MAE, MSE or other reconstruction loss)
 
 
 ### GAN-based
-See "GANs for representation learning and image synthesis" section in [GANs](AI/Deep%20learning/GANs.md)
+See "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]
 - #PAPER [Deep Generative Adversarial Networks for Image-to-Image Translation: A Review (Alotaibi 2020)](https://www.mdpi.com/2073-8994/12/10/1705/htm#) ^I2IGANs20
 	- The powerful ability of deep feature learning to automatically utilize complex and high-level feature representations has significantly advanced the performance of state-of-the-art methods across computer applications
 	- The underlying structure and distinctive (complex) features are both discovered via deep learning-based methods that can be classified further into discriminative feature-learning algorithms and generative feature-learning algorithms

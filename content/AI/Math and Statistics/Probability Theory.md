@@ -1,6 +1,5 @@
 ---
 title: "Probability Theory"
-disableToc: false 
 ---
 
 

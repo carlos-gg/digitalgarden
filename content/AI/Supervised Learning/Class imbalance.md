@@ -1,6 +1,5 @@
 ---
 title: "Class imbalance"
-disableToc: false 
 ---
 
 ## Resources

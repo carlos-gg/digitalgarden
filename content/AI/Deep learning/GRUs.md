@@ -1,6 +1,5 @@
 ---
 title: "Gated Recurrent Units (GRUs)"
-disableToc: false 
 ---
 
 ## Resources

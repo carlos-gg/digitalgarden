@@ -1,6 +1,5 @@
 ---
 title: "Residual and dense neural networks"
-disableToc: false 
 ---
 
 ## Resources

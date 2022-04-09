@@ -3,11 +3,7 @@ title: "Time series analysis"
 disableToc: false 
 ---
 
-See: 
-- [Forecasting](AI/Forecasting.md)
-- [RNNs](AI/Deep%20learning/RNNs.md)
-- "Sequence (time series) modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
-- "Deep learning for tabular data" section in [DL](AI/Deep%20learning/DL.md)
+> See [[AI/Forecasting]], [[AI/Deep learning/RNNs]], "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]] and "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series
@@ -19,7 +15,7 @@ See:
 - [timeseriesAI](https://github.com/timeseriesAI)
 
 ## Code
-See code in [Forecasting](AI/Forecasting.md)
+See code in [[AI/Forecasting]]
 
 - #CODE [Stumpy](https://github.com/TDAmeritrade/stumpy)
 	- STUMPY is a powerful and scalable Python library for modern time series analysis
@@ -48,14 +44,12 @@ See code in [Forecasting](AI/Forecasting.md)
  - #CODE [Tick](https://github.com/X-DataInitiative/tick)
 
 
-
 ## Subtopics
-
 ### Time Series Forecasting
-See [Forecasting](AI/Forecasting.md)
+See [[AI/Forecasting]]
 
 ### Anomaly and Outlier Detection
-See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+See [[AI/Anomaly and Outlier Detection]]
 
 ### TS models
 - [Autoregressive](https://en.wikipedia.org/wiki/Autoregressive)
@@ -87,5 +81,5 @@ See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 - [Continuous wavelet transform](https://en.wikipedia.org/wiki/Continuous_wavelet_transform)
   
 ### Causality
-See [Causality](AI/Causality.md)
+See [[AI/Causality]]
   

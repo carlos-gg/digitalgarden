@@ -1,13 +1,12 @@
 ---
 title: "Generative Adversarial Networks (GANs)"
-disableToc: false 
 ---
 
-See:
-- [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
+> A GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train
 
-## Resources
-- A GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train. 
+> See [[AI/Deep learning/Generative modelling]]
+
+## Resources 
 - [List of papers and other on Generative Adversarial Networks](https://github.com/pshams55/GAN-Case-Study)
 - [Generative Adversarial Networks](https://spectra.pub/ml/gans)
 - [Generative adversarial networks](https://deepgenerativemodels.github.io/notes/gan/ )
@@ -99,15 +98,15 @@ Review papers:
 ## Subtopics
 
 ### GANs for super-resolution
-See "GAN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
+See "GAN-based" section in [[AI/Computer Vision/Super-resolution]]
 
 
 ### GANs for missing data, imputation and inpainting
-See "GAN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
+See "GAN-based" section in [[AI/Computer Vision/Inpainting]]
 
 
 ### Image-to-image translation. Conditional GANs
-See "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
 
 
 ### GANs for spatio-temporal data generation
@@ -151,7 +150,7 @@ See "GAN-based" section in [Image-to-image translation](AI/Computer%20Vision/Ima
 
 
 ### Few/one-shot learning GANs 
-See "Few one-shot learning GANs" section in [One, few-shot learning](AI/One,%20few-shot%20learning.md)
+See "Few one-shot learning GANs" section in [[AI/One, few-shot learning]]
 
 
 ### GANs for anomaly detection

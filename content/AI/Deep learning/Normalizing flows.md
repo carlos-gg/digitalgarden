@@ -1,10 +1,10 @@
 ---
 title: "Normalizing flows"
-disableToc: false 
 ---
 
+> Normalizing flow models are generative models, i.e. they infer the underlying probability distribution of an observed dataset. With that distribution we can do a number of interesting things, namely sample new realistic points and query probability densities
+
 ## Resources
-- Normalizing flow models are generative models, i.e. they infer the underlying probability distribution of an observed dataset. With that distribution we can do a number of interesting things, namely sample new realistic points and query probability densities.
 - https://github.com/janosh/awesome-normalizing-flows
 - [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
 - [Normalizing flow models](https://deepgenerativemodels.github.io/notes/flow/)
@@ -31,5 +31,5 @@ Review papers:
 
 
 ### Image-to-image translation
-See "Flow-based" section in [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+See "Flow-based" section in [[AI/Computer Vision/Image-to-image translation]]
 

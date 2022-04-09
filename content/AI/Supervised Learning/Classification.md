@@ -1,6 +1,5 @@
 ---
 title: "Classification"
-disableToc: false 
 ---
 
 ## Resources
@@ -35,7 +34,7 @@ disableToc: false
 - #TALK [How SVM (Support Vector Machine) algorithm works](https://www.youtube.com/watch?v=1NxnPkZM9bc)
 
 ### K-nearest neighbors
-See [Regression](AI/Supervised%20Learning/Regression.md)
+See [[AI/Supervised Learning/Regression]]
 
 ### Logistic regression
 - https://en.wikipedia.org/wiki/Logistic_regression
@@ -51,10 +50,10 @@ See [Regression](AI/Supervised%20Learning/Regression.md)
 
 
 ### Gaussian Processes
-See [Regression](AI/Supervised%20Learning/Regression.md) 
+See [[AI/Supervised Learning/Regression]] 
 
 ### Tree-based approaches
-See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md), [Random forest](AI/Supervised%20Learning/Random%20forest.md) and [Gradient boosting](AI/Supervised%20Learning/Gradient%20boosting.md)
+See [[AI/Supervised Learning/Ensemble learning]], [[AI/Supervised Learning/Random forest]] and [[AI/Supervised Learning/Gradient boosting]]
 
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb
 - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/

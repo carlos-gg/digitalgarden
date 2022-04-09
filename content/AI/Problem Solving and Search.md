@@ -1,6 +1,5 @@
 ---
 title: "Problem Solving and Search"
-disableToc: false 
 ---
 
 ## Resources

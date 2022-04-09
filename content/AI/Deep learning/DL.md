@@ -1,17 +1,9 @@
 ---
 title: "Deep Learning (DL)"
-disableToc: false 
 ---
 
-See:
-- [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
-- [Geometric deep learning](AI/Deep%20learning/Geometric%20deep%20learning.md)
-- [Probabilistic deep learning](AI/Deep%20learning/Probabilistic%20deep%20learning.md)
-- [Time Series analysis](AI/Time%20Series%20analysis.md) and [Forecasting](AI/Forecasting.md)
-
-
 ## Resources
-- DL is a branch of [Machine Learning](AI/Machine%20Learning.md) and [AI](AI/AI.md) based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
+- DL is a branch of [[AI/Machine Learning]] and [[AI/AI]] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
 - DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/endymecy/awesome-deeplearning-resources
@@ -207,7 +199,7 @@ State of ML frameworks:
 
 
 ### Generalization
-See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
+See "Interpretability of deep learning models" section in [[AI/XAI]]
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
 
 - #PAPER [Understanding deep learning requires re-thinking generalization (Zhang 2016)](https://arxiv.org/abs/1611.03530)
@@ -341,25 +333,22 @@ See "Interpretability of deep learning models" section in [XAI](AI/XAI.md)
 	- https://analyticsindiamag.com/how-to-build-smaller-faster-better-deep-learning-models/
 
 ### Attention
-See: 
-- "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
-- "Channel/Visual attention" section in [CNNs](/AI/Deep%20learning/CNNs.md)
+See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual attention" section in [[/AI/Deep learning/CNNs]]
 
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
+
+## Applications
+
 ### Deep learning for multi-dimensional data
-See:
-- [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
-- [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md)
-- [Transformers](AI/Deep%20learning/Transformers.md)
-- [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
+See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
 
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 
 ### Deep learning for tabular data
 - [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 - [Applying Deep Learning on Tabular Data Using TensorFlow 2.0](https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20)
-- #CODE See Pytorch tabular in [Pytorch](AI/DS%20and%20DataEng/Pytorch.md) 
+- #CODE See Pytorch tabular in [[AI/DS and DataEng/Pytorch]] 
 - #PAPER [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019)](https://arxiv.org/abs/1909.06312)
 - #PAPER [TabNet: Attentive Interpretable Tabular Learning (Arik 2020)](https://arxiv.org/abs/1908.07442)
 - #PAPER [Converting tabular data into images for deep learning with convolutional neural networks (Zhu 2021)](https://www.nature.com/articles/s41598-021-90923-y)
@@ -374,7 +363,7 @@ See:
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
 ### Deep learning for scientific discovery
-See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
+See [[AI/Deep learning/Neural ODEs]]
 - #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
 - #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
 	- #CODE https://github.com/lululxvi/deepxde
@@ -382,6 +371,19 @@ See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 - #PAPER [SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks (Haghighat 2020)](https://arxiv.org/abs/2202.07575)
 	 - #CODE https://github.com/sciann/sciann
 - #PAPER [Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning (Jiang 2021)](http://ai.googleblog.com/2021/06/learning-accurate-physics-simulator-via.html "Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning")
+
+### Multimodal learning
+See [[AI/Deep learning/Multimodal learning]]
+
+### Geometrics DL
+See [[AI/Deep learning/Geometric deep learning]]
+
+### Bayesian/probabilistic DL
+See [[AI/Deep learning/Probabilistic deep learning]]
+
+### DL for NLP, time series and sequence modelling
+See [[AI/Time Series analysis]], [[AI/Forecasting]] and "Deep learning approaches" in [[AI/NLP]]
+
 
 ## Architectures and model types
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -393,47 +395,47 @@ See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
 
 
 ### MLPs
-See [MLPs](AI/Deep%20learning/MLPs.md)
+See [[AI/Deep learning/MLPs]]
 
 ### Deep belief network
-See [Deep belief network](AI/Deep%20learning/Deep%20belief%20network.md)
+See [[AI/Deep learning/Deep belief network]]
 
 ### Autoencoders
-See [Autoencoders](AI/Deep%20learning/Autoencoders.md)
+See [[AI/Deep learning/Autoencoders]]
 
 ### CNNs
-See [CNNs](AI/Deep%20learning/CNNs.md)
+See [[AI/Deep learning/CNNs]]
 
 ### RNNs
-See [RNNs](AI/Deep%20learning/RNNs.md)
+See [[AI/Deep learning/RNNs]]
 
 ### CapsNets
-See [CapsNets](AI/Deep%20learning/CapsNets.md)
+See [[AI/Deep learning/CapsNets]]
 
 ### GANs
-See [GANs](AI/Deep%20learning/GANs.md)
+See [[AI/Deep learning/GANs]]
 
 ### Diffusion models
-See [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+See [[AI/Deep learning/Diffusion models]]
 
 ### GNNs
-See [GNNs](AI/Deep%20learning/GNNs.md)
+See [[AI/Deep learning/GNNs]]
 
 ### Residual and dense neural networks
-See [Residual and dense neural networks](AI/Deep%20learning/Residual%20and%20dense%20neural%20networks.md)
+See [[AI/Deep learning/Residual and dense neural networks]]
 
 ### Neural ODEs
-See [Neural ODEs](AI/Deep%20learning/Neural%20ODEs.md)
+See [[AI/Deep learning/Neural ODEs]]
 
 ### Fourier Neural Operators
-See [Fourier Neural Operators](AI/Deep%20learning/Fourier%20Neural%20Operators.md)
+See [[AI/Deep learning/Fourier Neural Operators]]
 
 ### Transformers
-See [Transformers](AI/Deep%20learning/Transformers.md)
+See [[AI/Deep learning/Transformers]]
 
 ### GFlowNets
-See [GFlowNets](AI/Deep%20learning/GFlowNets.md)
+See [[AI/Deep learning/GFlowNets]]
 
 ### Neural Cellular Automata
-See [Neural Cellular Automata](AI/Deep%20learning/Neural%20Cellular%20Automata.md)
+See [[AI/Deep learning/Neural Cellular Automata]]
 

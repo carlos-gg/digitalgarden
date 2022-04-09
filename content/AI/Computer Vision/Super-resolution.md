@@ -1,9 +1,8 @@
 ---
 title: "Super-resolution"
-disableToc: false 
 ---
 
-See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+> See [[AI/Computer Vision/Image-to-image translation]]
 
 ## Resources
 - [Papers and related resources, mainly state-of-the-art and novel works in ICCV, ECCV and CVPR about image super-resolution and video super-resolution](https://github.com/HymEric/latest-development-of-ISR-VSR)
@@ -162,7 +161,7 @@ See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translati
 ### Diffusion models-based
 - #PAPER [Image Super-Resolution via Iterative Refinement (Saharia 2021)](https://arxiv.org/abs/2104.07636)
 	- https://iterative-refinement.github.io/
-	- Related to [Diffusion models](AI/Deep%20learning/Diffusion%20models.md)
+	- Related to [[AI/Deep learning/Diffusion models]]
 	- SR3 is inspired by recent work on Denoising Diffusion Probabilistic Models (DDPM) and denoising score matching
 	- SR3 adapts denoising diffusion probabilistic models to conditional image generation and performs super-resolution through a stochastic denoising process
 	- Inference starts with pure Gaussian noise and iteratively refines the noisy output using a U-Net model trained on denoising at various noise levels

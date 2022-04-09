@@ -1,10 +1,10 @@
 ---
 title: "XAI"
-disableToc: false 
 ---
 
+> Explainable AI (XAI), or Interpretable AI, is artificial intelligence (AI) in which the results of the solution can be understood by humans
+
 ## Resources
-- Explainable AI (XAI), or Interpretable AI, is artificial intelligence (AI) in which the results of the solution can be understood by humans
 - https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 - https://github.com/anguyen8/XAI-papers
 - [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
@@ -139,7 +139,7 @@ disableToc: false
 - #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
 - #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
-	- #CODE See [Code](#Code) section
+	- #CODE See [[#Code]] section
 	- Can be used for computer vision tasks
 - #PAPER [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (Yang 2021)](https://arxiv.org/abs/2109.09847)
 
@@ -164,7 +164,7 @@ disableToc: false
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
 - #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
-	- #CODE See [Code](#Code) section
+	- #CODE See [[#Code]] section
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
@@ -175,13 +175,13 @@ disableToc: false
 
 
 ### Maximum activation analysis
-- See [Neural Networks explainability](#Neural%20Networks%20explainability)
+- See [[#Neural Networks explainability]]
 - In maximum activation analysis, examples are found or simulated that maximally activate certain neurons, layers, or filters in a neural network or certain trees in decision tree ensembles. For the purposes of maximum activation analysis, low residuals for a certain tree are analogous to high-magnitude neuron output in a neural network.
 - Maximum activation analysis elucidates internal mechanisms of complex models by determining the parts of the response function that specific observations or groups of similar observations excite to the highest degree, either by high-magnitude output from neurons or by low residual output from trees.
 
 
 ### Sensitivity analysis
-- See [Neural Networks explainability](#Neural%20Networks%20explainability)
+- See [[#Neural Networks explainability]]
 - Sensitivity analysis investigates whether model behavior and outputs remain stable when data is intentionally perturbed or other changes are simulated in data. 
 - Beyond traditional assessment practices, sensitivity analysis of machine learning model predictions is perhaps the most important validation technique for machine learning models. 
 - Machine learning models can make drastically differing predictions from minor changes in input variable values. In practice, many linear model validation techniques focus on the numerical instability of regression parameters due to correlation between input variables or between input variables and the dependent variable
@@ -205,7 +205,7 @@ disableToc: false
 
 
 ### Neural Networks explainability
-See [Code](#Code) section
+See [[#Code]] section
 
 #### Resources 
 - [Using ML to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)

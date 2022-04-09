@@ -1,8 +1,6 @@
 ---
 title: AI for good (AI4G)
-disableToc: false
 ---
-
 
 ## References
 - #PAPER [AI for social good: unlocking the opportunity for positive impact (Tomasev 2020)](https://www.nature.com/articles/s41467-020-15871-z)
@@ -45,10 +43,10 @@ disableToc: false
 - [Meaningless comparisons lead to false optimism in medical machine learning (paper on Arxiv)](https://arxiv.org/abs/1707.06289)
 
 ### Bootcamps and fellowships 
-See [Bootcamps and fellowships](AI4G/Bootcamps%20and%20fellowships.md)
+See [[AI4G/Bootcamps and fellowships]]
 
 ### Entrepreneurship
-See [Entrepreneurship](AI4G/Entrepreneurship.md)
+See [[AI4G/Entrepreneurship]]
 
 ### Inititatives
 - [AI commons](https://www.aicommons.com/)

@@ -1,9 +1,8 @@
 ---
 title: "Gradient boosting"
-disableToc: false 
 ---
 
-See  [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md)
+> See  [[AI/Supervised Learning/Ensemble learning]]
 
 ## Resources
 - Outperforms Random Forests and AdaBoost. RF is easier to tune and less prone to overfitting

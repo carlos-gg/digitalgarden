@@ -75,7 +75,7 @@ See [[AI/DS and DataEng/Open ML data]]
 	- #TALK [PyData tutorial by Sebastian Raschka](https://www.youtube.com/watch?v=9fOWryQq9J8)
 	- #CODE [scikit-plot](http://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
 	- #CODE [Lightning](http://contrib.scikit-learn.org/lightning/)
-		- Large-scale linear classification, [Regression](AI/Supervised%20Learning/Regression.md) and ranking ([Learning to rank](AI/Learning%20to%20rank.md)] in Python
+		- Large-scale linear classification, [[AI/Supervised Learning/Regression]] and ranking ([[AI/Learning to rank]]] in Python
 - #CODE [mlinsights](https://github.com/sdpython/mlinsights/)
 	- http://www.xavierdupre.fr/app/mlinsights/helpsphinx/notebooks/piecewise_linear_regression.html
 - #CODE [PyCaret](https://github.com/pycaret/pycaret)

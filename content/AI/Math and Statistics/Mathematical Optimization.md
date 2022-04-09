@@ -1,6 +1,5 @@
 ---
 title: "Mathematical Optimization"
-disableToc: false 
 ---
 
 

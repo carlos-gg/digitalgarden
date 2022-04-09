@@ -1,6 +1,5 @@
 ---
 title: "Active learning"
-disableToc: false 
 ---
 
 > Active learning refers to algorithms that take an active role in the selection of which ex-amples are labeled. Active learning assumes that there is an ‘oracle’, such as a human expert, that can be queried to get ground-truth labels for selected unlabeled instances

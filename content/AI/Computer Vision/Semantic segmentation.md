@@ -1,11 +1,8 @@
 ---
 title: "Semantic segmentation"
-disableToc: false 
 ---
 
-See:
-- [Encoder-decoder networks](AI/Deep%20learning/Encoder-decoder%20networks.md) for image segmentation
-- [Object detection](AI/Computer%20Vision/Object%20detection.md)
+> See [[AI/Deep learning/Encoder-decoder networks]] for image segmentation and [[AI/Computer Vision/Object detection]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Image_segmentation

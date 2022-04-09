@@ -1,6 +1,5 @@
 ---
 title: "Background subtraction"
-disableToc: false 
 ---
 
 ## Resources
@@ -32,4 +31,6 @@ Review papers:
 - #PAPER [A 3D Atrous Convolutional Long Short-Term Memory Network for Background Subtraction](https://ieeexplore.ieee.org/abstract/document/8423055/similar#similar)
 - #PAPER [Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816)
 - #PAPER [BSCGAN - Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603)
-- #PAPER [Interactive [[AI/Deep learning/DL]] method for segmenting moving objects](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302471)
+- #PAPER [Interactive DL method for segmenting moving objects (Wang 2017)](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302471)
+- #PAPER [Deep Neural Network Concepts for Background Subtraction: A Systematic Review and Comparative Evaluation (Bouwmans 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0893608019301303)
+- #PAPER [Deep Learning based Background Subtraction: A Systematic Survey (Giraldo 2020)](https://www.researchgate.net/publication/341049745_Deep_Learning_based_Background_Subtraction_A_Systematic_Survey)

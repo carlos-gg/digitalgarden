@@ -1,6 +1,5 @@
 ---
 title: "Tensorflow, Keras"
-disableToc: false 
 ---
 
 ## Code

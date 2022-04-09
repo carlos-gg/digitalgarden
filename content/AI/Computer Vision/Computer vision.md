@@ -1,14 +1,8 @@
 ---
 title: "Computer Vision"
-disableToc: false 
 ---
 
-See 
-- [CNNs](AI/Deep%20learning/CNNs.md)
-- "MLPs for vision and language" section in [MLPs](AI/Deep%20learning/MLPs.md)
-- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
-- "Generative models for Image data" section in [Generative modelling](AI/Deep%20learning/Generative%20modelling.md)
-- [GANs](AI/Deep%20learning/GANs.md)
+> See [[AI/Deep learning/CNNs]], "MLPs for vision and language" section in [[AI/Deep learning/MLPs]], "For Computer Vision" section in [[AI/Deep learning/Transformers]], "Generative models for Image data" section in [[AI/Deep learning/Generative modelling]] and [[AI/Deep learning/GANs]]
 
 
 ## Resources
@@ -68,11 +62,7 @@ See
 
 ## References
 ### Deep learning-based CV
-See: 
-- [CNNs](AI/Deep%20learning/CNNs.md)
-- [GANs](AI/Deep%20learning/GANs.md)
-- [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
-- "For Computer Vision" section in [Transformers](AI/Deep%20learning/Transformers.md)
+> See [[AI/Deep learning/CNNs]], [[AI/Deep learning/GANs]], [[AI/Deep learning/Normalizing flows]] and "For Computer Vision" section in [[AI/Deep learning/Transformers]]
 
 - Deep Learning is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as CNNs mostly improve  prediction performance using big  data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now being solved with super-human accuracy. Image classification is a prime example of this. Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 - https://github.com/kjw0612/awesome-deep-vision
@@ -97,7 +87,7 @@ See:
 ### Traditional CV techniques
 
 #### Background subtraction
-See [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
+See [[AI/Computer Vision/Background subtraction]]
 
 #### Geometric transformations
 - https://en.wikipedia.org/wiki/Geometric_transformation

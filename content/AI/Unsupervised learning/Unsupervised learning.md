@@ -1,12 +1,12 @@
 ---
 title: "Unsupervised learning"
-disableToc: false 
 ---
+
+> Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from "unlabeled" data (a classification or categorization is not included in the observations)
 
 ## Resources
 - https://en.wikipedia.org/wiki/Unsupervised_learning
 - [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
-- Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from "unlabeled" data (a classification or categorization is not included in the observations).
 
 ## Sub-topics
 ### Kernel density estimation
@@ -16,10 +16,10 @@ disableToc: false
 - https://stackabuse.com/kernel-density-estimation-in-python-using-scikit-learn/
 
 ### Dimensionality reduction and low rank modeling
-See [Dimensionality reduction and low rank modeling](AI/Unsupervised%20learning/Dimensionality%20reduction%20and%20low%20rank%20modeling.md)
+See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
 
 ### Clustering 
-See [Clustering](AI/Unsupervised%20learning/Clustering.md)
+See [[AI/Unsupervised learning/Clustering]]
 
 ### Blind source separation
 - Blind signal separation (BSS), also known as blind source separation, is the separation of a set of source signals from a set of mixed signals, without the aid of information (or with very little information) about the source signals or the mixing process.
@@ -31,4 +31,4 @@ See [Clustering](AI/Unsupervised%20learning/Clustering.md)
 - https://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html
 
 ### Anomaly and Outlier Detection
-See [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+See [[AI/Anomaly and Outlier Detection]]

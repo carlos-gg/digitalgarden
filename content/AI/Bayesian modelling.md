@@ -1,10 +1,8 @@
 ---
 title: "Bayesian modelling"
-disableToc: false 
 ---
 
-See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md) and [Probabilistic deep learning](AI/Deep%20learning/Probabilistic%20deep%20learning.md)
-
+> See [[AI/Math and Statistics/Monte Carlo methods]] and [[AI/Deep learning/Probabilistic deep learning]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Bayesian_statistics
@@ -37,14 +35,17 @@ See [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
 ### Bayesian network
 - https://en.wikipedia.org/wiki/Bayesian_network
 
+### Naive Bayes algorithm
+- Supervised machine learning method
+- [Naive Bayes (scikit-learn)](https://scikit-learn.org/stable/modules/naive_bayes.html)
+
 ### Variational Bayesian methods
-- See [Normalizing flows](AI/Deep%20learning/Normalizing%20flows.md)
+- See [[AI/Deep learning/Normalizing flows]]
 - [Variational Bayesian inference with normalizing flows: a simple example](https://towardsdatascience.com/variational-bayesian-inference-with-normalizing-flows-a-simple-example-1db109d91062)
 	- #CODE https://github.com/fraseriainlewis/towardsdatascience
 
 ### MCMC
-See MCMC section in [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Carlo%20methods.md)
-
+- See MCMC section in [[AI/Math and Statistics/Monte Carlo methods]]
 
 ## Code
 - #CODE [Stan](https://github.com/stan-dev/stan)
@@ -52,6 +53,10 @@ See MCMC section in [Monte Carlo methods](AI/Math%20and%20Statistics/Monte%20Car
 - #CODE [Pymc3 - Probabilistic Programming in Python](http://pymc-devs.github.io/pymc3/)
 - #CODE [Arviz - Exploratory analysis of Bayesian models with Python](https://arviz-devs.github.io/arviz/)
 - #CODE [BayesicFitting - A package for model fitting and bayesian evidence calculation](https://github.com/dokester/BayesicFitting)
+
+
+## Courses
+- #COURSE [Notes for Bayesian Models for Machine Learning (Columbia U)](http://www.columbia.edu/~jwp2128/Teaching/BML_lecture_notes.pdf)
 
 
 ## Books

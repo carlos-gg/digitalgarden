@@ -1,15 +1,13 @@
 ---
 title: "Long Short-Term Memory networks (LSTMs)"
-disableToc: false 
 ---
+
+> One of the most innovative works in the NLP space is LSTMs, which can remember information from the way past and also selectively forget stuff that is not required. There are several architectures of LSTM units. A common architecture is composed of a cell (the memory part of the LSTM unit) and three "regulators", usually called gates, of the flow of information inside the LSTM unit: an input gate, an output gate and a forget gate. Some variations of the LSTM unit do not have one or more of these gates or maybe have other gates (for instance, GRUs do not have an output gate). The Forget gate decides what is relevant to keep from prior steps. The input gate decides what information is relevant to add from the current step. The output gate determines what the next hidden state should be
 
 ## Resources
 - https://en.wikipedia.org/wiki/Long_short-term_memory
-- One of the most innovative works in the NLP space is LSTMs and their variations e.g. GRU 
 - With a basic RNN cell, we see a massive drop in performance when it comes to long sequences and the network needs to remember patterns which have occurred way at the beginning to infer things correctly at a current time step. And this is because of exploding and vanishing gradients.
 - Then came Sepp Hochreiter and Jürgen Schmidhuber and invented LSTMs, which can remember information from the way past and also selectively forget stuff that is not required.
-- There are several architectures of LSTM units. A common architecture is composed of a cell (the memory part of the LSTM unit) and three "regulators", usually called gates, of the flow of information inside the LSTM unit: an input gate, an output gate and a forget gate. Some variations of the LSTM unit do not have one or more of these gates or maybe have other gates (for instance, GRUs do not have an output gate).
-- The Forget gate decides what is relevant to keep from prior steps. The input gate decides what information is relevant to add from the current step. The output gate determines what the next hidden state should be.
 - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - http://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/
 - http://machinelearningmastery.com/use-features-lstm-networks-time-series-forecasting/

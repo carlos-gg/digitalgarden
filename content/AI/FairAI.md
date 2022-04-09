@@ -1,11 +1,11 @@
 ---
 title: "Fair AI"
-disableToc: false 
+
 ---
 
+> The term ‘‘fair AI’’ refers to probabilistic decision support that prevents disparate harm (or benefit) to different subgroups
 
 ## Resources
-- The term ‘‘fair AI’’ refers to probabilistic decision support that prevents disparate harm (or benefit) to different subgroups
 - [Timnit Gebru Launches Independent AI Research Institute On Anniversary of Ouster from Google](https://www.dair-institute.org/press-release)
 - [Socially acceptable and fair AI](https://fair-ai.ch/)
 

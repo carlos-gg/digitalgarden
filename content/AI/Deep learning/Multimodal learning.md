@@ -1,10 +1,10 @@
 ---
 title: "Multimodal learning"
-disableToc: false 
 ---
 
+> General-purpose neural networks capable of handling diverse inputs and output tasks
+
 ## Resources
-- General-purpose neural networks capable of handling diverse inputs and output tasks
 - [Multimodal Deep Learning](https://multimodal-dl.mpi-inf.mpg.de/)
 - https://paperswithcode.com/methods/category/vision-and-language-pre-trained-models
 - [Vision Language models: towards multi-modal deep learning](https://theaisummer.com/vision-language-models/)

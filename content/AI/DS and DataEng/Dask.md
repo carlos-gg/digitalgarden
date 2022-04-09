@@ -1,6 +1,5 @@
 ---
 title: "Dask"
-disableToc: false 
 ---
 
 ## Resources

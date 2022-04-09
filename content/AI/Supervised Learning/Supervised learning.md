@@ -1,7 +1,8 @@
 ---
 title: "Supervised Learning"
-disableToc: false 
 ---
+
+> Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs
 
 ## Resources
 - https://en.wikipedia.org/wiki/Supervised_learning
@@ -15,22 +16,22 @@ disableToc: false
 
 
 ### Classification
-See [Classification](AI/Supervised%20Learning/Classification.md)
+See [[AI/Supervised Learning/Classification]]
 
 ### Regression
-See [Regression](AI/Supervised%20Learning/Regression.md)
+See [[AI/Supervised Learning/Regression]]
 
 ### Structured learning
 - https://en.wikipedia.org/wiki/Structured_prediction
 
 ### Ensemble learning
-See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md)
+See [[AI/Supervised Learning/Ensemble learning]]
 
 ### Class imbalance
-See [Class imbalance](AI/Supervised%20Learning/Class%20imbalance.md)
+See [[AI/Supervised Learning/Class imbalance]]
 
 ### Model selection and tuning
-See [Model selection and tuning](AI/Supervised%20Learning/Model%20selection%20and%20tuning.md)
+See [[AI/Supervised Learning/Model selection and tuning]]
 
 ### Probability calibration
 - https://en.wikipedia.org/wiki/Calibration_(statistics)

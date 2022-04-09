@@ -1,13 +1,8 @@
 ---
 title: "Recurrent Neural Networks (RNNs)"
-disableToc: false 
 ---
 
-See:
-[LSTMs](AI/Deep%20learning/LSTMs.md)
-[GRUs](AI/Deep%20learning/GRUs.md)
-[Reservoir computing](AI/Deep%20learning/Reservoir%20computing.md)
-[Transformers](AI/Deep%20learning/Transformers.md)
+> See [[AI/Deep learning/LSTMs]], [[AI/Deep learning/GRUs]], [[AI/Deep learning/Reservoir computing]] and [[AI/Deep learning/Transformers]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
@@ -35,13 +30,13 @@ See:
 - #PAPER [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks (Salinas 2019)](https://arxiv.org/abs/1704.04110)            
 
 ### LSTMs
-See [LSTMs](AI/Deep%20learning/LSTMs.md)
+See [[AI/Deep learning/LSTMs]]
 
 ### GRUs
-See [GRUs](AI/Deep%20learning/GRUs.md)
+See [[AI/Deep learning/GRUs]]
 
 ### Reservoir computing
-See [Reservoir computing](AI/Deep%20learning/Reservoir%20computing.md)
+See [[AI/Deep learning/Reservoir computing]]
 
 
 

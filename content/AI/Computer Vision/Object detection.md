@@ -1,9 +1,8 @@
 ---
 title: "Object detection"
-disableToc: false 
 ---
 
-See [Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
+> See [[AI/Computer Vision/Semantic segmentation]]
  
 ## Code
 - https://github.com/microsoft/computervision-recipes/tree/master/scenarios/detection

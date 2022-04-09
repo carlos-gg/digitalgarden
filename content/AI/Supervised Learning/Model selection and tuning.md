@@ -1,18 +1,15 @@
 ---
 title: "Model selection and tuning"
-disableToc: false 
 ---
 
-See:  
-- [AutoML](AI/AutoML.md)
-- [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
+> See [AutoML](AI/AutoML.md) and [[AI/DS and DataEng/Data engineering and computer science]]
 
 
 ## Resources
 - [Model selection and evaluation](https://scikit-learn.org/stable/model_selection.html)
 
 ## Code
-See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)
+See [[AI/DS and DataEng/ML Ops]]
 - #CODE [Optuna - A hyperparameter optimization framework](https://github.com/optuna/optuna)
 	- https://optuna.org/
 - #CODE [Yellowbrick. Visual analysis and diagnostic tools to facilitate machine learning model selection](http://www.scikit-yb.org/en/latest/)

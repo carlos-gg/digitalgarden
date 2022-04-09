@@ -1,11 +1,8 @@
 ---
 title: "Feature selection"
-disableToc: false 
 ---
 
-See:
-- "Regularized regression" section in [Regression](AI/Supervised%20Learning/Regression.md)
-- [Feature learning](AI/Feature%20learning.md)
+> See "Regularized regression" section in [[AI/Supervised Learning/Regression]] and [[AI/Feature learning]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Feature_selection

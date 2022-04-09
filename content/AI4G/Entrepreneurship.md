@@ -1,6 +1,5 @@
 ---
 title: AI4G - Entrepreneurship
-disableToc: false
 ---
 
 

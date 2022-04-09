@@ -1,6 +1,5 @@
 ---
 title: "Distributed Deep learning"
-disableToc: false 
 ---
 
 ## Resources
@@ -16,7 +15,7 @@ disableToc: false
 - #TALK [Scaling Neural Networks Training - Thorsten Kurth](https://www.youtube.com/watch?v=cRjiwIi_kuc)
 
 ## Code
-See [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md), Distributed training section
+See "Distributed training" section in [[AI/DS and DataEng/Tensorflow, keras]]
 
 - #CODE [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
 	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray

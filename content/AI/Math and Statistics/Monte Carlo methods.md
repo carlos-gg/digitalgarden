@@ -1,6 +1,5 @@
 ---
 title: "Monte Carlo methods"
-disableToc: false 
 ---
 
 

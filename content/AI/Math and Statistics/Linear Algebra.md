@@ -1,8 +1,6 @@
 ---
 title: "Linear Algebra"
-disableToc: false 
 ---
-
 
 ## Resources
 - https://en.wikipedia.org/wiki/Linear_algebra

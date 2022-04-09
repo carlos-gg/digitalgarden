@@ -1,7 +1,8 @@
 ---
 title: "Data Science"
-disableToc: false 
 ---
+
+> Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains
 
 ## Resources
 - https://en.wikipedia.org/wiki/Data_science
@@ -27,7 +28,7 @@ disableToc: false
 - [DS vs STATS vs DATA-ENG](https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/)
 
 ### Data Science for good
-- See [AI4good](AI4G/AI4good.md)
+- See [[AI4G/AI4good]]
 
 ## References
 - #PAPER [Science and data science (Blei 2017)](https://www.pnas.org/content/114/33/8689)
@@ -104,13 +105,13 @@ disableToc: false
 ## Related fields
 
 ### Math and Statistics
-See [Math and Statistics](AI/Math%20and%20Statistics/Math%20and%20Statistics.md)
+See [[AI/Math and Statistics/Math and Statistics]]
 
 ### Machine Learning
-See [Machine Learning](AI/Machine%20Learning.md)
+See [[AI/Machine Learning]]
 
 ### Data engineering and Computer Science
-See [Data engineering and computer science](AI/DS%20and%20DataEng/Data%20engineering%20and%20computer%20science.md)
+See [[AI/DS and DataEng/Data engineering and computer science]]
 
 ### Visualization
-See [Visualization](AI/DS%20and%20DataEng/Visualization.md)
+See [[AI/DS and DataEng/Visualization]]

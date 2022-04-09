@@ -1,6 +1,5 @@
 ---
 title: "Image and video captioning"
-disableToc: false 
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: "Visualization"
-disableToc: false 
 ---
 
 ## Resources

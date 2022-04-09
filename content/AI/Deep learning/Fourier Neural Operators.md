@@ -1,6 +1,5 @@
 ---
 title: "Fourier Neural Operator"
-disableToc: false 
 ---
 
 ## References

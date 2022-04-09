@@ -1,12 +1,8 @@
 ---
 title: "Probabilistic deep learning"
-disableToc: false 
 ---
 
-See:
-- [Bayesian modelling](AI/Bayesian%20modelling.md)
-- [GFlowNets](AI/Deep%20learning/GFlowNets.md)
-
+> See [[AI/Bayesian modelling]] and [[AI/Deep learning/GFlowNets]]
 
 ## Resources
 - [A Comprehensive Introduction to Bayesian Deep Learning](https://jorisbaan.nl/2021/03/02/introduction-to-bayesian-deep-learning.html)

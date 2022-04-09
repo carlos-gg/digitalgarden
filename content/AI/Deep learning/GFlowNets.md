@@ -1,6 +1,5 @@
 ---
 title: "GFlowNets"
-disableToc: false 
 ---
 
 

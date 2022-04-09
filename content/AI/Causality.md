@@ -1,6 +1,5 @@
 ---
 title: "Causality"
-disableToc: false 
 ---
 
 ## Resources

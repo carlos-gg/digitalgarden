@@ -1,14 +1,8 @@
 ---
 title: "Forecasting"
-disableToc: false 
 ---
 
-See: 
-- [Time Series analysis](AI/Time%20Series%20analysis.md)
-- [Regression](AI/Supervised%20Learning/Regression.md)
-- [RNNs](AI/Deep%20learning/RNNs.md)
-- "Sequence time series modelling" section in [CNNs](AI/Deep%20learning/CNNs.md)
-- "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
+> See [[AI/Time Series analysis]], [[AI/Supervised Learning/Regression]], [[AI/Deep learning/RNNs]], "Sequence time series modelling" section in [[AI/Deep learning/CNNs]] and "For NLP" section in [[AI/Deep learning/Transformers]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Forecasting
@@ -60,4 +54,4 @@ See:
 - #PAPER [An Experimental Review on Deep Learning Architectures for Time Series Forecasting (Lara-Benitez 2021)](https://arxiv.org/abs/2103.12057)
 - #PAPER [Temporal Fusion Transformers for interpretable multi-horizon time series forecasting (Lim 2021)](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
 	- https://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html
-	- [Transformers](AI/Deep%20learning/Transformers.md)
+	- [[AI/Deep learning/Transformers]]

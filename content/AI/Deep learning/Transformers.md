@@ -1,6 +1,5 @@
 ---
 title: "Transformers"
-disableToc: false 
 ---
 
 ## Resources
@@ -200,7 +199,7 @@ disableToc: false
 
 
 ## Multi-modal transformers
-See [Multimodal learning](AI/Deep%20learning/Multimodal%20learning.md)
+See [[AI/Deep learning/Multimodal learning]]
 
 ## For RL
-See ^decisiontransformer in [Reinforcement learning](AI/Reinforcement%20learning.md)
+See ^decisiontransformer in [[AI/Reinforcement learning]]

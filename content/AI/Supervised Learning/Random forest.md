@@ -1,14 +1,14 @@
 ---
 title: "Random forest"
-disableToc: false 
 ---
 
-See [Ensemble learning](AI/Supervised%20Learning/Ensemble%20learning.md)
+> Bagging and random forests are “bagging” algorithms that aim to reduce the complexity of models that overfit the training data. In contrast, boosting is an approach to increase the complexity of models that suffer from high bias, that is, models that underfit the training data
+
+> See [[AI/Supervised Learning/Ensemble learning]]
 
 ## Resources
 - https://github.com/kjw0612/awesome-random-forest
 - https://sebastianraschka.com/faq/docs/bagging-boosting-rf.html
-- Bagging and random forests are “bagging” algorithms that aim to reduce the complexity of models that overfit the training data. In contrast, boosting is an approach to increase the complexity of models that suffer from high bias, that is, models that underfit the training data
 - https://scikit-learn.org/stable/modules/ensemble.html#random-forests
 - http://www.listendata.com/2014/11/random-forest-with-r.html
 - https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883

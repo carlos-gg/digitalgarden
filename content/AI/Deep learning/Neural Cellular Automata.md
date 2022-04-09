@@ -1,6 +1,5 @@
 ---
 title: "Neural Cellular Automata"
-disableToc: false 
 ---
 
 

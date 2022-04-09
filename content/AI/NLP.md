@@ -1,12 +1,12 @@
 ---
 title: "Natural Language Processing (NLP)"
-disableToc: false 
 ---
 
+> A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language
+
 ## Resources
-- NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
 - https://en.wikipedia.org/wiki/Natural_language_processing
-- A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language
+- NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
 - https://github.com/keon/awesome-nlp
 - [The most important NLP highlights of 2018](https://github.com/omarsar/nlp_highlights)
 - [NLP - Udemy ML](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/NLP%20(Natural%20Language%20Processing).ipynb)
@@ -189,14 +189,14 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 
 
 #### CNN-based 
-See [CNNs](AI/Deep%20learning/CNNs.md)
+See [[AI/Deep learning/CNNs]]
 - [Convolutional Neural Network for Sentence Classification](https://cnvrg.io/cnn-sentence-classification/)
 - http://www.kdnuggets.com/2017/05/deep-learning-extract-knowledge-job-descriptions.html
 - [How to read: Character level deep learning](https://offbit.github.io/how-to-read/)
 - #PAPER [Connectionist Temporal Classification](https://distill.pub/2017/ctc/)
 
 #### RNN-based 
-See [RNNs](AI/Deep%20learning/RNNs.md)
+See [[AI/Deep learning/RNNs]]
 - [RNN for NLP](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing)
 - http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
 - #PAPER [RRA: Recurrent Residual Attention for Sequence Learning (2017)](https://arxiv.org/abs/1709.03714)
@@ -217,4 +217,4 @@ See [RNNs](AI/Deep%20learning/RNNs.md)
 	- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 
 #### Transformer-based
-See "For NLP" section in [Transformers](AI/Deep%20learning/Transformers.md)
+See "For NLP" section in [[AI/Deep learning/Transformers]]

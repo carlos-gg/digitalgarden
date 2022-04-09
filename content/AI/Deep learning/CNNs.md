@@ -1,10 +1,10 @@
 ---
 title: "Convolutional Neural Networks (CNNs)"
-disableToc: false 
 ---
 
-## Resources
-- A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics. 
+> A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics
+
+## Resources 
 - https://github.com/kjw0612/awesome-deep-vision
 - https://en.wikipedia.org/wiki/Convolutional_neural_network
 - [CNNs chapter in d2l.ai](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
@@ -105,31 +105,31 @@ disableToc: false
 
 
 ### Object classification, image recognition
-See [Object classification, image recognition](AI/Computer%20Vision/Object%20classification,%20image%20recognition.md)
+See [[AI/Computer Vision/Object classification, image recognition]]
 
 ### Semantic segmentation
-See [Semantic segmentation](AI/Computer%20Vision/Semantic%20segmentation.md)
+See [[AI/Computer Vision/Semantic segmentation]]
 
 ### Object detection
-See [Object detection](AI/Computer%20Vision/Object%20detection.md)
+See [[AI/Computer Vision/Object detection]]
 
 ### Video segmentation and prediction
-See [Video segmentation and prediction](AI/Computer%20Vision/Video%20segmentation%20and%20prediction.md)
+See [[AI/Computer Vision/Video segmentation and prediction]]
 
 ### Image and video captioning
-See [Image and video captioning](AI/Computer%20Vision/Image%20and%20video%20captioning.md)
+See [[AI/Computer Vision/Image and video captioning]]
 
 ### Image-to-image translation
-See [Image-to-image translation](AI/Computer%20Vision/Image-to-image%20translation.md)
+See [[AI/Computer Vision/Image-to-image translation]]
 
 ### Super-resolution 
-See "CNN-based" section in [Super-resolution](AI/Computer%20Vision/Super-resolution.md)
+See "CNN-based" section in [[AI/Computer Vision/Super-resolution]]
 
 ### Inpainting
-See "CNN-based" section in [Inpainting](AI/Computer%20Vision/Inpainting.md)
+See "CNN-based" section in [[AI/Computer Vision/Inpainting]]
 
 ### Background subtraction, foreground detection
-See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Background%20subtraction.md)
+See "CNN-based" section in [[AI/Computer Vision/Background subtraction]]
 
 ### Edge detection
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
@@ -157,7 +157,7 @@ See "CNN-based" section in [Background subtraction](AI/Computer%20Vision/Backgro
 
 
 ### Visual/Channel attention and Saliency
-See "Neural Networks explainability" section in [XAI](AI/XAI.md)
+See "Neural Networks explainability" section in [[AI/XAI]]
 
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context

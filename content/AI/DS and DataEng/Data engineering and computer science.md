@@ -1,11 +1,10 @@
 ---
 title: "Data Engineering and Computer Science"
-disableToc: false 
 ---
 
+> Data engineering role is ensuring uninterrupted flow of data between servers and applications
 
 ## Resources
-- Data engineering role is ensuring uninterrupted flow of data between servers and applications
 - https://github.com/ossu/computer-science
 - [What is Data Engineering and Why Is It So Important?](https://quanthub.com/what-is-data-engineering/)
 - [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
@@ -170,12 +169,11 @@ disableToc: false
 
 
 ## Subtopics
-
 ### Open datasets (for ML, DL and DS)
-See [Open ML data](AI/DS%20and%20DataEng/Open%20ML%20data.md)
+See [[AI/DS and DataEng/Open ML data]]
 
 ### MLOps
-See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)
+See [[AI/DS and DataEng/ML Ops]]
 
 ### Feature engineering
 - https://en.wikipedia.org/wiki/Feature_engineering
@@ -184,7 +182,7 @@ See [ML Ops](AI/DS%20and%20DataEng/ML%20Ops.md)
 - https://tech.zalando.com/blog/feature-extraction-science-or-engineering/
 
 #### Feature extraction
-See [Feature learning](AI/Feature%20learning.md) techniques in [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
+See [[AI/Feature learning]] techniques in [[AI/Computer Vision/Computer vision]]
 
 
 ### Data mining

@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement learning"
-disableToc: false 
+title: "Reinforcement learning (RL)"
 ---
 
+> Reinforcement learning (RL) is an area of [[AI/Machine Learning]] concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward
+
 ## Resources
-- Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input.  Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
 - https://en.wikipedia.org/wiki/Reinforcement_learning
+- Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input. Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
 - [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html)
 - [Andrej Karpathy's introduction to RL](http://karpathy.github.io/2016/05/31/rl/)
 - [Evolution strategies vs RL](https://blog.openai.com/evolution-strategies/)

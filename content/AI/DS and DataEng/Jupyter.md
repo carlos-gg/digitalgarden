@@ -1,6 +1,5 @@
 ---
 title: "Jupyter"
-disableToc: false 
 ---
 
 ## Resources
@@ -35,5 +34,3 @@ disableToc: false
 - #PAPER [Interactive Supercomputing with Jupyter (Thomas 2021)](https://authorea.com/doi/full/10.22541/au.161230518.84458221) ^thomas21hpcjupyter
 
 
-## Ipython
-- Save interactive ipython session: `%history -f /tmp/history.py`

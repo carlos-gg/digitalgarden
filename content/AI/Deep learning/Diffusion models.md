@@ -1,6 +1,5 @@
 ---
 title: "Diffusion models"
-disableToc: false 
 ---
 
 
