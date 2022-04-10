@@ -2,11 +2,12 @@
 title: "Deep Learning (DL)"
 ---
 
+> Deep learning (DL), also known as deep structured learning, is part of a broader family of [[AI/Machine Learning]] methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data
+
 ## Resources
-- DL is a branch of [[AI/Machine Learning]] and [[AI/AI]] based on a set of algorithms that attempt to model high level abstractions in data by using a deep graph with multiple processing layers, composed of multiple linear and non-linear transformations.
-- DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. 
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/endymecy/awesome-deeplearning-resources
+- https://en.wikipedia.org/wiki/Deep_learning
 - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](http://karpathy.github.io/2022/03/14/lecun1989/)
