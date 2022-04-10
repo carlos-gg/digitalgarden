@@ -199,7 +199,6 @@ State of ML frameworks:
 
 
 ### Generalization
-See "Interpretability of deep learning models" section in [[AI/XAI]]
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
 
 - #PAPER [Understanding deep learning requires re-thinking generalization (Zhang 2016)](https://arxiv.org/abs/1611.03530)
@@ -337,6 +336,9 @@ See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual a
 
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
+
+### Explainability methods for Neural Networks
+See [[AI/Deep learning/Explainability methods for NNs]]
 
 ## Applications
 

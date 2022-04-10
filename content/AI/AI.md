@@ -124,4 +124,4 @@ See [[AI/Automated planning]]
 See [[AI/FairAI]]
 
 ### Explainable AI
-See [[AI/XAI]]
+See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]
