@@ -2,7 +2,12 @@
 title: "Forecasting"
 ---
 
-> See [[AI/Time Series analysis]], [[AI/Supervised Learning/Regression]], [[AI/Deep learning/RNNs]], "Sequence time series modelling" section in [[AI/Deep learning/CNNs]] and "For NLP" section in [[AI/Deep learning/Transformers]]
+> See: 
+> - [[AI/Time Series analysis]]
+> - [[AI/Supervised Learning/Regression]]
+> - [[AI/Deep learning/RNNs]]
+> - "Sequence time series modelling" section in [[AI/Deep learning/CNNs]]
+> - "For NLP" section in [[AI/Deep learning/Transformers]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Forecasting

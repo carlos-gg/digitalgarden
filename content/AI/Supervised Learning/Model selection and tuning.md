@@ -2,7 +2,9 @@
 title: "Model selection and tuning"
 ---
 
-> See [AutoML](AI/AutoML.md) and [[AI/DS and DataEng/Data engineering and computer science]]
+> See: 
+> - [[AI/AutoML]] 
+> - [[AI/DS and DataEng/Data engineering and computer science]]
 
 
 ## Resources

@@ -2,7 +2,11 @@
 title: "Recurrent Neural Networks (RNNs)"
 ---
 
-> See [[AI/Deep learning/LSTMs]], [[AI/Deep learning/GRUs]], [[AI/Deep learning/Reservoir computing]] and [[AI/Deep learning/Transformers]]
+> See:
+> - [[AI/Deep learning/LSTMs]]
+> - [[AI/Deep learning/GRUs]]
+> - [[AI/Deep learning/Reservoir computing]] 
+> - [[AI/Deep learning/Transformers]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Recurrent_neural_network

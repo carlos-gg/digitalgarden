@@ -30,6 +30,10 @@ title: "Math and Statistics"
 	- [Coursera Inference Version 3](https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
 - #COURSE [Probability and Statistics (Stanford online)](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
 - #COURSE [Modern Applied Statistics: Elements of Statistical Learning (Statistics 315a, Stanford)](http://statweb.stanford.edu/~tibs/stat315a/)
+- #COURSE [Calculus introductory courses (MIT)](https://ocw.mit.edu/high-school/mathematics/)
+	- [Single Variable Calculus (18.01SC)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010)
+	- [Multivariable Calculus (18.02SC)](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
+	- [Highlights of calculus (Strang)](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010)
 - #TALK [Statistics in Python (Varoquaux 2015 Euroscipy)](https://www.youtube.com/watch?v=yaSgoGLXKOg)
 
 ## Code
@@ -62,11 +66,6 @@ title: "Math and Statistics"
 - [Stanford-cs-229 ML, algebra and calculus refresher](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf)
 - https://scipy-latinamerica.github.io/revista.io/blog/2018/10/20/introduccion-al-calculo-con-python/
 - https://www.khanacademy.org/math/multivariable-calculus
-
-- #COURSE [Calculus introductory courses (MIT)](https://ocw.mit.edu/high-school/mathematics/)
-	- [Single Variable Calculus (18.01SC)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010)
-	- [Multivariable Calculus (18.02SC)](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
-	- [Highlights of calculus (Strang)](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010)
 
 ### Linear Algebra
 See [[AI/Math and Statistics/Linear Algebra]]
@@ -144,16 +143,29 @@ See [[AI/Active learning]]
 
 #### Frequentist inference
 - https://en.wikipedia.org/wiki/Frequentist_inference
-- [Statistical Hypothesis testing](http://youtu.be/Wqvx6_12ZMs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ)
+- https://en.wikipedia.org/wiki/Nonparametric_statistics
+- Statistical Hypothesis testing
+	- http://youtu.be/Wqvx6_12ZMs?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-hypothesis-testing
 	- Hypothesis testing is concerned with making decisions using data. 
 	- To make decisions using data, we need to characterize the kinds of conclusions we can make. Classical hypothesis testing is concerned with deciding between two decisions (things get much harder if there’s more than two). The first, a null hypothesis is specified that represents the status quo. This hypothesis is usually labeled, H_0. This is what we assume by default. The alternative or research hypothesis is what we require evidence to conclude. This hypothesis is usually labeled H_a, or sometimes H_1 (or some other number other than 0). So to reiterate, the null hypothesis is assumed true and statistical evidence is required to reject it in favor of a research or alternative hypothesis	
-	- t-test
+	- [t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 		- http://www.cs.cornell.edu/~asampson/blog/statsmistakes.html
 		- https://www.quora.com/What-is-an-intuitive-explanation-of-the-t-test-in-hypothesis-testing
 		- https://medium.freecodecamp.org/the-t-distribution-a-key-statistical-concept-discovered-by-a-beer-brewery-dbfdc693184
-	- z-test
-	- f-test
+		- Good for small samples? 
+			- Historically, the very first demonstration of the t-test (in "Student"'s 1908 paper) was in an application to sample sizes of size four. Indeed, obtaining improved results for smallsamples is the test's claim to fame: once the sample size reaches 40 or so, the t-test is not substantially different from the z-tests researchers had been applying throughout the 19th century.  
+			- There is no minimum sample size for the t test to be valid. Validity requires that the assumptions for the test statistic hold approximately. Those assumptions are in the one sample case that the data are iid normal (or approximately normal) with mean 0 under the null hypothesis and a variance that is unknown but estimated from the sample. In the two sample case it is that both samples are independent of each other and each sample consists of iid normal variables with the two samples having the same mean and a common unknown variance under the null hypothesis. A pooled estimate of variance is used for the statistic. 
+			- The problem with low sample size is with regard to the power of the test. 
+			- Using the Student’s t-test with extremely small sample sizes (Winter 2013). It is concluded that there are no principal objections to using a t-test with Ns as small as 2. This study showed that there are no objections to using a t-test with extremely small samples, as long as the effect size is large.  
+	- [z-test](https://en.wikipedia.org/wiki/Z-test)
+	- [f-test](https://en.wikipedia.org/wiki/F-test)
+	- [Mann–Whitney U test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)
+	- [Welch's t-test](https://en.wikipedia.org/wiki/Welch%27s_t-test)
+	- [Anderson–Darling test](https://en.wikipedia.org/wiki/Anderson%E2%80%93Darling_test)
+	- [Kolmogorov–Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test)
+		- In essence, the test answers the question "What is the probability that this collection of samples could have been drawn from that probability distribution?" or, in the second case, "What is the probability that these two sets of samples were drawn from the same (but unknown) probability distribution?"
+		- https://asaip.psu.edu/Articles/beware-the-kolmogorov-smirnov-test/
 - Confidence intervals
 	- http://youtu.be/u85aQ0mtiZ8?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
 	- https://leanpub.com/LittleInferenceBook/read#leanpub-auto-confidence-intervals
@@ -226,6 +238,7 @@ See [[AI/Supervised Learning/Regression]]
 - Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[AI/Machine Learning]]
 
 ### Compressed sensing
+See [[AI/Unsupervised learning/Sparse dictionary learning]]
 - https://en.wikipedia.org/wiki/Compressed_sensing
 - Compressed sensing(also known as compressive sensing, compressive sampling, or sparse sampling) is a signal processing technique for efficiently acquiring and reconstructing a signal, by finding solutions to underdetermined linear systems. This is based on the principle that, through optimization, the sparsity of a signal can be exploited to recover it from far fewer samples than required by the Shannon-Nyquist sampling theorem.
 - There are two conditions under which recovery is possible: 

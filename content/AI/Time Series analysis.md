@@ -3,7 +3,11 @@ title: "Time series analysis"
 disableToc: false 
 ---
 
-> See [[AI/Forecasting]], [[AI/Deep learning/RNNs]], "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]] and "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
+> See: 
+> - [[AI/Forecasting]]
+> - [[AI/Deep learning/RNNs]]
+> - "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]]
+> - "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series

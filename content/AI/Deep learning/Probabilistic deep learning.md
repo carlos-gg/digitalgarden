@@ -2,7 +2,9 @@
 title: "Probabilistic deep learning"
 ---
 
-> See [[AI/Bayesian modelling]] and [[AI/Deep learning/GFlowNets]]
+> See: 
+> - [[AI/Bayesian modelling]] 
+> - [[AI/Deep learning/GFlowNets]]
 
 ## Resources
 - [A Comprehensive Introduction to Bayesian Deep Learning](https://jorisbaan.nl/2021/03/02/introduction-to-bayesian-deep-learning.html)
@@ -32,7 +34,8 @@ title: "Probabilistic deep learning"
 - #CODE [Blitz - Bayesian Layers in Torch Zoo](https://github.com/piEsposito/blitz-bayesian-deep-learning)
 - #CODE [Bean machine (Meta/Facebook)](https://github.com/facebookresearch/beanmachine)
 	- https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/
-- #CODE Edwardlib - Edward is a Python library for probabilistic modeling, inference, and criticism
+- #CODE [Edwardlib](http://edwardlib.org/)
+	- Edward is a Python library for probabilistic modeling, inference, and criticism
 	- https://theintelligenceofinformation.wordpress.com/2017/06/02/pydata-london-2017-bayesian-deep-learning-talk-by-andrew-rowan/
 	- #TALK https://www.youtube.com/watch?v=I09QVNrUS3Q
 	- http://willwolf.io/2017/06/15/random-effects-neural-networks/

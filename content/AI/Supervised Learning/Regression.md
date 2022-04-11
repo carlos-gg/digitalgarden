@@ -2,7 +2,10 @@
 title: "Regression"
 ---
 
-> See [[AI/Time Series analysis]], [[AI/Deep learning/RNNs]] and "Sequence time series modelling" section in [[AI/Deep learning/CNNs]]
+> See: 
+> - [[AI/Time Series analysis]]
+> - [[AI/Deep learning/RNNs]]
+> - "Sequence time series modelling" section in [[AI/Deep learning/CNNs]]
 
 
 ## Resources

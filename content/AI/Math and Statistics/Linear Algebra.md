@@ -14,6 +14,7 @@ title: "Linear Algebra"
 - http://nbviewer.jupyter.org/github/relopezbriega/relopezbriega.github.io/blob/master/downloads/LinearAlgebraPython.ipynb
 
 ### Matrix decompositions
+See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
 - https://en.wikipedia.org/wiki/Matrix_decomposition
 - http://people.duke.edu/~ccc14/sta-663/LinearAlgebraMatrixDecompWithSolutions.html
 - http://hameddaily.blogspot.be/2016/12/simple-matrix-factorization-with.html
@@ -30,18 +31,7 @@ title: "Linear Algebra"
 - [QR decomposition](https://en.wikipedia.org/wiki/QR_decomposition)
 
 #### SVD
-- [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
-- https://mathworld.wolfram.com/SingularValueDecomposition.html
-- [Geometric explanation of SVD and applications](http://www.ams.org/publicoutreach/feature-column/fcarc-svd)
-- [Singular Value Decomposition as Simply as Possible](https://gregorygundersen.com/blog/2018/12/10/svd/)
-- https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
-- #TALK [SVD (MIT, Gilbert Strang)](https://www.youtube.com/watch?v=mBcLRGuAFUk)
-- #TALK [Singular Value Decomposition (SVD): Mathematical Overview](https://www.youtube.com/watch?v=nbBvuuNVfco)
-
-##### Randomized Singular Value Decomposition
-- https://gregorygundersen.com/blog/2019/01/17/randomized-svd/
-- [Fast Randomized SVD (Meta/Facebook research)](https://research.facebook.com/blog/2014/09/fast-randomized-svd/)
-- #TALK [Randomized Singular Value Decomposition (SVD)](https://www.youtube.com/watch?v=fJ2EyvR85ro)
+See [[SVD]]
 
 ## Code
 - #CODE [Tensorly](https://github.com/tensorly/tensorly)
@@ -50,8 +40,7 @@ title: "Linear Algebra"
 	- https://github.com/JeanKossaifi/tensorly-notebooks/
 	- http://tensorly.org/stable/modules/api.html#module-tensorly.decomposition
 - #CODE [Eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-- #CODE [Nimfa](https://github.com/marinkaz/nimfa)
-- #CODE [Pymf](https://github.com/cthurau/pymf)
+
 
 ## Books
 - #BOOK [Templates for the Solution of Algebraic Eigenvalue Problems (Bai, Demmel 2000)](https://www.cs.ucdavis.edu/~bai/ET/contents.html)

@@ -2,10 +2,11 @@
 title: "Ensemble learning"
 ---
 
+> In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. In general, ensembling is a technique of combining two or more algorithms of similar or dissimilar types called base learners. This is done to make a more robust system (improving generalizability / robustness over a single estimator) which incorporates the predictions from all the base learners
+
 ## Resources
 - https://en.wikipedia.org/wiki/Ensemble_learning
-- In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. By analogy, ensemble techniques have been used also in [[AI/Unsupervised learning/Unsupervised learning]] scenarios, for example in consensus clustering or in anomaly or [[AI/Anomaly and Outlier Detection]]
-- In general, ensembling is a technique of combining two or more algorithms of similar or dissimilar types called base learners. This is done to make a more robust system (improving generalizability / robustness over a single estimator) which incorporates the predictions from all the base learners.
+- By analogy, ensemble techniques have been used also in [[AI/Unsupervised learning/Unsupervised learning]] scenarios, for example in consensus clustering or in anomaly or [[AI/Anomaly and Outlier Detection]]
 - http://scikit-learn.org/stable/modules/ensemble.html
 - http://mlwave.com/kaggle-ensembling-guide/
 - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/

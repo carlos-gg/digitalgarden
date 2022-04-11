@@ -2,7 +2,9 @@
 title: "Feature selection"
 ---
 
-> See "Regularized regression" section in [[AI/Supervised Learning/Regression]] and [[AI/Feature learning]]
+> See:
+> - "Regularized regression" section in [[AI/Supervised Learning/Regression]] 
+> - [[AI/Feature learning]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Feature_selection

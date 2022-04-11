@@ -2,7 +2,11 @@
 title: "Object classification, image recognition"
 ---
 
-> See [[AI/Deep learning/CNNs]], [[AI/Computer Vision/Object detection]], [[AI/Computer Vision/Semantic segmentation]] and [[AI/Deep learning/Residual and dense neural networks]]
+> See: 
+> - [[AI/Deep learning/CNNs]]
+> - [[AI/Computer Vision/Object detection]]
+> - [[AI/Computer Vision/Semantic segmentation]]
+> - [[AI/Deep learning/Residual and dense neural networks]]
 
 ## Resources
 - https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/

@@ -5,7 +5,8 @@ title: "Dimensionality reduction and low-rank modeling"
 ## Resources and references
 - [The Beginner's Guide to Dimensionality Reduction](https://idyll.pub/post/visxai-dimensionality-reduction-1dbad0a67a092b007c526a45/)
 - [Distances, Neighborhoods, or Dimensions? Projection Literacy for the Analysis of Multivariate Data](https://visxprojections.dbvis.de/client/index.html)
-- [Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
+- [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+- [Sklearn - Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
 - Projection techniques transform high-dimensional data to a lower-dimensional space while preserving its main structure. Often, the data is transformed to two-dimensional space and visualized as a scatter plot as a means to analyze and understand the data
 - Two categories: linear and non-linear projection techniques. 
 
@@ -13,11 +14,7 @@ title: "Dimensionality reduction and low-rank modeling"
 - Linear projection techniques produce a linear transformation of data dimensions in lower-dimensional space. Proximity between data points indicates similarity. The more similar data points are, the closer they are located to each other and vice versa. This is why linear projection techniques are also known as global techniques.
 
 #### Principal component analysis (PCA)
-- Principal component analysis(PCA) is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. The number of principal components is less than or equal to the number of original variables. This transformation is defined in such a way that the first principal component has the largest possible variance(that is, accounts for as much of the variability in the data as possible), and each succeeding component in turn has the highest variance possible under the constraint that it is orthogonal to the preceding components. The resulting vectors are an uncorrelated orthogonal basis set.
-- http://setosa.io/ev/principal-component-analysis/
-- https://www.neuraldesigner.com/blog/principal-components-analysis
-- #PAPER [EigenGame: PCA as a Nash Equilibrium (Gemp 2021)](https://openreview.net/forum?id=NzTU59SYbNq)
-	- https://pub.towardsai.net/deepmind-wants-to-reimagine-one-of-the-most-important-algorithms-in-machine-learning-381884d42de
+See [[PCA]]
 
 #### Non-negative matrix factorization (NMF)
 - Non-negative matrix factorization (NNMF, or NMF) is a method for factorizing a matrix into two lower rank matrices with strictly non-negative elements.
@@ -63,3 +60,10 @@ title: "Dimensionality reduction and low-rank modeling"
 #### Uniform Manifold Approximation and Projection (UMAP)
 - #PAPER [UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction (McInnes 2020)](https://arxiv.org/abs/1802.03426)
 
+
+## Code
+- #CODE [Nimfa](https://github.com/marinkaz/nimfa)
+- #CODE [Pymf](https://github.com/cthurau/pymf)
+- #CODE [HyperSpy](https://github.com/hyperspy/hyperspy)
+	- https://hyperspy.readthedocs.io/en/stable/user_guide/mva.html
+	- HyperSpy provides easy access to several “machine learning” algorithms that can be useful when analysing multi-dimensional data. In particular, decomposition algorithms, such as principal component analysis (PCA), or blind source separation (BSS) algorithms, such as independent component analysis (ICA), are available

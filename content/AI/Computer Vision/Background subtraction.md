@@ -13,6 +13,10 @@ title: "Background subtraction"
 - #BOOK [Background modeling and Foreground Detection for video surveillance (Bouwmans, 2014 CRC)](https://sites.google.com/site/backgroundmodeling/)
 
 
+## Code
+- [LRSlibrary](https://github.com/andrewssobral/lrslibrary) 
+	- Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos 
+
 ## References
 Review papers:
 - #PAPER [A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos](https://www.sciencedirect.com/science/article/pii/S1077314213002361)
