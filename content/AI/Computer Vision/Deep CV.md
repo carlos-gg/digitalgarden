@@ -2,13 +2,13 @@
 title: "Deep CV"
 ---
 
-> DL is used in the domain of digital image processing to solve difficult problems (e.g.image colourization, classification, segmentation and  detection). DL methods such as CNNs mostly improve prediction performance using big data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now solved with super-human accuracy (eg image classification). Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
+> DL is used in the domain of digital image processing to solve difficult problems (e.g.image colorization, classification, segmentation and  detection). DL methods such as CNNs mostly improve prediction performance using big data and plentiful computing resources and have pushed the boundaries of what was possible. Problems which were assumed to be unsolvable are now solved with super-human accuracy (eg image classification). Since being reignited by Krizhevsky, Sutskever and Hinton in 2012, DL has dominated the domain ever since due to a substantially better performance compared to traditional methods.
 
 > See:
 > - [[AI/Deep learning/CNNs]]
 > - [[AI/Deep learning/GANs]]
 > - [[AI/Deep learning/Normalizing flows]] 
-> - [[AI/Deep learning/Transformers#For Computer Vision]]
+> - "For Computer Vision" section in [[AI/Deep learning/Transformers]]
 
 
 ## Resources

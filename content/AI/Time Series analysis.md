@@ -20,7 +20,10 @@ disableToc: false
 
 ## Code
 See code in [[AI/Forecasting]]
+- #PAPER [A systematic review of Python packages for time series analysis (Siebert 2021)](https://arxiv.org/pdf/2104.07406)            
 
+- #CODE [Sktime](https://github.com/alan-turing-institute/sktime)
+	- https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55
 - #CODE [Stumpy](https://github.com/TDAmeritrade/stumpy)
 	- STUMPY is a powerful and scalable Python library for modern time series analysis
 - #CODE [Orbit](https://github.com/uber/orbit)
@@ -36,8 +39,6 @@ See code in [[AI/Forecasting]]
 	- https://facebookresearch.github.io/Kats/
 	- https://engineering.fb.com/2021/06/21/open-source/kats/
 	- https://towardsdatascience.com/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057
-- #CODE [Sktime](https://github.com/alan-turing-institute/sktime)
-	- https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55
 - #CODE [Tsfresh - Time Series Feature extraction based on scalable hypothesis tests](https://github.com/blue-yonder/tsfresh)
 	- [Automatic extraction of relevant features from time series](http://tsfresh.readthedocs.io)
 - #CODE [TSFEL](https://github.com/fraunhoferportugal/tsfel)

@@ -104,7 +104,7 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
 - #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
-	- #CODE See [[#Code]] section
+	- #CODE See Code section
 	- Can be used for computer vision tasks
 - #PAPER [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (Yang 2021)](https://arxiv.org/abs/2109.09847)
 
@@ -129,7 +129,7 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
 - #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
-	- #CODE See [[#Code]] section
+	- #CODE See Code section
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning

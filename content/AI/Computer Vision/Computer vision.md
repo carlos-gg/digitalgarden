@@ -2,6 +2,8 @@
 title: "Computer Vision"
 ---
 
+> Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do
+
 > See: 
 > - [[AI/Deep learning/CNNs]]
 > - "MLPs for vision and language" section in [[AI/Deep learning/MLPs]]
@@ -14,6 +16,7 @@ title: "Computer Vision"
 ## Resources
 - https://github.com/jbhuang0604/awesome-computer-vision
 - [Papers with code - computer vision](https://paperswithcode.com/area/computer-vision)
+- https://en.wikipedia.org/wiki/Computer_vision
 - [Denoising: wavelet thresholding](https://blancosilva.wordpress.com/teaching/mathematical-imaging/denoising-wavelet-thresholding/)
 
 ## Books

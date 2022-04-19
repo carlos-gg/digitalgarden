@@ -82,7 +82,7 @@ title: "Explainability methods for NNs"
 - #PAPER [SmoothGrad: removing noise by adding noise (Smilkov 2017)](https://arxiv.org/abs/1706.03825)
 	- https://pair-code.github.io/saliency/
 - #PAPER [iNNvestigate Neural Networks! (Alber 2018)](http://arxiv.org/abs/1808.04260)
-	- #CODE See [[#Code]] section
+	- #CODE See Code section
 - #PAPER [XRAI: Better Attributions Through Regions (Kapishnikov 2019)](https://arxiv.org/abs/1906.02825)
 - #PAPER [DeepLIFT - Learning Important Features Through Propagating Activation Differences (Shrikumar 2019)](https://arxiv.org/abs/1704.02685)
  - #PAPER [Saliency Prediction in the Deep Learning Era: Successes, Limitations, and Future Challenges (Borji 2019)](https://arxiv.org/abs/1810.03716)
