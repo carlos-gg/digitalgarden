@@ -38,18 +38,15 @@ See [[AI/DS and DataEng/Open ML data]]
 
 
 ## Books
-- #BOOK [The elements of statistical learning (Hastie 2015, SPRINGER)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - #BOOK [An Introduction to Statistical Learning (James 2013, SPRINGER)](http://www-bcf.usc.edu/~gareth/ISL/)
 	- https://github.com/JWarmenhoven/ISLR-python
+- #BOOK [The elements of statistical learning (Hastie 2015, SPRINGER)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 -  #BOOK [Recommender Systems - The Textbook (Aggarwal, 2016 SPRINGER)](http://charuaggarwal.net/Recommender-Systems.pdf)
--  #BOOK [Mathematics for ML (Deisenroth, 2018 CAMBRIDGE)](https://mml-book.github.io/)
--  #BOOK Introduction to Machine Learning with Python - A Guide for Data Scientists (Muller, 2016 O'REILLY)
-		- https://www.academia.edu/42736911/Introduction_to_Machine_Learning_with_Python_A_Guide_for_Data_Scientists
+-  #BOOK [Mathematics for ML (Deisenroth, 2020 CAMBRIDGE)](https://mml-book.github.io/)
+-  #BOOK [Introduction to Machine Learning with Python - A Guide for Data Scientists (Muller, 2016 O'REILLY)](<https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf>)
 		- https://github.com/amueller/introduction_to_ml_with_python
 - #BOOK [Machine Learning for Dummies (Hurwitz, 2018 WILEY-IBM)](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
-- #BOOK Python Machine Learning (Raschka 2015, PACKT)
-		- http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf
-		- https://github.com/rasbt/python-machine-learning-book
+- #BOOK [Python Machine Learning (Raschka 2019, PACKT)](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 - #BOOK [Mastering Machine Learning with scikit-learn (Hackeling 2014, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn)
 - #BOOK [Designing Machine Learning Systems with Python (Julian 2016, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/designing-machine-learning-systems-python)
 - #BOOK [Evaluating Machine Learning Models (Zheng 2015, OREILLY)](https://www.oreilly.com/ideas/evaluating-machine-learning-models)
@@ -235,5 +232,7 @@ See [[AI/Deep learning/Generative modelling]]
 ### Explainable AI
 See [[AI/XAI]]
 
+### Federated learning
+See [[Federated learning]]
 
 

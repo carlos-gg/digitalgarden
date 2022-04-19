@@ -202,7 +202,10 @@ State of ML frameworks:
 	- https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html
 - #PAPER [Deep physical neural networks trained with backpropagation (Wrigth 2022)](https://www.nature.com/articles/s41586-021-04223-6)
 - #PAPER [Ensemble deep learning: A review (Ganaie 2022)](https://arxiv.org/pdf/2104.02395)            
-
+- #PAPER [projUNN: efficient method for training deep networks with unitary matrices (Kiani 2022)](https://arxiv.org/pdf/2203.05483)            
+	- https://www.marktechpost.com/2022/04/09/researchers-including-yann-lecun-propose-projunn-an-efficient-method-for-training-deep-neural-networks-with-unitary-matrices/
+- #PAPER [LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification (Girish 2022)](https://arxiv.org/pdf/2204.02965)            
+	- https://www.marktechpost.com/2022/04/12/researchers-propose-a-novel-framework-lilnetx-for-training-deep-neural-network-with-extreme-model-compression-and-structured-sparsification/
 
 ### Generalization
 - http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/

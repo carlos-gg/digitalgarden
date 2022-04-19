@@ -2,13 +2,18 @@
 title: "Regression"
 ---
 
+> In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable) and one or more independent variables (often called 'predictors', 'covariates', 'explanatory variables' or 'features')
+
 > See: 
+> - [[AI/Supervised Learning/Regularized regression]]
 > - [[AI/Time Series analysis]]
+> - [[AI/Forecasting]]
 > - [[AI/Deep learning/RNNs]]
 > - "Sequence time series modelling" section in [[AI/Deep learning/CNNs]]
 
 
 ## Resources
+- https://en.wikipedia.org/wiki/Regression_analysis
 - https://www.analytics. idhya.com/blog/2015/08/comprehensive-guide-regression/
 - https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
 - http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
@@ -54,24 +59,7 @@ title: "Regression"
 See [[AI/Supervised Learning/Classification]]
 
 ### Regularized regression
-- https://en.wikipedia.org/wiki/Regularization_(mathematics)
-- Regularization, in mathematics and statistics and particularly in the field of machine learning, refers to a process of introducing additional information in order to solve an ill-posed problem or to prevent overfitting.
-- #TALK [Linear Regression, Logistic Regression, SVM](https://www.youtube.com/watch?v=_5lsmWpA5IU)
-- https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
-- http://www.astroml.org/book_figures/chapter8/fig_lasso_ridge.html
-- https://chaoticsenses.wordpress.com/2016/01/20/taming-the-beast-with-regularization-3/
-- https://www.cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html
-- [Ridge regression](https://en.wikipedia.org/wiki/Tikhonov_regularization)
-- [LARS (Least angle regression)](https://en.wikipedia.org/wiki/Least-angle_regression)
-- Elastic net: 
-	- https://en.wikipedia.org/wiki/Elastic_net_regularization
-	- In the fitting linear or logistic regression models, the elastic net is a regularized regression method that linearly combines the L1 and L2 penalties of the lasso and ridge methods.
-	- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
-
-#### LASSO
-- [LASSO](https://en.wikipedia.org/wiki/Lasso_(statistics))
-- Least absolute shrinkage and selection operator
-- https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
+See [[Regularized regression]]
 
 ### SVM
 See [[AI/Supervised Learning/Classification]]
@@ -99,14 +87,13 @@ See [[AI/Supervised Learning/Ensemble learning]] and [[AI/Supervised Learning/Cl
 
 
 ## Code
-- #CODE [Glmnet_py. Glmnet Vignette (for python)](https://github.com/bbalasub1/glmnet_python) ^glmnetpy
 - #CODE Annoy (Spotify). 
 	- Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 	- https://github.com/spotify/annoy
 - #CODE FALCONN - FAst Lookups of Cosine and Other Nearest Neighbors
 	- https://github.com/FALCONN-LIB/FALCONN
 	- Locality-Sensitive Hashing (LSH), nearest neighbor search in high-dimensional spaces
-- #CODE [NMSLIB - Non-Metric Space Library. Efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. The core-library does not have any third-party dependencies](https://github.com/nmslib/nmslib)
-- #CODE FAISS (Facebook)
-	- https://github.com/facebookresearch/faiss
+- #CODE [NMSLIB](https://github.com/nmslib/nmslib)
+	- Non-Metric Space Library. Efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. The core-library does not have any third-party dependencies
+- #CODE [FAISS (Facebook)](https://github.com/facebookresearch/faiss)
 	- Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research.
