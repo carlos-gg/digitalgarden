@@ -56,17 +56,22 @@ See [[AI/Supervised Learning/Classification]]
 ### Regularized regression
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
 - Regularization, in mathematics and statistics and particularly in the field of machine learning, refers to a process of introducing additional information in order to solve an ill-posed problem or to prevent overfitting.
+- #TALK [Linear Regression, Logistic Regression, SVM](https://www.youtube.com/watch?v=_5lsmWpA5IU)
 - https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
 - http://www.astroml.org/book_figures/chapter8/fig_lasso_ridge.html
 - https://chaoticsenses.wordpress.com/2016/01/20/taming-the-beast-with-regularization-3/
 - https://www.cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html
 - [Ridge regression](https://en.wikipedia.org/wiki/Tikhonov_regularization)
-- [LASSO (Least absolute shrinkage and selection operator)](https://en.wikipedia.org/wiki/Lasso_(statistics))
 - [LARS (Least angle regression)](https://en.wikipedia.org/wiki/Least-angle_regression)
 - Elastic net: 
 	- https://en.wikipedia.org/wiki/Elastic_net_regularization
 	- In the fitting linear or logistic regression models, the elastic net is a regularized regression method that linearly combines the L1 and L2 penalties of the lasso and ridge methods.
 	- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
+
+#### LASSO
+- [LASSO](https://en.wikipedia.org/wiki/Lasso_(statistics))
+- Least absolute shrinkage and selection operator
+- https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
 
 ### SVM
 See [[AI/Supervised Learning/Classification]]
