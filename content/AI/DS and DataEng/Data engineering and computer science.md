@@ -81,6 +81,9 @@ title: "Data Engineering and Computer Science"
 ## Code
 - #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)
 	- Defines a distributed command line system and manual argument parsing
+- #CODE [Memray](https://github.com/bloomberg/memray)
+	- Memray is a memory profiler for Python
+	- https://bloomberg.github.io/memray/
 - #CODE [StreamAlert](https://github.com/airbnb/streamalert)
 	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
 - #CODE [Pandas](https://github.com/pandas-dev/pandas)

@@ -10,6 +10,8 @@ title: "Tensorflow, Keras"
 	- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
 	- [Tensorflow 2.0: models migration and new design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 	- http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
+	- [Understanding Tensorflow's tensors shape: static and dynamic](https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/)
+
 - #CODE [TF Compression](https://github.com/tensorflow/compression)
 	- TensorFlow Compression (TFC) contains data compression tools for TensorFlow
 - #CODE [TF Similarity](https://github.com/tensorflow/similarity)

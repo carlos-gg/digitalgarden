@@ -88,6 +88,8 @@ title: "Convolutional Neural Networks (CNNs)"
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 - #PAPER [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs (Ding 2022)](https://arxiv.org/pdf/2203.06717v3)            
 	- #CODE https://paperswithcode.com/paper/scaling-up-your-kernels-to-31x31-revisiting
+- #PAPER [Learning to Resize Images for Computer Vision Tasks (Talebi 2021)](https://arxiv.org/pdf/2103.09950v1)            
+
 
 ## Subtopics and applications
 ### Sequence (time series) modelling
