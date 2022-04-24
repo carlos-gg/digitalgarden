@@ -77,6 +77,11 @@ title: "Data Science"
 
 
 ## Courses
+- #COURSE Introduction to Computational Thinking (MIT)
+	- [Fall 2020](https://computationalthinking.mit.edu/Fall20/)
+	- [Spring 2021](https://computationalthinking.mit.edu/Spring21/)
+	- Using Julia
+	- CS, Math, ML and applications (image processing, climate modelling/change)
 - #COURSE [Mathematical Tools for Data Science (NYU Center for Data Science)](https://cds.nyu.edu/math-tools/)
 - - #COURSE [Python for Data Science workshop (Paris-Saclay Center for Data Science)](https://github.com/paris-saclay-cds/python-workshop)
 - #COURSE [Data Science (Harvard CS109)](http://cs109.github.io/2015/)

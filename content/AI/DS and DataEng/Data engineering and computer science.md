@@ -81,6 +81,8 @@ title: "Data Engineering and Computer Science"
 ## Code
 - #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)
 	- Defines a distributed command line system and manual argument parsing
+	- https://999999999.hatenablog.com/entry/argument_parse_with_abseil
+	- https://github.com/abseil/abseil-py/blob/main/smoke_tests/sample_app.py
 - #CODE [Memray](https://github.com/bloomberg/memray)
 	- Memray is a memory profiler for Python
 	- https://bloomberg.github.io/memray/

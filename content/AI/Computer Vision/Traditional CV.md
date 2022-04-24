@@ -40,16 +40,18 @@ See [[AI/Computer Vision/Background subtraction]]
 
 ### Filtering
 - For each pixel we compute a function of local neighborhood and output a new value. Use cases:
-- Enhance images: Denoise, smooth, increase contrast, etc.
-- Extract information from images: Texture, edges, distinctive points, etc.
-- Detect patterns: Template matching
-- [OpenCV - Image Gradients](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
-- https://dsp.stackexchange.com/questions/12684/difference-between-correlation-and-convolution-on-an-image
+	- Enhance images: Denoise, smooth, increase contrast, etc.
+	- Extract information from images: Texture, edges, distinctive points, etc.
+	- Detect patterns: Template matching
 
 #### Spatial domain
+- https://en.wikipedia.org/wiki/Kernel_(image_processing)
+- [Convolutions in image processing](https://www.youtube.com/watch?v=8rrHTtUzyZA)
 - [Convolution and kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing))
-- [Kernels visualization](http://setosa.io/ev/image-kernels/)
+- [Image Kernels visualization](http://setosa.io/ev/image-kernels/)
+- [OpenCV - Image Gradients](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
 - http://scikit-image.org/docs/dev/api/skimage.filters.html
+- https://dsp.stackexchange.com/questions/12684/difference-between-correlation-and-convolution-on-an-image
 - Examples:
 	- [Box filter. Replaces each pixel with an average of its neighborhood (smoothing effect)](https://en.wikipedia.org/wiki/Box_blur)
 	- Sharpening filter. Accentuates differences with local average. 
@@ -71,7 +73,7 @@ See [[AI/Computer Vision/Background subtraction]]
 ```
   
 #### Frequency domain
-- Fourier transform stores the magnitude and phase at each frequency. The magnitude encodes how much signal there is at a particular frequency whiel the phase encodes spatial information (indirectly). 
+- Fourier transform stores the magnitude and phase at each frequency. The magnitude encodes how much signal there is at a particular frequency while the phase encodes spatial information (indirectly). 
 - The Convolution Theorem:
 	- The Fourier transform of the convolution of two functions is the product of their Fourier transforms
 	- The inverse Fourier transform of the product of two Fourier transforms is the convolution of the two inverse Fourier transforms
@@ -82,27 +84,25 @@ See [[AI/Computer Vision/Background subtraction]]
 - https://en.wikipedia.org/wiki/Template_matching
 
 #### Template based
+- See the "Filtering" section
 - http://aishack.in/tutorials/template-matching/
 - For templates without strong features, or for when the bulk of the template image constitutes the matching image, a template-based approach may be effective.
 - Cross-correlation. Linear filtering: function is a weighted sum/difference of pixel values (dot products at each position)
 	- https://en.wikipedia.org/wiki/Cross-correlation
-	- [Convolution and kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing))
-	- [Kernels visualization](http://setosa.io/ev/image-kernels/)
 - [Using image pyramids](https://en.wikipedia.org/wiki/Pyramid_(image_processing))
-
 
 #### Feature based
 - Feature-based approach relies on the extraction of image features such, i.e. shapes, textures , colors, to match in the target image or frame. This approach is currently achieved by using Neural Networks and Deep Learning classifiers such as VGG, AlexNet, ResNet. Deep Convolutional Neural Networks process the image by passing it through different hidden layers and at each layer produce a vector with classification information about the image. These vectors are extracted from the network and are used as the features of the image. Feature extraction by using Deep Neural Networks is extremely effective and thus is the standard in state of the art template matching algorithms.
 - This method is considered more robust and is state of the art as it can match templates with non-rigid and out of plane transformation, it can match with high background clutter and illumination changes.
 
 ### Feature extraction
-- The Computer Vision Pipeline, Part 4: feature extraction. https://freecontent.manning.com/the-computer-vision-pipeline-part-4-feature-extraction/
+- [The Computer Vision Pipeline: feature extraction](https://freecontent.manning.com/the-computer-vision-pipeline-part-4-feature-extraction/)
 	- Feature extraction is a core component of the computer vision pipeline. In fact, the entire deep learning model works around the idea of extracting useful features which clearly define the objects in the image. We’re going to spend a little more time here because it’s important that you understand what a feature is, what a vector of features is, and why we extract features.
 	- A feature in Machine Learning is an individual measurable property or characteristic of a phenomenon being observed. Features are the input that you feed to your machine learning model to output a prediction or classification. Suppose you want to predict the price of a house, your input features (properties) might include: square_foot, number_of_rooms, bathrooms, etc. and the model will output the predicted price based on the values of your features. Selecting good features that clearly distinguish your objects increases the predictive power of machine learning algorithms.
 - In image processing, algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition. 
 	- Low-level: Edge detection, Corner detection, Blob detection, Ridge detection, Scale-invariant feature transform,
 	- Curvature: Edge direction, changing intensity, autocorrelation
-	- Image motion: Motion detection. Area based, differential approach, Optical flow (https://en.wikipedia.org/wiki/Optical_flow)
+	- Image motion: Motion detection. Area based, differential approach, [Optical flow](https://en.wikipedia.org/wiki/Optical_flow)
 	- Shape based: Thresholding, Blob extraction, Template matching, Hough transform
 		- Lines: Circles/ellipses, Arbitrary shapes (generalized Hough transform). Works with any parameterizable feature (class variables, cluster detection, etc..)
 	- Flexible methods: Deformable, parameterized shapesActive contours (snakes)
