@@ -8,6 +8,7 @@ title: AI4G - Entrepreneurship
 - Working together to apply AI for social good
 - Google.org is issuing an open call to organizations around the world to submit their ideas for how they could use AI to help address societal challenges. Selected organizations will receive support from Google’s AI experts, Google.org grant funding from a $25M pool, credit and consulting from Google Cloud, and more.
 - [Supporting social impact startups](https://www.blog.google/around-the-globe/google-europe/supporting-social-impact-startups/)
+- [Climate innovation challenge](https://cloud.google.com/blog/topics/sustainability/climate-innovation-challenge-provides-google-cloud-credits)
 
 ## UNICEF Innovation Fund Call for DS & AI
 - [http://unicefstories.org/datascienceAI/](http://unicefstories.org/datascienceAI/)

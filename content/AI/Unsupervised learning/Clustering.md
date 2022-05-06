@@ -35,6 +35,8 @@ title: "Clustering"
 	- http://projector.tensorflow.org
 	- https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html
 
+### Spatial clustering
+- [Introduction to hierarchical clustering (Spatial clustering)](https://towardsdatascience.com/introduction-to-hierarchical-clustering-part-3-spatial-clustering-1f8cbd451173)
 
 ## References
 - #PAPER [k-means++: the advantages of careful seeding (Arthur 2007)](https://dl.acm.org/doi/10.5555/1283383.1283494)

@@ -170,8 +170,9 @@ See "Neural Networks explainability" section in [[AI/XAI]]
 	- https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/
 	- https://programmerclick.com/article/4934219785/
  - #PAPER [CBAM: Convolutional Block Attention Module (Woo 2018)](https://arxiv.org/abs/1807.06521) ^cbam
-	 -  #CODE https://kobiso.github.io//research/research-CBAM/
-	 -  https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
+	 - #CODE https://kobiso.github.io//research/research-CBAM/
+	 - https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
+	 - https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/
 - #PAPER [ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks (Wang 2020)](https://arxiv.org/abs/1910.03151)
 	- this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain
 	- proposed a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution

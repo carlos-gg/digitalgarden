@@ -11,13 +11,9 @@ title: "Data Engineering and Computer Science"
 - [Have we bridged the gap between Data Science and DevOps?](https://jaxenter.com/bridge-gap-data-science-devops-134712.html)
 
 ### Python
-- #COURSE [Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc)
-- #COURSE [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- #COURSE [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
-- #COURSE https://www.learneroo.com/modules/65/nodes/366
+- https://github.com/vinta/awesome-python
 - https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Python
 - https://github.com/ujjwalkarn/DataSciencePython
-- [Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - [Optimizing Python code performance with cProfile](https://blog.alookanalytics.com/2017/03/21/python-profiling-basics/)
 - [Consistent Python code with Black](https://www.mattlayman.com/blog/2018/python-code-black/)
 - [Writing proper classes](https://aboucaud.github.io/slides/2016/python-classes)
@@ -26,15 +22,6 @@ title: "Data Engineering and Computer Science"
 - [Using Python as glue](https://docs.scipy.org/doc/numpy-1.13.0/user/c-info.python-as-glue.html)
 - [Extending Python with Compiled Code](https://github.com/AstroHackWeek/AstroHackWeek2014/blob/master/day4/ExtendingPython.ipynb)
 - [Wrapping C/C++ for Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)
-
-### R
-- #BOOK [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/)
-- #BOOK [Geocomputation with R](https://geocompr.robinlovelace.net/)
-- #BOOK [Efficient R programming](https://csgillespie.github.io/efficientR/)
-- #BOOK [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
-- #BOOK [Advanced R](https://adv-r.hadley.nz/)
-- #BOOK [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-- #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
 
 ### Julia 
 - #TALK https://www.youtube.com/watch?v=AyvyVS6u8AM
@@ -64,7 +51,16 @@ title: "Data Engineering and Computer Science"
 	- [Advanced Analytics with Spark, 2nd Edition.pdf](https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf)
 - #BOOK [Pandas cookbook (Petrou, 2017 PACKT)](https://packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
 - #BOOK [The Big Book of Data Engineering (Databricks)](https://databricks.com/p/ebook/the-big-book-of-data-engineering)
+- #BOOK [From Python to Numpy (Rougier 2017)](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
+### R
+- #BOOK [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/)
+- #BOOK [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- #BOOK [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- #BOOK [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- #BOOK [Advanced R](https://adv-r.hadley.nz/)
+- #BOOK [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+- #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
 
 ## Courses
 - #COURSE [Data Structures & Algorithms - Python](https://pythonschool.net/category/data-structures-algorithms.html)
@@ -78,6 +74,12 @@ title: "Data Engineering and Computer Science"
 		- https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
+### Python
+- #COURSE [Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc)
+- #COURSE [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- #COURSE [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
+- #COURSE https://www.learneroo.com/modules/65/nodes/366
+
 ## Code
 - #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)
 	- Defines a distributed command line system and manual argument parsing
@@ -86,6 +88,7 @@ title: "Data Engineering and Computer Science"
 - #CODE [Memray](https://github.com/bloomberg/memray)
 	- Memray is a memory profiler for Python
 	- https://bloomberg.github.io/memray/
+	- https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/
 - #CODE [StreamAlert](https://github.com/airbnb/streamalert)
 	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
 - #CODE [Pandas](https://github.com/pandas-dev/pandas)
