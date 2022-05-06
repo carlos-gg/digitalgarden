@@ -41,3 +41,4 @@ title: "Object classification, image recognition"
 	- https://syncedreview.com/2021/10/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-121/
 - #PAPER [CoAtNet: Marrying Convolution and Attention for All Data Sizes (Dai 2021)](https://arxiv.org/abs/2106.04803)
 	- https://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html
+	- https://analyticsindiamag.com/a-guide-to-coatnet-the-combination-of-convolution-and-attention-networks/

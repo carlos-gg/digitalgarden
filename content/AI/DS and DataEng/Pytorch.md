@@ -14,6 +14,9 @@ title: "Pytorch"
 	- [Ecosystem tools](https://pytorch.org/ecosystem/)
 	- Tensors and Dynamic neural networks in Python with strong GPU acceleration
 	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
+- #CODE [TorchStudio](https://www.torchstudio.ai/)
+	- IDE for PyTorch and its ecosystem
+	- https://www.assemblyai.com/blog/beginners-guide-to-torchstudio-pytorch-only-ide/
 - #CODE [Pytorch-lightning](https://pytorchlightning.ai/)
 	- https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
 - #CODE [Fastai](https://github.com/fastai/fastai)

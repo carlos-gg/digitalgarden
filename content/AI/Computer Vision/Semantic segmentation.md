@@ -37,3 +37,7 @@ Review papers:
 	- [Paper explained](https://www.youtube.com/watch?v=hv3UO3G0Ofo)
 - #PAPER [Towards infield, live plant phenotyping using a reduced-parameter CNN (Atanbori 2020)](https://link.springer.com/article/10.1007%2Fs00138-019-01051-7)
 - #PAPER [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (Lang 2022)](https://arxiv.org/pdf/2203.07615v2)            
+
+### Unsupervised or self-supervised
+- #PAPER [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (Hamilton 2022)](https://arxiv.org/pdf/2203.08414)            
+	- https://www.engadget.com/mit-computer-vision-algorithm-identifies-images-down-to-the-pixel-130051112.html?guccounter=1

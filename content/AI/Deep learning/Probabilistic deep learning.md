@@ -19,6 +19,7 @@ title: "Probabilistic deep learning"
 	- Dropout is a way to make your Neural Networks Bayesian almost for free, and to use it during inference you just have to keep the Dropout, and sample several models, this is called MC Dropout.
 
  ### Monte Carlo Dropout
+- [Monte Carlo Dropout](https://towardsdatascience.com/monte-carlo-dropout-7fd52f8b6571)
 - [What is MC Dropout](https://datascience.stackexchange.com/questions/44065/what-is-monte-carlo-dropout)
 - normal dropout (only at training time) serves as a regularization to avoid overfitting. During test time, dropout is not applied; instead, all nodes/connections are present, but the weights are adjusted accordingly (e.g. multiplied by the keep ratio, which is 1 - dropout_ratio). Such a model during test time can be understood as a *average* of an ensemble of neural networks.
 - Notice that for normal dropout, at test time the prediction is *deterministic*. Without other source of randomness, given one test data point, the model will always predict the same label or value.
