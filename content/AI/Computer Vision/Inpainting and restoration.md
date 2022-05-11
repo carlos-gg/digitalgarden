@@ -1,11 +1,12 @@
 ---
-title: "Inpainting"
+title: "Inpainting and restoration"
 ---
 
 >  Inpainting is a conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image
 
 ## Resources
 - https://en.wikipedia.org/wiki/Inpainting
+- https://paperswithcode.com/task/image-restoration
 - https://www.nvidia.com/research/inpainting/
 - [An Introduction to Image Inpainting using Deep Learning](https://wandb.ai/ayush-thakur/image-impainting/reports/An-Introduction-to-Image-Inpainting-using-Deep-Learning--Vmlldzo3NDU0Nw)
 - [GANs and Missing Data Imputation](https://towardsdatascience.com/gans-and-missing-data-imputation-815a0cbc4ece)
@@ -15,6 +16,8 @@ Review papers:
 - #PAPER [Image inpainting: A review (Elharrouss 2019)](https://arxiv.org/abs/1909.06399)
 
 ### CNN-based
+See [[AI/Computer Vision/Deep image prior]]
+
 - #PAPER [Feature Learning by Inpainting (Pathak 2016)](https://arxiv.org/abs/1604.07379v1)
 	- #CODE https://github.com/pathak22/context-encoder
 - #PAPER [Image Inpainting for Irregular Holes Using Partial Convolutions (Liu 2018)](https://arxiv.org/abs/1804.07723)

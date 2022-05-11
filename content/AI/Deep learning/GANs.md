@@ -102,7 +102,7 @@ See "GAN-based" section in [[AI/Computer Vision/Super-resolution]]
 
 
 ### GANs for missing data, imputation and inpainting
-See "GAN-based" section in [[AI/Computer Vision/Inpainting]]
+See "GAN-based" section in [[AI/Computer Vision/Inpainting and restoration]]
 
 
 ### Image-to-image translation. Conditional GANs

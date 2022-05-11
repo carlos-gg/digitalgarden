@@ -9,6 +9,7 @@ title: "Deep CV"
 > - [[AI/Deep learning/GANs]]
 > - [[AI/Deep learning/Normalizing flows]] 
 > - "For Computer Vision" section in [[AI/Deep learning/Transformers]]
+> - [[Deep image prior]]
 
 
 ## Resources
@@ -17,6 +18,17 @@ title: "Deep CV"
 - https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531
 - http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 
+### Applications
+- [[AI/Computer Vision/Background subtraction]]
+- [[AI/Computer Vision/Image and video captioning]] 
+- [[AI/Computer Vision/Image-to-image translation]]
+- [[AI/Computer Vision/Inpainting and restoration]]
+- [[AI/Computer Vision/Object classification, image recognition]]
+- [[AI/Computer Vision/Object detection]]
+- [[AI/Computer Vision/Semantic segmentation]]
+- [[AI/Computer Vision/Super-resolution]]
+- [[AI/Computer Vision/Video Frame Interpolation]]
+- [[AI/Computer Vision/Video segmentation and prediction]]
 
 ## References
 - #PAPER [Deep Learning for Computer Vision: A Brief Review (Voulodimos 2017)](https://www.hindawi.com/journals/cin/2018/7068349/)

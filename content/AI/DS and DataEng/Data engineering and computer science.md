@@ -11,17 +11,7 @@ title: "Data Engineering and Computer Science"
 - [Have we bridged the gap between Data Science and DevOps?](https://jaxenter.com/bridge-gap-data-science-devops-134712.html)
 
 ### Python
-- https://github.com/vinta/awesome-python
-- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Python
-- https://github.com/ujjwalkarn/DataSciencePython
-- [Optimizing Python code performance with cProfile](https://blog.alookanalytics.com/2017/03/21/python-profiling-basics/)
-- [Consistent Python code with Black](https://www.mattlayman.com/blog/2018/python-code-black/)
-- [Writing proper classes](https://aboucaud.github.io/slides/2016/python-classes)
-- [Documenting Python code](https://aboucaud.github.io/slides/2016/python-docstrings)
-- [Compiled C or Fortran to Python](http://people.duke.edu/~ccc14/sta-663/FromCompiledToPython.html)
-- [Using Python as glue](https://docs.scipy.org/doc/numpy-1.13.0/user/c-info.python-as-glue.html)
-- [Extending Python with Compiled Code](https://github.com/AstroHackWeek/AstroHackWeek2014/blob/master/day4/ExtendingPython.ipynb)
-- [Wrapping C/C++ for Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)
+See [[Python]]
 
 ### Julia 
 - #TALK https://www.youtube.com/watch?v=AyvyVS6u8AM
@@ -44,14 +34,13 @@ title: "Data Engineering and Computer Science"
 
 
 ## Books
-- #BOOK [Problem Solving with Algorithms and Data Structures using Python (Interactive book)](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- #BOOK [Large Scale Machine Learning with Python (Sjandin 2016, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python)
+see ""Books" section in [[AI/DS and DataEng/Python]]
+
 - #BOOK [Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE)](http://www.mmds.org/)
 - #BOOK [Advanced Analytics with Spark (Ryza, 2017 OREILLY)](http://shop.oreilly.com/product/0636920056591.do)
 	- [Advanced Analytics with Spark, 2nd Edition.pdf](https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf)
 - #BOOK [Pandas cookbook (Petrou, 2017 PACKT)](https://packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
 - #BOOK [The Big Book of Data Engineering (Databricks)](https://databricks.com/p/ebook/the-big-book-of-data-engineering)
-- #BOOK [From Python to Numpy (Rougier 2017)](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 ### R
 - #BOOK [R para profesionales de los datos: una introducción](https://www.datanalytics.com/libro_r/)
@@ -63,7 +52,8 @@ title: "Data Engineering and Computer Science"
 - #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
 
 ## Courses
-- #COURSE [Data Structures & Algorithms - Python](https://pythonschool.net/category/data-structures-algorithms.html)
+See "Courses" section in [[AI/DS and DataEng/Python]]
+
 - #COURSE [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - #COURSE [Mining Massive Data Sets (CS246 Stanford)](http://web.stanford.edu/class/cs246/)
 	- https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about
@@ -74,11 +64,6 @@ title: "Data Engineering and Computer Science"
 		- https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
-### Python
-- #COURSE [Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc)
-- #COURSE [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- #COURSE [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
-- #COURSE https://www.learneroo.com/modules/65/nodes/366
 
 ## Code
 - #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)

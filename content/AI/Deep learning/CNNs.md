@@ -128,7 +128,7 @@ See [[AI/Computer Vision/Image-to-image translation]]
 See "CNN-based" section in [[AI/Computer Vision/Super-resolution]]
 
 ### Inpainting
-See "CNN-based" section in [[AI/Computer Vision/Inpainting]]
+See "CNN-based" section in [[AI/Computer Vision/Inpainting and restoration]]
 
 ### Background subtraction, foreground detection
 See "CNN-based" section in [[AI/Computer Vision/Background subtraction]]
