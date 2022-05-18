@@ -41,6 +41,8 @@ title: "Deep Learning (DL)"
 - #BOOK [Physics-based Deep Learning Book (Thuerey 2021)](https://physicsbaseddeeplearning.org/intro.html) ^PBDL
 - #BOOK [The Principles of DL Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022)](https://deeplearningtheory.com/PDLT.pdf)
 	- https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
+	- #PAPER [The Principles of Deep Learning Theory (Roberts 2021)](https://arxiv.org/abs/2106.10165)
+	- [Paper explained](https://www.youtube.com/watch?v=m2bXL5Z5CBM)
 - #BOOK [Deep Learning Book (Goodfellow, 2016 MIT)](https://www.deeplearningbook.org/)
 	- The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 - #BOOK [DL tutorial (LISA Lab, U Montreal)](http://deeplearning.net/tutorial/)
