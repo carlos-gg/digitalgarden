@@ -8,12 +8,16 @@ title: "Transformers"
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
 - https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
 - https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
+- [Investigating Vision Transformer representations](https://keras.io/examples/vision/probing_vits/)
+	- #CODE https://github.com/sayakpaul/probing-vits
 
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
 	- thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
 - #CODE [Xformers](https://github.com/facebookresearch/xformers)
 - #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
+- #CODE [Big vision](https://github.com/google-research/big_vision)
+	- This codebase is designed for training large-scale vision models on Cloud TPU VMs. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable input pipelines in the Cloud
 
 
 ## For NLP

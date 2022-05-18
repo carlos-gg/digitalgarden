@@ -29,6 +29,8 @@ title: "Python"
 		- A documentation generation tool for MkDocs
 - [Pdoc](https://pdoc.dev/)
 	- [How to Generate Professional API Docs in Minutes from Docstrings](https://towardsdatascience.com/how-to-generate-professional-api-docs-in-minutes-from-docstrings-aed0341bbda7)
+- [mkgendocs](https://github.com/davidenunes/mkgendocs)
+	- https://towardsdatascience.com/five-tips-for-automatic-python-documentation-7513825b760e
 
 ## Books
 - #BOOK [Problem Solving with Algorithms and Data Structures using Python (Interactive book)](https://runestone.academy/runestone/books/published/pythonds/index.html)

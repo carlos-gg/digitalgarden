@@ -48,7 +48,6 @@ title: "Explainability methods for NNs"
 	- https://captum.ai/api/
 - #CODE [Explainable-cnn](https://github.com/ashutosh1919/explainable-cnn)
 	- PyTorch based visualization package for generating layer-wise explanations for CNNs
-	- 
 - #CODE [Saliency](https://github.com/PAIR-code/saliency)
 	- XRAI, SmoothGrad, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG
 - #CODE [iNNvestigate](https://github.com/albermax/innvestigate) ^innvestigate
