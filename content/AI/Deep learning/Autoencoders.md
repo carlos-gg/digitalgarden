@@ -37,6 +37,8 @@ title: "Autoencoders"
 	- #CODE https://github.com/ariG23498/mae-scalable-vision-learners
 	- https://keras.io/examples/vision/masked_image_modeling/
 	- Masked autoencoder (MAE) is a simple autoencoding approach that reconstructs the original signal given its partial observation
+	- [Paper explained](https://www.youtube.com/watch?v=Dp6iICL2dVI)
+	- See [[AI/Deep learning/Transformers]]
 
 ### VAEs
 - #PAPER [Auto-Encoding Variational Bayes (Kingma 2014)](https://arxiv.org/abs/1312.6114)

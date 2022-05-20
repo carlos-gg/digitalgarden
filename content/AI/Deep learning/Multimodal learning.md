@@ -35,6 +35,9 @@ Review papers:
 - #PAPER [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language (Baevski 2022)](https://arxiv.org/abs/2202.03555)
 	- #CODE https://github.com/pytorch/fairseq/tree/main/examples/data2vec
 	- https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/
+- #PAPER [A Generalist Agent (Reed 2022)](https://arxiv.org/abs/2205.06175v1)
+	- [Paper explained](https://www.youtube.com/watch?v=wSQJZHfAg18)
+	- New approach, inspired by large-scale language models, that acts a single generalist agent. The agent, called Gato, is built to work as a multi-modal, multi-task, multi-embodiment generalist policy
 
 ### Vision and language models
 Review papers:

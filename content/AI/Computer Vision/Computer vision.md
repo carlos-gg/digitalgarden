@@ -68,7 +68,9 @@ title: "Computer Vision"
 	- A Jax Library for Computer Vision Research and Beyond
 	- codebase with a focus on research around attention-based models for computer vision
 	- #PAPER [SCENIC: A JAX Library for Computer Vision Research and Beyond (2021)](https://arxiv.org/abs/2110.11403)
-
+- #CODE [Pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+	- PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+	- https://rwightman.github.io/pytorch-image-models/
 
 ## References
 - #PAPER [Brief review of image denoising techniques (Fan 2019)](https://vciba.springeropen.com/articles/10.1186/s42492-019-0016-7)

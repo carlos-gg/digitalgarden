@@ -158,6 +158,8 @@ title: "Transformers"
 	- https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging
 - #PAPER [How Do Vision Transformers Work? (Park 2022)](https://arxiv.org/abs/2202.06709v2)
 	- #CODE https://paperswithcode.com/paper/how-do-vision-transformers-work-1?from=n26
+- #PAPER [Sequencer: Deep LSTM for Image Classification (Tatsunami 2022)](https://arxiv.org/pdf/2205.01972v2)            
+	- #CODE https://github.com/okojoalg/sequencer
 
 
 ### Self-supervised vision transformers
