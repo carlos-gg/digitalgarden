@@ -67,9 +67,10 @@ title: "Transformers"
 	- #CODE https://paperswithcode.com/paper/fnet-mixing-tokens-with-fourier-transforms?from=n10
 	- Transformer architectures can be massively sped up, with limited accuracy costs, by replacing self-attention sublayers with linear transformations that "mix" input tokens
 - #PAPER [Optimizing Deeper Transformers on Small Datasets (Xu 2021)](https://arxiv.org/abs/2012.15355)
-- #PAPER [Infinity-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
+- #PAPER [Infinity-former: Infinite Memory Transformer (Martins 2022)](https://arxiv.org/abs/2109.00301)
 	- [Paper explained](https://www.youtube.com/watch?v=0JlB9gufTw8)
-
+- #PAPER [Scaling Language Models: Methods, Analysis & Insights from Training Gopher (Rae 2022)](https://arxiv.org/abs/2112.11446)
+	- [Paper explained](https://www.youtube.com/watch?v=aPiHhJjN3hI)
 
 ## For Computer Vision
 - #PAPER [Spatial Transformer Networks (Jaderberg 2016)](https://arxiv.org/abs/1506.02025)
