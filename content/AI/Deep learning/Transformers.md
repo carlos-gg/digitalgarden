@@ -10,6 +10,7 @@ title: "Transformers"
 - https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
 - [Investigating Vision Transformer representations](https://keras.io/examples/vision/probing_vits/)
 	- #CODE https://github.com/sayakpaul/probing-vits
+- [Self-Supervised Learning in Vision Transformers](https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c)
 
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
@@ -164,11 +165,11 @@ title: "Transformers"
 
 
 ### Self-supervised vision transformers
-- [Self-Supervised Learning in Vision Transformers](https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c)
 - #PAPER [SiT: Self-supervised vIsion Transformer (Atito 2021)](https://arxiv.org/abs/2104.03602)
 - #PAPER [DINO - Emerging Properties in Self-Supervised Vision Transformers (Caron 2021)](https://arxiv.org/abs/2104.14294)
 	- https://towardsdatascience.com/on-dino-self-distillation-with-no-labels-c29e9365e382
-
+- #PAPER [ConvMAE: Masked Convolution Meets Masked Autoencoders (Gao 2022)](https://arxiv.org/abs/2205.03892v2)
+	- #CODE https://github.com/Alpha-VL/ConvMAE
 
 ### Vision transformers with convolutions
 - #PAPER [CeiT - Incorporating Convolution Designs into Visual Transformers (Yan 2021)](https://arxiv.org/abs/2103.11816v1)

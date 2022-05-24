@@ -26,3 +26,6 @@ title: "Semi-supervised learning"
 - #PAPER [Big Transfer (BiT):General Visual Representation Learning (Kolesnikov 2020)](https://arxiv.org/abs/1912.11370)
 	- [Paper explained](https://www.youtube.com/watch?v=k1GOF2jmX7c)
 - #PAPER [Towards a Deeper Understanding of Adversarial Losses (Dong 2020)](https://arxiv.org/abs/1901.08753)
+- #PAPER [DoubleMatch: Improving Semi-Supervised Learning with Self-Supervision (Wallin 2022)](https://arxiv.org/pdf/2205.05575v1)            
+	- #CODE https://paperswithcode.com/paper/doublematch-improving-semi-supervised
+	- DoubleMatch combines the pseudo-labeling technique with a self-supervised loss, enabling the model to utilize all unlabeled data in the training process. We show that this method achieves state-of-the-art accuracies on multiple benchmark datasets while also reducing training times compared to existing SSL methods

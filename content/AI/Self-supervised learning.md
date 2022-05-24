@@ -4,6 +4,8 @@ title: "Self-supervised learning"
 
 > Self-supervised learning deals with learning from unlabeled sample data. It can be regarded as an intermediate form between [[AI/Supervised Learning/Supervised learning]] and [[AI/Unsupervised learning/Unsupervised learning]]
 
+> See "Self-supervised vision transformers" subsection in [[AI/Deep learning/Transformers]]
+
 ## Resources
 - https://github.com/jason718/awesome-self-supervised-learning
 - https://en.wikipedia.org/wiki/Self-supervised_learning
