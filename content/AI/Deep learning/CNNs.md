@@ -69,9 +69,6 @@ title: "Convolutional Neural Networks (CNNs)"
 	- #CODE https://github.com/d-li14/involution
 	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds
 	- [Paper explained](https://www.youtube.com/watch?v=pH2jZun8MoY)
-- #PAPER [Convolutional Conditional Neural Processes (Gordon 2020)](https://arxiv.org/abs/1910.13556) ^convcondneuralproc
-	- #CODE https://github.com/cambridge-mlg/convcnp
-	- https://yanndubs.github.io/Neural-Process-Family/reproducibility/ConvCNP.html
 - #PAPER [Non-deep Networks (Goyal 2021)](https://arxiv.org/abs/2110.07641)
 	- #CODE https://paperswithcode.com/paper/non-deep-networks-1?from=n19
 	- use parallel subnetworks instead of stacking one layer after another. This helps effectively reduce depth while maintaining high performance
