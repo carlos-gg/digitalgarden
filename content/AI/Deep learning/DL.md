@@ -401,7 +401,7 @@ See [[AI/Deep learning/Probabilistic deep learning]]
 See [[AI/Time Series analysis]], [[AI/Forecasting]] and "Deep learning approaches" in [[AI/NLP]]
 
 
-## Architectures and model types
+## Architectures and model families
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 - [A Visual and Interactive Guide to the Basics of NNs](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
@@ -455,3 +455,5 @@ See [[AI/Deep learning/GFlowNets]]
 ### Neural Cellular Automata
 See [[AI/Deep learning/Neural Cellular Automata]]
 
+## Neural processes
+See [[AI/Deep learning/Neural processes]]

@@ -17,3 +17,5 @@ title: "Neural processes"
 	- https://yanndubs.github.io/Neural-Process-Family/reproducibility/ConvCNP.html
 	- See [[AI/Deep learning/CNNs]]
 - #PAPER [GP-ConvCNP: Better Generalization for Convolutional Conditional Neural Processes on Time Series Data (Petersen 2021)](https://arxiv.org/pdf/2106.04967)            
+- #PAPER [Conditional Temporal Neural Processes with Covariance Loss (Yoo 2021)](http://proceedings.mlr.press/v139/yoo21b.html)
+- #PAPER [Contrastive Conditional Neural Processes (Ye 2022)](https://arxiv.org/abs/2203.03978)
