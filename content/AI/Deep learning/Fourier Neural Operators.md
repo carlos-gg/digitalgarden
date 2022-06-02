@@ -5,6 +5,7 @@ title: "Fourier Neural Operator (FNO)"
 ## References
 - #PAPER [Fourier Neural Operator for Parametric Partial Differential Equations (Li 2020)](https://arxiv.org/abs/2010.08895)
 	- #CODE https://github.com/zongyi-li/fourier_neural_operator
+	- #CODE https://github.com/astanziola/fourier-neural-operator-flax
 	- https://zongyi-li.github.io/blog/2020/fourier-pde/
 	- https://www.technologyreview.com/2020/10/30/1011435/ai-fourier-neural-network-cracks-navier-stokes-and-partial-differential-equations/
 	- Function approximation in Fourier space instead of a the Euclidian (with conventional convolutions)
@@ -13,5 +14,6 @@ title: "Fourier Neural Operator (FNO)"
 	- #TALK [ML Cluster: Karthik Kashinath, Physics-informed Machine learning for weather and climate science](https://www.youtube.com/watch?v=B_4TONeY75U)
 	- [[AI/Computer Vision/Super-resolution]]
 - #PAPER [Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers (Guibas 2022)](https://arxiv.org/pdf/2111.13587)            
+	- #CODE https://github.com/NVlabs/AFNO-transformer
 	- #CODE https://github.com/DarshanDeshpande/research-paper-implementations/tree/main/tensorflow/afno (not official)
 - #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using  Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/pdf/2202.11214)            
