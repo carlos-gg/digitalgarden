@@ -23,8 +23,11 @@ title: "Regression"
 	- [Coefficient of determination (The R-squared measure of goodness of fit)](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 	- Reduced chi-squared
 - [Linear models](http://scikit-learn.org/stable/modules/linear_model.html)
-
-
+- Multicollinearity:
+	- [Dealing With Multicollinearity: A Brief Overview and Introduction to Tolerant Methods](https://waterprogramming.wordpress.com/2017/02/22/dealing-with-multicollinearity-a-brief-overview-and-introduction-to-tolerant-methods/)
+	- https://stackoverflow.com/questions/42904211/lasso-or-ridge-for-correlated-variables
+	- [Permutation Importance with Multicollinear or Correlated Features (scikit-learn)](https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html)
+1
 ### Linear Regression
 - https://en.wikipedia.org/wiki/Linear_regression
 - In statistics, linear regression is an approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables) denoted X. The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
