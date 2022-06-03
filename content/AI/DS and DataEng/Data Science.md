@@ -104,11 +104,16 @@ title: "Data Science"
 	- http://www.unnotebook.com/
 - #CODE [Polynote](https://github.com/polynote/polynote)
 	- https://polynote.org/
-- #CODE [Google Colaboratory](https://colab.research.google.com/)
+
+### Browser IDEs
+- [Google Colaboratory](https://colab.research.google.com/)
+- [Binder](https://mybinder.org/)
+- [Cocal](https://cocalc.com/features/jupyter-notebook)
+- [Replit](https://replit.com/)
+- [Deepnote](https://deepnote.com/)
 
 
 ## Related fields
-
 ### Math and Statistics
 See [[AI/Math and Statistics/Math and Statistics]]
 

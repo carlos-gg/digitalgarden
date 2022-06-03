@@ -203,8 +203,9 @@ title: "Transformers"
 - #PAPER [UniFormer: Unifying Convolution and Self-attention for Visual Recognition (Li 2022)](https://arxiv.org/abs/2201.09450v1)
 	- #CODE https://paperswithcode.com/paper/uniformer-unifying-convolution-and-self?from=n24
 - #PAPER [Convolutional Xformers for Vision (Jeevan 2022)](https://arxiv.org/abs/2201.10271v1)
-	- #CODE https://arxiv.org/abs/2201.10271v1
-
+	- #CODE https://github.com/pranavphoenix/CXV
+- #PAPER [Patches Are All You Need? (Trockman 2022)](https://arxiv.org/pdf/2201.09792)            
+	- #CODE https://github.com/locuslab/convmixer
 
 ## Multi-modal transformers
 See [[AI/Deep learning/Multimodal learning]]
