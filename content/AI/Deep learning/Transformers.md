@@ -206,6 +206,8 @@ title: "Transformers"
 	- #CODE https://github.com/pranavphoenix/CXV
 - #PAPER [Patches Are All You Need? (Trockman 2022)](https://arxiv.org/pdf/2201.09792)            
 	- #CODE https://github.com/locuslab/convmixer
+	- https://scoste.fr/posts/convmixer/index.html
+	- https://medium.com/codex/an-overview-on-convmixer-patches-are-all-you-need-8502a8d87011
 
 ## Multi-modal transformers
 See [[AI/Deep learning/Multimodal learning]]

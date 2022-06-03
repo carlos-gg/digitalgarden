@@ -80,7 +80,9 @@ See [[AI4G/Entrepreneurship]]
 - [DSSG Berlin](https://dssg-berlin.org/)
 - [Data for good lab](http://www.ise.bgu.ac.il/labs/fire/index.html)
 	- Our name-the Data Science for Social Good Lab-reflects our goal: to improve the world through data. A gigantic volume of data is now available in the world, and much can be accomplished if we attain and utilize it in an effective manner. Our aim is to make our research reproducible and open on this website.
-
+- [Lacuna fund](https://lacunafund.org/)
+	- Putting the benefits of machine learning within reach of data scientists, researchers, and social entrepreneurs worldwide.
+	- We mobilize funding for labeled datasets that solve urgent problems in low- and middle-income contexts globally
 
 ### Organizations
 - [AI for good foundation](https://ai4good.org/)
