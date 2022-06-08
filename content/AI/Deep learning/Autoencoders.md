@@ -22,7 +22,7 @@ title: "Autoencoders"
 - [Intuitively understanding VAEs](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 - [An Intuitive Comparison of Autoencoders with Variational Autoencoders](https://thilospinner.com/towards-an-interpretable-latent-space/)
 - http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and
-- [Arxiv insights. Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+- [Variational Autoencoders (youtube)](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 - [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
 
@@ -39,6 +39,8 @@ title: "Autoencoders"
 	- Masked autoencoder (MAE) is a simple autoencoding approach that reconstructs the original signal given its partial observation
 	- [Paper explained](https://www.youtube.com/watch?v=Dp6iICL2dVI)
 	- See [[AI/Deep learning/Transformers]]
+- #PAPER [Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality (Li 2022)](https://arxiv.org/abs/2205.10063v1)
+	- #CODE https://github.com/implus/um-mae
 
 ### VAEs
 - #PAPER [Auto-Encoding Variational Bayes (Kingma 2014)](https://arxiv.org/abs/1312.6114)
