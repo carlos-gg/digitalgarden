@@ -41,6 +41,9 @@ title: "Natural Language Processing (NLP)"
 - #TALK [Deep Learning for Natural Language Processing (2015)](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 
 ## Code
+- #CODE [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
+	- PaddleSpeech is an open-source toolkit on PaddlePaddle platform for a variety of critical tasks in speech and audio, with the state-of-art and influential models
+	- #PAPER [PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit (Zhang 2022)](https://arxiv.org/pdf/2205.12007v1)            
 - #CODE [Rubrix](https://github.com/recognai/rubrix)
 	- Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP
 - #CODE [Beir - Heterogeneous Benchmark for Information Retrieval](https://github.com/UKPLab/beir)
