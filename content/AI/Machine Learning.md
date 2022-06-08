@@ -141,6 +141,7 @@ See [[AI/DS and DataEng/Open ML data]]
 	- [Azure ML Studio](https://azure.microsoft.com/en-us/services/machine-learning/)
 	- [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
 - #CODE [Google Cloud Platform](https://cloud.google.com/)
+	- [Pick your AI/ML Path on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/pick-your-aiml-path-google-cloud)
 	- https://codelabs.developers.google.com/
 	- https://cloud.google.com/products/ai/
 	- https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17

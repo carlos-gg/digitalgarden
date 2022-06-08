@@ -37,6 +37,7 @@ title: "Deep Learning (DL)"
 
 
 ## Books
+- #BOOK [Deep Learning with R, 2nd Edition (Kalinowski 2022)](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
 - #BOOK [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (Kashani 2022)](https://arxiv.org/abs/2201.00650)
 - #BOOK [Physics-based Deep Learning Book (Thuerey 2021)](https://physicsbaseddeeplearning.org/intro.html) ^PBDL
 - #BOOK [The Principles of DL Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022)](https://deeplearningtheory.com/PDLT.pdf)
