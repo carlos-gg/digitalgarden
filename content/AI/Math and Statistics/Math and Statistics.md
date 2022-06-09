@@ -6,6 +6,7 @@ title: "Math and Statistics"
 - https://en.wikipedia.org/wiki/Portal:Mathematics
 - https://en.wikipedia.org/wiki/Mathematics
 - [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+- [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML)
 - https://github.com/rouseguy/intro2stats
 - [Stanford-cs-229 ML, probability and stats refresher](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf)
 - https://www.khanacademy.org/math/statistics-probability

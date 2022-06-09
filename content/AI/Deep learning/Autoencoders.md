@@ -38,6 +38,7 @@ title: "Autoencoders"
 - #PAPER [An Introduction to Variational Autoencoders (Kingma 2019)](https://arxiv.org/abs/1906.02691)
 - #PAPER [NVAE: A Deep Hierarchical Variational Autoencoder (Vahdat 2020)](https://arxiv.org/abs/2007.03898)
 	- [Paper explained](https://www.youtube.com/watch?v=x6T1zMSE4Ts)
+- #PAPER [Deep Attentive Variational Inference (Apostolopoulou 2022)](https://blog.ml.cmu.edu/2022/05/27/deep-attentive-variational-inference/)
 
 ## Masked autoencoders (MAE)
 - #PAPER [Masked Autoencoders Are Scalable Vision Learners (He 2021)](https://arxiv.org/abs/2111.06377)
