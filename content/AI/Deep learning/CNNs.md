@@ -166,6 +166,7 @@ See "Neural Networks explainability" section in [[AI/XAI]]
 	- #CODE https://github.com/yoheikikuta/senet-keras
 	- https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/
 	- https://programmerclick.com/article/4934219785/
+	- https://pyimagesearch.com/2022/05/30/attending-to-channels-using-keras-and-tensorflow/
  - #PAPER [CBAM: Convolutional Block Attention Module (Woo 2018)](https://arxiv.org/abs/1807.06521) ^cbam
 	 - #CODE https://kobiso.github.io//research/research-CBAM/
 	 - https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671

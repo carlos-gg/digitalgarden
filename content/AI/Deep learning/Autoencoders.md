@@ -33,14 +33,14 @@ title: "Autoencoders"
 	- Early image-to-image translation methods used convolutional neural networks (CNN), which learn to minimize the loss of a pixel value between the source domain image and the target domain image but had the limitation of failing to produce more photorealistic images 
 	- Unlike other approaches… our method is not limited to a specific task, nor do we rely on predefined relationships between the source and target domains. Our method can be applied to make a general-domain solution for many image-to-image translation tasks. 
 
-### VAEs
+### Variational Autoencoders (VAE)
 - #PAPER [Auto-Encoding Variational Bayes (Kingma 2014)](https://arxiv.org/abs/1312.6114)
 - #PAPER [An Introduction to Variational Autoencoders (Kingma 2019)](https://arxiv.org/abs/1906.02691)
 - #PAPER [NVAE: A Deep Hierarchical Variational Autoencoder (Vahdat 2020)](https://arxiv.org/abs/2007.03898)
 	- [Paper explained](https://www.youtube.com/watch?v=x6T1zMSE4Ts)
 - #PAPER [Deep Attentive Variational Inference (Apostolopoulou 2022)](https://blog.ml.cmu.edu/2022/05/27/deep-attentive-variational-inference/)
 
-## Masked autoencoders (MAE)
+### Masked Autoencoders (MAE)
 - #PAPER [Masked Autoencoders Are Scalable Vision Learners (He 2021)](https://arxiv.org/abs/2111.06377)
 	- #CODE https://github.com/facebookresearch/mae
 	- #CODE https://github.com/ariG23498/mae-scalable-vision-learners
