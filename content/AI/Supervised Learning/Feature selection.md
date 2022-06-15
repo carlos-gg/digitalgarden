@@ -39,3 +39,6 @@ See [[AI/Supervised Learning/Regularized regression]]
 - #CODE [ITMO_FS](https://github.com/ctlab/ITMO_FS)
 	- Feature selection library in python
 	- https://itmo-fs.readthedocs.io/en/latest/
+
+## References
+- #PAPER [A Guided Hybrid Genetic Algorithm for Feature Selection with Expensive Cost Functions (Jung 2013)](https://www.sciencedirect.com/science/article/pii/S1877050913005486)

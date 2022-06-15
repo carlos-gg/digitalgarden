@@ -16,4 +16,5 @@ title: "Fourier Neural Operator (FNO)"
 - #PAPER [Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers (Guibas 2022)](https://arxiv.org/pdf/2111.13587)            
 	- #CODE https://github.com/NVlabs/AFNO-transformer
 	- #CODE https://github.com/DarshanDeshpande/research-paper-implementations/tree/main/tensorflow/afno (not official)
-- #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using  Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/pdf/2202.11214)            
+- #PAPER FourCastNet (2022)
+	- See [[AI4ES/Weather forecasting, nowcasting]]

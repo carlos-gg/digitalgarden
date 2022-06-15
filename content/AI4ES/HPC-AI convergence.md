@@ -7,8 +7,8 @@ title: "HPC-AI convergence"
 > - [[AI4ES/Pangeo]]
 
 ## Resources
-- #TALK Innovator Insights: HW & SW Platforms for HPC, AI and ML: https://www.youtube.com/watch?v=g4gNb5sEqyM
-- #TALK HPC + [[AI]]: Machine Learning Models in Scientific Computing: https://www.youtube.com/watch?time_continue=1&v=SV3cnWf39kc&feature=emb_title
+- #TALK [Innovator Insights: HW & SW Platforms for HPC, AI and ML](https://www.youtube.com/watch?v=g4gNb5sEqyM)
+- #TALK [HPC + [[AI]]: Machine Learning Models in Scientific Computing](https://www.youtube.com/watch?time_continue=1&v=SV3cnWf39kc&feature=emb_title)
 	- https://es.slideshare.net/insideHPC/hpc-ai-machine-learning-models-in-scientific-computing
 
 - The increasing interest in the usage of [[Machine Learning]] (ML) and Artificial Intelligence techniques ([[AI]]) to tackle high-impact research problems requires High Performance Computing (HPC) resources to efficiently compute and scale complex algorithms across thousands of nodes (Brayford et al. 2019). A diverse group of disciplines could be impacted by the integration of HPC and AI, especially those dealing with massive quantities of multi-dimensional data such as high energy physics, astrophysics and medical imaging.  
@@ -35,11 +35,11 @@ title: "HPC-AI convergence"
 		- light-weight container system developed at LANL with high standards of security
 
 #### Talks
-- #TALK Reproducible Science with Containers on HPC through Singularity: https://insidehpc.com/2019/02/video-reproducible-science-with-containers-on-hpc-through-singularity/
+- #TALK [Reproducible Science with Containers on HPC through Singularity](https://insidehpc.com/2019/02/video-reproducible-science-with-containers-on-hpc-through-singularity/)
 - #TALK Containers in HPC. IDEAS webinar by Shane Canon 
 	- http://ideas-productivity.org/wordpress/wp-content/uploads/2019/02/webinar026-containers.pdf 
 	- https://www.youtube.com/watch?v=vzHnIS-bQQY 
-- #TALK Distributed HPC Applications with Unprivileged Containers: https://insidehpc.com/2020/02/distributed-hpc-applications-with-unprivileged-containers/
+- #TALK [Distributed HPC Applications with Unprivileged Containers](https://insidehpc.com/2020/02/distributed-hpc-applications-with-unprivileged-containers/)
 - Container technologies:
 
 ### Jupyter project 
@@ -48,9 +48,9 @@ See [[AI/DS and DataEng/Jupyter#Jupyter in HPC]]
 
 
 ## References
-- #PAPER The Convergence of [[AI]] and HPC: https://www.intel.com/content/www/es/es/high-performance-computing/ai-hpc-is-happening-now-report.html
-- #PAPER Convergence of HPC and AI: 2 directions of connection (Ismayilova 2018): http://azjhpc.org/issua2/doi.org:10.32010:26166127.2018.1.2.179.184.pdf
-- #PAPER Deploying AI Frameworks on Secure HPC Systems with Containers (Brayford 2019): https://arxiv.org/abs/1905.10090
+- #PAPER [The Convergence of [[AI]] and HPC](https://www.intel.com/content/www/es/es/high-performance-computing/ai-hpc-is-happening-now-report.html)
+- #PAPER [Convergence of HPC and AI: 2 directions of connection (Ismayilova 2018)](http://azjhpc.org/issua2/doi.org:10.32010:26166127.2018.1.2.179.184.pdf)
+- #PAPER [Deploying AI Frameworks on Secure HPC Systems with Containers (Brayford 2019)](https://arxiv.org/abs/1905.10090)
 
 
 
