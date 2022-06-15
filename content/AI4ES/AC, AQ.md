@@ -2,13 +2,11 @@
 title: "Atmospheric composition and air quality (AC, AQ)"
 ---
 
-
 ## Resources
 - Chemical transport model (CTM): https://en.wikipedia.org/wiki/Chemical_transport_model
 	- type of computer numerical model which typically simulates atmospheric chemistry and may give air pollution forecasting
 	- CTM focuses on the stocks and flows of one or more chemical species
 	- CTM is expected to accurately represent the entire cycle for the species of interest, including fluxes (e.g. advection), chemical production/loss, and deposition
-- Example: CO2 at Mauna Loa — PyMC3 3.6 documentation:  https://docs.pymc.io/notebooks/GP-MaunaLoa.html
 - Gaussian process regression (GPR) on Mauna Loa CO2 data. — scikit-learn 0.21.3 documentation: https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html
 
 ### Methane emission sources

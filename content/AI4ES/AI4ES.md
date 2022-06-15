@@ -125,8 +125,8 @@ See [[AI4ES/Emulators]]
 
 ### Other applications
 See 
-[[HPC + AI convergence]]
-[[HPC + AI convergence#Data]]
+[[AI4ES/HPC-AI convergence]]
+[[AI4ES/HPC-AI convergence#Data]]
 
 #### Agriculture
 - #PAPER Deep learning in agriculture: A survey (Kamilaris 2018): http://arxiv.org/abs/1807.11809

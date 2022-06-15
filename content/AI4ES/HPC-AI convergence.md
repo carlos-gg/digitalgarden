@@ -1,5 +1,5 @@
 ---
-title: "HPC + AI convergence"
+title: "HPC-AI convergence"
 ---
 
 > See:

@@ -156,11 +156,11 @@ title: "AI4ES data"
 
 - #CODE [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (Helber 2019)](https://arxiv.org/abs/1709.00029)
 	- https://github.com/phelber/eurosat
-- #PAPER DIOR [[EO#^dior]]
+- #PAPER DIOR (see [[AI4ES/EO]])
 - #PAPER DOTA: A Large-scale Dataset for Object Detection in Aerial Images (Xia 2019): https://arxiv.org/abs/1711.10398
 - #PAPER EarthNet2021: A novel large-scale dataset and challenge for forecasting localized climate impacts (Requena-Mesa 2020): https://arxiv.org/abs/2012.06246v1
 	- https://paperswithcode.com/dataset/earthnet2021?from=n10
-- #PAPER FAIR1M [[EO#^fair1m]]
+- #PAPER FAIR1M (see [[AI4ES/EO]])
 - #PAPER SpaceML: Distributed Open-source Research with Citizen Scientists for the Advancement of Space Technology for NASA (Koul 2021): https://arxiv.org/abs/2012.10610
 
 ### Sentinel 5p (TROPOMI)
