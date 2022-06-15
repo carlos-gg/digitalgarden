@@ -33,6 +33,10 @@ title: "Artificial Intelligence"
 - [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
 - [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
 
+
+### AI for Earth Sciences
+See [[AI4ES/AI4ES]]
+
 ### AI for good
 - See [[AI4G/AI4good]]
 

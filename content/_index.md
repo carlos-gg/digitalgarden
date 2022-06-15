@@ -16,7 +16,7 @@ Keeping up with the literature related to Artificial Intelligence (AI) and Machi
 
 ## What to find in here
 
-Most notes in this knowledge garden are focused on specific topics (e.g., [GFlowNets](AI/Deep%20learning/GFlowNets.md)) but others are broader [_maps of content_](https://jing.io/garden/MOC/) (e.g., [Deep Learning](AI/Deep%20learning/DL.md)). The notes are composed of common subsections:
+Most notes in this knowledge garden are focused on specific topics (e.g., [GFlowNets](AI/Deep%20learning/GFlowNets.md)) but others are broader [_maps of content_](https://jing.io/garden/MOC/) (e.g., [AI for Earth Sciences](AI4ES/AI4ES.md) or [Deep Learning](AI/Deep%20learning/DL.md)). The notes are composed of common subsections:
 
 - **Resources**: definitions, wikipedia entries, blog posts and other useful stuff.
 - **Books**: well... books, mostly free or open source.
@@ -31,6 +31,7 @@ Most of the entries (bullet points) in a note carry a specific tag, depending on
 - [Deep Learning](AI/Deep%20learning/DL.md)
 - [Machine Learning](AI/Machine%20Learning.md) 
 - [Data Science](AI/DS%20and%20DataEng/Data%20Science.md)
+- [AI for Earth Sciences](AI4ES/AI4ES.md)
 - [AI for good](AI4G/AI4good.md)
 
 Feel free to look around, either by exploring the _maps of content_ above, checking out the main index of [notes related to AI](https://carlos-gg.github.io/digitalgarden/ai/), using the search box, or by interacting with the mind map on top of the page. Expect some broken links and all sort of bugs and errors. I hope you find something useful in this knowledge garden. Enjoy! 
