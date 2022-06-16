@@ -73,12 +73,12 @@ title: "AI4ES"
 - #PAPER [Evolution of machine learning in environmental science—A perspective (Hsieh 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/evolution-of-machine-learning-in-environmental-sciencea-perspective/C21F19C66FA387BC25F43C3C6B95E866)
 
 ### AI for pattern recognition and spatio-temporal modelling
-- See [[Video segmentation and prediction]]
+- See [[AI/Computer Vision/Video segmentation and prediction]]
 - Extreme events identification. See [[AI4ES/Extremes events]]
 - See [[Weather forecasting, nowcasting#^e83f4e]]
 
 ### Climate models
-See [[ESMs, GCMs]], [[Ensembles, multi-models]] and [[Weather forecasting, nowcasting]], [[Image-to-image translation]], [[Video segmentation and prediction]] (next frame prediction) using the temporal dimension
+See [[AI4ES/ESMs, GCMs]], [[AI4ES/Ensembles, multi-models]] and [[AI4ES/Weather forecasting, nowcasting]], [[AI/Computer Vision/Image-to-image translation]], [[AI/Computer Vision/Video segmentation and prediction]] (next frame prediction) using the temporal dimension
 
 ### Filling observational gaps
 See [[AI4ES/Filling observational gaps]]
@@ -186,7 +186,7 @@ See [[AI4ES/Pangeo]]
 
 
 ## Events
-- Conferences, events, workshops and courses related to [[AI]] and [[Machine Learning]] applied to Earth Sciences.
+- Conferences, events, workshops and courses related to [[AI]] and [[AI/Machine Learning]] applied to Earth Sciences.
 - [AI for Good. Discovery - AI and Climate Science](https://aiforgood.itu.int/eventcat/discovery-ai-and-climate-science/)
 - https://spcl.inf.ethz.ch/Bcast/
 
