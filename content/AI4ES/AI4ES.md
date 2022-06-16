@@ -23,8 +23,9 @@ title: "AI4ES"
 - [Tackling 21st Century Geoscience Problems with Machine Learning](https://eos.org/editors-vox/tackling-21st-century-geoscience-problems-with-machine-learning)
 - [Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data (NASA)](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) ^7b7470
 - [Training the Next Generation of Physical Data Scientists](https://eos.org/opinions/training-the-next-generation-of-physical-data-scientists)
-- #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
 
+## Talks
+- #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
 
 ## Books
 - #BOOK [Introduction to Climate Science (Schmittner 2017)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-climate-science-1st-edition-schmittner)
@@ -36,7 +37,6 @@ title: "AI4ES"
 - #COURSE [An Introduction to Earth and Environmental Data Science (Ryan Abernathey, Columbia UIniversity, 2021)](https://earth-env-data-science.github.io/intro.html)
 - #COURSE [Research computing in ES (Ryan Abernathey, Columbia UIniversity)](https://rabernat.github.io/research_computing_2018/)
 - #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science_, 2022)](https://bookdown.org/igisc/EnvDataSci/)
-
 
 ## References
 - #PAPER [Earth System Modeling 2.0: A Blueprint for Models That Learn From Observations and Targeted High‐Resolution Simulations (Schneider 2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076101)
@@ -73,16 +73,12 @@ title: "AI4ES"
 - #PAPER [Evolution of machine learning in environmental science—A perspective (Hsieh 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/evolution-of-machine-learning-in-environmental-sciencea-perspective/C21F19C66FA387BC25F43C3C6B95E866)
 
 ### AI for pattern recognition and spatio-temporal modelling
-See [[Video segmentation and prediction]]
-- Extreme events identification. See Extreme events [[AI4ES/Extremes events]]
-	- What are extreme events and how will climate change affect them? 
-	- LP Caron + Leo Bautista, seasonal forecasting 
-	- Nuria's work on extreme events 
+- See [[Video segmentation and prediction]]
+- Extreme events identification. See [[AI4ES/Extremes events]]
 - See [[Weather forecasting, nowcasting#^e83f4e]]
 
 ### Climate models
-See [[ESMs, GCMs]] and [[Ensembles, multi-models]]
-See [[Weather forecasting, nowcasting]], [[Image-to-image translation]], [[Video segmentation and prediction]] (next frame prediction) using the temporal dimension
+See [[ESMs, GCMs]], [[Ensembles, multi-models]] and [[Weather forecasting, nowcasting]], [[Image-to-image translation]], [[Video segmentation and prediction]] (next frame prediction) using the temporal dimension
 
 ### Filling observational gaps
 See [[AI4ES/Filling observational gaps]]
@@ -103,11 +99,10 @@ See [[AI4ES/Statistical downscaling]]
 See [[AI4ES/Bias correction, adjustment]]
 
 ### HPC and distributed DL/ML
-See [[AI/DS and DataEng/Distributed DL]]
-See [[AI4ES/AI4ES data]]
+See [[AI/DS and DataEng/Distributed DL]] and [[AI4ES/HPC-AI convergence]]
 
 ### ML interpretability and causal modelling in ES
-See [[AI4ES/ML interpretability in ES]], [[AI4ES/Causal modeling in ES]]
+See [[AI4ES/ML interpretability in ES]] and [[AI4ES/Causal modeling in ES]]
 
 ### Digital twins
 See [[AI4ES/Emulators]]
@@ -116,10 +111,6 @@ See [[AI4ES/Emulators]]
 - #PAPER [How to tell the difference between a model and a digital twin (Wright 2020)](https://amses-journal.springeropen.com/articles/10.1186/s40323-020-00147-4)
 
 ### Other applications
-
-#### HPC-AI convergence
-See [[AI4ES/HPC-AI convergence]]
-
 #### Agriculture
 - #PAPER [Deep learning in agriculture: A survey (Kamilaris 2018)](http://arxiv.org/abs/1807.11809)
 - #PAPER [Machine Learning in Agriculture: A Review (Liakos 2018)](https://www.mdpi.com/1424-8220/18/8/2674/htm)
@@ -157,6 +148,7 @@ See [[AI4ES/AI4ES data]]
 
 ## Code
 See [[AI4ES/Pangeo]]
+- #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
 - #CODE [xcast](https://github.com/kjhall01/xcast)
 	- A High-Performance Data Science Toolkit for the Earth Sciences
 - #CODE [climate_indices](https://github.com/monocongo/climate_indices)

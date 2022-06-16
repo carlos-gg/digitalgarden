@@ -42,7 +42,7 @@ title: "Climate change"
 - [Climate Change AI Wiki](https://wiki.climatechange.ai/wiki/Welcome_to_the_Climate_Change_AI_Wiki)
 - [Climate change 101](https://docs.google.com/presentation/d/1KxVq-FlngspK687AvdEYJ2IXZQaK0tbQPPsek6rC7jA/edit#slide=id.p)
 - #TALK https://www.youtube.com/channel/UCyjDr_aoMlzhSvCTdT7eZ9g/videos
-- #TALK [[[Machine Learning]] 101 for CC](https://www.youtube.com/watch?v=mc9QG2R-rf4) ^067612
+- #TALK [Machine Learning 101 for CC](https://www.youtube.com/watch?v=mc9QG2R-rf4) ^067612
 
 
 ## Code

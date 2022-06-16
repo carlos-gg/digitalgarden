@@ -93,7 +93,6 @@ title: "AI4ES data"
 #### Other reanalysis data
 - ERA5 [[AI4ES/AI4ES data#^era5]] is an atmospheric reanalysis, so uses ocean and land surface only as boundary condition.  
 - You could use Sea Surface Temperature and Sea-Ice cover from gridded observations like HadISST, or an ocean reanalysis like ORAS5 (e.g. ORAS5 sea-ice concentration is here: /esarchive/recon/ecmwf/oras5/monthly_mean/ileadfra) 
-- Soil moisture..hmmm...would be provided by ERA5-Land https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview but unfortunately this one only goes back to 1981, and I am not sure if they plan to extend back to 1950 like they do with ERA5 (Atmosphere). 
 - Surface level presure, sst 
 - Reanalysis data reaching further back than ERA-5 (at this point, ERA-5 will be extended back to 1950 during this year): 
 	- JRA-55 (starts 1958) 
@@ -106,6 +105,14 @@ title: "AI4ES data"
 	- http://www.uerra.eu/component/dpattachments/?task=attachment.download&id=385
 	- www.uerra.eu/component/dpattachments/?task=attachment.download&id=399
 - [HadCRUT5 - gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period](https://www.metoffice.gov.uk/hadobs/hadcrut5/)
+
+### Soil moisture
+- ERA5-Land https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview 
+- [GLEAM - Global Land Evaporation Amsterdam Model](https://www.gleam.eu/)
+	- different components of land evaporation (often referred to as '_evapotranspiration_’): transpiration, bare-soil evaporation, interception loss, open-water evaporation and sublimation
+	- soon to come HR evaporation data
+	- products: Soil Evaporation, Snow Sublimation, Transpiration, Open-water Evaporation, Evaporative Stress, Root-zone Soil Moisture, Surface Soil Moisture
+	- #PAPER [GLEAM v3: satellite-based land evaporation and root-zone soil moisture (Marterns 2017)](https://gmd.copernicus.org/articles/10/1903/2017/)
 
 ### Wind
 - #PAPER [What global reanalysis best represents near-surface winds? (Ramon 2019)](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3616)

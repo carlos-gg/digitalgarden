@@ -4,11 +4,11 @@ title: "Causal modeling in ES"
 
 > See: 
 > - [[Causality]]
-	- [[Extremes - references#Causality studies]]
+	- [[AI4ES/Extremes events#Causality studies]]
 
 ## Resources
 - [Inferring causality in time series data](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46#586a)
-- CauseME - A platform to benchmark causal discovery methods:  https://causeme.uv.es/
+- [CauseME - A platform to benchmark causal discovery methods](https://causeme.uv.es/)
 
 ## Talks
 - #TALK [Causal Networks as a framework for climate science to improve process understanding (Marlene Kretschmer)](https://vimeo.com/472722333)
@@ -17,8 +17,8 @@ title: "Causal modeling in ES"
 
 ## Code
 - #CODE [Tigramite - Tigramite is a time series analysis python module for causal discovery](https://github.com/jakobrunge/tigramite)
-	  - https://jakobrunge.github.io/tigramite/
-	  - PCMCI algorithm. Causal discovery
+	- https://jakobrunge.github.io/tigramite/
+	- PCMCI algorithm. Causal discovery
 - #CODE [RGCPD - Investigate teleconnections, test for causality, and make forecasts](https://github.com/semvijverberg/RGCPD)
 	- RG-CPD is a framework to process 3-dimensional climate data, such that relationships based on correlation can be tested for conditional independence, i.e. causality
 	- https://zenodo.org/record/1486739#.X8Y0emT0mx0

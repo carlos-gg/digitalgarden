@@ -31,7 +31,7 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- Proposed a generic neural attention model based on deep neural networks for urban air quality inference. We leverage both records from monitoring stations and various urban data (e.g., meteorology, road networks, POIs), and extract important features that are correlated with air quality
 - [#THESIS/MSC Mid-term air quality forecasts using remote sensing data and machine learning (van Linschoten, 2017)](https://staff.fnwi.uva.nl/a.s.z.belloum/MSctheses/MScthesis_Boris_van_linschoten.pdf)
 - #PAPER [Estimation of ground-level particulate matter concentrations through the synergistic use of satellite observations and process-based models over South Korea (Park 2019)](https://www.atmos-chem-phys.net/19/1097/2019/)
-- #PAPER [Air Quality Forecast through Integrated Data Assimilation and [[Machine Learning]] (Lin 2019)](https://www.researchgate.net/publication/330451387_Air_Quality_Forecast_through_Integrated_Data_Assimilation_and_Machine_Learning)
+- #PAPER [Air Quality Forecast through Integrated Data Assimilation and Machine Learning (Lin 2019)](https://www.researchgate.net/publication/330451387_Air_Quality_Forecast_through_Integrated_Data_Assimilation_and_Machine_Learning)
 - #PAPER [Machine learning for Inferring CO2 Fluxes: The New Metaphysics of Neural Nets (Nguyen 2019)](https://eartharxiv.org/284f5/)
 - #PAPER [California’s methane super-emitters (Duren 2019)](https://www.nature.com/articles/s41586-019-1720-3)
 	- Identifying point sources of emissions with HiRes EO. No ML though

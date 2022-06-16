@@ -17,12 +17,13 @@ title: "(Earth system model) Emulators and surrogates"
 - #PAPER [Efficient surrogate modeling methods for large-scale Earth system models based on machine-learning techniques (Lu 2018)](https://gmd.copernicus.org/articles/12/1791/2019/)
 	- Proposed an efficient surrogate method capable of using a few ESM runs to build an accurate and fast-to-evaluate surrogate system of model outputs over large spatial and temporal domains. 
 	- SVD to reduce the output dimensions and then use Bayesian optimization techniques to generate an accurate neural network surrogate model based on limited ESM simulation samples. 
-	- Our [[Machine Learning]] -based surrogate methods can build and evaluate a large surrogate system of many variables quickly
+	- Our Machine Learning-based surrogate methods can build and evaluate a large surrogate system of many variables quickly
 - #PAPER [Toward Data‐Driven Weather and Climate Forecasting: Approximating a Simple General Circulation Model With Deep Learning (Scher 2018)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080704)
 	- Emulated the dynamics of a simple general circulation model with a deep neural network. After being trained on the model, the network can predict the complete model state several time steps ahead—which conceptually is making weather forecasts in the model world
 - #PAPER [Weather and climate forecasting with neural networks: using general circulation models (GCMs) with different complexity as a study ground (Scher 2019)](https://gmd.copernicus.org/articles/12/2797/2019/)
 - #PAPER [Deep learning for physical processes: incorporating prior scientific knowledge (Bezenac 2019)](https://iopscience.iop.org/article/10.1088/1742-5468/ab3195)
-- #PAPER [Emulating Numeric Hydroclimate Models with Physics-Informed conditions [[GANs]] (Manepalli, 2019)](https://par.nsf.gov/servlets/purl/10137369)
+- #PAPER [Emulating Numeric Hydroclimate Models with Physics-Informed cGANs (Manepalli 2019)](https://par.nsf.gov/servlets/purl/10137369)
+	- workshop on climate informatics
 	- https://slideslive.com/38922409/emulating-numeric-hydroclimate-models-with-physicsinformed-cgans 
 - #PAPER [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling (Beucler 2019)](https://arxiv.org/abs/1906.06622)
 	- NN models do not intrinsically conserve energy and mass, which is an obstacle to using them for long-term climate predictions. 
