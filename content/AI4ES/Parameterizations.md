@@ -18,7 +18,7 @@ title: "Parameterizations"
 - #PAPER [Modeling haboob dust storms in large-scale weather and climate models (Pantillon 2016)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015JD024349)
 - #PAPER [Stochastic Parameterization: Toward a New View of Weather and Climate Models (Berner 2017)](https://journals.ametsoc.org/bams/article/98/3/565/70029/Stochastic-Parameterization-Toward-a-New-View-of)
 - #PAPER [Deep learning to represent subgrid processes in climate models (Rasp 2018)](https://www.pnas.org/content/115/39/9684)
-- #PAPER [Challenges and design choices for global weather and climate models based on [[machine learning]] (Dueben and Bauer 2018)](https://gmd.copernicus.org/articles/11/3999/2018/)
+- #PAPER [Challenges and design choices for global weather and climate models based on machine learning (Dueben and Bauer 2018)](https://gmd.copernicus.org/articles/11/3999/2018/)
 - #PAPER [Could Machine Learning Break the Convection Parameterization Deadlock? (Gentine 2018)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078202)
 - #PAPER [Prognostic Validation of a Neural Network Unified Physics Parameterization (Brenowitz and Bretherton 2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL078510)
 - #PAPER [Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events (O'Gorman and Dwyer 2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018MS001351)
@@ -32,7 +32,7 @@ title: "Parameterizations"
 - #PAPER [Spatially Extended Tests of a Neural Network Parametrization Trained by Coarse‐Graining (Brenowitz and Bretherton, 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001711)
 	- this article describes an NN parametrization trained by coarse‐graining a near‐global CRM simulation with a 4‐km horizontal grid spacing
 	- the NN predicts the residual heating and moistening averaged over (160 km)2 grid boxes as a function of the coarse‐resolution fields within the same atmospheric column
-- #PAPER [Machine Learning for Stochastic Parameterization: [[GANs]] in the Lorenz ’96Model (John Gagne II 2019)](https://arxiv.org/abs/1909.04711)
+- #PAPER [Machine Learning for Stochastic Parameterization: GANs in the Lorenz ’96Model (John Gagne II 2019)](https://arxiv.org/abs/1909.04711)
 	- simulations of the atmosphere must approximate the effects of small-scale processes with simplified functions called parameterizations
 	- standard parameterizations only predict one output for a given input, but stochastic parameterizations can sample from all the possible outcomes that can occur under certain conditions
 	- developed a generative adversarial network machine learning stochasticparameterization of sub-grid forcing for the Lorenz ’96 dynamical mode

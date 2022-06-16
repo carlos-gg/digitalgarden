@@ -5,9 +5,6 @@ title: "S2S"
 > See:
 > - [[S2D]]
 > - [[Ensembles, multi-models]]
-> - [[AI4ES/AI4ES data#AI4ES data#Seasonal systems]]
-> - [[AI4ES/S2S ML-based prediction]]
-> - [[AI4S2S project review]]
 > - [[AI4ES/AI4ES data#Seasonal forecasts]]
 
 ## Resources

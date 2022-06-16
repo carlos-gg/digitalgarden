@@ -24,7 +24,7 @@ title: "Weather forecasting, nowcasting"
 	- #CODE https://keras.io/examples/conv_lstm/
 - #PAPER [Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model, trajGRU (Shi 2017)](https://arxiv.org/abs/1706.03458)
 	- https://github.com/CNALeon007/TrajGRU
-- #PAPER [Automating weather forecasts based on [[CNNs]] (Rozas Larraondo 2017)](https://deepstruct.github.io/ICML17/1stDeepStructWS_paper_2.pdf)
+- #PAPER [Automating weather forecasts based on CNNs (Rozas Larraondo 2017)](https://deepstruct.github.io/ICML17/1stDeepStructWS_paper_2.pdf)
 - [#THESIS/PHD Application of machine learning techniques to weather forecasting (Rozas Larraondo 2019)](https://addi.ehu.es/handle/10810/32532)
 - #PAPER [A Generative Adversarial Gated Recurrent Unit Model for Precipitation Nowcasting (Tian, 2019)](https://ieeexplore.ieee.org/document/8777193)
 - #PAPER [Can machines learn to predict weather? Using deep learning to predict gridded 500‐hPa geopotential height from historical weather data (Weyn 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001705)
@@ -32,17 +32,17 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [Prediction of Rainfall Using Intensified LSTM Based Recurrent Neural Network with Weighted Linear Units (Poornima 2019)](https://www.mdpi.com/2073-4433/10/11/668)
 - #PAPER [Data-driven predictions of a multiscale Lorenz 96 chaotic system using machine-learning methods: reservoir computing, artificial neural network, and LSTM (Chattopadhyay 2019)](https://arxiv.org/abs/1906.08829)
 	- #CODE https://github.com/ashesh6810/RCESN_spatio_temporal
-- #PAPER [Deep Uncertainty Quantification: A [[Machine Learning]] Approach for Weather forecasting (Wang 2019)](https://arxiv.org/abs/1812.09467)
+- #PAPER [Deep Uncertainty Quantification: A Machine Learning Approach for Weather forecasting (Wang 2019)](https://arxiv.org/abs/1812.09467)
 	- Proposed data-driven method augmented by an effective information fusion mechanism to learn from historical data that incorporates prior knowledge from NWP
 	- Weather forecasting problem posed as an end-to-end deep learning problem and solve it by proposing a novel negative log-likelihood error (NLE) loss function
 	- A notable advantage of our proposed method is that it simultaneously implements single-value forecasting and uncertainty quantification, which we refer to as deep uncertainty quantification (DUQ)
 	- The proposed DUQ is based on sequence-to-sequence (seq2seq, a.k.a Encoder-Decoder)
 	- DUQ predicts two values at each timestep corresponding to the predicted mean and variance to parameterize the Gaussian distributions
 - #PAPER [Computer Vision in Precipitation Nowcasting: Applying Image Quality Assessment Metrics for Training Deep Neural Networks (Tran 2019)](https://www.mdpi.com/2073-4433/10/5/244/htm)
-- #PAPER Technical note: [[AI/Deep learning/DL]] for creating surrogate models of precipitation in Earth system models (Weber 2020):  https://www.atmos-chem-phys.net/20/2303/2020/
+- #PAPER [Technical note: DL for creating surrogate models of precipitation in Earth system models (Weber 2020)](https://www.atmos-chem-phys.net/20/2303/2020/)
 	- Precipitation forecasting using resnets		
 	- #CODE https://github.com/hutchresearch/deep_climate_emulator
-- #PAPER [Improving data-driven global weather prediction using deep [[CNNs]] on a cubed sphere (Weyn 2020)](https://arxiv.org/abs/2003.11927) ^bd4b0a
+- #PAPER [Improving data-driven global weather prediction using deep CNNs on a cubed sphere (Weyn 2020)](https://arxiv.org/abs/2003.11927) ^bd4b0a
 	- https://github.com/jweyn/DLWP-CS
 	- New developments in this framework include an offline volume-conservative mapping to a cubed-sphere grid, improvements to the CNN architecture (U-NET), and the minimization of the loss function over multiple steps in a prediction sequence.
 	- The cubed-sphere remapping minimizes the distortion on the cube faces on which convolution operations are performed and provides natural boundary conditions for padding in the CNN. 
@@ -97,8 +97,8 @@ title: "Weather forecasting, nowcasting"
 	- Additionally, studied the effect of including the information that the two hemispheres of the Earth have “flipped” properties - for example cyclones circulating in opposite directions - into the structure of the network
 	- Using spherical convolution leads to an additional improvement in forecast skill, especially close to the poles in the first days of the forecast
 	- The spherical convolution is implemented flexibly and scales well to high resolution datasets, but is still significantly more expensive than a standard convolution operation
-- [#THESIS/PHD Artificial intelligence in weather and climate prediction (Scher 2020)](https://www.diva-portal.org/smash/get/diva2:1425352/FULLTEXT01.pdf ^2e6f0f)
-- [#THESIS/MSC Geometric deep learning for medium-range weather prediction (Llorens 2020)](https://infoscience.epfl.ch/record/278138)
+- #THESIS/PHD [Artificial intelligence in weather and climate prediction (Scher 2020)](https://www.diva-portal.org/smash/get/diva2:1425352/FULLTEXT01.pdf ^2e6f0f)
+- #THESIS/MSC [Geometric deep learning for medium-range weather prediction (Llorens 2020)](https://infoscience.epfl.ch/record/278138)
 	- #CODE https://github.com/illorens/weather_prediction
 	- Spherical CNNs benchmarking
 - #PAPER [Temporal convolutional neural (TCN) network for an effective weather forecasting using time-series data from the local weather station (Hewage 2020)](https://link.springer.com/article/10.1007/s00500-020-04954-0)

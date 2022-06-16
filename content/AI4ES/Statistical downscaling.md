@@ -13,8 +13,8 @@ title: "Statistical downscaling"
 - Downscaling is any procedure to infer high-resolution information from low-resolution variables. This technique is based on dynamical or statistical approaches commonly used in several disciplines, especially meteorology, climatology and remote sensing. The term downscaling usually refers to an increase in spatial resolution, but it is often also used for temporal resolution.
 - Statistical downscaling or what climate can I expect in my own backyard? Statistical DS learns a functional mapping between low and high-resolution climate models from observed data (computationally efficient and scalable across multi-model ensembles) vs dynamical DS, where all the local processes are encoded, such as convective precipitation and vegetation schemes, with subgrid parameters and GCM boundary conditions for HR projections (high computational costs) 
 - "downscaling" is a climate modeling term while "downsampling" comes from signal processing. Confusingly, "downscaling" is actually equivalent to "upsampling", both referring to "increasing resolution"
-- #TALK What is bias correction/adjustment and statistical downscaling? https://www.youtube.com/watch?v=diCEdcDTtgw
-- #TALK Different methods for bias adjustment and downscaling https://www.youtube.com/watch?v=f5yGo9hcjbk
+- #TALK [What is bias correction/adjustment and statistical downscaling?](https://www.youtube.com/watch?v=diCEdcDTtgw)
+- #TALK [Different methods for bias adjustment and downscaling](https://www.youtube.com/watch?v=f5yGo9hcjbk)
 - #TALK [Statistical Downscaling (South Central Climate Adaptation Science Center)](https://www.youtube.com/watch?v=etaMadjy12k)
 - #TALK [Webinar: The Ins and Outs of Downscaling: Simple to Complex Techniques Explained Simply (2015)](https://www.youtube.com/watch?v=rSkeaDu3K68)
 - [Santander group](https://www.meteo.unican.es/en/research/statistical_downscaling)
@@ -28,6 +28,8 @@ title: "Statistical downscaling"
 	 
 
 ## Code
+- #CODE [DL4DS - Deep Learning for empirical DownScaling](https://github.com/carlos-gg/dl4ds)
+	- Python package with state-of-the-art and novel deep learning algorithms for empirical/statistical downscaling of gridded data
 - #CODE [Equidistant quantile matching (EDCDFm)](https://github.com/scrim-network/red_river)
 	- Bias correction and SD in python and R
 - #CODE [Scikit-downscale](https://github.com/jhamman/scikit-downscale/)
@@ -41,11 +43,13 @@ title: "Statistical downscaling"
 - #CODE https://github.com/krishaizl/AnalogMethod/
 
 
-## References
+## Books
 - #BOOK [Large-scale machine learning in the earth sciences (Srivastava, CRC 2017)](https://www.routledge.com/Large-Scale-Machine-Learning-in-the-Earth-Sciences/Srivastava-Nemani-Steinhaeuser/p/book/9780367573232)
 	- Chapter 4: Statistical Downscaling in Climate with State-of-the-Art Scalable Machine Learning
 - #BOOK [Statistical Downscaling and Bias Correction for Climate Research (Maraun 2018, CAMBRIDGE)](https://www.cambridge.org/core/books/statistical-downscaling-and-bias-correction-for-climate-research/4ED479BAA8309C7ECBE6136236E3960F)
 
+
+## References
 - #PAPER [A comparison of statistical downscaling methods suited for wildfire applications (Abatzoglou 2012)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.2312)
 	- model presented: Bias corrected Spatial Downscaling (BCSD) and the Multivariate Adapted Constructed Analogs (MACA)
 	- [MACA](http://www.climatologylab.org/maca.html#)
@@ -122,7 +126,7 @@ title: "Statistical downscaling"
 - #PAPER [Performance of statistical and machine learning ensembles for daily temperature downscaling (Li 2020)](https://link.springer.com/article/10.1007%2Fs00704-020-03098-3)
 - #TALK [Towards Operational Downscaling of Low Resolution Wind Fields using Neural Networks (Kern 2020)](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-5447.html)
 - #PAPER [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework (Jiang 2020)](https://arxiv.org/abs/2005.01463)
-- #PAPER [Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with [[GANs]] (Leinonen 2020)](https://arxiv.org/abs/2005.10374) ^20ca2a
+- #PAPER [Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with GANs (Leinonen 2020)](https://arxiv.org/abs/2005.10374) ^20ca2a
 	- #CODE https://github.com/jleinonen/downscaling-rnn-gan
 	- Precipitation use case
 	- Introduced a recurrent, stochastic super-resolution GAN that can generate ensembles of time-evolving high-resolution atmospheric fields for an input consisting of a low-resolution sequence of images of the same field
