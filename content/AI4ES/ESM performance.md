@@ -16,7 +16,7 @@ title: "ESM performance"
 	- https://www.anl.gov/mcs/article/using-machine-learning-approaches-for-load-balancing-of-climate-models
 - #PAPER [Multi-Level Load Balancing with an Integrated Runtime Approach (Bak 2017)](https://ieeexplore.ieee.org/abstract/document/8411007)
 	- https://www.researchgate.net/publication/326434358
-- #PAPER [Performance Optimization of Geophysics Stencils on Multicore Architectures: A [[Machine Learning]] Approach (Martinez 2018)](http://www.red-ricap.org/documents/1071192/1486440/Carla18Pos/51326921-4480-41e7-a980-4ebcd80c3652)
+- #PAPER [Performance Optimization of Geophysics Stencils on Multicore Architectures: A Machine Learning Approach (Martinez 2018)](http://www.red-ricap.org/documents/1071192/1486440/Carla18Pos/51326921-4480-41e7-a980-4ebcd80c3652)
 - #PAPER [An Efficient Dynamic Load Balancing Algorithm Using Machine Learning Technique in Cloud Environment (Panchal 2018)](http://ijsrset.com/paper/4504.pdf)
 - #PAPER [I/O Load Balancing for Big Data HPC Applications (Paul 2018)](https://ieeexplore.ieee.org/document/8257931)
 	- https://www.researchgate.net/profile/Arnab_Paul5/publication/321851758_IO_load_balancing_for_big_data_HPC_applications/links/5a3521a445851532e82f0e5b/I-O-load-balancing-for-big-data-HPC-applications.pdf

@@ -10,7 +10,7 @@ title: "Extremes events"
 - [CASCADE - multidivisional, collaborative project at Lawrence Berkeley National Laboratory (LBNL)](https://cascade.lbl.gov/)
 - [CLIMATE EXTREMES (Coumou)](https://climateextremes.eu/)
 - [EO-ALERT (2018-2021) - Next generation satellite processing chain for rapid civil alerts](http://eo-alert-h2020.eu/)
-	- [[[AI]] for Earth observation and numerical weather prediction](http://eo-alert-h2020.eu/2019/04/22/ai-for-earth-observation-and-numerical-weather-prediction/)
+	- [AI for Earth observation and numerical weather prediction](http://eo-alert-h2020.eu/2019/04/22/ai-for-earth-observation-and-numerical-weather-prediction/)
 - [Barometric Pressure & Hurricanes](https://sciencing.com/barometric-pressure-hurricanes-22734.html)
 - [National Meteorological Library and Archive Fact sheet 3 — Water in the atmosphere](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_3-water-in-the-atmosphere.pdf)
 - https://www.deeprain-project.de/en/publications-2/
@@ -24,7 +24,7 @@ title: "Extremes events"
 ## References - Climate
 - #PAPER [Climate and Weather Extremes (Nature paper collection)](https://www.nature.com/collections/kpzbllmxxw)
 	- [Progress in subseasonal to seasonal prediction through a joint weather and climate community effort (Mariotti 2018)](https://www.nature.com/articles/s41612-018-0014-z)
-	- [The sub-seasonal to seasonal prediction project ([[S2S]]) and the prediction of extreme events (Vitart 2018)](https://www.nature.com/articles/s41612-018-0013-0)
+	- [The sub-seasonal to seasonal prediction project (S2S) and the prediction of extreme events (Vitart 2018)](https://www.nature.com/articles/s41612-018-0013-0)
 - #PAPER [Development of a Combined Drought Indicator to detect agricultural drought in Europe (Sepulcre-Canto 2012)](https://doi.org/10.5194/nhess-12-3519-2012)
 - #PAPER [Simulation and Prediction of Category 4 and 5 Hurricanes in the High-Resolution GFDL HiFLOR Coupled Climate Model (Murakami 2015)](https://journals.ametsoc.org/jcli/article/28/23/9058/34488/Simulation-and-Prediction-of-Category-4-and-5)
 - #PAPER [A toolkit for climate change analysis and pattern recognition for extreme weather conditions – Case study: California-Baja California Peninsula (Vaghefi 2017)](http://www.sciencedirect.com/science/article/pii/S1364815216303188)
@@ -77,7 +77,7 @@ title: "Extremes events"
 - #PAPER [A machine learning workﬂow for hurricane prediction (Kahira 2018)](https://upcommons.upc.edu/handle/2117/124992)
 	- #BSC, LP Caron, Leonardo Bautista 
 - #PAPER [Training deep neural networks with low precision input data: a hurricane prediction case study (Kahira 2018)](https://upcommons.upc.edu/handle/2117/132833)
-- #PAPER [Fused [[AI/Deep learning/DL]] for Hurricane Track Forecast from Reanalysis Data (Giffard-Roisin 2018)](https://www.semanticscholar.org/paper/Fused-Deep-Learning-for-Hurricane-Track-Forecast-Giffard-Roisin-Yang/6aad16c4cfc5bf73f74671dddd01a47f63e71e30)
+- #PAPER [Fused DL for Hurricane Track Forecast from Reanalysis Data (Giffard-Roisin 2018)](https://www.semanticscholar.org/paper/Fused-Deep-Learning-for-Hurricane-Track-Forecast-Giffard-Roisin-Yang/6aad16c4cfc5bf73f74671dddd01a47f63e71e30)
 - #PAPER [Lightning Prediction for Australia Using Multivariate Analyses of Large-Scale Atmospheric Variables (Bates 2018)](https://journals.ametsoc.org/jamc/article/57/3/525/68263/Lightning-Prediction-for-Australia-Using)
 - #PAPER [Defining heatwave thresholds using an inductive machine learning approach (Park and Kim, 2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206872)
 	- Establishing appropriate heatwave thresholds is important in reducing adverse human health consequences as it enables a more effective heatwave warning system and response plan
@@ -85,7 +85,7 @@ title: "Extremes events"
 	- Daily data on emergency department visitors who were diagnosed with heat illnesses and information on 19 meteorological variables were obtained for the years 2011 to 2016 from relevant government agencies
 	- A Multivariate Adaptive Regression Splines (MARS) analysis was performed to explore points (referred to as “knots”) where the behaviour of the variables rapidly changed
 - #PAPER [Predicting Hurricane Trajectories using a Recurrent Neural Network (Alemany 2018)](http://arxiv.org/abs/1802.02548)
-- #PAPER [Exascale [[AI/Deep learning/DL]] for Climate Analytics (Kurth 2018)](https://arxiv.org/abs/1810.01993)
+- #PAPER [Exascale DL for Climate Analytics (Kurth 2018)](https://arxiv.org/abs/1810.01993)
 	- #CODE https://github.com/sparticlesteve/climate-seg-benchmark
 	- #TALK [Exascale Deep Learning for Climate Analytics (Thorsten Kurth, Lawrence Berkeley National Laboratory, TF Dev Summit ‘19)](https://www.youtube.com/watch?v=4uq9OODJpO0)
 		- Climate change will have fundamental socio-economic impact and it is imperative for us to understand it better. This talk will show how TensorFlow was utilized on the world’s fastest supercomputer in order to extract pixel level segmentation masks of extreme weather phenomena in climate simulation data, thereby enabling climate scientists to perform high-fidelity, fine grained geo-spatial analyses of the effects of climate change 
@@ -194,6 +194,32 @@ title: "Extremes events"
 - [[Causal modeling in ES#^d43897]]
 - [[Causal modeling in ES#^c4333d]]
 
+
+### Extreme events and climate change
+- [Commentary: How summer 2021 has changed our understanding of extreme weather](https://www.channelnewsasia.com/commentary/commentary-how-summer-2021-has-changed-our-understanding-extreme-weather-2098356)
+- [Extreme weather: How is it connected to climate change?](https://www.bbc.com/news/science-environment-58073295)
+- [Yes, climate change can affect extreme weather – but there is still a lot to learn](https://theconversation.com/yes-climate-change-can-affect-extreme-weather-but-there-is-still-a-lot-to-learn-136003)
+- [Is the weather actually becoming more extreme? - R. Saravanan (TED, POPSCI)](https://www.youtube.com/watch?v=NCPTbfQyMt8)
+- [Attributing extreme weather toclimate change (interactive map of studies worldwide)](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world?utm_content=buffer4760c)
+	- The website Carbon Brief has just published an update of its map of all the attribution studies that have looked at the https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world. For now, the map still shows a heavy bias towards events in Europe, North America and Australia, and also towards heatwaves. However, with every update it is becoming more and more comprehensive as the science evolves and includes a more diverse set of events.
+- [ClimExtreme - A research network on climate change and extreme events](https://www.climxtreme.net)
+	- https://www.xces.dkrz.de/
+
+- #PAPER [Fingerprinting Heatwaves and Cold Spells and Assessing Their Response to Climate Change Using Large Deviation Theory (Galfi and Licarini 2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.058701)
+	- https://phys.org/news/2021-08-fingerprints-extreme-weather-revealed-statistical.html
+
+#### Atribution studies
+- Attribution studies remain our best (and only) tool for understanding the impact of climate change on extreme weather and on our daily lives. They play a key role in helping [decision makers plan for, or avoid, a future where extreme weather events](https://www.climatecentre.org/news/1253/climate-attribution-work-in-mit-review-ten-a-breakthrough-technologiesa-for-2020) are more likely and intense due to global warming.
+- Attribution studies are also really important within climate science as they bridge the gap between observations and model projections. They test climate models in a real-world context, allowing scientists to understand better where they can have more confidence in their projections and where model improvements are needed before projections can be used for decision making.
+
+#### Extreme Event Attribution
+- https://science2017.globalchange.gov/chapter/3/
+- #PAPER [Detection and Attribution Methodologies Overview](https://science2017.globalchange.gov/chapter/appendix-c/)
+- #PAPER [Detection and attribution of climate extremes in the observed record](https://www.sciencedirect.com/science/article/pii/S2212094716300020)
+- #PAPER [Adapting attribution science to the climate extremes of tomorrow](https://iopscience.iop.org/article/10.1088/1748-9326/aaf4cc)
+
+- #PAPER [Investigating the Role of the Relative Humidity in the Co‐Occurrence of Temperature and Heat Stress Extremes in CMIP5 Projections (2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084156)
+- #PAPER [Precipitation downscaling under climate change: Recent developments to bridge the gap between dynamical models and the end user (2010)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009RG000314)
 
 
 # Data

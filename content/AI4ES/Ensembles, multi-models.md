@@ -37,11 +37,11 @@ title: "Ensembles, multi-models"
 		- resolution, expresses the superiority of a forecast system with respect to a forecast system based on climatology.
 - #PAPER [A multiple model assessment of seasonal climate forecast skill for applications (Lavers 2009)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009GL041365)
 - #PAPER [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles (Lakshminarayanan 2017)](https://arxiv.org/abs/1612.01474)
-- #PAPER [Predicting Weather Forecast Uncertainty with [[Machine Learning]] (Scher 2018)](https://www.researchgate.net/publication/328264084_Predicting_Weather_Forecast_Uncertainty_with_Machine_Learning)
+- #PAPER [Predicting Weather Forecast Uncertainty with Machine Learning (Scher 2018)](https://www.researchgate.net/publication/328264084_Predicting_Weather_Forecast_Uncertainty_with_Machine_Learning)
 - #PAPER [Using multi‐model ensembles of CMIP5 global climate models to reproduce observed monthly rainfall and temperature with machine learning methods in Australia (Wang 2018)](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.5705)
 	- https://agrivy.oss-cn-zhangjiakou.aliyuncs.com/papers_agrivy/webfiles/papers/2018-IJC-WANG-BIN.pdf
 	- The purpose of this study is to compare the capacity of four different multi-model ensemble (MME) methods (random forest, support vector machine, Bayesian model averaging and the arithmetic ensemble mean) in reproducing observed monthly rainfall and temperature
-- #PAPER [Predicting Weather Uncertainty with Deep [[CNNs]] (Gronquist 2019)](https://arxiv.org/abs/1911.00630)
+- #PAPER [Predicting Weather Uncertainty with Deep CNNs (Gronquist 2019)](https://arxiv.org/abs/1911.00630)
 	- Ensembles uncertainty estimation with DL
 	- WF uncertainty quantification using ensembles prediction system (nonparametrics stats on multiple perturbed simulations)
 	- Intensive simulations (dozens and up to 50)
@@ -67,10 +67,10 @@ title: "Ensembles, multi-models"
 	- https://www.researchgate.net/publication/327349294_Multi-model_skill_assessment_of_seasonal_temperature_and_precipitation_forecasts_over_Europe
 	- #BSC, Chloe Prodhomme
 	- [IMPREX, legacy open data](https://imprex.eu/system/files/generated/files/resource/imprex-opendata-overview.pdf)
-- See [[Bias correction#^gronquist20]]
+- #PAPER Gronquist 2020 in [[AI4ES/Bias correction, adjustment]]
 - #TALK [A new approach to subseasonal multi-model forecasting: Online prediction with expert advice (Brayshaw and Gonzalez 2020)](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-17663.html)
 	- Tested algorithms to perform ‘online prediction with expert advice’ (Cesa-Bianchi et al. 2006). These methods consider a set of weighted ‘experts’ (usually uniformly weighted at the start of the process) to produce subsequent predictions in which the combination or mixture is updated to optimize a loss or skill function
-	- S2S4E (https://s2s4e.eu/)
+	- [S2S4E](https://s2s4e.eu/) 
 	- The online learning algorithms
 		- BOA: Bernstein online aggregation
 		- MLpol: Polynomial potential aggregation
