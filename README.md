@@ -1,4 +1,8 @@
-# Quartz
+# AI digital knowledge garden
+
+Welcome to my personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science. The garden is composed of markdown files, stored in the ``content`` folder of this repository, which are rendered into a website thanks to [Quatz](https://quartz.jzhao.xyz/). 
+
+## Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
