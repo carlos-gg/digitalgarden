@@ -130,3 +130,8 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [Evaluation and interpretation of convolutional long short-term memory networks for regional hydrological modelling (Anderson 2022)](https://hess.copernicus.org/articles/26/795/2022/hess-26-795-2022.html)
 	- #CODE https://github.com/andersonsam/cnn_lstm_era
 - #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/pdf/2202.11214)            
+- #PAPER [Forecasting large-scale circulation regimes using deformable convolutional neural networks and global spatiotemporal climate data (Holm Nielsen 2022)](https://arxiv.org/abs/2202.04964)
+	- supervised machine learning approach based on deformable convolutional neural networks (deCNNs) and transfer learning to forecast the North Atlantic-European weather regimes during extended boreal winter for 1 to 15 days into the future
+	- authors could extract and learn transformation-invariant spatial patterns across large geographical areas using deformable convolutions, which is not possible with regular CNNs
+	- used pre-training (training on the large 20CRv3 reanalysis dataset spanning from 1836 to 1980, then transfer learning)
+	- using a interpretation technique called integrated gradients, we could attribute each variable’s contributions for a particular observation on a grid-point basis. This is especially important if we want to understand global climate processes better and explain drivers behind specific weather regimes that account for major uncertainty in NWP models days to weeks ahead

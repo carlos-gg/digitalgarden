@@ -131,6 +131,7 @@ MJO:
 	- done via a fast "surrogate model" to find a mapping from short-term to long-term response patterns within a given GCM
 	- this approach not only has the potential to accelerate climate change projections by reducing the costs of scenario computations, but also helps uncover early indicators of modelled long-term climate responses, which is of relevance to climate change detection, predictability, and attribution
 - #PAPER [Prediction Skill of Extended Range 2-m Maximum Air Temperature Probabilistic Forecasts Using Machine Learning Post-Processing Methods (Peng 2020)](https://www.mdpi.com/2073-4433/11/8/823/htm)
+- #PAPER [The influence of aggregation and statistical post-processing on the subseasonal predictability of European temperatures (van Straatem 2020)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3810?utm_campaign=RESR_MRKT_Researcher_inbound&af=R&utm_medium=referral&utm_source=researcher_app&sid=researcher)
 - #PAPER [Seasonal Arctic sea ice forecasting with probabilistic deep learning (Andersson 2021)](https://eartharxiv.org/repository/view/2027/)
 	- present a probabilistic, deep learning sea ice forecasting system, IceNet, trained on climate simulations and observational data to forecast the next 6 months of monthly-averaged sea ice concentration maps
 - #PAPER [Applying machine learning for drought prediction using data from a large ensemble of climate simulations (Felsche 2021)](https://nhess.copernicus.org/preprints/nhess-2021-110/)
@@ -140,7 +141,9 @@ MJO:
 	- K-Means Clustering of LRP Maps
 - #PAPER [Subseasonal predictability of the North Atlantic Oscillation (Albers 2021)](https://iopscience.iop.org/article/10.1088/1748-9326/abe781)
 - #PAPER [Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models (Weyn 2021)](https://arxiv.org/abs/2102.05107) ^weyn21dls2s
-
+- #PAPER [Extreme Precipitation Seasonal Forecast Using a Transformer Neural  Network (Civitarese 2021)](https://arxiv.org/pdf/2107.06846)
+- #PAPER [Dynamical–statistical seasonal forecasts of winter and summer precipitation for the Island of Ireland (Goliam 2022)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7557)
+- #PAPER [Using Explainable Machine Learning Forecasts to Discover Subseasonal Drivers of High Summer Temperatures in Western and Central Europe (van Straatem 2022)](https://journals.ametsoc.org/view/journals/mwre/150/5/MWR-D-21-0201.1.xml)
 
 ### Verification
 - [#BSC Seasonal forecasts quality assessment report (report by Marcos, ESS)](https://zenodo.org/record/2391735#.X_29a9Yo9qg)

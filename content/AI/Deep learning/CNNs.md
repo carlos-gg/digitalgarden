@@ -59,6 +59,8 @@ title: "Convolutional Neural Networks (CNNs)"
 - #PAPER [A guide to convolution arithmetic for deep learning (Dumoulin, 2016)](https://arxiv.org/abs/1603.07285)
 	- #CODE https://github.com/vdumoulin/conv_arithmetic
 - #PAPER [Xception: Deep Learning with Depthwise Separable Convolutions (Chollet 2017)](https://arxiv.org/abs/1610.02357)
+- #PAPER [Deformable Convolutional Networks (Dai 2017)](https://arxiv.org/pdf/1703.06211)
+- #PAPER [Deformable ConvNets v2: More Deformable, Better Results (Zhu 2018)](https://arxiv.org/pdf/1811.11168)
 - #PAPER [3D Depthwise Convolution: Reducing Model Parameters in 3D Vision Tasks (Ye 2018)](https://arxiv.org/abs/1808.01556)
 - #PAPER [Making Convolutional Networks Shift-Invariant Again (Zhang 2019)](https://arxiv.org/pdf/1904.11486v2)
 - #PAPER [A Survey of the Recent Architectures of Deep Convolutional Neural Networks (Khan 2020)](https://arxiv.org/abs/1901.06032v7)
@@ -180,3 +182,7 @@ See "Neural Networks explainability" section in [[AI/XAI]]
 - #PAPER [Visual Attention Network (Guo 2022)](https://arxiv.org/abs/2202.09741)
 	- #CODE https://paperswithcode.com/paper/visual-attention-network?from=n26
 	- This work presents an approach that decomposes a large kernel convolution operation to capture long-range relationship. After obtaining long-range relationship, it estimates the importance of a point and generates attention map
+- #PAPER [Attention Map-Guided Visual Explanations for Deep Neural Networks (An 2022)](https://www.mdpi.com/2076-3417/12/8/3846/htm)
+	- attention-map-guided visual explanations for deep neural networks, employing an attention mechanism to find the most important region of an input image
+	- The Grad-CAM method is used to extract the feature map for deep neural networks, and then the attention mechanism is used to extract the high-level attention maps
+	- Inspired in CBAM technique

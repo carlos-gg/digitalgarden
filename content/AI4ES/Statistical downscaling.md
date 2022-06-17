@@ -30,6 +30,8 @@ title: "Statistical downscaling"
 ## Code
 - #CODE [DL4DS - Deep Learning for empirical DownScaling](https://github.com/carlos-gg/dl4ds)
 	- Python package with state-of-the-art and novel deep learning algorithms for empirical/statistical downscaling of gridded data
+- #CODE [PyESD](https://github.com/Dan-Boat/PyESD)
+	- Python Package for Empirical Statistical Downscaling. This repository contains all scripts of the pyESD package which is under development. The purpose of the package is to downscale climate variables like precipitation and temperature from large-scale reanalysis datasets (eg. ERA5) to point scale
 - #CODE [Equidistant quantile matching (EDCDFm)](https://github.com/scrim-network/red_river)
 	- Bias correction and SD in python and R
 - #CODE [Scikit-downscale](https://github.com/jhamman/scikit-downscale/)
@@ -199,3 +201,4 @@ title: "Statistical downscaling"
 	- See [[AI/Deep learning/Neural processes]]
 	- ConvCNPs are a recently developed class of models that allow deep learning techniques to be applied to off-the-grid spatio-temporal data
 	- This model has a substantial advantage over existing downscaling methods in that the trained model can be used to generate multisite predictions at an arbitrary set of locations, regardless of the availability of training data
+- #POSTER [Intercomparison of DL techniques for empirical statistical downscaling over North America (Gonzalez-Abad 2022)](https://drive.google.com/file/d/1JMUPlTk5B1pqUwdBFQzxvNfs-JosOxn1/view)
