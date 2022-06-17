@@ -129,7 +129,15 @@ title: "Weather forecasting, nowcasting"
 	- First train our model using the 150 years of CMIP data described above. We then take the pretrained model and fine‐tune it using the ERA data
 - #PAPER [Evaluation and interpretation of convolutional long short-term memory networks for regional hydrological modelling (Anderson 2022)](https://hess.copernicus.org/articles/26/795/2022/hess-26-795-2022.html)
 	- #CODE https://github.com/andersonsam/cnn_lstm_era
-- #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/pdf/2202.11214)            
+- #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/abs/2202.11214)            
+	- [Accelerating Extreme Weather Prediction with FourCastNet](https://www.youtube.com/watch?v=nuT_U1AQz3g)
+	- #TALK [Building Digital Twins of the Earth for NVIDIA's Earth-2 Initiative](https://www.youtube.com/watch?v=IBTVAC82xtQ)
+	- ERA5 0.25 deg, 20 variables, from 1979 (~50k training samples)
+	- Unparalleled accuracy at forecast lead times of up to one week, challenging variables such as surface winds and precipitation
+	- FourCastNet has eight times greater resolution than state-of-the-art DL-based global weather models
+	- FourCastNet’s predictions are comparable to the IFS model on metrics of RMSE and Anomaly Correlation Coefficient (ACC) at lead times of up to three days
+	- FourCastNet’s reliable, rapid, and computationally inexpensive forecasts facilitate the generation of very large ensembles, thus enabling estimation of well-calibrated and constrained uncertainties in extremes with higher confidence than current NWP ensembles
+	- The AFNO model is unique in that it frames the mixing operation as continuous global convolution, implemented efficiently in the Fourier domain with FFTs, which allows modeling dependencies across spatial and channel dimensions flexibly and scalably
 - #PAPER [Forecasting large-scale circulation regimes using deformable convolutional neural networks and global spatiotemporal climate data (Holm Nielsen 2022)](https://arxiv.org/abs/2202.04964)
 	- supervised machine learning approach based on deformable convolutional neural networks (deCNNs) and transfer learning to forecast the North Atlantic-European weather regimes during extended boreal winter for 1 to 15 days into the future
 	- authors could extract and learn transformation-invariant spatial patterns across large geographical areas using deformable convolutions, which is not possible with regular CNNs
