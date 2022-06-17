@@ -32,7 +32,6 @@ title: "Extremes events"
 - #PAPER [Climate and Weather Extremes (Nature paper collection)](https://www.nature.com/collections/kpzbllmxxw)
 	- [Progress in subseasonal to seasonal prediction through a joint weather and climate community effort (Mariotti 2018)](https://www.nature.com/articles/s41612-018-0014-z)
 	- [The sub-seasonal to seasonal prediction project (S2S) and the prediction of extreme events (Vitart 2018)](https://www.nature.com/articles/s41612-018-0013-0)
-- #PAPER [Development of a Combined Drought Indicator to detect agricultural drought in Europe (Sepulcre-Canto 2012)](https://doi.org/10.5194/nhess-12-3519-2012)
 - #PAPER [Simulation and Prediction of Category 4 and 5 Hurricanes in the High-Resolution GFDL HiFLOR Coupled Climate Model (Murakami 2015)](https://journals.ametsoc.org/jcli/article/28/23/9058/34488/Simulation-and-Prediction-of-Category-4-and-5)
 - #PAPER [A toolkit for climate change analysis and pattern recognition for extreme weather conditions – Case study: California-Baja California Peninsula (Vaghefi 2017)](http://www.sciencedirect.com/science/article/pii/S1364815216303188)
 - #PAPER [Urban heat wave hazard and risk assessment (Jedlovec 2017)](https://www.sciencedirect.com/science/article/pii/S2211379717316686)
@@ -47,6 +46,11 @@ title: "Extremes events"
 - #PAPER [A ranking of concurrent precipitation and wind events for the Iberian Peninsula (Henin 2020)](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.6829)
 - #PAPER [Atmospheric convection, dynamics and topography shape the scaling pattern of hourly rainfall extremes with temperature globally (Moustakis 2020)](https://www.nature.com/articles/s43247-020-0003-0)
 
+### Droughts
+- #PAPER [Development of a Combined Drought Indicator to detect agricultural drought in Europe (Sepulcre-Canto 2012)](https://doi.org/10.5194/nhess-12-3519-2012)
+- #PAPER [Seasonal Drought Prediction: Advances, Challenges, and Future Prospects (Hao 2018)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016RG000549)
+- #PAPER [Machine learning–based observation-constrained projections reveal elevated global socioeconomic risks from wildfire (Yu 2022)](https://www.nature.com/articles/s41467-022-28853-0)
+
 ### Wildfires
 - #PAPER [Seasonal predictions of Fire Weather Index: Paving the way for their operational applicability in Mediterranean Europe (Bedia 2018)](https://www.sciencedirect.com/science/article/pii/S2405880716300826)
 	- See [[AI4ES/S2S]]
@@ -54,7 +58,7 @@ title: "Extremes events"
 	- See [[AI4ES/S2S]]
 - #PAPER [The Global Fire Atlas of individual fire size, duration, speed and direction (Andela 2019)](https://essd.copernicus.org/articles/11/529/2019/)
 
-### Extreme events and climate change
+### Extreme events and Climate Change
 - [Extreme Climate and Weather Events in a Warmer World](https://kids.frontiersin.org/articles/10.3389/frym.2022.682759)
 - [Wildfires and Climate Change](https://www.c2es.org/content/wildfires-and-climate-change/)
 - [Commentary: How summer 2021 has changed our understanding of extreme weather](https://www.channelnewsasia.com/commentary/commentary-how-summer-2021-has-changed-our-understanding-extreme-weather-2098356)
@@ -62,7 +66,6 @@ title: "Extremes events"
 - [Yes, climate change can affect extreme weather – but there is still a lot to learn](https://theconversation.com/yes-climate-change-can-affect-extreme-weather-but-there-is-still-a-lot-to-learn-136003)
 - [Is the weather actually becoming more extreme? - R. Saravanan (TED, POPSCI)](https://www.youtube.com/watch?v=NCPTbfQyMt8)
 - [Attributing extreme weather toclimate change (interactive map of studies worldwide)](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world?utm_content=buffer4760c)
-	- The website Carbon Brief has just published an update of its map of all the attribution studies that have looked at the https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world. For now, the map still shows a heavy bias towards events in Europe, North America and Australia, and also towards heatwaves. However, with every update it is becoming more and more comprehensive as the science evolves and includes a more diverse set of events.
 - [ClimExtreme - A research network on climate change and extreme events](https://www.climxtreme.net)
 	- https://www.xces.dkrz.de/
 
@@ -96,7 +99,7 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- These predictor values are from reanalysis fields as well as satellite derived variable values and stored as a text file in ASCII format
 	- According  to  the  definition  of  RI,  if  the  maximum  wind increased more than 30 knots (15.4 m/s) over the past 24 hours (Kaplan and DeMaria 2003), the record is marked as RI case, otherwise, it is labeled UNRI
 - #PAPER [A machine learning workﬂow for hurricane prediction (Kahira 2018)](https://upcommons.upc.edu/handle/2117/124992)
-	- #BSC, LP Caron, Leonardo Bautista 
+	- #BSC LP Caron, Leonardo Bautista 
 - #PAPER [Training deep neural networks with low precision input data: a hurricane prediction case study (Kahira 2018)](https://upcommons.upc.edu/handle/2117/132833)
 - #PAPER [Fused DL for Hurricane Track Forecast from Reanalysis Data (Giffard-Roisin 2018)](https://www.semanticscholar.org/paper/Fused-Deep-Learning-for-Hurricane-Track-Forecast-Giffard-Roisin-Yang/6aad16c4cfc5bf73f74671dddd01a47f63e71e30)
 - #PAPER [Lightning Prediction for Australia Using Multivariate Analyses of Large-Scale Atmospheric Variables (Bates 2018)](https://journals.ametsoc.org/jamc/article/57/3/525/68263/Lightning-Prediction-for-Australia-Using)
@@ -192,7 +195,6 @@ See [[AI/Unsupervised learning/Unsupervised learning]]
 - #PAPER [Multiscale Variability in North American Summer Maximum Temperatures and Modulations from the North Atlantic Simulated by an AGCM (Vigaud 2018)](https://journals.ametsoc.org/jcli/article/31/7/2549/89965/Multiscale-Variability-in-North-American-Summer) ^25cb40
 - #PAPER [DisCo: Physics-Based Unsupervised Discovery of Coherent Structures in Spatio-temporal Systems (Rupe, 2019)](https://arxiv.org/abs/1909.11822)
 	- #CODE https://github.com/adamrupe/DisCo
-	- [[Machine Learning#^4d4f07]]
 - #PAPER [Towards Unsupervised Segmentation of Extreme Weather Events (Rupe, 2019)](https://arxiv.org/abs/1909.07520)
 	- Tests on CAM5.1 water vapor data -> extreme weather identification from unlabeled climate model simulation data
 	- While the results in using TECA show that DL can improve upon it, the accuracy rates reach 97% and thus essentially just reproduce the output of TECA

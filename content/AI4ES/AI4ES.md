@@ -71,6 +71,7 @@ title: "AI4ES"
 	- A methodological framework for the twin’s architecture already exists in the form of data assimilation, which numerical weather prediction has developed with success over decades
 - #PAPER [Machine learning for weather and climate are worlds apart (Watson-Parris 2021)](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0098)
 - #PAPER [Evolution of machine learning in environmental science—A perspective (Hsieh 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/evolution-of-machine-learning-in-environmental-sciencea-perspective/C21F19C66FA387BC25F43C3C6B95E866)
+- #PAPER [Machine Learning in Weather Prediction and Climate Analyses—Applications and Perspectives (Bochenek 2022)](https://www.mdpi.com/2073-4433/13/2/180/htm)
 
 ### AI for pattern recognition and spatio-temporal modelling
 - See [[AI/Computer Vision/Video segmentation and prediction]]
