@@ -131,10 +131,12 @@ See [[AI4ES/Emulators]]
 - #PAPER [Surrogate modelling for sustainable building design – A review (Westermann 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0378778819302877)
 - #PAPER [Building energy optimization using surrogate model and active sampling (Bamdad 2020)](https://www.tandfonline.com/doi/full/10.1080/19401493.2020.1821094)
 - #PAPER [Using a deep temporal convolutional network as a building energy surrogate model that spans multiple climate zones (Westermann 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0306261920310758)
+- #PAPER [Machine Learning for Sustainable Energy Systems (Donti 2021)](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-020220-061831)
 
 
 ## Infrastructure and data
 See [[AI4ES/AI4ES data]]
+- [Microsfot Planetary Computer](https://planetarycomputer.microsoft.com/)
 - [European Weather Cloud](https://www.europeanweather.cloud/)
 	- https://www.ecmwf.int/en/newsletter/165/computing/progress-towards-european-weather-cloud
 - [Climate Engine](http://climateengine.org/)
@@ -192,13 +194,12 @@ See [[AI4ES/Pangeo]]
 - https://spcl.inf.ethz.ch/Bcast/
 
 ### 2022
+- [ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction](https://events.ecmwf.int/event/304/)
 - [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences/cm/conference/is22). March 22 - 25, 2022
 - [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/)
 - https://www.iarai.ac.at/workshops/workshop-on-complex-data-challenges-in-earth-observation-2022/
-- Climate informatics 2022
-	- https://ncics.org/news/events/ci2022/agenda/
+- [Climate informatics 2022](https://ncics.org/news/events/ci2022/agenda/)
 	- [handbook](https://docs.google.com/document/d/1p1CvnK1TVaLAXOCN0vpnsQxvWIGVmjpt-WXD4g0CH2E/edit?usp=sharing)
-	- [zoom link](https://ncsu.zoom.us/w/98495045693?tk=M-vsV_06R-HXJai4ygnhcdfoAUK6IovEw-iiCiWc4gY.DQMAAAAW7sMgPRZnMW01WnBSRFJueUxKX1QyYVRlVjhnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=VHZXSHBKWFU2c0xKU3d0Um94bCs1Zz09)
 	- [Q&A](https://app.sli.do/event/uJr35rXEM9ChavrRSAhnig/live/questions)
 	- https://app.wonder.me/?spaceId=7b51f530-f040-40ce-a108-f06b53c18752
 

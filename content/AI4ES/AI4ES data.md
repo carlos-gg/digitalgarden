@@ -2,6 +2,8 @@
 title: "AI4ES data"
 ---
 
+> See [[AI4ES/AI4ES#Infrastructure and data]]
+
 ## Climate data
 - [[Climate change#Data and viz]]
 - https://github.com/pangeo-data/
@@ -24,6 +26,15 @@ title: "AI4ES data"
 	- https://github.com/pangeo-data/WeatherBench
 - #PAPER [Comparison of ERA5-Land and UERRA MESCAN-SURFEX Reanalysis Data with Spatially Interpolated Weather Observations for the Regional Assessment of Reference Evapotranspiration (Pelosi 2020)](https://www.mdpi.com/2073-4441/12/6/1669/htm)
 - #PAPER [The WGLC global gridded lightning climatology and time series (Kaplan 2021)](https://essd.copernicus.org/articles/13/3219/2021/)
+- #POSTER [d-IMERG: A spatiotemporal benchmark dataset for precipitation forecasting (Choi 2022)](https://drive.google.com/file/d/1KEFaebOSNLJJKlCUfsBhgS92gYz6Yd9q/view)
+	- The d-IMERG is a subset of images of IMERG providing HDF5 format over four different regions
+	- IMERG combines microwave satellite observations from the Global Precipitation Measurement (GPM) satellite constellation to estimate precipitation on a global scale. As microwave measurements can penetrate the precipitating clouds, it provides crucial information on precipitation and clouds. 
+- #PAPER [WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models (Garg 2022)](https://arxiv.org/pdf/2205.00865)
+	- WeatherBench Probability extends WeatherBench to probabilistic forecasting by adding a set of established probabilistic verification metrics (continuous ranked probability score, spread-skill ratio and rank histograms) and a state-of-the-art operational baseline using the ECWMF IFS ensemble forecast
+
+### Projections
+- [CIL Global Downscaled Projections for Climate Impacts Research](https://planetarycomputer.microsoft.com/dataset/group/cil-gdpcir)
+	- The Global Downscaled Projections for Climate Impacts Research dataset makes this modeling more applicable to understanding the impacts of changes in the climate on humans and society with two key developments: trend-preserving bias correction and downscaling. In this dataset, the Climate Impact Lab provides global, daily minimum and maximum air temperature at the surface (tasmin and tasmax) and daily cumulative surface precipitation (pr) corresponding to the CMIP6 historical, ssp1-2.6, ssp2-4.5, ssp3-7.0, and ssp5-8.5 scenarios for 25 global climate models on a 1/4-degree regular global grid.
 
 ### Seasonal forecasts
 - [C3S Seasonal forecasts](https://climate.copernicus.eu/seasonal-forecasts)
