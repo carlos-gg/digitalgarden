@@ -59,7 +59,11 @@ See [[PCA]]
 
 #### Uniform Manifold Approximation and Projection (UMAP)
 - #PAPER [UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction (McInnes 2020)](https://arxiv.org/abs/1802.03426)
-
+	- Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction
+	- #CODE [Umap](https://github.com/lmcinnes/umap)
+	- https://umap-learn.readthedocs.io/en/latest/
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+	- Nice interactive visualizations
 
 ## Code
 - #CODE [Nimfa](https://github.com/marinkaz/nimfa)
