@@ -6,12 +6,15 @@ title: "AI4ES data"
 
 ## Climate data
 - [[Climate change#Data and viz]]
+- [Climate Data Store - Copernicus](https://cds.climate.copernicus.eu)
+	- [CEMS - Emergency Management System](https://emergency.copernicus.eu/)
 - https://github.com/pangeo-data/
 - [The DL4ES book, DATA](https://github.com/DL4ES/DL4ES)
 - [Climate Reanalyzer](https://climatereanalyzer.org/)
 	- platform for visualizing climate and weather datasets
 - [AWS climate data](https://registry.opendata.aws/tag/climate/)
 - [SpatioTemporal Asset Catalogs](https://stacspec.org/)
+	- The STAC specification is a common language to describe geospatial information, so it can more easily be worked with, indexed, and discovered.
 	- [intake-stac](https://medium.com/pangeo/introducing-intake-stac-2c988d8e1d30)
 - [Cryosphere](https://github.com/awesome-cryosphere/cryosphere-links)
 
@@ -163,7 +166,7 @@ title: "AI4ES data"
 - [Hyperlabelme](https://ieeexplore.ieee.org/document/8113131/authors#authors )
 - [HyRank (hyperspectral dataset)](http://www2.isprs.org/commissions/comm3/wg4/HyRANK.html )
 - [Euro Data Cube](https://eurodatacube.com/)
-- [AIREO – [[AI]] ready EO training datasets](https://eo4society.esa.int/projects/aireo/)
+- [AIREO – AI ready EO training datasets](https://eo4society.esa.int/projects/aireo/)
 - [Kelvins - ESA's Advanced Concepts Competition Website. Data challenges](https://kelvins.esa.int/  )
 - [Land use/cover (LULC)](https://learn-about.impactobservatory.com/maps)
 	- Microsoft AI for Earth, Microsoft Planetary Computer (Sentinel-2 data)
