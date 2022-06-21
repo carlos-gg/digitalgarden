@@ -2,6 +2,10 @@
 title: "Dask"
 ---
 
+> See:
+> - [[AI/DS and DataEng/Xarray]]
+> - [[AI4ES/Pangeo]]
+
 ## Resources
 - [Parallel computing with Dask](https://xarray.pydata.org/en/v0.10.1/dask.html)
 - http://jcrist.github.io/introducing-dask-searchcv.html
@@ -21,5 +25,6 @@ title: "Dask"
 	- Easily deploy Dask on job queuing systems like PBS, Slurm, MOAB, SGE, LSF, and HTCondor
 	- [Scalable interactive analysis workflows using dask on HPC Systems](https://medium.com/pangeo/dask-jobqueue-d7754e42ca53)
 - #code [Dask-ml - Machine Learning with Dask](https://github.com/dask/dask-ml)
-
+- #CODE [Dask-geopandas](https://github.com/geopandas/dask-geopandas)
+	- Parallel GeoPandas with Dask
 
