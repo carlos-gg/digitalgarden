@@ -33,6 +33,17 @@ title: "EO"
 - #CODE [EODAG - Earth Observation Data Access Gateway](https://github.com/CS-SI/eodag)
 	- https://eodag.readthedocs.io/en/latest/
 	- https://www.youtube.com/watch?v=R18yTXKhF-I&list=PLvT7fd9OiI9XORxAfLw_f9CsDkvM9lfKs&index=23
+- #CODE [EOmaps](https://github.com/raphaelquast/EOmaps)
+	- A library to create interactive maps of geographical datasets
+	- https://raphaelquast.github.io/EOmaps/
+- #CODE [Pyinterpolate](https://github.com/DataverseLabs/pyinterpolate)
+	- interpolate spatial data with the Kriging technique
+	- https://pyinterpolate.readthedocs.io/en/latest/
+- #CODE [EOreader](https://github.com/sertit/eoreader)
+	- Remote-sensing opensource python library reading optical and SAR sensors, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way
+	- https://eoreader.readthedocs.io/en/latest/
+	- #TALK https://submit.geopython.net/geopython-2022/talk/FQPN3Q/
+		- https://submit.geopython.net/media/eoreader_geopython_2022_compressed_lQL1HCR.pdf
 
 ## References
 Review papers:
