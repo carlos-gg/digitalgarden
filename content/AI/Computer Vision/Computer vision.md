@@ -43,6 +43,9 @@ title: "Computer Vision"
 - #COURSE Advanced Models for Computer Vision (DeepMind x UCL | Deep Learning Lectures)
 	- https://www.youtube.com/watch?v=_aUq7lmMfxo&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=4
 	- https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L4%20-%20UCLxDeepMind%20DL2020.pdf
+- #COURSE [Rendering course (TU Wien)](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
+	- This rendering course is an MSc-level class at the Technical University of Vienna. It is about ray tracing, photorealistic rendering and global illumination
+	- [Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 
 ## Code
