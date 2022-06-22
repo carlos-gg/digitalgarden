@@ -13,6 +13,10 @@ title: "EO"
 - https://interestingengineering.com/mapping-every-solar-panel-in-the-world-with-machine-learning
 - [Image Classification with Hugging Face Transformers and Keras (EuroSAT dataset)](https://www.philschmid.de/image-classification-huggingface-transformers-keras)
 
+## Events
+- [ESA EO Phi-week](https://phiweek.esa.int/)
+- [ESA Living Planet symposium](https://www.eumetsat.int/living-planet-symposium)
+
 ## Courses
 - #COURSE [Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
 - #COURSE [ESA ML lectures 2018](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)

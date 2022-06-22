@@ -39,6 +39,10 @@ title: "AI4ES"
 - #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science_, 2022)](https://bookdown.org/igisc/EnvDataSci/)
 
 ## References
+> See:
+> - [[AI4ES/EO]]
+> - [[AI4ES/Geospatial science]]
+
 - #PAPER [Earth System Modeling 2.0: A Blueprint for Models That Learn From Observations and Targeted High‐Resolution Simulations (Schneider 2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076101)
 	- http://climate-dynamics.org/earth-system-modeling-2-0/
 	- ESM with subgrid-scale (SGS) process models that learn automatically from two sources of information
@@ -190,14 +194,13 @@ See [[AI4ES/Pangeo]]
 
 
 ## Events
-- Conferences, events, workshops and courses related to [[AI/AI]] and [[AI/Machine Learning]] applied to Earth Sciences.
+- See [[AI4ES/EO#Events]] and [[AI4ES/Geospatial science#Events]]
+- Conferences, events, workshops and courses related to [[AI/AI]], [[AI4ES/EO]], [[AI4ES/Geospatial science]] and [[AI/Machine Learning]] applied to Earth Sciences.
 - [AI for Good. Discovery - AI and Climate Science](https://aiforgood.itu.int/eventcat/discovery-ai-and-climate-science/)
 - https://spcl.inf.ethz.ch/Bcast/
 
 ### 2022
 - [ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction](https://events.ecmwf.int/event/304/)
-- [GeoPython 2022](https://2022.geopython.net/)
-	- https://submit.geopython.net/geopython-2022/schedule/
 - [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences/cm/conference/is22). March 22 - 25, 2022
 - [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/)
 - https://www.iarai.ac.at/workshops/workshop-on-complex-data-challenges-in-earth-observation-2022/
@@ -235,7 +238,6 @@ See [[AI4ES/Pangeo]]
 ### 2020
 - [Environmental Intelligence Conference](https://www.bigmarker.com/JCEEI/JCEEI-Environmental-Intelligence-Conference-Thursday-17th-December)
 - [ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction (5-8 October 2020)](https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction)
-- [ESA EO Phi-week 2020 (28 September - 02 October 2020)](https://phiweek.esa.int/)
 - [Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2020 (September)](https://sites.google.com/view/maclean2020/)
 - NCAR Artificial Intelligence for Earth System Science (AI4ESS) Summer School
 	- https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school
