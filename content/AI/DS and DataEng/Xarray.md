@@ -13,5 +13,6 @@ title: "Xarray"
 	- [Breaking up arrays up into chunks for fun and science with Xarray and Dask](https://www.youtube.com/watch?v=0dO-iC16xUo)
 - #CODE [Xarray-spatial](https://github.com/makepath/xarray-spatial)
 	- Raster-based Spatial Analytics for Python
+	- https://xarray-spatial.org/
 - #CODE [rioxarray](https://github.com/corteva/rioxarray)
 	- geospatial xarray extension powered by rasterio
