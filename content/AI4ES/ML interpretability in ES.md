@@ -16,4 +16,5 @@ title: "ML interpretability in ES"
 - #PAPER [Evaluation, Tuning and Interpretation of Neural Networks for Meteorological Applications (Ebert-Uphoff 2020)](https://www.semanticscholar.org/paper/Evaluation%2C-Tuning-and-Interpretation-of-Neural-for-Ebert-Uphoff-Hilburn/b31e4e9d6ba87a8e709d743b1e96a18c8dd0bbf6)
 - #PAPER [Detecting climate signals using explainable AI with single-forcing large ensembles (Labe 2021)](https://www.essoar.org/doi/10.1002/essoar.10505762.1)
 - #PAPER [Oceanic Harbingers of Pacific Decadal Oscillation Predictability in CESM2 Detected by Neural Networks (Gordon 2021)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095392)
+- #POSTER [Mapped-PCMCI: an algorithm for causal discovery at the grid level (Tibau Alberdi 2021)](https://meetingorganizer.copernicus.org/EGU21/EGU21-5633.html)
 - #PAPER [Predicting Slowdowns in Decadal Climate Warming Trends With Explainable Neural Networks (Labe 2022)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098173)

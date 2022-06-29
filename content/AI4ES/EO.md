@@ -52,6 +52,7 @@ title: "EO"
 ## References
 Review papers:
 - #PAPER [Survey of Deep Learning Approaches for Remote Sensing Observation Enhancement (Tsagkatakis 2019)](https://www.mdpi.com/1424-8220/19/18/3929)
+- #PAPER ESA-ECMWF Report on recent progress and research directions in machine learning for Earth System observation and prediction ()
 
 - #PAPER [Machine Learning Applications for Earth Observation (Lary 2018)](https://www.researchgate.net/publication/322659251_Machine_Learning_Applications_for_Earth_Observation)
 - #PAPER [Learning Spectral-Spatial-Temporal Features via a Recurrent Convolutional Neural Network for Change Detection in Multispectral Imagery (Mou 2018)](https://arxiv.org/abs/1803.02642 )
