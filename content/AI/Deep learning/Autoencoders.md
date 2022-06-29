@@ -26,6 +26,13 @@ title: "Autoencoders"
 - [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
 
+## Code
+- #CODE [benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE)
+	- This library implements some of the most common (Variational) Autoencoder models
+	- https://pythae.readthedocs.io/en/latest/
+	- #PAPER [Pythae: Unifying Generative Autoencoders in Python -- A Benchmarking Use  Case (Chadebec 2022)](https://arxiv.org/pdf/2206.08309v1)
+
+
 ## References
 - #PAPER [Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion (Vincent 2010)](https://www.jmlr.org/papers/v11/vincent10a.html)
 - #PAPER [Adversarial Autoencoders with Constant-Curvature Latent Manifolds (Grattarola 2018)](https://arxiv.org/abs/1812.04314)

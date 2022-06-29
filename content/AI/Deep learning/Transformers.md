@@ -72,6 +72,7 @@ title: "Transformers"
 	- [Paper explained](https://www.youtube.com/watch?v=0JlB9gufTw8)
 - #PAPER [Scaling Language Models: Methods, Analysis & Insights from Training Gopher (Rae 2022)](https://arxiv.org/abs/2112.11446)
 	- [Paper explained](https://www.youtube.com/watch?v=aPiHhJjN3hI)
+- #PAPER [LaMDA: Language Models for Dialog Applications (Thoppilan 2022)](https://arxiv.org/pdf/2201.08239)
 
 ## For Computer Vision
 - #PAPER [Spatial Transformer Networks (Jaderberg 2016)](https://arxiv.org/abs/1506.02025)

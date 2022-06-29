@@ -39,6 +39,10 @@ title: "XAI"
 See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
+- #CODE [Xplique](https://github.com/deel-ai/xplique)
+	- Python toolkit dedicated to explainability, currently based on Tensorflow
+	- https://deel-ai.github.io/xplique/
+	- #PAPER [Xplique: A Deep Learning Explainability Toolbox (Fel 2022)](https://arxiv.org/pdf/2206.04394v1)
 - #CODE [CARLA](https://github.com/carla-recourse/CARLA)
 	- CARLA is a python library to benchmark counterfactual explanation and recourse models
 	- #PAPER [CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021)](https://arxiv.org/abs/2108.00783)

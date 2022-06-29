@@ -1,5 +1,5 @@
 ---
-title: "Multimodal learning"
+title: "Multimodal learning, Foundation models"
 ---
 
 > General-purpose neural networks capable of handling diverse inputs and output tasks
@@ -38,6 +38,8 @@ Review papers:
 - #PAPER [A Generalist Agent (Reed 2022)](https://arxiv.org/abs/2205.06175v1)
 	- [Paper explained](https://www.youtube.com/watch?v=wSQJZHfAg18)
 	- New approach, inspired by large-scale language models, that acts a single generalist agent. The agent, called Gato, is built to work as a multi-modal, multi-task, multi-embodiment generalist policy
+- #PAPER [Language Models are General-Purpose Interfaces (Hao 2022)](https://arxiv.org/pdf/2206.06336v1)
+	- #CODE https://github.com/microsoft/unilm
 
 ### Vision and language models
 Review papers:
@@ -54,3 +56,5 @@ Review papers:
 	- #CODE https://github.com/openai/CLIP
 - #PAPER [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision (Wang 2022)](https://arxiv.org/pdf/2108.10904v2)            
 - #PAPER [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (Wang 2022)](https://arxiv.org/pdf/2202.03052v1)            
+- #PAPER [Flamingo: a Visual Language Model for Few-Shot Learning (Alayrac 2022)](https://arxiv.org/abs/2204.14198v1)
+	- #CODE https://github.com/lucidrains/flamingo-pytorch
