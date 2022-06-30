@@ -4,6 +4,8 @@ title: "EO"
 
 ## Resources
 - [Towards a European AI for Earth Observation Research & Innovation Agenda](http://blogs.esa.int/philab/files/2018/07/Towards-a-European-AI-for-Earth-Observation-Research-Innovation-Agenda-.pdf)
+- [Is DS 4 EO BS?](https://labo.obs-mip.fr/multitemp/is-ds-4-eo-bs/)
+- [The value of super resolution — real world use case](https://medium.com/sentinel-hub/the-value-of-super-resolution-real-world-use-case-2ba811f4cd7f)
 - [Mapping roads through deep learning and weakly supervised training](https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/)
 - [Example of SuperRes with Sentinel 2 data](https://mdl4eo.irstea.fr/2019/03/29/enhancement-of-sentinel-2-images-at-1-5m/  )
 - [Quantifying the surface area of road networks in cities](https://roadsfromabove.netlify.com/)

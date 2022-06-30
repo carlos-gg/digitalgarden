@@ -80,10 +80,15 @@ See [[AI/Anomaly and Outlier Detection]]
 
 
 ### Time-frequency analysis
+- [Continuous wavelet transform](https://en.wikipedia.org/wiki/Continuous_wavelet_transform)
+
+#### Fourier Analysis
 - [Fourier analysis](https://en.wikipedia.org/wiki/Fourier_analysis)
 	- [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 		- A fast Fourier transform (FFT) is an algorithm that computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IDFT).
-- [Continuous wavelet transform](https://en.wikipedia.org/wiki/Continuous_wavelet_transform)
+	- [Fourier Transform for Time Series](https://towardsdatascience.com/fourier-transform-for-time-series-292eb887b101)
+	- [Understanding FFTs and Windowing](https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf)
+
   
 ### Causality
 See [[AI/Causality]]
