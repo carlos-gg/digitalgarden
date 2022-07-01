@@ -84,4 +84,7 @@ title: "Climate change"
 - #PAPER [The geographic disparity of historical greenhouse emissions and projected climate change (Van Houtan 2021)](https://advances.sciencemag.org/content/7/29/eabe4342.full)
 - #PAPER [Using Machine Learning to Analyze Physical Causes of Climate Change: A Case Study of U.S. Midwest Extreme Precipitation (Davenport 2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093787)
 
-
+### AI carbon footprint
+- #PAPER [Measuring the Carbon Intensity of AI in Cloud Instances (Dodge 2022)](https://arxiv.org/pdf/2206.05229)
+- #PAPER [Aligning artificial intelligence with climate change mitigation (Kaack 2022)](https://www.nature.com/articles/s41558-022-01377-7)
+	- https://www.hertie-school.org/en/news/allcontent/detail/content/assessing-the-impact-of-ai-and-ml-on-greenhouse-gas-emissions
