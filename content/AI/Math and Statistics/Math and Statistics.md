@@ -41,11 +41,14 @@ title: "Math and Statistics"
 - #CODE [Numpy](https://numpy.org/)
 	- #PAPER [Array programming with NumPy (Harris 2020)](https://www.nature.com/articles/s41586-020-2649-2)
 - #CODE [Scipy](https://www.scipy.org/)
+- #CODE [Nums](https://github.com/nums-project/nums)
+	- A library that translates Python and NumPy to optimized distributed systems code
 - #CODE [Statsmodels](http://www.statsmodels.org/)
 - #CODE [PyLops](https://github.com/PyLops/pylops)
 	- https://pylops.readthedocs.io/en/latest/index.html
 	- Python library is inspired by the MATLAB Spot – A Linear-Operator Toolbox project
 - #CODE [Bayesian bootstrap](https://github.com/lmc2179/bayesian_bootstrap)
+
 
 ### A/B testing
 - #CODE [Sixpack](https://github.com/sixpack/sixpack)

@@ -137,6 +137,7 @@ See [[AI4ES/Emulators]]
 - #PAPER [Using a deep temporal convolutional network as a building energy surrogate model that spans multiple climate zones (Westermann 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0306261920310758)
 - #PAPER [Machine Learning for Sustainable Energy Systems (Donti 2021)](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-020220-061831)
 - #PAPER [Facilitating a smoother transition to renewable energy with AI (Chatterjee 2022)](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900125-8)
+- #PAPER [Universal Digital Twin: Integration of national-scale energy systems and climate data (Savage 2022)](https://www.cambridge.org/core/journals/data-centric-engineering/article/universal-digital-twin-integration-of-nationalscale-energy-systems-and-climate-data/EEBFDF0787319FC1A858BD3718F2B7A9)
 
 ### Computational Fluid Dynamics (CFD)
  #PAPER [Accelerating urban scale simulations leveraging local spatial 3D structure (Iserte 2022)](https://www.sciencedirect.com/science/article/pii/S1877750322001326)

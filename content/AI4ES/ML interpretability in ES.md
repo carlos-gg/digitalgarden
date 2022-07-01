@@ -18,3 +18,5 @@ title: "ML interpretability in ES"
 - #PAPER [Oceanic Harbingers of Pacific Decadal Oscillation Predictability in CESM2 Detected by Neural Networks (Gordon 2021)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095392)
 - #POSTER [Mapped-PCMCI: an algorithm for causal discovery at the grid level (Tibau Alberdi 2021)](https://meetingorganizer.copernicus.org/EGU21/EGU21-5633.html)
 - #PAPER [Predicting Slowdowns in Decadal Climate Warming Trends With Explainable Neural Networks (Labe 2022)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098173)
+- #PAPER [Neural network attribution methods for problems in geoscience: A novel synthetic benchmark dataset (Mamalakis 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/neural-network-attribution-methods-for-problems-in-geoscience-a-novel-synthetic-benchmark-dataset/DDA562FC7B9A2B30710582861920860E)
+	- #CODE https://github.com/amamalak/Neural-Network-Attribution-Benchmark-for-Regression
