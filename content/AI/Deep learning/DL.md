@@ -392,12 +392,6 @@ See [[AI/Deep learning/Neural ODEs]]
 ### Multimodal learning
 See [[AI/Deep learning/Multimodal learning]]
 
-### Geometrics DL
-See [[AI/Deep learning/Geometric deep learning]]
-
-### Bayesian/probabilistic DL
-See [[AI/Deep learning/Probabilistic deep learning]]
-
 ### DL for NLP, time series and sequence modelling
 See [[AI/Time Series analysis]], [[AI/Forecasting]] and "Deep learning approaches" in [[AI/NLP]]
 
@@ -410,6 +404,8 @@ See [[AI/Time Series analysis]], [[AI/Forecasting]] and "Deep learning approache
 - #CODE [Model Zoo](https://modelzoo.co/)
 - #CODE [Deep Learning Models (Raschka)](https://github.com/rasbt/deeplearning-models)
 
+### Geometric DL
+See [[AI/Deep learning/Geometric deep learning]]
 
 ### MLPs
 See [[AI/Deep learning/MLPs]]
@@ -456,5 +452,8 @@ See [[AI/Deep learning/GFlowNets]]
 ### Neural Cellular Automata
 See [[AI/Deep learning/Neural Cellular Automata]]
 
-## Neural processes
+### Neural processes
 See [[AI/Deep learning/Neural processes]]
+
+### Bayesian/probabilistic DL
+See [[AI/Deep learning/Probabilistic deep learning]]

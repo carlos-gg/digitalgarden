@@ -2,11 +2,14 @@
 title: "Diffusion models"
 ---
 
+> Diffusion Models are generative models that work by destroying training data through the successive addition of Gaussian noise, and then learning to recover the data by reversing this noising process. After training, the Diffusion Model can be used to generate data by simply passing randomly sampled noise through the learned denoising process
+
 
 ## Resources
 - [Diffusion models are autoencoders (Dieleman | Deepmind)](https://benanne.github.io/2022/01/31/diffusion.html "Diffusion models are autoencoders")
 - [High Fidelity Image Generation Using Diffusion Models](http://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html "High Fidelity Image Generation Using Diffusion Models")
 - [Introduction to deep generative modeling: Diffusion-based Deep Generative Models](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html)
+- [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
 ## References
 - #PAPER [Improved Denoising Diffusion Probabilistic Models (Nichol 2021)](https://arxiv.org/abs/2102.09672)
