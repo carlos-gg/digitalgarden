@@ -168,10 +168,6 @@ title: "AI4ES data"
 - [Euro Data Cube](https://eurodatacube.com/)
 - [AIREO – AI ready EO training datasets](https://eo4society.esa.int/projects/aireo/)
 - [Kelvins - ESA's Advanced Concepts Competition Website. Data challenges](https://kelvins.esa.int/  )
-- [Land use/cover (LULC)](https://learn-about.impactobservatory.com/maps)
-	- Microsoft AI for Earth, Microsoft Planetary Computer (Sentinel-2 data)
-	- https://caitlin-kontgis.medium.com/mapping-the-world-in-unprecedented-detail-7c0513205b90
-	- https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac
 - [AVIRIS-NG aerial hyperspectral remote sensing data](https://avirisng.jpl.nasa.gov/dataportal/)
 	- The AVRIS-NG data portal includes an unparalleled publicly available **dataset of hyperspectral remote sensing aerial surveys** on multiple continents, including detected large point-source methane emissions (for many campaigns, plus some point-source CO2 emissions)
 
@@ -183,6 +179,17 @@ title: "AI4ES data"
 	- https://paperswithcode.com/dataset/earthnet2021?from=n10
 - #PAPER FAIR1M (see [[AI4ES/EO]])
 - #PAPER [SpaceML: Distributed Open-source Research with Citizen Scientists for the Advancement of Space Technology for NASA (Koul 2021)](https://arxiv.org/abs/2012.10610)
+
+### LULC
+- [Dynamic World](https://github.com/google/dynamicworld)
+	- #PAPER [Dynamic World, Near real-time global 10 m land use land cover mapping (Brown 2022)](https://www.nature.com/articles/s41597-022-01307-4)
+	- Dynamic World V1 is built by training a deep learning model on densely annotated training labels for 9 land cover classes, and is generated using Google Earth Engine and AI Platform
+	- Dynamic World is producing land cover probabilities per pixel for the Sentinel-2 1C: Multispectral TOA mission
+- [Impact Observatory, Microsoft and ESRI - Land use/cover (LULC)](https://learn-about.impactobservatory.com/maps)
+	- Microsoft AI for Earth, Microsoft Planetary Computer (Sentinel-2 data)
+	- https://caitlin-kontgis.medium.com/mapping-the-world-in-unprecedented-detail-7c0513205b90
+	- https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31
+
 
 ### Sentinel 5p (TROPOMI)
 - https://docs.sentinel-hub.com/api/latest/data/sentinel-5p-l2/

@@ -14,3 +14,6 @@ title: "Filling observational gaps"
 	- #CODE https://github.com/FREVA-CLINT/climatereconstructionAI
 - #PAPER [Predicting into unknown space? Estimating the area of applicability of spatial prediction models (Meyer 2020)](https://arxiv.org/abs/2005.07939)
 	- #CODE https://github.com/HannaMeyer/AOA_CaseStudy
+- #PAPER [CLIMFILL v0.9: a framework for intelligently gap filling Earth observations (Bessenbacher 2022)](https://gmd.copernicus.org/articles/15/4569/2022/)
+	- #CODE https://github.com/climachine/climfill
+	- CLIMFILL fills gaps in gridded geoscientific observational data by taking into account spatial neighborhood, temporal context and multivariate dependencies. It takes a multivariate dataset with any number and pattern of missing values per variable and returns the dataset with all missing points replaced by estimates

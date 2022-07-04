@@ -4,6 +4,10 @@ title: "AI4ES"
 
 > Applications of [[AI/Machine Learning]] and [[AI/AI]] to Earth Sciences
 
+> See:
+> - [[AI4ES/EO]]
+> - [[AI4ES/Geospatial science]]
+
 ## Resources
 - [Earth system science](https://en.wikipedia.org/wiki/Earth_system_science)
 - [Accelerating progress in Climate Science (Schneider 2021, Physics today)](https://digital.physicstoday.org/physicstoday/june_2021/MobilePagedReplica.action?utm_source=newsletter&utm_medium=email&utm_campaign=TXPHYS210602002&utm_content=gtxcel&pm=2&folio=44#pg47)
@@ -34,15 +38,14 @@ title: "AI4ES"
 - #BOOK [Introduction to Physical Oceanography (Stewart 2008)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-physical-oceanography)
 
 ## Courses
+- #COURSE [Applied Machine Learning Tutorial for Earth Scientists](https://github.com/eabarnes1010/ml_tutorial_csu)
+	- Machine Learning Tutorial for Earth Scientists created by members of the Atmospheric Science Department at Colorado State University
+	- [Google Slides](https://docs.google.com/presentation/d/1Fa9SuyK9DIpd-MkJJjGqjCbAa-sHtr3qufC9MhmewDQ/edit?usp=sharing)
 - #COURSE [An Introduction to Earth and Environmental Data Science (Ryan Abernathey, Columbia UIniversity, 2021)](https://earth-env-data-science.github.io/intro.html)
 - #COURSE [Research computing in ES (Ryan Abernathey, Columbia UIniversity)](https://rabernat.github.io/research_computing_2018/)
 - #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science_, 2022)](https://bookdown.org/igisc/EnvDataSci/)
 
 ## References
-> See:
-> - [[AI4ES/EO]]
-> - [[AI4ES/Geospatial science]]
-
 - #PAPER [Earth System Modeling 2.0: A Blueprint for Models That Learn From Observations and Targeted High‐Resolution Simulations (Schneider 2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076101)
 	- http://climate-dynamics.org/earth-system-modeling-2-0/
 	- ESM with subgrid-scale (SGS) process models that learn automatically from two sources of information

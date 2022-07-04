@@ -1,5 +1,5 @@
 ---
-title: "QML - Quantum Machine Learning"
+title: "Quantum Machine Learning (QML)"
 ---
 
 > Quantum machine learning is the integration of quantum algorithms within machine learning programs
