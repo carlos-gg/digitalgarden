@@ -170,6 +170,7 @@ title: "Statistical downscaling"
 	- Found that spatial discontinuity in amplitude and intensity rainfall patterns is the main obstacle in the downscaling of precipitation
 - #PAPER [Enabling Smart Dynamical Downscaling of Extreme Precipitation Events With Machine Learning (Shi 2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL090309)
 	- https://www.researchgate.net/publication/346390363
+- #PAPER [Statistical Downscaling of Temperature Distributions from the Synoptic  Scale to the Mesoscale Using Deep Convolutional Neural Networks (Sekiyama 2020)](https://arxiv.org/pdf/2007.10839)
 - #PAPER [Sequence-based statistical downscaling and its application to hydrologic simulations based on machine learning and big data (Wang 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0022169420303358?via%3Dihub)
 	- Time series characteristics of meteorological data was considered in statistical downscaling
 	- RNN and ANN had different feasibilities in areas, while RNN could improve the performance
@@ -197,6 +198,10 @@ title: "Statistical downscaling"
 		- perfect prognosis: model is fitted with observational data for both predictors and predictands
 		- model output statistics: using data from a GCM
 	- Selection of predictors is vital
+- #PAPER [Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections (Harilal 2021)](https://ieeexplore.ieee.org/document/9348885)
+	- Pre-upsampling
+	- LSTMs for spatio-temporal data
+- #PAPER [Spatio-Temporal Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks (Serifi 2021)](https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full)
 - #PAPER [Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels (Gao 2021)](https://aip.scitation.org/doi/10.1063/5.0054312)
 - #PAPER [Convolutional conditional neural processes for local climate downscaling (Vaughan 2021)](https://gmd.copernicus.org/preprints/gmd-2020-420/) ^ccnp4ds
 	- #CODE https://github.com/annavaughan/convCNPClimate
@@ -204,3 +209,6 @@ title: "Statistical downscaling"
 	- ConvCNPs are a recently developed class of models that allow deep learning techniques to be applied to off-the-grid spatio-temporal data
 	- This model has a substantial advantage over existing downscaling methods in that the trained model can be used to generate multisite predictions at an arbitrary set of locations, regardless of the availability of training data
 - #POSTER [Intercomparison of DL techniques for empirical statistical downscaling over North America (Gonzalez-Abad 2022)](https://drive.google.com/file/d/1JMUPlTk5B1pqUwdBFQzxvNfs-JosOxn1/view)
+- #PAPER [Downscaling Multi-Model Climate Projection Ensembles with Deep Learning (DeepESD): Contribution to CORDEX EUR-44 (Baño-Medina 2022)](https://gmd.copernicus.org/preprints/gmd-2022-57/)
+	- See [[AI4ES/Ensembles, multi-models]]
+	- temperature and precipitation over the European EUR-44i (0.5º) domain, based on eight GCMs from the CMIP5
