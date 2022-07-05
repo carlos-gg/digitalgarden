@@ -163,6 +163,7 @@ title: "Statistical downscaling"
 	- Glow normalizing flow (Kingma 2018), Alignflow (Grover et al 2020). 
 	- Unpaired data samples, IID from each domain (fine, coarse resolutions)
 	- Learn invertible transforms f, from simple prior to informative prior
+- #PAPER [CliGAN: A Structurally Sensitive Convolutional Neural Network Model for Statistical Downscaling of Precipitation from Multi-Model Ensembles (Chaudhuri 2020)](https://www.mdpi.com/2073-4441/12/12/3353/htm)
 - #PAPER [Deep-learning based down-scaling of summer monsoon rainfall data over Indian region (Kumar 2020)](https://arxiv.org/abs/2011.11313v3 )
 	- Employed three deep learning-based algorithms derived from the super-resolution convolutional neural network (SRCNN) methods, to precipitation data, in particular, IMD and TRMM data to produce 4x-times high-resolution downscaled rainfall data during the summer monsoon season
 	- Among the three algorithms, namely SRCNN, stacked SRCNN, and DeepSD, employed here, the best spatial distribution of rainfall amplitude and minimum root-mean-square error is produced by DeepSD based downscaling
@@ -179,6 +180,7 @@ title: "Statistical downscaling"
 - #PAPER [Downscaling fire weather extremes from historical and projected climate models (Jain 2020)](https://link.springer.com/article/10.1007/s10584-020-02865-5)
 - #PAPER [Statistical downscaling with the downscaleR package (v3.1.0): contribution to the VALUE intercomparison experiment (Bedia 2020)](https://gmd.copernicus.org/articles/13/1711/2020/gmd-13-1711-2020-discussion.html) ^downscaleR
 	- #code [DownscaleR](https://github.com/SantanderMetGroup/downscaleR/wiki )
+- #PAPER [Understanding Deep Learning Decisions in Statistical Downscaling Models (Baño-Medina 2020)](https://dl.acm.org/doi/10.1145/3429309.3429321)
 - #PAPER [Downscaling and Evaluation of Seasonal Climate Data for the European Power Sector (Ostermoller 2021)](https://www.mdpi.com/2073-4433/12/3/304/htm)
 	- The global model, GCFS2.0, has limited skill of forecasting surface temperature and precipitation over Europe, which also applies for other seasonal prediction systems
 	- An improvement of hindcast skill can in some cases be achieved by using multi-model ensembles of seasonal forecasts, depending on season and region
