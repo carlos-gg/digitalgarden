@@ -60,6 +60,11 @@ title: "AI4ES data"
 ### Reanalysis
 - [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 	- #PAPER [The ERA5 global reanalysis (Hersbach 2020)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803) ^era5
+	- https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+	- ERA5 is an atmospheric reanalysis, so uses ocean and land surface only as boundary condition
+	- The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km
+	- ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions
+	- ERA5 combines vast amounts of historical observations into global estimates using advanced modelling and data assimilation systems
 
 #### Precipitation
 - [Precipitation datasets comparison](https://climatedataguide.ucar.edu/climate-data/precipitation-data-sets-overview-comparison-table)
@@ -105,14 +110,9 @@ title: "AI4ES data"
 	- Mean latitude-weighted Root-Mean Squared Error (RMSE) as loss and evaluation metric
 
 #### Other reanalysis data
-- ERA5 [[AI4ES/AI4ES data#^era5]] is an atmospheric reanalysis, so uses ocean and land surface only as boundary condition.  
-- You could use Sea Surface Temperature and Sea-Ice cover from gridded observations like HadISST, or an ocean reanalysis like ORAS5 (e.g. ORAS5 sea-ice concentration is here: /esarchive/recon/ecmwf/oras5/monthly_mean/ileadfra) 
-- Surface level presure, sst 
 - Reanalysis data reaching further back than ERA-5 (at this point, ERA-5 will be extended back to 1950 during this year): 
 	- JRA-55 (starts 1958) 
 	- NCEP1 (starts 1948) -- very old reanalysis (state of art year ~2000) 
-- Reasonable selection of 3 tropospheric layers: 850 hPa (lower troposphere, but upper end of planetary boundary layer), 500 hPa (~middle of troposphere), 200 hPa (upper troposphere); later on: include stratosphere e.g. 10 hPa. 
-- Variables: geopotential height (~3 layers), temperature (same 3 layers), possibly + 2m_temperature, cloud cover, toa_radiation as indicator for convection, specific humidity 
 
 ### Temperature
 - [UERRA regional reanalysis for Europe](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-single-levels?tab=overview ^uerra)
