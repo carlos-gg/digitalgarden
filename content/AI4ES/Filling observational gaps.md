@@ -17,3 +17,5 @@ title: "Filling observational gaps"
 - #PAPER [CLIMFILL v0.9: a framework for intelligently gap filling Earth observations (Bessenbacher 2022)](https://gmd.copernicus.org/articles/15/4569/2022/)
 	- #CODE https://github.com/climachine/climfill
 	- CLIMFILL fills gaps in gridded geoscientific observational data by taking into account spatial neighborhood, temporal context and multivariate dependencies. It takes a multivariate dataset with any number and pattern of missing values per variable and returns the dataset with all missing points replaced by estimates
+- #PAPER [Positional Encoder Graph Neural Networks for Geographic Data (Klemmer 2022)](https://arxiv.org/pdf/2111.10144)
+	- #CODE https://github.com/konstantinklemmer/pe-gnn

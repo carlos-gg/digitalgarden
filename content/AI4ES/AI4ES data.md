@@ -110,9 +110,8 @@ title: "AI4ES data"
 	- Mean latitude-weighted Root-Mean Squared Error (RMSE) as loss and evaluation metric
 
 #### Other reanalysis data
-- Reanalysis data reaching further back than ERA-5 (at this point, ERA-5 will be extended back to 1950 during this year): 
-	- JRA-55 (starts 1958) 
-	- NCEP1 (starts 1948) -- very old reanalysis (state of art year ~2000) 
+- JRA-55 (starts 1958) 
+- NCEP1 (starts 1948) -- very old reanalysis (state of art year ~2000) 
 
 ### Temperature
 - [UERRA regional reanalysis for Europe](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-single-levels?tab=overview ^uerra)

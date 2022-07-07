@@ -27,6 +27,7 @@ title: "AI4ES"
 - [Tackling 21st Century Geoscience Problems with Machine Learning](https://eos.org/editors-vox/tackling-21st-century-geoscience-problems-with-machine-learning)
 - [Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data (NASA)](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) ^7b7470
 - [Training the Next Generation of Physical Data Scientists](https://eos.org/opinions/training-the-next-generation-of-physical-data-scientists)
+- [Guest post (CarbonBrief): How artificial intelligence is fast becoming a key tool for climate science](https://www.carbonbrief.org/guest-post-how-artificial-intelligence-is-fast-becoming-a-key-tool-for-climate-science/)
 
 ## Talks
 - #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
@@ -77,6 +78,8 @@ title: "AI4ES"
 	- Digital twins must focus exactly on how best to realize this convergence of the modelling and observation worlds
 	- A methodological framework for the twin’s architecture already exists in the form of data assimilation, which numerical weather prediction has developed with success over decades
 - #PAPER [Machine learning for weather and climate are worlds apart (Watson-Parris 2021)](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0098)
+- #PAPER [Artificial Intelligence Revolutionises Weather Forecast, Climate Monitoring and Decadal Prediction (Dewitte 2021)](https://www.mdpi.com/2072-4292/13/16/3209/htm#B66-remotesensing-13-03209)
+- #PAPER [Towards neural Earth system modelling by integrating artificial intelligence in Earth system science (Irrgang 2021)](https://www.nature.com/articles/s42256-021-00374-3#citeas)
 - #PAPER [Evolution of machine learning in environmental science—A perspective (Hsieh 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/evolution-of-machine-learning-in-environmental-sciencea-perspective/C21F19C66FA387BC25F43C3C6B95E866)
 - #PAPER [Machine Learning in Weather Prediction and Climate Analyses—Applications and Perspectives (Bochenek 2022)](https://www.mdpi.com/2073-4433/13/2/180/htm)
 

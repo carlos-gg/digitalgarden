@@ -201,6 +201,8 @@ title: "Statistical downscaling"
 - #PAPER [Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections (Harilal 2021)](https://ieeexplore.ieee.org/document/9348885)
 	- Pre-upsampling
 	- LSTMs for spatio-temporal data
+- #PAPER [On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections (Baño-Medina 2021)](https://link.springer.com/article/10.1007/s00382-021-05847-0)
+	- CNNs for downscaling future climate change projections using Global Climate Model (GCM) outputs as predictors
 - #PAPER [Spatio-Temporal Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks (Serifi 2021)](https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full)
 - #PAPER [Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels (Gao 2021)](https://aip.scitation.org/doi/10.1063/5.0054312)
 - #PAPER [Convolutional conditional neural processes for local climate downscaling (Vaughan 2021)](https://gmd.copernicus.org/preprints/gmd-2020-420/) ^ccnp4ds

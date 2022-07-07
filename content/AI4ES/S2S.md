@@ -142,6 +142,8 @@ MJO:
 - #PAPER [Subseasonal predictability of the North Atlantic Oscillation (Albers 2021)](https://iopscience.iop.org/article/10.1088/1748-9326/abe781)
 - #PAPER [Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models (Weyn 2021)](https://arxiv.org/abs/2102.05107) ^weyn21dls2s
 - #PAPER [Extreme Precipitation Seasonal Forecast Using a Transformer Neural  Network (Civitarese 2021)](https://arxiv.org/pdf/2107.06846)
+- #PAPER [Training machine learning models on climate model output yields skillful interpretable seasonal precipitation forecasts (Gibson 2021)](https://www.nature.com/articles/s43247-021-00225-4)
+- #PAPER [Seasonal Arctic sea ice forecasting with probabilistic deep learning (Andersson 2021)](https://www.nature.com/articles/s41467-021-25257-4)
 - #PAPER [Dynamical–statistical seasonal forecasts of winter and summer precipitation for the Island of Ireland (Goliam 2022)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7557)
 - #PAPER [Using Explainable Machine Learning Forecasts to Discover Subseasonal Drivers of High Summer Temperatures in Western and Central Europe (van Straatem 2022)](https://journals.ametsoc.org/view/journals/mwre/150/5/MWR-D-21-0201.1.xml)
 
