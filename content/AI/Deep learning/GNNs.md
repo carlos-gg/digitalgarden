@@ -10,6 +10,7 @@ title: "Graph neural networks (GNNs)"
 - [Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing](https://towardsdatascience.com/graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing-bc8605fa59a)
 - [Time Series Forecasting with Graph Convolutional Neural Network](https://towardsdatascience.com/time-series-forecasting-with-graph-convolutional-neural-network-7ffb3b70afcf)
 - https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
+- [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
 
 ## Talks
 - #TALK [Intro to graph neural networks (ML Tech Talks, Deepmind)](https://www.youtube.com/watch?v=8owQBFAHw7E)
@@ -35,12 +36,12 @@ title: "Graph neural networks (GNNs)"
 	- https://towardsdatascience.com/beyond-graph-neural-networks-with-pyneuralogic-c1e6502c46f7
 
 ## References
-- #PAPER [Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016)](https://arxiv.org/abs/1612.07659)
-	- Graph Convolutional Recurrent Network (GCRN)
-- #PAPER [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting (Yu 2018)](https://arxiv.org/abs/1709.04875 )
+Review papers:
+- #PAPER [A Comprehensive Survey on Graph Neural Networks (Wu 2019)](https://arxiv.org/pdf/1901.00596)
+- #PAPER [Graph neural networks: A review of methods and applications (Zhou 2020)](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
+
 - #PAPER [Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting (Diao 2019)](https://www.aaai.org/ojs/index.php/AAAI/article/view/3877)
 - #PAPER [A Comprehensive Survey on Graph Neural Networks (Wu 2019)](https://arxiv.org/abs/1901.00596)
-- #PAPER [Graph Neural Networks: A Review of Methods and Applications (Zhou 2019)](https://arxiv.org/abs/1812.08434)
 - #PAPER [Graph Neural Networks for Decentralized Controllers (Gama 2020)](https://arxiv.org/abs/2003.10280 )
 - #PAPER [Learning to Simulate Complex Physics with Graph Networks (Sanchez-Gonzalez 2020)](https://arxiv.org/abs/2002.09405)
 	- [Two minute papers](https://www.youtube.com/watch?v=2Bw5f4vYL98)
@@ -52,3 +53,11 @@ title: "Graph neural networks (GNNs)"
 - #PAPER [A Heterogeneous Graph Based Framework for Multimodal Neuroimaging Fusion Learning (Shi 2021)](https://arxiv.org/abs/2110.08465)
 	- #CODE https://paperswithcode.com/paper/a-heterogeneous-graph-based-framework-for?from=n19
 
+
+### Graph convolutional networks
+Review papers:
+- #PAPER [Graph Neural Networks: A Review of Methods and Applications (Zhou 2019)](https://arxiv.org/abs/1812.08434)
+
+- #PAPER [Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016)](https://arxiv.org/abs/1612.07659)
+	- Graph Convolutional Recurrent Network (GCRN)
+- #PAPER [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting (Yu 2018)](https://arxiv.org/abs/1709.04875 )
