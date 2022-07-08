@@ -70,7 +70,10 @@ title: "Convolutional Neural Networks (CNNs)"
 - #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition (Li 2021)](https://arxiv.org/abs/2103.06255)
 	- #CODE https://github.com/d-li14/involution
 	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds
+	- https://keras.io/examples/vision/involution/
 	- [Paper explained](https://www.youtube.com/watch?v=pH2jZun8MoY)
+- #PAPER [Learning to Resize Images for Computer Vision Tasks (Talebi 2021)](https://arxiv.org/pdf/2103.09950v2)            
+	- #CODE https://keras.io/examples/vision/learnable_resizer/
 - #PAPER [Non-deep Networks (Goyal 2021)](https://arxiv.org/abs/2110.07641)
 	- #CODE https://paperswithcode.com/paper/non-deep-networks-1?from=n19
 	- use parallel subnetworks instead of stacking one layer after another. This helps effectively reduce depth while maintaining high performance
@@ -87,7 +90,6 @@ title: "Convolutional Neural Networks (CNNs)"
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 - #PAPER [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs (Ding 2022)](https://arxiv.org/pdf/2203.06717v3)            
 	- #CODE https://paperswithcode.com/paper/scaling-up-your-kernels-to-31x31-revisiting
-- #PAPER [Learning to Resize Images for Computer Vision Tasks (Talebi 2021)](https://arxiv.org/pdf/2103.09950v1)            
 
 
 ## Subtopics and applications

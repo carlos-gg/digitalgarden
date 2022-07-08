@@ -58,3 +58,9 @@ Review papers:
 - #PAPER [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (Wang 2022)](https://arxiv.org/pdf/2202.03052v1)            
 - #PAPER [Flamingo: a Visual Language Model for Few-Shot Learning (Alayrac 2022)](https://arxiv.org/abs/2204.14198v1)
 	- #CODE https://github.com/lucidrains/flamingo-pytorch
+- #PAPER [LViT: Language meets Vision Transformer in Medical Image Segmentation (Li 2022)](https://arxiv.org/abs/2206.14718v1) ^lvit
+	- #CODE https://github.com/HUANGLIZI/LViT
+- #PAPER [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation (Yu 2022)](https://arxiv.org/pdf/2206.10789v1)
+	- #CODE https://github.com/google-research/parti
+	- https://parti.research.google/
+	- Pathways Autoregressive Text-to-Image model (Parti), an autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge

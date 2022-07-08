@@ -163,7 +163,8 @@ title: "Transformers"
 	- #CODE https://paperswithcode.com/paper/how-do-vision-transformers-work-1?from=n26
 - #PAPER [Sequencer: Deep LSTM for Image Classification (Tatsunami 2022)](https://arxiv.org/pdf/2205.01972v2)            
 	- #CODE https://github.com/okojoalg/sequencer
-
+- #PAPER [EfficientFormer: Vision Transformers at MobileNet Speed (Li 2022)](https://arxiv.org/pdf/2206.01191v3)
+	- #CODE https://github.com/snap-research/efficientformer
 
 ### Self-supervised vision transformers
 - #PAPER [SiT: Self-supervised vIsion Transformer (Atito 2021)](https://arxiv.org/abs/2104.03602)
