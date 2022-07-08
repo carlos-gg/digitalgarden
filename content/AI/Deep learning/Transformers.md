@@ -161,10 +161,13 @@ title: "Transformers"
 	- https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging
 - #PAPER [How Do Vision Transformers Work? (Park 2022)](https://arxiv.org/abs/2202.06709v2)
 	- #CODE https://paperswithcode.com/paper/how-do-vision-transformers-work-1?from=n26
-- #PAPER [Sequencer: Deep LSTM for Image Classification (Tatsunami 2022)](https://arxiv.org/pdf/2205.01972v2)            
-	- #CODE https://github.com/okojoalg/sequencer
 - #PAPER [EfficientFormer: Vision Transformers at MobileNet Speed (Li 2022)](https://arxiv.org/pdf/2206.01191v3)
 	- #CODE https://github.com/snap-research/efficientformer
+- #PAPER [Vision Transformers for Dense Prediction (Ranftl 2022)](https://arxiv.org/pdf/2103.13413) ^dpt
+	- #CODE https://github.com/isl-org/DPT
+	- DPT is a dense prediction architecture that is based on an encoder-decoder design that leverages a transformer as the basic computational building block of the encoder
+	- used the recently proposed VIT as a backbone architecture reassembling the bag-of-words representation that is provided by ViT into image-like feature representations at various resolutions and progressively combine the feature representations into the final dense prediction using a convolutional decoder
+	- it has a global receptive field at every stage
 
 ### Self-supervised vision transformers
 - #PAPER [SiT: Self-supervised vIsion Transformer (Atito 2021)](https://arxiv.org/abs/2104.03602)

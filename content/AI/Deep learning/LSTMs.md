@@ -22,4 +22,5 @@ title: "Long Short-Term Memory networks (LSTMs)"
 - #PAPER [IndyLSTMs: Independently Recurrent LSTMs (Gonnet 2019)](https://arxiv.org/abs/1903.08023)
 	- Independently Recurrent Long Short-term Memory cells (IndyLSTMs) differ from regular LSTM cells in that the recurrent weights are not modeled as a full matrix, but as a diagonal matrix, i.e.\ the output and state of each LSTM cell depends on the inputs and its own output/state, as opposed to the input and the outputs/states of all the cells in the layer. The number of parameters per IndyLSTM layer, and thus the number of FLOPS per evaluation, is linear in the number of nodes in the layer, as opposed to quadratic for regular LSTM layers, resulting in potentially both smaller and faster models. IndyLSTMs, despite their smaller size, consistently outperform regular LSTMs both in terms of accuracy per parameter, and in best accuracy overall. We attribute this improved performance to the IndyLSTMs being less prone to overfitting.
 - #PAPER [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks (Staudemeyer 2019)](https://arxiv.org/abs/1909.09586)
-
+- #PAPER [Sequencer: Deep LSTM for Image Classification (Tatsunami 2022)](https://arxiv.org/abs/2205.01972v2)            
+	- #CODE https://github.com/okojoalg/sequencer

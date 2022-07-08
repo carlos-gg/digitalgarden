@@ -51,8 +51,14 @@ Review papers:
 - #PAPER [Nested Graph Neural Networks (Zhang 2021)](https://arxiv.org/abs/2110.13197)
 	- #CODE https://paperswithcode.com/paper/nested-graph-neural-networks?from=n19
 - #PAPER [A Heterogeneous Graph Based Framework for Multimodal Neuroimaging Fusion Learning (Shi 2021)](https://arxiv.org/abs/2110.08465)
-	- #CODE https://paperswithcode.com/paper/a-heterogeneous-graph-based-framework-for?from=n19
-
+	- #CODE https://github.com/shigen97/hebraingnn
+	- self-supervised pretraining contrastive strategy based on a heterogeneous brain network to address the potential overfitting problem caused by the conflict between a large parameter size and a small medical data sample size
+- #PAPER [Vision GNN: An Image is Worth Graph of Nodes (Han 2022)](https://arxiv.org/pdf/2206.00272v2)
+	- #CODE https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/vig_pytorch
+	- proposeD to represent the image as a graph structure and introduce a new Vision GNN (ViG) architecture to extract graph level feature for visual tasks
+	- first split the image to a number of patches which are viewed as nodes, and construct a graph by connecting the nearest neighbors
+	- the ViG model is built based on the graph representation of images to transform and exchange information among all the nodes
+	- ViG consists of two basic modules: Grapher module with graph convolution for aggregating and updating graph information, and FFN module with two linear layers for node feature transformation
 
 ### Graph convolutional networks
 Review papers:

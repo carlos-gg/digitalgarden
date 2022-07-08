@@ -55,6 +55,8 @@ See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
 - #PAPER [VOS: Learning What You Don't Know by Virtual Outlier Synthesis (Du 2022)](https://arxiv.org/pdf/2202.01197)
 	- #CODE https://github.com/deeplearning-wisc/vos
 	- [Paper explained](https://www.youtube.com/watch?v=i-J4T3uLC9M&list=WL&index=59&t=4s)
+- #PAPER [AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection (Dragoi 2022)](https://arxiv.org/pdf/2206.15476v1)
+	- #CODE https://github.com/bit-ml/anoshift
 
 #### Code
 - #CODE [Anomalib](https://github.com/openvinotoolkit/anomalib)
