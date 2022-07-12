@@ -171,6 +171,8 @@ title: "Statistical downscaling"
 - #PAPER [Enabling Smart Dynamical Downscaling of Extreme Precipitation Events With Machine Learning (Shi 2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL090309)
 	- https://www.researchgate.net/publication/346390363
 - #PAPER [Statistical Downscaling of Temperature Distributions from the Synoptic  Scale to the Mesoscale Using Deep Convolutional Neural Networks (Sekiyama 2020)](https://arxiv.org/pdf/2007.10839)
+- #PAPER [Statistical downscaling of daily temperature and precipitation over China using deep learning neural models: Localization and comparison with other methods (Sun 2020)](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6769)
+	- CNN compared to GLM and two quantile mapping based techniques including bias correction and spatial disaggregation (BCSD) and bias correction and climate imprint (BCCI)
 - #PAPER [Sequence-based statistical downscaling and its application to hydrologic simulations based on machine learning and big data (Wang 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0022169420303358?via%3Dihub)
 	- Time series characteristics of meteorological data was considered in statistical downscaling
 	- RNN and ANN had different feasibilities in areas, while RNN could improve the performance
@@ -182,6 +184,14 @@ title: "Statistical downscaling"
 - #PAPER [Statistical downscaling with the downscaleR package (v3.1.0): contribution to the VALUE intercomparison experiment (Bedia 2020)](https://gmd.copernicus.org/articles/13/1711/2020/gmd-13-1711-2020-discussion.html) ^downscaleR
 	- #code [DownscaleR](https://github.com/SantanderMetGroup/downscaleR/wiki )
 - #PAPER [Understanding Deep Learning Decisions in Statistical Downscaling Models (Baño-Medina 2020)](https://dl.acm.org/doi/10.1145/3429309.3429321)
+- #PAPER [RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting (Ayzel 2020)](https://gmd.copernicus.org/articles/13/2631/2020/)
+	- #CODE https://github.com/hydrogo/rainnet
+- #PAPER [RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling (Chen 2020)](https://arxiv.org/abs/2012.09700)
+	- https://neuralchen.github.io/RainNet/
+	- REAL (non-simulated) Large-Scale Spatial Precipitation Downscaling Dataset, RainNet, which contains 62,424 pairs of low-resolution and high-resolution precipitation maps for 17 years (2002 - 2018)
+	- These data are collected from satellites, radars and gauge stations, which can reveal the multi-source characteristics of meteorological data
+	- Models use L1 and perceptual loss (pre-trained VGG19 network)
+	- Eight metrics specifically considering the physical property of the data set are raised, while fourteen models are evaluated on the proposed dataset
 - #PAPER [Downscaling and Evaluation of Seasonal Climate Data for the European Power Sector (Ostermoller 2021)](https://www.mdpi.com/2073-4433/12/3/304/htm)
 	- The global model, GCFS2.0, has limited skill of forecasting surface temperature and precipitation over Europe, which also applies for other seasonal prediction systems
 	- An improvement of hindcast skill can in some cases be achieved by using multi-model ensembles of seasonal forecasts, depending on season and region
@@ -201,6 +211,11 @@ title: "Statistical downscaling"
 - #PAPER [Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections (Harilal 2021)](https://ieeexplore.ieee.org/document/9348885)
 	- Pre-upsampling
 	- LSTMs for spatio-temporal data
+- #PAPER [Fast and accurate learned multiresolution dynamical downscaling for precipitation (Wang 2021)](https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.html)
+	- precipitation: 1-year outputs from two RCM simulations using the Weather Research and Forecasting model, both at 50 km resolution and at 12 km resolution
+	- supervised MSE and CGAN trainings
+	- inception-style modules, CBAM attention modules, transposed convolution post-upsampling
+	- validation analysis, extremes
 - #PAPER [On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections (Baño-Medina 2021)](https://link.springer.com/article/10.1007/s00382-021-05847-0)
 	- CNNs for downscaling future climate change projections using Global Climate Model (GCM) outputs as predictors
 - #PAPER [Spatio-Temporal Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks (Serifi 2021)](https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full)
