@@ -71,7 +71,7 @@ title: "Statistical downscaling"
 	- Precipitation use case
 	- Proposed a new statistical downscaling model based on Recurrent Neural Network with LSTMs which captures the spatio-temporal dependencies in local rainfall
 - #PAPER [Intercomparison of ML Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation (Vandal 2017)](https://arxiv.org/abs/1702.04018)
-	- Compared four fundamental statistical methods, Bias Correction Spatial Disaggregation (BCSD), Ordinary Least Squares, Elastic-Net, and Support Vector Machine, with three more advanced machine learning methods, Multi-task Sparse Structure Learning (MSSL), BCSD coupled with MSSL, and [[CNNs]] to downscale daily precipitation in the Northeast United States
+	- Compared four fundamental statistical methods, Bias Correction Spatial Disaggregation (BCSD), Ordinary Least Squares, Elastic-Net, and Support Vector Machine, with three more advanced machine learning methods, Multi-task Sparse Structure Learning (MSSL), BCSD coupled with MSSL, and [[AI/Deep learning/CNNs]] to downscale daily precipitation in the Northeast United States
 	- Metrics to evaluate of each method's ability to capture daily anomalies, large scale climate shifts, and extremes are analyzed
 	- Found that linear methods, led by BCSD, consistently outperform non-linear approaches. The direct application of state-of-the-art machine learning methods to statistical downscaling does not provide improvements over simpler, longstanding approaches (!!!???)
 - #PAPER [DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution (Vandal 2017)](https://arxiv.org/abs/1703.03126) ^c8c676
@@ -179,6 +179,12 @@ title: "Statistical downscaling"
 	- RNN-RandExtreme method could improve the accuracy of predicting extreme precipitation
 - #PAPER [PreciPatch: A Dictionary-based Precipitation Downscaling Method (Xu 2020)](https://www.mdpi.com/2072-4292/12/6/1030/htm)
 - #PAPER [Hyper-local, efficient extreme heat projection and analysis using machine learning to augment a hybrid dynamical-statistical downscaling technique (Madaus 2020)](https://www.sciencedirect.com/science/article/abs/pii/S2212095519301762)
+- #PAPER [Climate Downscaling Using YNet: A Deep Convolutional Network with Skip Connections and Fusion (Liu 2020)](https://dl.acm.org/doi/10.1145/3394486.3403366)
+	- CNN with skip connections and fusion capabilities to perform downscaling for climate variables, on multiple GCMs directly rather than on reanalysis data
+	- Model: encoder-decoder-like architecture with residual learning through skip connections and fusion layers to enable the incorporation of topological and climatological data as auxiliary data
+	- the model uses the full blown GCM simulations instead of training on observational/reanalysis data
+	- post-upsampling using resize convolution, branch with auxiliary inputs concatenated in the end of the network, main branch encoder-decoder
+	- compare the MSE of different methods for the three climate variables: monthly mean precipitation (ppt), monthly maximum temperature (tmax) and monthly minimum temperature (tmin) using three downscaling factors: 2, 4 and 8
 - #PAPER [Downscaling and Projection of Multi-CMIP5 Precipitation Using Machine Learning Methods in the Upper Han River Basin (Xu 2020)](https://www.hindawi.com/journals/amete/2020/8680436/)
 - #PAPER [Downscaling fire weather extremes from historical and projected climate models (Jain 2020)](https://link.springer.com/article/10.1007/s10584-020-02865-5)
 - #PAPER [Statistical downscaling with the downscaleR package (v3.1.0): contribution to the VALUE intercomparison experiment (Bedia 2020)](https://gmd.copernicus.org/articles/13/1711/2020/gmd-13-1711-2020-discussion.html) ^downscaleR
@@ -229,3 +235,6 @@ title: "Statistical downscaling"
 - #PAPER [Downscaling Multi-Model Climate Projection Ensembles with Deep Learning (DeepESD): Contribution to CORDEX EUR-44 (Baño-Medina 2022)](https://gmd.copernicus.org/preprints/gmd-2022-57/)
 	- See [[AI4ES/Ensembles, multi-models]]
 	- temperature and precipitation over the European EUR-44i (0.5º) domain, based on eight GCMs from the CMIP5
+- #PAPER [DeepUrbanDownscale: A physics informed deep learning framework for high-resolution urban surface temperature estimation via 3D point clouds (Chen 2022)](https://www.sciencedirect.com/science/article/pii/S0303243421003573)
+	- DeepUrbanDownscale (DUD) for high-resolution urban surface temperature estimation - novel physics informed neural network (PINN) based framework
+	- This network, ingesting the high-precision land surface geometry information derived from 3D point clouds and guided by the atmospheric physics related to surface temperature, constructs a physics informed data-driven framework to fit high-resolution temperature distribution
