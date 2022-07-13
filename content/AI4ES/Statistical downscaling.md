@@ -91,6 +91,10 @@ title: "Statistical downscaling"
 	- each SRCNN increases the resolution by a factor of s and is trained independently (associated input/output pairs)
 	- DeepSD augments SRCNN with multi-scale input channels to maximize predictability in statistical downscaling
 	- Future work: more variables such as temperature, wind, humidity at different pressure levels, downscaling multiple climate variables (temp, prlr), uncertainty
+- #PAPER [Coupling dynamical and statistical downscaling for high-resolution rainfall forecasting: case study of the Red River Delta, Vietnam (Anh 2018)](https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-018-0185-6)
+	- hybrid dynamical-statistical downscaling approach is an effort to combine the ability of dynamical downscaling to resolve fine-scale climate changes with the low computational cost of statistical downscaling
+	- dynamical downscaling was performed with an RCM driven by the reanalysis to produce nested 30- and 6-km resolution simulations. Subsequently, the 6-km simulation was compared to rain gauge data to examine the ability of the RCM to reproduce known climate conditions. Then, in the statistical downscaling step, the ANN was trained to predict rainfall in the 6-km domain based on weather predictors in the 30-km simulation
+	- a Simple multilayer perceptron ANN is used
 - #PAPER [Comparison of Different Machine Learning Approaches for Monthly Satellite-Based Soil Moisture Downscaling over Northeast China  (Liu 2018)](https://www.mdpi.com/2072-4292/10/1/31/htm)
 - #PAPER [Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments (Ma 2018)](https://arxiv.org/abs/1711.00484)
 	- Proposed a principled statistical downscaling framework to construct high-resolution Nature Runs (for Observing system simulation experiments - OSSEs) via conditional simulation from coarse-resolution numerical model output
@@ -198,6 +202,10 @@ title: "Statistical downscaling"
 	- These data are collected from satellites, radars and gauge stations, which can reveal the multi-source characteristics of meteorological data
 	- Models use L1 and perceptual loss (pre-trained VGG19 network)
 	- Eight metrics specifically considering the physical property of the data set are raised, while fourteen models are evaluated on the proposed dataset
+- #PAPER [A comparative study of convolutional neural network models for wind field downscaling (Hohlein 2020)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/met.1961)
+	- CNNs for downscaling of short-range forecasts of near-surface winds on extended spatial domains
+	- DeepRU, a novel U-Net-based CNN architecture, which is able to infer situation-dependent wind structures that cannot be reconstructed by other models
+	- compare: Localized multi-linear regression model (LinearEnsemble),  linear shallow CNN (no activation), deepSD (vandal, pre-upsampling), FSRCNN (post-upsampling, smaller kernels 3x3 and 1x1), EnhanceNet (residual connections) and deepRU (UNET-style network)
 - #PAPER [Downscaling and Evaluation of Seasonal Climate Data for the European Power Sector (Ostermoller 2021)](https://www.mdpi.com/2073-4433/12/3/304/htm)
 	- The global model, GCFS2.0, has limited skill of forecasting surface temperature and precipitation over Europe, which also applies for other seasonal prediction systems
 	- An improvement of hindcast skill can in some cases be achieved by using multi-model ensembles of seasonal forecasts, depending on season and region
@@ -217,11 +225,18 @@ title: "Statistical downscaling"
 - #PAPER [Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections (Harilal 2021)](https://ieeexplore.ieee.org/document/9348885)
 	- Pre-upsampling
 	- LSTMs for spatio-temporal data
+- #PAPER [Deep Learning for Daily Precipitation and Temperature Downscaling (Wang 2021)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308)
+	- Super Resolution Deep Residual Network (SRDRN) for downscaling daily precipitation and temperature
+	- transfer learning, the trained SRDRN model in one region was directly applied to downscale precipitation in another region with a different environment, and the results showed notable improvement compared to classic statistical downscaling method
+	- The outstanding performance of the SRDRN approach stemmed from its ability to fully extract spatial features without suffering from degradation and overfitting issues due to the incorporations of residual blocks, batch normalizations, and data augmentations
 - #PAPER [Fast and accurate learned multiresolution dynamical downscaling for precipitation (Wang 2021)](https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.html)
 	- precipitation: 1-year outputs from two RCM simulations using the Weather Research and Forecasting model, both at 50 km resolution and at 12 km resolution
 	- supervised MSE and CGAN trainings
 	- inception-style modules, CBAM attention modules, transposed convolution post-upsampling
 	- validation analysis, extremes
+- #PAPER [Deconditional Downscaling with Gaussian Processes (Chau 2021)](https://arxiv.org/pdf/2105.12909)
+	- #CODE https://github.com/shahineb/deconditional-downscaling
+	- scalable Bayesian solution to the mediated statistical downscaling problem, which handles unmatched multi-resolution data. The proposed approach combines Gaussian Processes with the framework of deconditioning using RKHSs - reproducing kernel Hilbert space
 - #PAPER [On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections (Baño-Medina 2021)](https://link.springer.com/article/10.1007/s00382-021-05847-0)
 	- CNNs for downscaling future climate change projections using Global Climate Model (GCM) outputs as predictors
 - #PAPER [Spatio-Temporal Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks (Serifi 2021)](https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full)
