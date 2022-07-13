@@ -103,6 +103,7 @@ MJO:
 - #PAPER [The influence of aggregation and statistical post‐processing on the subseasonal predictability of European temperatures (van Straaten 2020)](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3810)
 - #PAPER [North Atlantic climate far more predictable than models imply (Smith 2020)](https://www.nature.com/articles/s41586-020-2525-0)
 - #PAPER [The Importance of Past MJO Activity in Determining the Future State of the Midlatitude Circulation (Tseng 2020)](https://journals.ametsoc.org/view/journals/clim/33/6/jcli-d-19-0512.1.xml)
+- #PAPER [Prediction of monthly Arctic sea ice concentrations using satellite and reanalysis data based on convolutional neural networks (Kim 2020)](https://tc.copernicus.org/articles/14/1083/2020/)
 - #PAPER [Testing the Reliability of Interpretable Neural Networks in Geoscience Using the Madden-Julian Oscillation (Toms, 2020)](https://arxiv.org/abs/1902.04621)
 	- Tested the reliability of two neural network interpretation techniques, backward optimization and layerwise relevance propagation, within geoscientific applications by applying them to a commonly studied geophysical phenomenon, the Madden-Julian Oscillation. 
 	- The Madden-Julian Oscillation is a multi-scale pattern within the tropical atmosphere that has been extensively studied over the past decades, which makes it an ideal test case to ensure the interpretability methods can recover the current state of knowledge regarding its spatial structure. 
