@@ -37,7 +37,7 @@ title: "Super-resolution"
 - #PAPER [A Comprehensive Review of Deep Learning-based Single Image Super-resolution (Bashir 2021)](https://arxiv.org/abs/2102.09351)
 
 
-### CNN-based
+### Supervised CNN-based
 - #PAPER [Image Super-Resolution Using Deep Convolutional Networks, SRCNN (Dong 2015)](https://arxiv.org/abs/1501.00092)
 	- #CODE https://github.com/MarkPrecursor/SRCNN-keras
 	- #CODE https://github.com/yukia18/srcnn-keras
@@ -116,6 +116,7 @@ title: "Super-resolution"
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM
+- #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588)
 
 
 ### GAN-based
@@ -147,6 +148,7 @@ title: "Super-resolution"
 	- #CODE https://github.com/xinntao/Real-ESRGAN
 	- Super-resolution with a hint of image restoration
 	- Proposed a high-order degradation modeling process to better simulate complex real-world degradations (blur, downsampling, noise, etc and combinations)
+- #PAPER [Deep Hierarchical Super-Resolution for Scientific Data Reduction and  Visualization (Wurster 2021)](https://arxiv.org/pdf/2107.00462)
 
 
 ### Transformer-based
