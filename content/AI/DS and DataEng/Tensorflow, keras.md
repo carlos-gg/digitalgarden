@@ -2,16 +2,55 @@
 title: "Tensorflow, Keras"
 ---
 
+## Resources
+- http://playground.tensorflow.org/
+- [TensorFlow Hub](https://tfhub.dev/)
+	- https://www.tensorflow.org/hub
+	- Hundreds of trained, ready-to-deploy machine learning models in one place
+- [Keras Applications](https://keras.io/api/applications/)
+	- DL models that are made available alongside pre-trained weights. These models can be used for prediction, feature extraction, and fine-tuning
+- [Transfer Learning Guide](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras): A Practical Tutorial With Examples for Images and Text in Keras
+- https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
+- https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc#.dg41ldof5
+- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+- [Tensorflow 2.0: models migration and new design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
+- http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
+- [Understanding Tensorflow's tensors shape: static and dynamic](https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/)
+
+
+### Distributed training
+- https://missinglink.ai/guides/tensorflow/tensorflow-distributed-training-introduction-tutorials/ 
+- TF.Distribute
+	- https://www.tensorflow.org/guide/distributed_training 
+	- https://www.tensorflow.org/guide/gpu
+	- https://keras.io/guides/distributed_training/
+	- #TALK [Inside TensorFlow: tf.data + tf.distribute](https://www.youtube.com/watch?v=ZnukSLKEw34)
+- [Numpy to tf.record](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
+- https://www.tensorflow.org/tutorials/distribute/keras 
+- https://www.tensorflow.org/tutorials/distribute/custom_training 
+- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/distribute/custom_training.ipynb#scrollTo=9iagoTBfijUz 
+- [Train a Neural Network on multi-GPU with TensorFlow (Jordi Torres)](https://towardsdatascience.com/train-a-neural-network-on-multi-gpu-with-tensorflow-42fa5f51b8af)
+- [Multinode example](https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md)
+- MultiWorkerMirroredStrategy:
+	- https://www.tensorflow.org/api_docs/python/tf/distribute/MultiWorkerMirroredStrategy (after TF v2)
+	- https://www.tensorflow.org/api_docs/python/tf/distribute/experimental/MultiWorkerMirroredStrategy
+	- https://blog.tensorflow.org/2020/12/whats-new-in-tensorflow-24.html (TF v2.4)
+	- https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras 
+	- https://github.com/tensorflow/tensorflow/issues/36094
+- https://www.tensorflow.org/api_docs/python/tf/distribute/cluster_resolver/SlurmClusterResolver 
+- https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/ 
+
+Data lazy loading: 
+- Tf.data:
+	- https://www.tensorflow.org/api_docs/python/tf/data/Dataset 
+	- https://www.tensorflow.org/api_docs/python/tf/data/Dataset#from_generator
+	- https://www.tensorflow.org/tutorials/distribute/input
+- Tensorflow data netcdf, MATEX tensorflow (seems to be abandoned) :https://github.com/matex-org/matex/wiki/DataSet-Reader 
+
+
+
 ## Code
 - #CODE [Tensorflow (Google)](https://github.com/tensorflow/tensorflow)
-	- http://playground.tensorflow.org/
-	- https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
-	- https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc#.dg41ldof5
-	- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
-	- [Tensorflow 2.0: models migration and new design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
-	- http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
-	- [Understanding Tensorflow's tensors shape: static and dynamic](https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/)
-
 - #CODE [TF Compression](https://github.com/tensorflow/compression)
 	- TensorFlow Compression (TFC) contains data compression tools for TensorFlow
 - #CODE [TF Similarity](https://github.com/tensorflow/similarity)
@@ -53,7 +92,7 @@ title: "Tensorflow, Keras"
 	- https://blog.openai.com/adversarial-example-research/
 
 
-## Keras
+### Keras
 - #CODE [Keras](https://github.com/keras-team/keras )
 	- Keras is a deep learning API written in Python, running on top of the machine learning platform Tensorflow
 	- http://keras.io/
@@ -66,32 +105,3 @@ title: "Tensorflow, Keras"
 - #CODE [Ktrain](https://github.com/amaiya/ktrain)
 	- https://analyticsindiamag.com/a-complete-guide-to-ktrain-a-wrapper-for-tensorflow-keras/
 
-
-## Distributed training
-- https://missinglink.ai/guides/tensorflow/tensorflow-distributed-training-introduction-tutorials/ 
-- TF.Distribute
-	- https://www.tensorflow.org/guide/distributed_training 
-	- https://www.tensorflow.org/guide/gpu
-	- https://keras.io/guides/distributed_training/
-	- #TALK [Inside TensorFlow: tf.data + tf.distribute](https://www.youtube.com/watch?v=ZnukSLKEw34)
-- [Numpy to tf.record](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
-- https://www.tensorflow.org/tutorials/distribute/keras 
-- https://www.tensorflow.org/tutorials/distribute/custom_training 
-- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/distribute/custom_training.ipynb#scrollTo=9iagoTBfijUz 
-- [Train a Neural Network on multi-GPU with TensorFlow (Jordi Torres)](https://towardsdatascience.com/train-a-neural-network-on-multi-gpu-with-tensorflow-42fa5f51b8af)
-- [Multinode example](https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md)
-- MultiWorkerMirroredStrategy:
-	- https://www.tensorflow.org/api_docs/python/tf/distribute/MultiWorkerMirroredStrategy (after TF v2)
-	- https://www.tensorflow.org/api_docs/python/tf/distribute/experimental/MultiWorkerMirroredStrategy
-	- https://blog.tensorflow.org/2020/12/whats-new-in-tensorflow-24.html (TF v2.4)
-	- https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras 
-	- https://github.com/tensorflow/tensorflow/issues/36094
-- https://www.tensorflow.org/api_docs/python/tf/distribute/cluster_resolver/SlurmClusterResolver 
-- https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/ 
-
-Data lazy loading: 
-- Tf.data:
-	- https://www.tensorflow.org/api_docs/python/tf/data/Dataset 
-	- https://www.tensorflow.org/api_docs/python/tf/data/Dataset#from_generator
-	- https://www.tensorflow.org/tutorials/distribute/input
-- Tensorflow data netcdf, MATEX tensorflow (seems to be abandoned) :https://github.com/matex-org/matex/wiki/DataSet-Reader 
