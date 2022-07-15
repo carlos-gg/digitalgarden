@@ -67,7 +67,7 @@ title: "Convolutional Neural Networks (CNNs)"
 - #PAPER [Revisiting Spatial Invariance with Low-Rank Local Connectivity (Elsayed 2020)](https://arxiv.org/abs/2002.02959)
 	- #CODE https://github.com/google-research/google-research/tree/master/low_rank_local_connectivity
 - #THESIS/PHD [Multi-modal Medical Image Processing with Applications in HybridX-ray/Magnetic Resonance Imaging (Stimpel 2021)](https://opus4.kobv.de/opus4-fau/frontdoor/deliver/index/docId/15697/file/Dissertation_Bernhard_Stimpel.pdf)
-- #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition (Li 2021)](https://arxiv.org/abs/2103.06255)
+- #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition (Li 2021)](https://arxiv.org/abs/2103.06255) ^involution
 	- #CODE https://github.com/d-li14/involution
 	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds
 	- https://keras.io/examples/vision/involution/

@@ -116,7 +116,7 @@ title: "Super-resolution"
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM
-- #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588)
+- #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588) ^revolution
 
 
 ### GAN-based
