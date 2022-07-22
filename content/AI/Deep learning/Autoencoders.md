@@ -59,3 +59,6 @@ title: "Autoencoders"
 	- #CODE https://github.com/implus/um-mae
 - #PAPER [ConvMAE: Masked Convolution Meets Masked Autoencoders (Gao 2022)](https://arxiv.org/pdf/2205.03892v2)            
 	- #CODE https://github.com/Alpha-VL/ConvMAE
+- #PAPER [Masked Autoencoders that Listen (Huang 2022)](https://arxiv.org/pdf/2207.06405v1)
+	- #CODE https://github.com/facebookresearch/AudioMAE
+- #PAPER 

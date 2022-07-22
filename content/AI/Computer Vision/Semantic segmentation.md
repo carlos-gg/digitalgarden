@@ -37,6 +37,10 @@ Review papers:
 	- [Paper explained](https://www.youtube.com/watch?v=hv3UO3G0Ofo)
 - #PAPER [Towards infield, live plant phenotyping using a reduced-parameter CNN (Atanbori 2020)](https://link.springer.com/article/10.1007%2Fs00138-019-01051-7)
 - #PAPER [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (Lang 2022)](https://arxiv.org/pdf/2203.07615v2)            
+- #PAPER [k-means Mask Transformer (Yu 2022)](https://arxiv.org/pdf/2207.04044v1)
+	- #CODE https://github.com/google-research/deeplab2
+	- rethought the relationship between pixels and object queries and propose to reformulate the cross-attention learning as a clustering process
+	- k-means Mask Xformer (kMaX-DeepLab) for segmentation tasks is inspired by the traditional k-means clustering algorithm
 
 ### Unsupervised or self-supervised
 - #PAPER [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (Hamilton 2022)](https://arxiv.org/pdf/2203.08414)            
