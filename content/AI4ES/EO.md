@@ -23,6 +23,9 @@ title: "EO"
 - #COURSE [Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
 - #COURSE [ESA ML lectures 2018](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
 
+## Data and benchmark datasets
+See [[AI4ES/AI4ES data#EO and Satellite data]]
+
 ## Code
 - #CODE [TorchGeo (Microsoft)](https://github.com/microsoft/torchgeo)
 	- https://torchgeo.readthedocs.io/
@@ -102,12 +105,12 @@ Review papers:
 
 
 ### Object detection/recognition
-- #PAPER [Object Detection in Optical Remote Sensing Images: A Survey and A New Benchmark (Li 2019)](https://arxiv.org/abs/1909.00133) ^dior
+- #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
 - #PAPER [Object Detection in Remote Sensing Images Based on Improved Bounding Box Regression and Multi-Level Features Fusion (Qian 2020)](https://www.mdpi.com/2072-4292/12/1/143/htm)
 - #PAPER [An Enriched Automated PV Registry: Combining Image Recognition and 3D Building Data (Rausch 2020)](https://www.climatechange.ai/papers/neurips2020/46/paper.pdf)
 	- #CODE https://github.com/kdmayer/PV4GER
 	- computer vision-based pipeline leveraging aerial imagery with a spatial resolution of 10 cm/pixel and 3D building data to automatically create address-level PV registries for all counties within Germany's most populous state North Rhine-Westphalia
-- #PAPER [FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery (Sun 2021)](https://arxiv.org/abs/2103.05569) ^fair1m
+- #PAPER FAIR1M (see [[AI4ES/AI4ES data#EO and Satellite data]])
 
 
 ### Semantic segmentation
@@ -155,8 +158,7 @@ Review papers:
 - #PAPER [Urban big data fusion based on deep learning: An overview (Liu 2020)](https://www.sciencedirect.com/science/article/pii/S1566253519301393)
 
 
-### Data and benchmark datasets
-See [[AI4ES/AI4ES data#EO and Satellite data]]
+
 
 
 

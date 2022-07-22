@@ -168,16 +168,24 @@ title: "AI4ES data"
 - [AIREO – AI ready EO training datasets](https://eo4society.esa.int/projects/aireo/)
 - [Kelvins - ESA's Advanced Concepts Competition Website. Data challenges](https://kelvins.esa.int/  )
 - [AVIRIS-NG aerial hyperspectral remote sensing data](https://avirisng.jpl.nasa.gov/dataportal/)
-	- The AVRIS-NG data portal includes an unparalleled publicly available **dataset of hyperspectral remote sensing aerial surveys** on multiple continents, including detected large point-source methane emissions (for many campaigns, plus some point-source CO2 emissions)
+	- The AVRIS-NG data portal includes an unparalleled publicly available dataset of hyperspectral remote sensing aerial surveys on multiple continents, including detected large point-source methane emissions (for many campaigns, plus some point-source CO2 emissions)
 
 - #CODE [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (Helber 2019)](https://arxiv.org/abs/1709.00029)
 	- https://github.com/phelber/eurosat
-- #PAPER DIOR (see [[AI4ES/EO]])
+- #PAPER [Object Detection in Optical Remote Sensing Images: A Survey and A New Benchmark (Li 2019)](https://arxiv.org/abs/1909.00133) 
 - #PAPER [DOTA: A Large-scale Dataset for Object Detection in Aerial Images (Xia 2019)](https://arxiv.org/abs/1711.10398)
 - #PAPER [EarthNet2021: A novel large-scale dataset and challenge for forecasting localized climate impacts (Requena-Mesa 2020)](https://arxiv.org/abs/2012.06246v1)
-	- https://paperswithcode.com/dataset/earthnet2021?from=n10
-- #PAPER FAIR1M (see [[AI4ES/EO]])
+	- https://www.earthnet.tech/docs/ds-download/
+- #PAPER [FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery (Sun 2021)](https://arxiv.org/abs/2103.05569) 
 - #PAPER [SpaceML: Distributed Open-source Research with Citizen Scientists for the Advancement of Space Technology for NASA (Koul 2021)](https://arxiv.org/abs/2012.10610)
+- #PAPER [Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With  Application to Super-Resolution (Cornebise 2022)](https://arxiv.org/pdf/2207.06418v1)
+	- https://github.com/worldstrat/worldstrat
+	- Nearly 10,000 km² of free high-resolution satellite imagery of unique locations which ensure stratified representation of all types of land-use across the world: from agriculture to ice caps, from forests to multiple urbanization densities
+	- Each high-resolution image (1.5 m/pixel) comes with multiple temporally-matched low-resolution images from the freely accessible lower-resolution Sentinel-2 satellites (10 m/pixel)
+	- See [[AI/Computer Vision/Super-resolution]]
+- #CODE [Current Trends in Deep Learning for Earth Observation: An Open-source  Benchmark Arena for Image Classification (Dimitrovski 2022)](https://arxiv.org/pdf/2207.07189)
+	- AiTLAS: Benchmark Arena -- an open-source benchmark framework for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
+	- https://github.com/biasvariancelabs/aitlas-arena
 
 ### LULC
 - [Dynamic World](https://github.com/google/dynamicworld)
@@ -198,7 +206,7 @@ title: "AI4ES data"
 - POLinSAR - SAR polarimetry and polarimetric interferometry
 	- https://www.esa.int/Applications/Observing_the_Earth/POLinSAR_Advances_in_radar_remote_sensing
 
-## Other data
+## Other datasets
 - [Population gridded data](https://www.pbl.nl/en/image/links/hyde)
 - [Word pop](https://www.worldpop.org/)
 - [GHS-pop](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop)
