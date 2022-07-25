@@ -48,6 +48,9 @@ title: "Forecasting"
 	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
 	
 
+## Talks
+- #TALK [Feature Engineering for Time Series Forecasting | PyData London 2022](https://www.youtube.com/watch?v=9QtL7m3YS9I)
+
 ## Books
 - #BOOK [Forescasting: principles and practice (Hyndman 2018, R)](https://otexts.com/fpp2/)
 
