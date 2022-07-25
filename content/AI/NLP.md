@@ -184,6 +184,7 @@ Word embedding is the modern way of representing words as vectors. The aim of wo
 
 
 ### Deep learning approaches
+- [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com/)
 - https://github.com/brianspiering/awesome-dl4nlp
 - [Deep Learning in NLP](https://veredshwartz.blogspot.com/2018/08/deep-learning-in-nlp.html#)

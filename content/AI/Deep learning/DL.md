@@ -166,7 +166,7 @@ State of ML frameworks:
 	- PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
 	- #PAPER [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)
 - #CODE [Deep cognition](https://deepcognition.ai/)
-- #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) ^b0caab
+- #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) 
 	- GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process 
 	- https://gt4sd.github.io/gt4sd-core/
 	- https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery
@@ -356,12 +356,12 @@ See [[AI/Deep learning/Explainability methods for NNs]]
 
 ### Deep learning for multi-dimensional data
 See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
-
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 
 ### Deep learning for tabular data
 - [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 - [Applying Deep Learning on Tabular Data Using TensorFlow 2.0](https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20)
+- [A short chronology of deep learning for tabular data (Sebastian Rschka)](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
 - #CODE See Pytorch tabular in [[AI/DS and DataEng/Pytorch]] 
 - #PAPER [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019)](https://arxiv.org/abs/1909.06312)
 - #PAPER [TabNet: Attentive Interpretable Tabular Learning (Arik 2020)](https://arxiv.org/abs/1908.07442)
@@ -378,7 +378,7 @@ See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning
 
 ### Deep learning for scientific discovery
 See [[AI/Deep learning/Neural ODEs]]
-#CODE See GT4SD library in Code section [[#^b0caab]]
+- #CODE See GT4SD library in Code section
 - #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
 - #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
 	- #CODE https://github.com/lululxvi/deepxde
