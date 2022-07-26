@@ -248,6 +248,7 @@ State of ML frameworks:
 - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 - https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
 - #PAPER [A survey on Image Data Augmentation for Deep Learning (Shorten 2019)](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)
+- #PAPER [AutoAugment: Learning Augmentation Policies from Data (Cubuk 2019)](https://arxiv.org/pdf/1805.09501)
 
 #### Dropout
 - http://www.cs.toronto.edu/~hinton/absps/dropout.pdf
@@ -261,6 +262,9 @@ State of ML frameworks:
 	- http://mipal.snu.ac.kr/images/1/16/Dropout_ACCV2016.pdf
 - #PAPER [Effective and Efficient Dropout for Deep Convolutional Neural Networks (Cai 2020)](https://arxiv.org/abs/1904.03392)
 
+### Stochastic depth
+- #PAPER [Deep Networks with Stochastic Depth (Huang 2016)](https://arxiv.org/pdf/1603.09382)
+	- Stochastic depth is a regularization technique that randomly drops a set of layers. During inference, the layers are kept as they are. It is very much similar to Dropout but only that it operates on a block of layers rather than individual nodes present inside a layer
 
 #### Normalization
 - Normalization techniques also improve generalization error, providing some regularization

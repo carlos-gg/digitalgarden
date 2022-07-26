@@ -46,8 +46,8 @@ See code in [[AI/Forecasting]]
 - #CODE [Tslearn - A machine learning toolkit dedicated to time-series data](https://github.com/rtavenar/tslearn)
 - #CODE [Pmdarima](https://github.com/alkaline-ml/pmdarima)
 	- Pyramid bridges one more gap between R and Python by bringing R's auto.arima to Python. Pyramid wraps statsmodels' well-tested ARIMA and SARIMAX estimators.
- - #CODE [Tick](https://github.com/X-DataInitiative/tick)
-
+- #CODE [Tick](https://github.com/X-DataInitiative/tick)
+- #CODE [Feature engine](https://feature-engine.readthedocs.io/en/1.3.x/user_guide/timeseries/index.html)
 
 ## Subtopics
 ### Time Series Forecasting
