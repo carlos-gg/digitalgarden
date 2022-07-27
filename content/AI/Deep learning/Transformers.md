@@ -168,6 +168,9 @@ title: "Transformers"
 	- DPT is a dense prediction architecture that is based on an encoder-decoder design that leverages a transformer as the basic computational building block of the encoder
 	- used the recently proposed VIT as a backbone architecture reassembling the bag-of-words representation that is provided by ViT into image-like feature representations at various resolutions and progressively combine the feature representations into the final dense prediction using a convolutional decoder
 	- it has a global receptive field at every stage
+- #PAPER [HRFormer: High-Resolution Vision Transformer for Dense Predict (Yuan 2021)](https://proceedings.neurips.cc/paper/2021/hash/3bbfdde8842a5c44a0323518eec97cbe-Abstract.html)
+	- #CODE https://github.com/HRNet/HRFormer
+- #PAPER [ITTR: Unpaired Image-to-Image Translation with Transformers (Zheng 2022)](https://arxiv.org/pdf/2203.16015)
 
 ### Self-supervised vision transformers
 - #PAPER [SiT: Self-supervised vIsion Transformer (Atito 2021)](https://arxiv.org/abs/2104.03602)
@@ -180,8 +183,6 @@ title: "Transformers"
 - #PAPER [CeiT - Incorporating Convolution Designs into Visual Transformers (Yan 2021)](https://arxiv.org/abs/2103.11816v1)
 	- #CODE https://paperswithcode.com/paper/incorporating-convolution-designs-into-visual
 	- CeiT combines the advantages of CNNs in extracting low-level features, strengthening locality, and the advantages of Transformers in establishing long-range dependencies
-- #PAPER [CvT: Introducing Convolutions to Vision Transformers (Wu 2021)](https://arxiv.org/abs/2103.16302v1)
-	- #CODE https://paperswithcode.com/paper/cvt-introducing-convolutions-to-vision
 - #PAPER [Escaping the Big Data Paradigm with Compact Transformers (Hassani 2021)](https://arxiv.org/abs/2104.05704) ^cctransformer
 	- Compact Convolutional Transformer (CCT)
 	- #CODE https://github.com/SHI-Labs/Compact-Transformers
@@ -189,11 +190,14 @@ title: "Transformers"
 	- ViTs (or a typical Transformer-based architecture) do not have well-informed inductive biases (such as convolutions for processing images)
 	- Attempt to combine the benefits of convolution and the benefits of Transformers in a single network architecture
 	- These benefits include parameter-efficiency, and self-attention to process long-range and global dependencies (interactions between different regions in an image)
+	- Patching (VIT-like) and embedding is already a convolution in itself, albeit non-overlapping. This is replaced with overlapping (regular) convolutions
+	- Better performance on CIFAR-10 than VIT, so it's efficient on smaller datasets, comparable with SOTA CNNs
+	- #TALK [Escaping the Big Data Paradigm with Compact Transformers (Humphrey Shi)](https://www.youtube.com/watch?v=AEWhf_hMBgs)
 - #PAPER [CvT: Introducing Convolutions to Vision Transformers (Wu 2021)](https://arxiv.org/abs/2103.15808)
 	- #CODE https://github.com/leoxiaobin/CvT
 	- Convolutional vision Transformers (CvT) improves ViT in performance and efficienty by introducing convolutions into ViT to yield the best of both disignes
 	- This is accomplished through two primary modifications: a hierarchy of Transformers containing a new convolutional token embedding, and a convolutional Transformer block leveraging a convolutional projection
-	- These changes introduce desirable properties of convolutional neural networks (CNNs) to the ViT architecture (e.g. shift, scale, and distortion invariance) while maintaining the merits of Transformers (e.g. dynamic attention, global context, and better generalization)
+	- These changes introduce desirable properties of CNNs to the ViT architecture (e.g. shift, scale, and distortion invariance) while maintaining the merits of Transformers (e.g. dynamic attention, global context, and better generalization)
 - #PAPER [Combining EfficientNet and Vision Transformers for Video Deepfake Detection (Coccomini 2021)](https://arxiv.org/abs/2107.02612)
 	- [Vision Transformers or Convolutional Neural Networks? Both!](https://towardsdatascience.com/vision-transformers-or-convolutional-neural-networks-both-de1a2c3c62e4)
 - #PAPER [Early Convolutions Help Transformers See Better (Xiao 2021)](https://arxiv.org/abs/2106.14881)

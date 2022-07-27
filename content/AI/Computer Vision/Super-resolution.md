@@ -152,12 +152,16 @@ title: "Super-resolution"
 
 
 ### Transformer-based
+See [[AI/Deep learning/Transformers]]
 - #PAPER [Learning Texture Transformer Network for Image Super-Resolution (Yang 2020)](https://arxiv.org/abs/2006.04139) ^ttsr
 	- #CODE https://github.com/researchmm/TTSR
 	- Texture Transformer Network for Image Super-Resolution (TTSR)
 	- LR and Ref images are formulated as queries and keys in a transformer, respectively
 	- The proposed texture transformer consists of a learnable texture extractor which learns a jointly feature embedding for further attention computation and two attention based modules which transfer HR textures from the Ref image. 
 	- Furthermore, the proposed texture transformer can be stacked in a cross-scale way with the proposed CSFI module to learn a more powerful feature representation
+- #PAPER [Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image  Super-resolution (Hu 2021)](https://arxiv.org/pdf/2109.02079)
+- #PAPER [Transformer for Single Image Super-Resolution (Lu 2022)](https://arxiv.org/pdf/2108.11084)
+	- #CODE https://github.com/luissen/ESRT
 
 
 ### Diffusion models-based
