@@ -17,6 +17,7 @@ title: "Semantic segmentation"
 	- DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - #CODE [Segmentation models with pretrained backbones (PyTorch)](https://github.com/qubvel/segmentation_models)
 - #CODE https://github.com/qubvel/segmentation_models
+	- Python library with Neural Networks for Image Segmentation based on Keras and TensorFlow
 - #CODE https://www.tensorflow.org/tutorials/images/segmentation
 - #CODE https://github.com/yassouali/pytorch-segmentation
 

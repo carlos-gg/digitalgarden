@@ -54,6 +54,7 @@ title: "Natural Language Processing (NLP)"
 ## Models
 - [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
 	- https://www.nature.com/articles/d41586-022-01705-z
+- [YaLM-100B](https://github.com/yandex/YaLM-100B)
 
 ## Code
 - #CODE [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
