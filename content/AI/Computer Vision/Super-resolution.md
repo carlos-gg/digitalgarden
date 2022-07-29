@@ -153,7 +153,7 @@ title: "Super-resolution"
 
 ### Transformer-based
 See [[AI/Deep learning/Transformers]]
-- #PAPER [Learning Texture Transformer Network for Image Super-Resolution (Yang 2020)](https://arxiv.org/abs/2006.04139) ^ttsr
+- #PAPER [Learning Texture Transformer Network for Image Super-Resolution (Yang 2020)](https://arxiv.org/abs/2006.04139) 
 	- #CODE https://github.com/researchmm/TTSR
 	- Texture Transformer Network for Image Super-Resolution (TTSR)
 	- LR and Ref images are formulated as queries and keys in a transformer, respectively

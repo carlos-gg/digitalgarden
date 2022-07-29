@@ -123,12 +123,6 @@ title: "Transformers"
 	-  first pilot study in building a GAN completely free of convolutions, using only pure transformer-based architectures
 - #PAPER [Gansformer - Generative Adversarial Transformers (Hudson 2021)](https://arxiv.org/abs/2103.01209v2)
 	- #CODE https://paperswithcode.com/paper/generative-adversarial-transformers
-- #PAPER [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation (Chen 2021)](https://arxiv.org/abs/2102.04306v1)
-	- #CODE https://paperswithcode.com/paper/transunet-transformers-make-strong-encoders
-	- due to the intrinsic locality of convolution operations, U-Net generally demonstrates limitations in explicitly modeling long-range dependency
-	- TransUNet merits both Transformers and U-Net, as a strong alternative for medical image segmentation
-	- transformer encodes tokenized image patches from a convolution neural network (CNN) feature map as the input sequence for extracting global contexts
-	- on the other hand, the decoder upsamples the encoded features which are then combined with the high-resolution CNN feature maps to enable precise localization
 - #PAPER [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Liu 2021)](https://arxiv.org/abs/2103.14030)
 	- #CODE https://github.com/microsoft/Swin-Transformer
 	- #CODE https://github.com/rishigami/Swin-Transformer-TF
@@ -183,6 +177,13 @@ title: "Transformers"
 - #PAPER [CeiT - Incorporating Convolution Designs into Visual Transformers (Yan 2021)](https://arxiv.org/abs/2103.11816v1)
 	- #CODE https://paperswithcode.com/paper/incorporating-convolution-designs-into-visual
 	- CeiT combines the advantages of CNNs in extracting low-level features, strengthening locality, and the advantages of Transformers in establishing long-range dependencies
+- #PAPER [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation (Chen 2021)](https://arxiv.org/abs/2102.04306v1)
+	- #CODE https://paperswithcode.com/paper/transunet-transformers-make-strong-encoders
+	- due to the intrinsic locality of convolution operations, U-Net generally demonstrates limitations in explicitly modeling long-range dependency
+	- TransUNet merits both Transformers and U-Net, as a strong alternative for medical image segmentation
+	- transformer encodes tokenized image patches from a convolution neural network (CNN) feature map as the input sequence for extracting global contexts
+	- on the other hand, the decoder upsamples the encoded features which are then combined with the high-resolution CNN feature maps to enable precise localization
+	- #TALK [Paper explained](https://www.youtube.com/watch?v=jKBJITQ8xJY)
 - #PAPER [Escaping the Big Data Paradigm with Compact Transformers (Hassani 2021)](https://arxiv.org/abs/2104.05704) ^cctransformer
 	- Compact Convolutional Transformer (CCT)
 	- #CODE https://github.com/SHI-Labs/Compact-Transformers
