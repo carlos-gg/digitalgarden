@@ -212,6 +212,8 @@ See [[AI4ES/Pangeo]]
 
 ### 2022
 - [ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction](https://events.ecmwf.int/event/304/)
+- [4th NOAA Workshop on Leveraging Artificial Intelligence in Environmental Sciences](https://www.noaa.gov/ai/events/4th-noaa-ai-workshop)
+- [Advancing Technology for a Sustainable Planet](https://hai.stanford.edu/agenda-value-equitable-flourishing-planet)
 - [Weather and Climate Extremes and their Predictability](http://www.cafes2se-itn.eu/weather-and-climate-extremes-and-their-predictability-cafe-final-conference)
 - [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences/cm/conference/is22). March 22 - 25, 2022
 - [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/)

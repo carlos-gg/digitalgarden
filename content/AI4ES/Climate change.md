@@ -84,6 +84,7 @@ title: "Climate change"
 	- https://www.theguardian.com/environment/2021/jul/26/record-shattering-heat-becoming-much-more-likely-says-climate-study
 - #PAPER [The geographic disparity of historical greenhouse emissions and projected climate change (Van Houtan 2021)](https://advances.sciencemag.org/content/7/29/eabe4342.full)
 - #PAPER [Using Machine Learning to Analyze Physical Causes of Climate Change: A Case Study of U.S. Midwest Extreme Precipitation (Davenport 2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093787)
+- #PAPER [Aligning artificial intelligence with climate change mitigation (Kaack 2022)](https://www.nature.com/articles/s41558-022-01377-7.epdf?sharing_token=VNkvWalL1KVrxYte7VHfTtRgN0jAjWel9jnR3ZoTv0PFrrDwT9y68ah6oNg1ZvjBfcIb3Kbp_v5VihLBWDydbfc5jhcVPwJLve592DM4ofdyb9-AdB37nZsc6NVbVb-fttOlElGgXuHDhQRUp82Rwc9buEoGydxnCgU609qUgUY%3D)
 
 ### AI carbon footprint
 - #PAPER [Measuring the Carbon Intensity of AI in Cloud Instances (Dodge 2022)](https://arxiv.org/pdf/2206.05229)

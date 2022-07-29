@@ -131,6 +131,7 @@ title: "AI4ES data"
 - #PAPER [What global reanalysis best represents near-surface winds? (Ramon 2019)](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3616)
 	- In an effort to identify the products that best represent the wind speed features at turbine hub heights, five state-of-the-art global reanalyses have been analysed: ERA5,ERA-Interim, the Japanese 55-year Reanalysis (JRA55), the Modern Era Retrospective Analysis for Research and Applications-2 (MERRA2), and the National Centersfor Environmental Prediction (NCEP)/National Center for Atmospheric Research(NCAR) Reanalysis 1 (R1)
 	- Comparison with in situ observations shows that the ERA5 surface winds offer the best agreement, correlating and reproducing the observed variability better than a multi-reanalysis mean in 35.1% of the tall tower sites on a daily time-scale.
+- #PAPER [A collection and categorization of open-source wind and wind power datasets (Effenberger 2022)](https://onlinelibrary.wiley.com/doi/10.1002/we.2766)
 
 ### Fires
 - [MODIS Thermal Anomalies/Fire](https://modis.gsfc.nasa.gov/data/dataprod/mod14.php)
