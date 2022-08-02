@@ -36,6 +36,8 @@ title: "AI4ES data"
 	- WeatherBench Probability extends WeatherBench to probabilistic forecasting by adding a set of established probabilistic verification metrics (continuous ranked probability score, spread-skill ratio and rank histograms) and a state-of-the-art operational baseline using the ECWMF IFS ensemble forecast
 
 ### Projections
+- [CMIP6](https://pcmdi.llnl.gov/CMIP6/)
+	- Coupled Model Intercomparison Project Phase 6
 - [CIL Global Downscaled Projections for Climate Impacts Research](https://planetarycomputer.microsoft.com/dataset/group/cil-gdpcir)
 	- The Global Downscaled Projections for Climate Impacts Research dataset makes this modeling more applicable to understanding the impacts of changes in the climate on humans and society with two key developments: trend-preserving bias correction and downscaling. In this dataset, the Climate Impact Lab provides global, daily minimum and maximum air temperature at the surface (tasmin and tasmax) and daily cumulative surface precipitation (pr) corresponding to the CMIP6 historical, ssp1-2.6, ssp2-4.5, ssp3-7.0, and ssp5-8.5 scenarios for 25 global climate models on a 1/4-degree regular global grid.
 
@@ -65,6 +67,8 @@ title: "AI4ES data"
 	- The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km
 	- ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions
 	- ERA5 combines vast amounts of historical observations into global estimates using advanced modelling and data assimilation systems
+- [gridMET](https://www.climatologylab.org/gridmet.html)
+	- gridMET is a dataset of daily high-spatial resolution (~4-km, 1/24th degree) surface meteorological data covering the contiguous US from 1979-yesterday
 
 #### Precipitation
 - [Precipitation datasets comparison](https://climatedataguide.ucar.edu/climate-data/precipitation-data-sets-overview-comparison-table)
