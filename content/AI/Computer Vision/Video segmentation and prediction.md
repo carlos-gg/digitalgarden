@@ -61,3 +61,6 @@ title: "Video segmentation and prediction"
 	- #TALK https://www.youtube.com/watch?v=tSBWZ6nYld0
 - #PAPER [Mask2Former for Video Instance Segmentation (Cheng 2021)](https://arxiv.org/abs/2112.10764v1)
 	- #CODE https://github.com/facebookresearch/Mask2Former
+- #PAPER [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin  Memory Model (Cheng 2022)](https://arxiv.org/pdf/2207.07115v2)
+	- #CODE https://github.com/hkchengrex/XMem
+	- https://hkchengrex.github.io/XMem/

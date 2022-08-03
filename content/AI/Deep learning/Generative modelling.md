@@ -60,4 +60,6 @@ See [[AI/Computer Vision/Image-to-image translation]], "GAN-based" section in [[
 - #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)
 - #PAPER [Autoregressive Image Generation using Residual Quantization (Lee 2022)](https://arxiv.org/pdf/2203.01941v2)            
 	- #CODE https://github.com/kakaobrain/rq-vae-transformer
-
+- #PAPER [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis (Wu 2022)](https://arxiv.org/pdf/2207.09814)
+	- #CODE https://github.com/microsoft/NUWA
+	- https://nuwa-infinity.microsoft.com/#/

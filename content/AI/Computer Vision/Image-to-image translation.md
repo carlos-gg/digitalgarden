@@ -36,6 +36,8 @@ See "GANs for representation learning and image synthesis" section in [[AI/Deep 
 			- Cyclic consistency (CycleGAN, DiscoGAN, DualGAN, QGAN, XGAN)
 			- Autoencoder-based (UNIT, BranchGAN)
 			- Disentangler representation (MUNIT, DIRT, DosGAN)
+- #PAPER [DCT-Net: Domain-Calibrated Translation for Portrait Stylization (Men 2022)](https://arxiv.org/pdf/2207.02426v1)
+	- #CODE https://github.com/menyifang/DCT-Net
 
 #### Paired (supervised) translation 
 - #PAPER [Image-to-Image Translation with Conditional Adversarial Networks, pix2pix (Isola 2016)](https://arxiv.org/abs/1611.07004) ^pix2pix
