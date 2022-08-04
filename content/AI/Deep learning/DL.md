@@ -347,6 +347,9 @@ State of ML frameworks:
 - #PAPER [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (Menghani 2021)](https://arxiv.org/abs/2106.08962)
 	- https://analyticsindiamag.com/how-to-build-smaller-faster-better-deep-learning-models/
 
+### Scaling and distributed DL
+See [[AI/DS and DataEng/Distributed DL]]
+
 ### Attention
 See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual attention" section in [[/AI/Deep learning/CNNs]]
 

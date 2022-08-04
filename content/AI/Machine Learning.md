@@ -73,6 +73,9 @@ See [[AI/DS and DataEng/Open ML data]]
 	- #CODE [scikit-plot](http://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
 	- #CODE [Lightning](http://contrib.scikit-learn.org/lightning/)
 		- Large-scale linear classification, [[AI/Supervised Learning/Regression]] and ranking ([[AI/Learning to rank]]] in Python
+	- #CODE [MAPIE](https://github.com/scikit-learn-contrib/mapie)
+		- #PAPER [MAPIE: an open-source library for distribution-free uncertainty quantification](https://arxiv.org/pdf/2207.12274v1)
+		- A scikit-learn-compatible module for estimating prediction intervals for single-output regression or multi-class classification settings
 - #CODE [mlinsights](https://github.com/sdpython/mlinsights/)
 	- http://www.xavierdupre.fr/app/mlinsights/helpsphinx/notebooks/piecewise_linear_regression.html
 - #CODE [PyCaret](https://github.com/pycaret/pycaret)
