@@ -34,6 +34,12 @@ title: "Convolutional Neural Networks (CNNs)"
 - https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/
 	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
 
+### Human pose estimation and activity recognition
+- https://en.wikipedia.org/wiki/Activity_recognition
+- https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
+- https://github.com/cbsudux/awesome-human-pose-estimation
+- https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+
 
 ## Code 
 - #CODE [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets)
@@ -90,9 +96,11 @@ title: "Convolutional Neural Networks (CNNs)"
 	* These results show that hybrid models are promising and that different components can still be optimized further and composed more effectively to improve the overall model on a wide range of vision tasks.
 - #PAPER [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs (Ding 2022)](https://arxiv.org/pdf/2203.06717v3)            
 	- #CODE https://paperswithcode.com/paper/scaling-up-your-kernels-to-31x31-revisiting
+- #PAPER [More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using  Sparsity (Liu 2022)](https://arxiv.org/pdf/2207.03620v1)
+	- #CODE https://github.com/vita-group/slak
+	- explore the possibility of training extreme convolutions larger than 31×31 and test whether the performance gap can be eliminated by strategically enlarging convolutions
+	- propose Sparse Large Kernel Network (SLaK), a pure CNN architecture equipped with 51×51 kernels that can perform on par with or better than state-of-the-art hierarchical Transformers and modern ConvNet architectures like ConvNeXt and RepLKNet, on ImageNet classification as well as typical downstream tasks
 
-
-## Subtopics and applications
 ### Sequence (time series) modelling
 - #PAPER [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (Bai 2018)](https://arxiv.org/abs/1803.01271)
   - Temporal convolutional networks (TCN)
@@ -105,7 +113,6 @@ title: "Convolutional Neural Networks (CNNs)"
 - #PAPER [InceptionTime: Finding AlexNet for time series classification (Fawaz 2021)](https://link.springer.com/article/10.1007/s10618-020-00710-y)
 	- #CODE https://github.com/hfawaz/InceptionTime
 	- https://arxiv.org/abs/1909.04939
-
 
 ### Object classification, image recognition
 See [[AI/Computer Vision/Object classification, image recognition]]
@@ -138,30 +145,19 @@ See "CNN-based" section in [[AI/Computer Vision/Background subtraction]]
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
 - #PAPER [DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
 
-
 ### Human pose estimation and activity recognition
-- https://en.wikipedia.org/wiki/Activity_recognition
-- https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
-- https://github.com/cbsudux/awesome-human-pose-estimation
-- https://github.com/topics/human-pose-estimation
-- https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
-
 - #PAPER [Human activity recognition with smartphone sensors using deep learning neural networks (Ann Ronao 2016)](https://www.sciencedirect.com/science/article/abs/pii/S0957417416302056)
 - #PAPER [Convolutional pose machines (Wei 2016)](https://arxiv.org/abs/1602.00134)
 - #PAPER [Fast Human Pose Estimation (Zhang 2019)](https://arxiv.org/abs/1811.05419)
 
-
 ### Motion detection, tracking
 - #PAPER [FlowNet: Learning Optical Flow with Convolutional Networks (Fischer 2015)](https://arxiv.org/abs/1504.06852)
-
 
 ### Deconvolution
 - #PAPER [Deep Convolutional Neural Network for Image Deconvolution (Xu 2014)](http://lxu.me/projects/dcnn/)
 
-
 ### Visual/Channel attention and Saliency
 See "Neural Networks explainability" section in [[AI/XAI]]
-
  - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
 	- Features can incorporate global context
 	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
