@@ -90,13 +90,13 @@ See [[AI/Supervised Learning/Ensemble learning]] and [[AI/Supervised Learning/Cl
 
 
 ## Code
-- #CODE Annoy (Spotify). 
+- #CODE [Annoy](https://github.com/spotify/annoy) (Spotify)
 	- Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-	- https://github.com/spotify/annoy
-- #CODE FALCONN - FAst Lookups of Cosine and Other Nearest Neighbors
-	- https://github.com/FALCONN-LIB/FALCONN
+- #CODE [FALCONN](https://github.com/FALCONN-LIB/FALCONN) - FAst Lookups of Cosine and Other Nearest Neighbors
 	- Locality-Sensitive Hashing (LSH), nearest neighbor search in high-dimensional spaces
 - #CODE [NMSLIB](https://github.com/nmslib/nmslib)
 	- Non-Metric Space Library. Efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. The core-library does not have any third-party dependencies
 - #CODE [FAISS (Facebook)](https://github.com/facebookresearch/faiss)
 	- Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research.
+
+
