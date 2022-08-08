@@ -64,3 +64,9 @@ Review papers:
 	- #CODE https://github.com/google-research/parti
 	- https://parti.research.google/
 	- Pathways Autoregressive Text-to-Image model (Parti), an autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge
+- #PAPER [CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers (Ding 2022)](https://arxiv.org/pdf/2204.14217)
+	- #CODE https://github.com/THUDM/CogView2
+- #PAPER [Imagen - Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Saharia 2022)](https://arxiv.org/pdf/2205.11487v1)            
+	- https://imagen.research.google/
+	- Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation
+	- #CODE https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models

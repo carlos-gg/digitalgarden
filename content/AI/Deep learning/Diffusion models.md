@@ -18,7 +18,4 @@ title: "Diffusion models"
 	- #CODE https://github.com/openai/guided-diffusion
 	- Diffusion models are a class of likelihood-based models that have shown to produce high-quality images with desired properties such as distribution coverage and easy scalability. These models generate samples by gradually removing noise from a signal. Previous research has shown that they improve reliably with increased compute. The proposed method brings improvements to diffusions models that have worked for GANs, such as improved model architecture and a scheme to trade off diversity for quality. The proposed diffusion model achieves several state-of-the-art results, surpassing GANs on several metrics and datasets
 	- [Paper explained](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
-- #PAPER [Imagen - Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Saharia 2022)](https://arxiv.org/pdf/2205.11487v1)            
-	- https://imagen.research.google/
-	- Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation
-	- #CODE https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models
+- See Imagen in [[AI/Deep learning/Multimodal learning]]
