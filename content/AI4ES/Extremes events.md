@@ -11,9 +11,12 @@ title: "Extremes events"
 - [CLIMATE EXTREMES (Coumou)](https://climateextremes.eu/)
 - [EO-ALERT (2018-2021) - Next generation satellite processing chain for rapid civil alerts](http://eo-alert-h2020.eu/)
 	- [AI for Earth observation and numerical weather prediction](http://eo-alert-h2020.eu/2019/04/22/ai-for-earth-observation-and-numerical-weather-prediction/)
-- [Barometric Pressure & Hurricanes](https://sciencing.com/barometric-pressure-hurricanes-22734.html)
 - [National Meteorological Library and Archive Fact sheet 3 — Water in the atmosphere](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_3-water-in-the-atmosphere.pdf)
 - https://www.deeprain-project.de/en/publications-2/
+
+### Hurricanes
+- [Hurricanes Database](https://products.climate.ncsu.edu/weather/hurricanes/database/?search=year&yr=2017)
+- [Barometric Pressure & Hurricanes](https://sciencing.com/barometric-pressure-hurricanes-22734.html)
 
 ### Wildfires
 - [EOS - Forest Fire Monitoring](https://eos.com/industries/forestry/forest-fires-identification/) 
@@ -138,10 +141,10 @@ See [[AI/Supervised Learning/Supervised learning]]
 - #PAPER [High Resolution Forecasting of Heat Waves impacts on Leaf Area Index by Multiscale Multitemporal Deep Learning (Gobbi 2019)](http://arxiv.org/abs/1909.07786v1)
 - #PAPER [Make Thunderbolts Less Frightening -- Predicting Extreme Weather Using Deep Learning (Schon 2019)](https://arxiv.org/abs/1912.01277v2)
 - #TALK [Probabilistic Detection of Extreme Weather Using Deep Learning Methods (Mahesh 2019)](https://ams.confex.com/ams/2019Annual/webprogram/Paper354370.html)
-	-  Atmospheric rivers (ARs) are a particularly challenging class of extreme weather event, since there is no single community-accepted AR identification algorithm
-	-  To represent the uncertainty expressed by contemporary, state-of-the-science AR tracking methods, we create probabilistic AR detection fields from 14 algorithms submitted to the Atmospheric River Tracking Method Intercomparison Project (ARTMIP). Each algorithm identifies grid cells associated with ARs in over 30 years of 3-hourly data from the MERRA reanalysis
-	-  Estimated each grid cell’s probability of AR detection as the proportion of ARTMIP algorithms that identify an AR in that grid cell 
-	-  [[AI/Deep learning/CNNs]] segmentation model used to generate probabilistic AR identifications that are quite close to the ARTMIP mean, with an average RMSE of 0.03
+	- Atmospheric rivers (ARs) are a particularly challenging class of extreme weather event, since there is no single community-accepted AR identification algorithm
+	- To represent the uncertainty expressed by contemporary, state-of-the-science AR tracking methods, we create probabilistic AR detection fields from 14 algorithms submitted to the Atmospheric River Tracking Method Intercomparison Project (ARTMIP). Each algorithm identifies grid cells associated with ARs in over 30 years of 3-hourly data from the MERRA reanalysis
+	- Estimated each grid cell’s probability of AR detection as the proportion of ARTMIP algorithms that identify an AR in that grid cell 
+	- [[AI/Deep learning/CNNs]] segmentation model used to generate probabilistic AR identifications that are quite close to the ARTMIP mean, with an average RMSE of 0.03
 - #PAPER [DeepRI: End-to-end Prediction of Tropical Cyclone Rapid Intensification from Climate Data (Jing 2019)](https://www.semanticscholar.org/paper/DeepRI%3A-End-to-end-Prediction-of-Tropical-Cyclone-Jing/985bf8e2cb37ddfab7a912f596156018bc737e7c)
 	- NeurIPS 2019
 	- TC track forecasting has improved significantly in the past decades, intensity forecasting still shows large forecast error, largely due to the challenge in predicting TC rapid intensification
@@ -179,17 +182,15 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- This paper demonstrates a neural network architecture (HydroDeep) that couples a process-based hydro-ecological model with a combination of Deep Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) Network to build a hybrid baseline model
 - #PAPER [Graph Neural Networks for Improved El Niño Forecasting (Ruhling Cachay 2020)](https://arxiv.org/abs/2012.01598)
 
-
 ### Semi-supervised learning approaches
 See [[AI/Semi-supervised learning]]
 - #PAPER [Analog forecasting of extreme-causing weather patterns using deep learning (Chattopadhyay, 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958) ^d42267
-	- LENS data (CESM1 model), [[CapsNets]] and [[CNNs]], extreme temperature events
+	- LENS data (CESM1 model), [[AI/Deep learning/CapsNets]] and [[AI/Deep learning/CNNs]], extreme temperature events
 	- CapsNets are trained on midtropospheric large‐scale circulation patterns (Z500) labeled 0–4 depending on the existence and geographical region of surface temperature extremes over North America several days ahead
 	- Impact‐based autolabeling strategy: Knowing the surface temperature over North America on a given day, the Z500 pattern of several days earlier is labeled as 0 (no extreme onset) or 1, 2, 3, or 4 (the cluster indices of T2m extremes)
 	- The trained networks predict the occurrence/region of cold or heat waves, only using Z500, with accuracies (recalls) of 69–45% (77–48%) or 62–41% (73–47%) 1–5 days ahead
 
-
-### Unsupervised learning and probabilistic approaches
+### Unsupervised learning
 See [[AI/Unsupervised learning/Unsupervised learning]]
 - #PAPER [Spatial clustering of summer temperature maxima from the CNRM-CM5 climate model ensembles & E-OBS over Europe (Bador 2015)](https://www.sciencedirect.com/science/article/pii/S2212094715300013)
 - #PAPER [Multiscale Variability in North American Summer Maximum Temperatures and Modulations from the North Atlantic Simulated by an AGCM (Vigaud 2018)](https://journals.ametsoc.org/jcli/article/31/7/2549/89965/Multiscale-Variability-in-North-American-Summer) ^25cb40
@@ -200,7 +201,11 @@ See [[AI/Unsupervised learning/Unsupervised learning]]
 	- While the results in using TECA show that DL can improve upon it, the accuracy rates reach 97% and thus essentially just reproduce the output of TECA
 	- Though an improvement over automated heuristics, expert-labeled data is still not an objective ground truth
 	- To circumvent these challenges of DL-based approaches, here we take an alternative physics-based unsupervised approach, complementary to DL
+
+### Probabilistic approaches
 - #PAPER [Bayesian Anomaly Detection and Classification (Roberts, 2019)](https://arxiv.org/abs/1902.08627)
+- #PAPER [A probabilistic gridded product for daily precipitation extremes over  the United States (Risser 2019)](https://arxiv.org/pdf/1807.04177)
+- #PAPER [Detection Uncertainty Matters for Understanding Atmospheric Rivers (Obrien 2020)](https://journals.ametsoc.org/view/journals/bams/101/6/BAMS-D-19-0348.1.xml)
 
 ### Active learning approaches
 See [[AI/Active learning]]

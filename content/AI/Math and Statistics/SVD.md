@@ -29,4 +29,6 @@ title: "Singular Value Decomposition (SVD)"
 - #TALK [Randomized Singular Value Decomposition (SVD)](https://www.youtube.com/watch?v=fJ2EyvR85ro)
 
 ## References
+- #PAPER [Singular value decomposition and least squares solutions (Golub & Reinsch 1970)](https://link.springer.com/article/10.1007/BF02163027)
+	- http://people.duke.edu/~hpgavin/SystemID/References/Golub+Reinsch-NM-1970.pdf
 - #PAPER [Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions (Halko 2010)](https://arxiv.org/pdf/0909.4061)            

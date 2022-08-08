@@ -11,6 +11,7 @@ title: "Autoencoders"
 - https://blog.keras.io/building-autoencoders-in-keras.html
 - https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f
 - https://github.com/nanopony/keras-convautoencoder
+- [Meta’s AI Takes an Unsupervised Step Forward](https://spectrum.ieee.org/unsupervised-learning-meta)
 
 ### VAEs
 - Variational autoencoders are generative models. Traditional autoencoders that just do reconstruction don’t have an obvious generative interpretation. There are some cases in between, like denoising autoencoders, where it is possible to construct a Markov chain that uses the autoencoder to sample from the data distribution, but the autoencoder doesn’t give direct explicit access to an estimate of the density or the ability to sample directly.
@@ -55,10 +56,10 @@ title: "Autoencoders"
 	- Masked autoencoder (MAE) is a simple autoencoding approach that reconstructs the original signal given its partial observation
 	- [Paper explained](https://www.youtube.com/watch?v=Dp6iICL2dVI)
 	- See [[AI/Deep learning/Transformers]]
+- #PAPER [Masked Autoencoders As Spatiotemporal Learners (Feichtenhofer 2022)](https://arxiv.org/pdf/2205.09113)
 - #PAPER [Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality (Li 2022)](https://arxiv.org/abs/2205.10063v1)
 	- #CODE https://github.com/implus/um-mae
 - #PAPER [ConvMAE: Masked Convolution Meets Masked Autoencoders (Gao 2022)](https://arxiv.org/pdf/2205.03892v2)            
 	- #CODE https://github.com/Alpha-VL/ConvMAE
 - #PAPER [Masked Autoencoders that Listen (Huang 2022)](https://arxiv.org/pdf/2207.06405v1)
 	- #CODE https://github.com/facebookresearch/AudioMAE
-- #PAPER 

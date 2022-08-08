@@ -70,3 +70,5 @@ Review papers:
 	- https://imagen.research.google/
 	- Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation
 	- #CODE https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models
+- #PAPER [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (Lu 2022)](https://arxiv.org/pdf/2206.08916)
+	- https://unified-io.allenai.org/

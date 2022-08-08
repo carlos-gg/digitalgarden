@@ -40,7 +40,7 @@ See [[SVD]]
 	- https://github.com/JeanKossaifi/tensorly-notebooks/
 	- http://tensorly.org/stable/modules/api.html#module-tensorly.decomposition
 - #CODE [Eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-
+- #CODE https://github.com/rballester/tntorch
 
 ## Books
 - #BOOK [Templates for the Solution of Algebraic Eigenvalue Problems (Bai, Demmel 2000)](https://www.cs.ucdavis.edu/~bai/ET/contents.html)
@@ -48,5 +48,5 @@ See [[SVD]]
 
 
 ## References
-- #PAPER [Singular value decomposition and least squares solutions (Golub & Reinsch 1970)](https://link.springer.com/article/10.1007/BF02163027)
-	- http://people.duke.edu/~hpgavin/SystemID/References/Golub+Reinsch-NM-1970.pdf
+- #PAPER [tntorch: Tensor Network Learning with PyTorch (Usvyatsov 2022)](https://arxiv.org/pdf/2206.11128)
+	- https://www.marktechpost.com/2022/06/30/eth-zurich-ai-researchers-introduce-tntorch-a-pytorch-powered-tensor-learning-python-library-that-supports-multiple-decompositions-under-a-unified-interface/
