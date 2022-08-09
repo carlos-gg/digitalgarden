@@ -15,6 +15,7 @@ title: "Transformers"
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
 	- thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
+	- JAX, PyTorch and TensorFlow
 - #CODE [Xformers](https://github.com/facebookresearch/xformers)
 - #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
 - #CODE [Big vision](https://github.com/google-research/big_vision)

@@ -1,9 +1,10 @@
 ---
 title: "Transfer learning"
-disableToc: false 
 ---
 
 > Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem
+
+> See [[AI/Multi-task learning]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Transfer_learning
@@ -11,6 +12,8 @@ disableToc: false
 - [Domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation)
 	- Domain adaptation is a field associated with machine learning and transfer learning. This scenario arises when we aim at learning from a source data distribution a well performing model on a different (but related) target data distribution
 
+## Courses
+- #COURSE [Transfer Learning | Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw)
 
 ## Code
 - #CODE [pytorch-adapt](https://github.com/KevinMusgrave/pytorch-adapt)

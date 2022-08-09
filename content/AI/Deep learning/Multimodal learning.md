@@ -12,6 +12,10 @@ title: "Multimodal learning, Foundation models"
 ## Code
 - #CODE [Pykale (in pytorch)](https://github.com/pykale/pykale)
 
+## Courses
+- #COURSE [Multimodal Machine Learning (Carnegie Mellon University)](https://www.youtube.com/watch?v=VIq5r7mCAyw&list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G)
+	- https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
+
 
 ## References
 Review papers:
