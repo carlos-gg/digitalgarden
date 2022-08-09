@@ -17,6 +17,15 @@ title: "Python"
 - [Extending Python with Compiled Code](https://github.com/AstroHackWeek/AstroHackWeek2014/blob/master/day4/ExtendingPython.ipynb)
 - [Wrapping C/C++ for Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)
 
+### Python and open source for science
+- [Open source Science (IBM)](https://opensource.science/)
+	- https://opensource.science/open-source-science-white-paper-c4940a0e9098
+- [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)
+- [pyOpenSci](https://www.pyopensci.org/)
+	- pyOpenSci promotes open and reproducible research through peer-review of scientific Python packages
+- [Python for Scientific Computing](https://www.msi.umn.edu/tutorials/python-scientific-computing)
+- #BOOK [Learning Scientific Programming with Python (Hill 2020)](https://scipython.com/about/the-book/)
+
 ## Books
 - #BOOK [Problem Solving with Algorithms and Data Structures using Python (Interactive book)](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - #BOOK [Large Scale Machine Learning with Python (Sjandin 2016, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python)

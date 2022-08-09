@@ -177,6 +177,7 @@ State of ML frameworks:
 - #CODE [Deep Search](https://github.com/DS4SD)
 	- https://ds4sd.github.io/
 	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
+	- [Handling Scientific Articles with Deep Search](https://opensource.science/handling-scientific-articles-with-deep-search-d3d7adebd3)
 
 
 ## References
