@@ -2,6 +2,7 @@
 title: "Generative modeling"
 ---
 
+
 ## Resources
 - [Generative models](https://openai.com/blog/generative-models/ )
 - [Deep Generative Models](https://www.cs.toronto.edu/~slwang/generative_model.pdf)
@@ -10,10 +11,11 @@ title: "Generative modeling"
 	- [Introduction to deep generative modeling: Why, Where and How](https://jmtomczak.github.io/blog/1/1_introduction.html)
 	- [Introduction to deep generative modeling: Energy-based Models](https://jmtomczak.github.io/blog/11/11_energy_based_models.html)
 
+
 ## Courses
 - #COURSE [Deep Generative Modeling: VAEs and GANs (MIT 6.S191)](https://www.youtube.com/watch?v=rZufA635dq4&t=1062s)
 - #COURSE [Deep Generative Models (Stanford CS236 - Fall 2021)](https://deepgenerativemodels.github.io/)
-
+- #COURSE Deep Generative Models [lecture (Carnegie Mellon University)](https://www.youtube.com/watch?v=qEbYtPhG768)
 
 ## Subtopics
 ### Autoencoders

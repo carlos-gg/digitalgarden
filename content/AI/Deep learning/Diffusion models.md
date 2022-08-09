@@ -11,6 +11,13 @@ title: "Diffusion models"
 - [Introduction to deep generative modeling: Diffusion-based Deep Generative Models](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html)
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
+## Code
+- #CODE [diffusers](https://github.com/huggingface/diffusers) (huggingface)
+	- Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models
+	- https://towardsdatascience.com/hugging-face-just-released-the-diffusers-library-846f32845e65
+	- #TALK https://www.youtube.com/watch?v=UzkdOg7wWmI
+
+
 ## References
 - #PAPER [Improved Denoising Diffusion Probabilistic Models (Nichol 2021)](https://arxiv.org/abs/2102.09672)
 - #PAPER [Cascaded Diffusion Models for High Fidelity Image Generation (Ho 2021)](https://cascaded-diffusion.github.io/)

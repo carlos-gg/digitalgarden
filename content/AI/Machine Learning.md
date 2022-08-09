@@ -231,6 +231,9 @@ See [[AI/Self-supervised learning]]
 ### Learning to rank and ordinal regression
 See [[AI/Learning to rank]]
 
+### Multi task learning
+See [[AI/Multi-task learning]]
+
 ### Generative modelling
 See [[AI/Deep learning/Generative modelling]]
 
