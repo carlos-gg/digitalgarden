@@ -31,12 +31,15 @@ title: "AI4ES"
 
 ## Talks
 - #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
+- #TALK [A collective agenda for AI on the Earth sciences (Camps-Valls)](https://www.youtube.com/watch?v=ts5XSYgcsiE)
+- #TALK [Destination Earth and AI (Peter Dueben)](https://www.youtube.com/watch?v=qcYbHkgTrvM)
 
 ## Books
 - #BOOK [Introduction to Climate Science (Schmittner 2017)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-climate-science-1st-edition-schmittner)
 - #BOOK [Introduction to Oceanography (Webb 2019)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-oceanography)
 - #BOOK [Introduction to Environmental Science - 2nd Edition (2018)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-environmental-science-2nd-edition)
 - #BOOK [Introduction to Physical Oceanography (Stewart 2008)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-physical-oceanography)
+- #BOOK [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science and Geosciences (Camps-Valls 2021)](https://www.amazon.com/-/es/Gustau-Camps-Valls-dp-1119646146/dp/1119646146/ref=mt_other?_encoding=UTF8&me=&qid=)
 
 ## Courses
 - #COURSE [Applied Machine Learning Tutorial for Earth Scientists](https://github.com/eabarnes1010/ml_tutorial_csu)
@@ -58,7 +61,7 @@ title: "AI4ES"
 - #PAPER [Machine learning for data-driven discovery in solid Earth geoscience (Bergen 2019)](https://science.sciencemag.org/content/363/6433/eaau0323)
 - #PAPER [Machine learning and artificial intelligence to aid climate change research and preparedness (Huntingford et al., 2019)](https://iopscience.iop.org/article/10.1088/1748-9326/ab4e55)
 	- Nine basic dimensions of climate modelling (there include geographical location, the many configurations of ESMs, and alternative future trajectories in emissions policy) : Longitude direction, altitude direction, Vertical direction, Time, Different climate models, Climate model ensembles, Different initial state, Perturbed physics runs, Different future emissions
-	- Examples of existing [[AI]] applications to climate: Earth System modelling, Teleconnections, Weather forecasting, Future climate scenarios, Climate impacts, Climate datasets, Climate extremes
+	- Examples of existing AI applications to climate: Earth System modelling, Teleconnections, Weather forecasting, Future climate scenarios, Climate impacts, Climate datasets, Climate extremes
 - #PAPER [Leveraging Modern Artificial Intelligence for Remote Sensing and NWP: Benefits and Challenges (Boukabara 2019)](https://journals.ametsoc.org/bams/article/100/12/ES473/344464/Leveraging-Modern-Artificial-Intelligence-for)
 - #PAPER [Deep learning and process understanding for data-driven Earth system science (Reichstein, 2019)](https://doodle.com/poll/r5fwu4rne37hzkgh?utm_source=poll&utm_medium=link)
 	- http://www.ccpo.odu.edu/~klinck/Reprints/PDF/reichsteinNature2019.pdf
