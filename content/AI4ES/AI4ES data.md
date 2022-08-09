@@ -9,6 +9,7 @@ title: "AI4ES data"
 - [Climate Data Store - Copernicus](https://cds.climate.copernicus.eu)
 	- [CEMS - Emergency Management System](https://emergency.copernicus.eu/)
 - https://github.com/pangeo-data/
+- [NOAA gridded climate data](https://psl.noaa.gov/data/gridded/index.html)
 - [The DL4ES book, DATA](https://github.com/DL4ES/DL4ES)
 - [Climate Reanalyzer](https://climatereanalyzer.org/)
 	- platform for visualizing climate and weather datasets
@@ -25,10 +26,20 @@ title: "AI4ES data"
 	- The application of the findable, accessible, interoperable, and reusable (FAIR) principles to many datasets used in weather and climate science remains a challenge
 	- This may be due to scalability (in the case of high-resolution climate model data, for example), legal barriers such as those encountered in using weather forecast data, or issues with heterogeneity (for example, when trying to make use of citizen data)
 	- There is a need for new roles and responsibilities in the scientific process. People working at the interface of science and digital technology – e.g., data stewards and research software engineers – should collaborate with domain researchers to ensure the optimal use of open science tools and methods
+- #PAPER [The WGLC global gridded lightning climatology and time series (Kaplan 2021)](https://essd.copernicus.org/articles/13/3219/2021/)
+
+### Benchmark datasets
 - #PAPER [WeatherBench: A benchmark dataset for data-driven weather forecasting (Rasp 2020)](https://arxiv.org/abs/2002.00469)
 	- https://github.com/pangeo-data/WeatherBench
-- #PAPER [Comparison of ERA5-Land and UERRA MESCAN-SURFEX Reanalysis Data with Spatially Interpolated Weather Observations for the Regional Assessment of Reference Evapotranspiration (Pelosi 2020)](https://www.mdpi.com/2073-4441/12/6/1669/htm)
-- #PAPER [The WGLC global gridded lightning climatology and time series (Kaplan 2021)](https://essd.copernicus.org/articles/13/3219/2021/)
+- #PAPER [RainBench - Towards Global Precipitation Forecasting from Satellite Imagery (Schroeder de Witt 2020)](https://arxiv.org/abs/2012.09670	) 
+	- [RainBench - Enabling Data-driven precipitation forecasting on a global scale (Tong 2020)](https://www.climatechange.ai/papers/neurips2020/38)
+	- Multi-modal benchmark dataset dedicated to advancing global precipitation forecasting
+		- SimSat. ECMWF model-simulated satellite data. 3-hourly, 0.1º. Lag time of 24h
+		- IMERG. NASA global half-hourly precipitation estimation. The final run product uses satellite data from multiple polar-orbiting and geo-stationary satellites, corrected with reanalysis (MERRA2, ERA5) and rain-gauge data. 0.1º. Lag time of 3-4 months
+		- ERA5. Reanalysis, 1-hourly. Including other atmospheric variables (specific humidity, temperature and geopotential height). 0.25º. Lag time 5 days
+	- PyRain works with WeatherBench. Based on NumPy memmap arrays
+	- ConvLSTMs
+	- Mean latitude-weighted Root-Mean Squared Error (RMSE) as loss and evaluation metric
 - #POSTER [d-IMERG: A spatiotemporal benchmark dataset for precipitation forecasting (Choi 2022)](https://drive.google.com/file/d/1KEFaebOSNLJJKlCUfsBhgS92gYz6Yd9q/view)
 	- The d-IMERG is a subset of images of IMERG providing HDF5 format over four different regions
 	- IMERG combines microwave satellite observations from the Global Precipitation Measurement (GPM) satellite constellation to estimate precipitation on a global scale. As microwave measurements can penetrate the precipitating clouds, it provides crucial information on precipitation and clouds. 
@@ -59,39 +70,37 @@ title: "AI4ES data"
 		- https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=overview
 	- #PAPER [The CAMS reanalysis of atmospheric composition (Inness 2019)](https://acp.copernicus.org/articles/19/3515/2019/)
 
-### Reanalysis
-- [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
-	- #PAPER [The ERA5 global reanalysis (Hersbach 2020)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803) ^era5
+### Reanalysis 
+- [Advancing Reanalysis](https://reanalyses.org/ "Home")
+- #PAPER [Comparison of ERA5-Land and UERRA MESCAN-SURFEX Reanalysis Data with Spatially Interpolated Weather Observations for the Regional Assessment of Reference Evapotranspiration (Pelosi 2020)](https://www.mdpi.com/2073-4441/12/6/1669/htm)
+- #PAPER [The ERA5 global reanalysis (Hersbach 2020)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803) 
+	- [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 	- https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
 	- ERA5 is an atmospheric reanalysis, so uses ocean and land surface only as boundary condition
 	- The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km
 	- ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions
 	- ERA5 combines vast amounts of historical observations into global estimates using advanced modelling and data assimilation systems
+- [ERA5 land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview)
+	- ERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution (0.1 degrees) compared to ERA5
 - [gridMET](https://www.climatologylab.org/gridmet.html)
 	- gridMET is a dataset of daily high-spatial resolution (~4-km, 1/24th degree) surface meteorological data covering the contiguous US from 1979-yesterday
+- [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-single-levels?tab=overview) regional reanalysis for Europe
+	- http://www.uerra.eu/component/dpattachments/?task=attachment.download&id=385
+	- www.uerra.eu/component/dpattachments/?task=attachment.download&id=399
+- [JRA-55](https://climatedataguide.ucar.edu/climate-data/jra-55)
+	- Spanning 1958-present, JRA-55 is the longest third-generation reanalysis that uses the full observing system
 
-#### Precipitation
+### Precipitation
 - [Precipitation datasets comparison](https://climatedataguide.ucar.edu/climate-data/precipitation-data-sets-overview-comparison-table)
-
-- #PAPER [MSWEP: 3-hourly 0.25◦global gridded precipitation (1979–2015)by merging gauge, satellite, and reanalysis data (Beck 2017)](https://hess.copernicus.org/preprints/hess-2017-508/hess-2017-508.pdf)
-	- http://www.gloh2o.org/mswep/
-	- Multi-Source Weighted-Ensemble Precipitation
-	- Fully global (including ocean areas) historical precipitation dataset (1979–2019) with a 3‑hourly temporal and 0.1° spatial resolution
-	- MSWEP takes advantage of the complementary strengths of gauge‑, satellite‑, and reanalysis-based data to provide reliable precipitation estimates over the entire globe
-	- #BSC /esarchive/recon/gloh2o/mswep
-	- Global precipitation
+- See UERRA, ERA5 and ERA5-land reanalyses 
+- #PAPER [Evaluation of Gridded Precipitation Data Products for Hydrological Applications in Complex Topography (Gampe 2017)](https://www.mdpi.com/2306-5338/4/4/53)
 - #PAPER [PTHRES. High-Resolution Temperature Datasets in Portugal from a Geostatistical Approach: Variability and Extremes (Fonseca, 2017)](https://journals.ametsoc.org/jamc/article/57/3/627/68273/High-Resolution-Temperature-Datasets-in-Portugal)
 - #PAPER [An Ensemble Version of the E-OBS Temperature and Precipitation Data Sets (Cornes 2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2017JD028200)
-	- https://www.researchgate.net/publication/327013373_An_Ensemble_Version_of_the_E-OBS_Temperature_and_Precipitation_Data_Sets
 	- [E-OBS ](https://climatedataguide.ucar.edu/climate-data/e-obs-high-resolution-gridded-meanmaxmin-temperature-precipitation-and-sea-level )
 	- daily data with extent: 25N-71.5N x 25W-45E  
-	- used for [[Abstract - ENES HPC]]
 	- [Southeast Asia version of E-OBS](http://sacad.database.bmkg.go.id/)
-- UERRA [[AI4ES/AI4ES data#^uerra]]
 - #PAPER [The Global Precipitation Climatology Project (GPCP) Monthly Analysis (New Version 2.3) and a Review of 2017 Global Precipitation (Adler 2018)](https://www.mdpi.com/2073-4433/9/4/138)
-	- #BSC /esarchive/obs/nasa/gpcp_v2.2/daily_mean/prlr, /esarchive/obs/nasa/gpcp_v2.3/monthly_mean/prlr
 	- https://climatedataguide.ucar.edu/climate-data/gpcp-monthly-global-precipitation-climatology-project
-	- Global precipitation
 - #PAPER [Iberia01: a new gridded dataset of daily precipitation and temperatures over Iberia (Herrera 2019)](https://essd.copernicus.org/articles/11/1947/2019/)
 	- showed that Iberia01 produces more realistic precipitation patterns than E-OBS for the mean and extreme indices considered, although both are comparable for temperatures
 - #PAPER [FROGS: a daily 1°  ×  1° gridded precipitation database of rain gauge, satellite and reanalysis products (Roca 2019)](https://essd.copernicus.org/articles/11/1017/2019/  )
@@ -101,35 +110,27 @@ title: "AI4ES data"
 	- https://gpm.nasa.gov/data/imerg
 	- [Global precipitation measurement](https://gpm.nasa.gov/)
 	- Global precipitation
+- #PAPER [MSWEP V2 Global 3-Hourly 0.1° Precipitation: Methodology and Quantitative Assessment (Beck 2019)](https://journals.ametsoc.org/view/journals/bams/100/3/bams-d-17-0138.1.xml)
+	- Old paper: [MSWEP: 3-hourly 0.25◦global gridded precipitation (1979–2015)by merging gauge, satellite, and reanalysis data (Beck 2017)](https://hess.copernicus.org/preprints/hess-2017-508/hess-2017-508.pdf)
+	- http://www.gloh2o.org/mswep/
+	- Multi-Source Weighted-Ensemble Precipitation
+	- Fully global (including ocean areas) historical precipitation dataset (1979–2019) with a 3‑hourly temporal and 0.1° spatial resolution
+	- MSWEP takes advantage of the complementary strengths of gauge‑, satellite‑, and reanalysis-based data to provide reliable precipitation estimates over the entire globe
 - #PAPER [Rainfall Estimates on a Gridded Network (REGEN) – a global land-based gridded dataset of daily precipitation from 1950 to 2016 (Contractor 2020)](https://www.hydrol-earth-syst-sci.net/24/919/2020/)
 	- Global precipitation
-- #PAPER [RainBench - Towards Global Precipitation Forecasting from Satellite Imagery (Schroeder de Witt 2020)](https://arxiv.org/abs/2012.09670	) ^rainbench
-	- [RainBench - Enabling Data-driven precipitation forecasting on a global scale (Tong 2020)](https://www.climatechange.ai/papers/neurips2020/38)
-	- Multi-modal benchmark dataset dedicated to advancing global precipitation forecasting
-		- SimSat. ECMWF model-simulated satellite data. 3-hourly, 0.1º. Lag time of 24h
-		- IMERG. NASA global half-hourly precipitation estimation. The final run product uses satellite data from multiple polar-orbiting and geo-stationary satellites, corrected with reanalysis (MERRA2, ERA5) and rain-gauge data. 0.1º. Lag time of 3-4 months
-		- ERA5. Reanalysis, 1-hourly. Including other atmospheric variables (specific humidity, temperature and geopotential height). 0.25º. Lag time 5 days
-	- PyRain works with WeatherBench. Based on NumPy memmap arrays
-	- ConvLSTMs
-	- Mean latitude-weighted Root-Mean Squared Error (RMSE) as loss and evaluation metric
-
-#### Other reanalysis data
-- JRA-55 (starts 1958) 
-- NCEP1 (starts 1948) -- very old reanalysis (state of art year ~2000) 
+- #PAPER [Comprehensive Comparisons of State-of-the-Art Gridded Precipitation Estimates for Hydrological Applications over Southern China (GAO 2020)](https://www.mdpi.com/2072-4292/12/23/3997?type=check_update&version=3)
 
 ### Temperature
-- [UERRA regional reanalysis for Europe](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-single-levels?tab=overview ^uerra)
-	- http://www.uerra.eu/component/dpattachments/?task=attachment.download&id=385
-	- www.uerra.eu/component/dpattachments/?task=attachment.download&id=399
+- See UERRA and ERA5-land reanalyses
 - [HadCRUT5 - gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period](https://www.metoffice.gov.uk/hadobs/hadcrut5/)
 
 ### Soil moisture
-- ERA5-Land https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview 
-- [GLEAM - Global Land Evaporation Amsterdam Model](https://www.gleam.eu/)
+- See ERA5-Land reanalysis
+- #PAPER [GLEAM v3: satellite-based land evaporation and root-zone soil moisture (Marterns 2017)](https://gmd.copernicus.org/articles/10/1903/2017/)
+	- [GLEAM - Global Land Evaporation Amsterdam Model](https://www.gleam.eu/)
 	- different components of land evaporation (often referred to as '_evapotranspiration_’): transpiration, bare-soil evaporation, interception loss, open-water evaporation and sublimation
 	- soon to come HR evaporation data
 	- products: Soil Evaporation, Snow Sublimation, Transpiration, Open-water Evaporation, Evaporative Stress, Root-zone Soil Moisture, Surface Soil Moisture
-	- #PAPER [GLEAM v3: satellite-based land evaporation and root-zone soil moisture (Marterns 2017)](https://gmd.copernicus.org/articles/10/1903/2017/)
 
 ### Wind
 - #PAPER [What global reanalysis best represents near-surface winds? (Ramon 2019)](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3616)
@@ -165,8 +166,6 @@ title: "AI4ES data"
 
 ## EO and Satellite data
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
-- [BigEarthNet - A New Large-Scale Sentinel-2 Benchmark Archive](http://bigearth.net/)
-	- https://medium.com/radiant-earth-insights/bigearthnet-benchmark-archive-now-available-on-radiant-mlhub-the-open-repository-for-geospatial-d6c5dbe898c4
 - [Hyperlabelme](https://ieeexplore.ieee.org/document/8113131/authors#authors )
 - [HyRank (hyperspectral dataset)](http://www2.isprs.org/commissions/comm3/wg4/HyRANK.html )
 - [Euro Data Cube](https://eurodatacube.com/)
@@ -175,7 +174,8 @@ title: "AI4ES data"
 - [AVIRIS-NG aerial hyperspectral remote sensing data](https://avirisng.jpl.nasa.gov/dataportal/)
 	- The AVRIS-NG data portal includes an unparalleled publicly available dataset of hyperspectral remote sensing aerial surveys on multiple continents, including detected large point-source methane emissions (for many campaigns, plus some point-source CO2 emissions)
 
-- #CODE [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (Helber 2019)](https://arxiv.org/abs/1709.00029)
+### Benchmark datasets
+- #PAPER [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (Helber 2019)](https://arxiv.org/abs/1709.00029)
 	- https://github.com/phelber/eurosat
 - #PAPER [Object Detection in Optical Remote Sensing Images: A Survey and A New Benchmark (Li 2019)](https://arxiv.org/abs/1909.00133) 
 - #PAPER [DOTA: A Large-scale Dataset for Object Detection in Aerial Images (Xia 2019)](https://arxiv.org/abs/1711.10398)
@@ -183,14 +183,17 @@ title: "AI4ES data"
 	- https://www.earthnet.tech/docs/ds-download/
 - #PAPER [FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery (Sun 2021)](https://arxiv.org/abs/2103.05569) 
 - #PAPER [SpaceML: Distributed Open-source Research with Citizen Scientists for the Advancement of Space Technology for NASA (Koul 2021)](https://arxiv.org/abs/2012.10610)
-- #PAPER [Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With  Application to Super-Resolution (Cornebise 2022)](https://arxiv.org/pdf/2207.06418v1)
+- #PAPER [BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval (Sumbul 2021)](https://arxiv.org/pdf/2105.07921)
+	- [BigEarthNet - A New Large-Scale Sentinel-2 Benchmark Archive](http://bigearth.net/)
+	- [BigEarthNet Benchmark Archive Now Available on Radiant MLHub](https://medium.com/radiant-earth-insights/bigearthnet-benchmark-archive-now-available-on-radiant-mlhub-the-open-repository-for-geospatial-d6c5dbe898c4), the Open Repository for Geospatial Training Data
+- #PAPER [Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution (Cornebise 2022)](https://arxiv.org/pdf/2207.06418v1)
 	- https://github.com/worldstrat/worldstrat
 	- Nearly 10,000 km² of free high-resolution satellite imagery of unique locations which ensure stratified representation of all types of land-use across the world: from agriculture to ice caps, from forests to multiple urbanization densities
 	- Each high-resolution image (1.5 m/pixel) comes with multiple temporally-matched low-resolution images from the freely accessible lower-resolution Sentinel-2 satellites (10 m/pixel)
 	- See [[AI/Computer Vision/Super-resolution]]
-- #CODE [Current Trends in Deep Learning for Earth Observation: An Open-source  Benchmark Arena for Image Classification (Dimitrovski 2022)](https://arxiv.org/pdf/2207.07189)
+- #PAPER [Current Trends in Deep Learning for Earth Observation: An Open-source Benchmark Arena for Image Classification (Dimitrovski 2022)](https://arxiv.org/pdf/2207.07189)
 	- AiTLAS: Benchmark Arena -- an open-source benchmark framework for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
-	- https://github.com/biasvariancelabs/aitlas-arena
+	- #CODE https://github.com/biasvariancelabs/aitlas-arena
 
 ### LULC
 - [Dynamic World](https://github.com/google/dynamicworld)

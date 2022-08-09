@@ -143,3 +143,4 @@ title: "Weather forecasting, nowcasting"
 	- authors could extract and learn transformation-invariant spatial patterns across large geographical areas using deformable convolutions, which is not possible with regular CNNs
 	- used pre-training (training on the large 20CRv3 reanalysis dataset spanning from 1836 to 1980, then transfer learning)
 	- using a interpretation technique called integrated gradients, we could attribute each variable’s contributions for a particular observation on a grid-point basis. This is especially important if we want to understand global climate processes better and explain drivers behind specific weather regimes that account for major uncertainty in NWP models days to weeks ahead
+- #PAPER [Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based U-NET in a case study with ERA5 (Chattopadhyay 2022)](https://gmd.copernicus.org/articles/15/2221/2022/)

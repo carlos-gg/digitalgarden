@@ -21,7 +21,7 @@ title: "Data assimilation"
 	- Lower computational complexity of previous methods
 	- Tested the new method with data from a real-world application: a pollution model in London
 - #PAPER [Deep Data Assimilation: Integrating Deep Learning with Data Assimilation (Arcucci 2021)](https://www.mdpi.com/2076-3417/11/3/1114)
-- #PAPER [Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based U-NET in a case study with ERA5 (Chattopadhyay 2022)](https://gmd.copernicus.org/articles/15/2221/2022/)
+
 
 
 ### ECMWF-ESA Workshop on ML for Earth System Observation and Prediction (2020)
