@@ -104,7 +104,8 @@ title: "Explainability methods for NNs"
 - #PAPER [Toward Explainable AI for Regression Models (Letzgus 2021)](https://arxiv.org/abs/2112.11407)
 - #PAPER [Explaining in Style: Training a GAN to explain a classifier in StyleSpace (Lang 2021)](https://explaining-in-style.github.io/)
 	- https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html
-
+- #PAPER [Variable selection with false discovery rate control in deep neural networks (Song 2021)](https://www.nature.com/articles/s42256-021-00308-z)
+	- [SurvNet: A backward elimination procedure to enhance variable selection for deep neural networks](https://techxplore.com/news/2021-05-survnet-procedure-variable-deep-neural.html)
  
 ### Layer-wise Relevance Propagation (LRP)
 - #PAPER [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (Bach 2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)

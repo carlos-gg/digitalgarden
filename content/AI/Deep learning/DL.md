@@ -8,6 +8,7 @@ title: "Deep Learning (DL)"
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/endymecy/awesome-deeplearning-resources
 - https://en.wikipedia.org/wiki/Deep_learning
+- [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum)
 - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [Deep Neural Nets: 33 years ago and 33 years from now (Andrej Karpathy)](http://karpathy.github.io/2022/03/14/lecun1989/)
@@ -18,7 +19,7 @@ title: "Deep Learning (DL)"
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
-- [SurvNet: A backward elimination procedure to enhance variable selection for deep neural networks](https://techxplore.com/news/2021-05-survnet-procedure-variable-deep-neural.html)
+
 
 ### DL news aggregators
 - [DeepAI](https://deepai.org/)
@@ -166,11 +167,16 @@ State of ML frameworks:
 	- PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
 	- #PAPER [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)
 - #CODE [Deep cognition](https://deepcognition.ai/)
+
+### DL for science
 - #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) 
 	- GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process 
 	- https://gt4sd.github.io/gt4sd-core/
 	- https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery
 	- https://thenewstack.io/ibms-open-source-gt4sd-generates-ideas-for-scientists/
+- #CODE [Deep Search](https://github.com/DS4SD)
+	- https://ds4sd.github.io/
+	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
 
 
 ## References
@@ -384,8 +390,7 @@ See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
 ### Deep learning for scientific discovery
-See [[AI/Deep learning/Neural ODEs]]
-- #CODE See GT4SD library in Code section
+See relevant code in [[AI/Deep learning/DL#DL for science]]. See [[AI/Deep learning/Neural ODEs]]
 - #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
 - #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
 	- #CODE https://github.com/lululxvi/deepxde
