@@ -102,6 +102,7 @@ title: "Deep Learning (DL)"
 - #COURSE [Fast AI - Practical Deep Learning For Coders](http://course.fast.ai/)
 	- Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD - the book and the course
 	- https://github.com/fastai/fastbook
+- #COURSE [CS 152: Neural Networks (Harvey Mudd college)](https://www.cs.hmc.edu/~rhodes/cs152/index.html)
 - #COURSE [Deep Learning course (U Paris-Saclay)](https://m2dsupsdlclass.github.io/lectures-labs/)
 - #COURSE [Introduction to Machine Learning and Neural Networks (Uniandes)](https://albahnsen.com/courses/applied-deep-learning/)
 	- https://github.com/albahnsen/AppliedDeepLearningClass
