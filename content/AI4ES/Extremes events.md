@@ -31,6 +31,24 @@ title: "Extremes events"
 	- TECA (Toolkit for Extreme Climate Analysis) is a collection of climate analysis algorithms geared toward extreme event detection and tracking implemented in a scalable parallel framework. The core is written in modern c++ and uses MPI+thread for parallelism
 
 
+## Databases
+See [[AI4ES/AI4ES data#Extreme events labeled data]]
+- [Copernicus Emergency Management Service (EMS)](https://emergency.copernicus.eu/mapping/ems/service-overview)
+	- EMS uses satellite imagery and other geospatial data to provide free of charge mapping service in cases of natural disasters, human-made emergency situations and humanitarian crises throughout the world
+	- [List of EMS Rapid Mapping Activations](https://emergency.copernicus.eu/mapping/list-of-activations-rapid)
+	- Flood, wildfire, volcanic events, earthquakes
+- [European Drought Observatory](https://edo.jrc.ec.europa.eu/edov2/php/index.php?id=1000)
+- [IBTrACS](https://www.ncdc.noaa.gov/ibtracs/)
+	- https://climetlab.readthedocs.io/en/latest/firststeps.html
+- [ESWD](<[European Severe Weather Database](https://eswd.eu/cgi-bin/eswd.cgi#lookupanchor)>)  
+	- "Extreme Weather Database" will be a nice thing to test because it contains events that are not resolved by the reanalysis. So will really help to identify local-scale (convective) high-impact events
+	- Type of events: dust, sand- or steam devils, gustnadoes, large hail, heavy rain, tornadoes, severe wind gusts, heavy snowfalls/snowstorms, ice accumulations, avalanches, damaging lightning strikes 
+- [NCEI's Severe Weather Data Inventory (US)](https://www.ncdc.noaa.gov/ncdcs-severe-weather-data-inventory)
+- [TEMPEST (UK)](https://www.nottingham.ac.uk/research/groups/weather-extremes/research/tempest-database.aspx)
+	- Tracking Extremes of Meteorological Phenomena Experienced in Space and Time
+	- Work in progress
+
+
 ## References - Climate
 - #PAPER [Climate and Weather Extremes (Nature paper collection)](https://www.nature.com/collections/kpzbllmxxw)
 	- [Progress in subseasonal to seasonal prediction through a joint weather and climate community effort (Mariotti 2018)](https://www.nature.com/articles/s41612-018-0014-z)
@@ -77,9 +95,6 @@ title: "Extremes events"
 - #PAPER [Machine Learning for Projecting Extreme Precipitation Intensity for Short Durations in a Changing Climate (Hu 2019)](https://www.mdpi.com/2076-3263/9/5/209/htm)
 - #PAPER [Extreme precipitation events under climate change in the Iberian Peninsula (Cardoso, 2019)](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.6269 )
 	- https://www.researchgate.net/publication/335040085_Extreme_Precipitation_Events_under_Climate_Change_in_the_Iberian_Peninsula
-- #PAPER [Towards reliable extreme weather and climate event attribution (Bellprat 2019)](https://www.nature.com/articles/s41467-019-09729-2)
-	- Showed how exploiting advanced correction techniques from the weather forecasting field, that correcting properly for model probabilities alters the attributable risk of extreme events to climate change. 
-	- This study illustrates the need to correct for this type of model error in order to provide trustworthy assessments of climate change impacts.
 
 ### Supervised learning approaches
 See [[AI/Supervised Learning/Supervised learning]] 
@@ -173,8 +188,8 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- These models are referred to as IBTrACS-GFS, Heuristic-GFS, IBTrACS-GOES, and Heuristic-GOES. All four U-Nets are fast information extraction tools and perform with a ROI detection accuracy ranging from 80% to 99%
 	- These are additionally evaluated with the Dice and Tversky Intersection over Union (IoU) metrics, having Dice coefficient scores ranging from 0.51 to 0.76 and Tversky coefficients ranging from 0.56 to 0.74
 - #PAPER [Improving Emergency Response during Hurricane Season using Computer Vision (Bosch 2020)](https://arxiv.org/abs/2008.07418v2)
-- #PAPER [Spatio-temporal segmentation and tracking of weather patterns with light-weight Neural Networks (Kapp-Schwoerer 2020)](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_55.pdf) ^kapp20
-	- Uses the ClimateNet [[#^climatenet]] and the CGNet architecture [[Semantic segmentation#^cgnet]]
+- #PAPER [Spatio-temporal segmentation and tracking of weather patterns with light-weight Neural Networks (Kapp-Schwoerer 2020)](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_55.pdf)
+	- Uses the ClimateNet [[AI4ES/AI4ES data#Extreme events labeled data]] and the CGNet architecture [[Semantic segmentation]]
 	- Weather pattern recognition by deep neural networks can work remarkably better than feature engineering, such as hand-crafted heuristics, used traditionally in climate science
 	- Deep Learning - based semantic segmentation of atmospheric rivers andtropical cyclones on the expert-annotated ClimateNet data set, and track individual events using a spatio-temporal overlapping approach
 - #PAPER [HydroDeep -- A Knowledge Guided Deep Neural Network for Geo-Spatiotemporal Data Analysis (Sarkar 2020)](https://arxiv.org/abs/2010.04328)
@@ -242,57 +257,15 @@ See [[AI/Deep learning/GANs]]
 - #PAPER [Fingerprinting Heatwaves and Cold Spells and Assessing Their Response to Climate Change Using Large Deviation Theory (Galfi and Licarini 2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.058701)
 	- https://phys.org/news/2021-08-fingerprints-extreme-weather-revealed-statistical.html
 
-#### Atribution studies
+#### Attribution studies
 - Attribution studies remain our best (and only) tool for understanding the impact of climate change on extreme weather and on our daily lives. They play a key role in helping [decision makers plan for, or avoid, a future where extreme weather events](https://www.climatecentre.org/news/1253/climate-attribution-work-in-mit-review-ten-a-breakthrough-technologiesa-for-2020) are more likely and intense due to global warming.
 - Attribution studies are also really important within climate science as they bridge the gap between observations and model projections. They test climate models in a real-world context, allowing scientists to understand better where they can have more confidence in their projections and where model improvements are needed before projections can be used for decision making.
 - https://science2017.globalchange.gov/chapter/3/
-- #PAPER [Detection and Attribution Methodologies Overview](https://science2017.globalchange.gov/chapter/appendix-c/)
-- #PAPER [Detection and attribution of climate extremes in the observed record](https://www.sciencedirect.com/science/article/pii/S2212094716300020)
-- #PAPER [Adapting attribution science to the climate extremes of tomorrow](https://iopscience.iop.org/article/10.1088/1748-9326/aaf4cc)
-- #PAPER [Investigating the Role of the Relative Humidity in the Co‐Occurrence of Temperature and Heat Stress Extremes in CMIP5 Projections (2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084156)
+- [Detection and Attribution Methodologies Overview](https://science2017.globalchange.gov/chapter/appendix-c/)
 - #PAPER [Precipitation downscaling under climate change: Recent developments to bridge the gap between dynamical models and the end user (2010)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009RG000314)
-
-
-# Data
-## Labeled/benchmark data
-- #PAPER [MPING: Crowd-Sourcing Weather Reports for Research (Elmore 2014)](https://journals.ametsoc.org/bams/article/95/9/1335/87658/MPING-Crowd-Sourcing-Weather-Reports-for-Research)
-- #PAPER [ExtremeWeather - A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events (Racah 2017)](https://arxiv.org/abs/1612.02095)
-	- https://extremeweatherdataset.github.io/ 
-	- https://papers.nips.cc/paper/6932-extremeweather-a-large-scale-climate-dataset-for-semi-supervised-detection-localization-and-understanding-of-extreme-weather-events
-- #PAPER [A High-Resolution Global Gridded Historical Dataset of Climate Extreme Indices (Mistry, 2019)](https://www.mdpi.com/2306-5729/4/1/41/htm)
-- #PAPER [ClimateNet: an expert-labelled open dataset and Deep Learning architecture for enabling high-precision analyses of extreme weather (Prabhat 2020)](https://gmd.copernicus.org/preprints/gmd-2020-72/) ^climatenet
-	- https://portal.nersc.gov/project/ClimateNet/ 
-	- ClimateNet – an open, community-sourced human expert-labeled curated dataset – that captures tropical cyclones (TCs) and atmospheric rivers (ARs) in high-resolution climate model output from a simulation of a recent historical period
-	- The key contribution of this work is that it paves the way for DL-based automated, hi-fidelity and highly precise analytics of climate data using a curated expert-labelled dataset – ClimateNet
-	- https://cs.lbl.gov/news-media/news/2019/climatenet-aims-to-improve-machine-learning-applications-in-climate-science-on-a-global-scale/ 
-	- https://www.nersc.gov/research-and-development/data-analytics/big-data-center/climatenet/ 
-	- https://eos.org/articles/teaching-machines-to-detect-climate-extremes#.XuxgZhBVnts.twitter
-- #PAPER [Deepti: Deep-Learning-Based Tropical Cyclone Intensity Estimation System (Maskey 2020)](https://ieeexplore.ieee.org/document/9149719)
-	- http://registry.mlhub.earth/10.34911/rdnt.xs53up/
-
-
-## Copernicus Emergency Management Service (EMS)
-- https://emergency.copernicus.eu/mapping/ems/service-overview
-- EMS uses satellite imagery and other geospatial data to provide free of charge mapping service in cases of natural disasters, human-made emergency situations and humanitarian crises throughout the world
-- [List of EMS Rapid Mapping Activations](https://emergency.copernicus.eu/mapping/list-of-activations-rapid)
-	- Flood, wildfire, volcanic events, earthquakes
-
-## European Drought Observatory
-- https://edo.jrc.ec.europa.eu/edov2/php/index.php?id=1000
-
-## IBTrACS
-- https://www.ncdc.noaa.gov/ibtracs/
-- https://climetlab.readthedocs.io/en/latest/firststeps.html
-
-## ESWD  
-- [European Severe Weather Database](https://eswd.eu/cgi-bin/eswd.cgi#lookupanchor)
-- "Extreme Weather Database" will be a nice thing to test because it contains events that are not resolved by the reanalysis. So will really help to identify local-scale (convective) high-impact events
-- Type of events: dust, sand- or steam devils, gustnadoes, large hail, heavy rain, tornadoes, severe wind gusts, heavy snowfalls/snowstorms, ice accumulations, avalanches, damaging lightning strikes 
-
-## NCEI's Severe Weather Data Inventory (US)
-- https://www.ncdc.noaa.gov/ncdcs-severe-weather-data-inventory
-
-## TEMPEST (UK)
-- Tracking Extremes of Meteorological Phenomena Experienced in Space and Time
-- https://www.nottingham.ac.uk/research/groups/weather-extremes/research/tempest-database.aspx
-- Work in progress
+- #PAPER [Detection and attribution of climate extremes in the observed record (Easterling 2016)](https://www.sciencedirect.com/science/article/pii/S2212094716300020)
+- #PAPER [Adapting attribution science to the climate extremes of tomorrow (Harrington 2018)](https://iopscience.iop.org/article/10.1088/1748-9326/aaf4cc)
+- #PAPER [Investigating the Role of the Relative Humidity in the Co‐Occurrence of Temperature and Heat Stress Extremes in CMIP5 Projections (2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084156)
+- #PAPER [Towards reliable extreme weather and climate event attribution (Bellprat 2019)](https://www.nature.com/articles/s41467-019-09729-2)
+	- Showed how exploiting advanced correction techniques from the weather forecasting field, that correcting properly for model probabilities alters the attributable risk of extreme events to climate change. 
+	- This study illustrates the need to correct for this type of model error in order to provide trustworthy assessments of climate change impacts.

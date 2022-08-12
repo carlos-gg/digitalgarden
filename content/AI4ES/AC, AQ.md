@@ -3,11 +3,13 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 ---
 
 ## Resources
+- [Atmospheric composition data products](https://iasi.aeris-data.fr/)
 - [Chemical transport model (CTM)](https://en.wikipedia.org/wiki/Chemical_transport_model)
 	- type of computer numerical model which typically simulates atmospheric chemistry and may give air pollution forecasting
 	- CTM focuses on the stocks and flows of one or more chemical species
 	- CTM is expected to accurately represent the entire cycle for the species of interest, including fluxes (e.g. advection), chemical production/loss, and deposition
 - [Gaussian process regression (GPR) on Mauna Loa CO2 data. — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html)
+- [Air Quality e-Reporting](https://www.eea.europa.eu/data-and-maps/data/aqereporting-9)
 
 ### Methane emission sources
 - [GHGsat](https://www.bloomberg.com/news/articles/2021-02-12/new-climate-satellite-spotted-giant-methane-leak-as-it-happened)

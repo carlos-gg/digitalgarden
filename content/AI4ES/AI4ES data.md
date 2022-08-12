@@ -46,6 +46,23 @@ title: "AI4ES data"
 - #PAPER [WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models (Garg 2022)](https://arxiv.org/pdf/2205.00865)
 	- WeatherBench Probability extends WeatherBench to probabilistic forecasting by adding a set of established probabilistic verification metrics (continuous ranked probability score, spread-skill ratio and rank histograms) and a state-of-the-art operational baseline using the ECWMF IFS ensemble forecast
 
+#### Extreme events labeled data
+See [[AI4ES/Extremes events#Databases]]
+- #PAPER [MPING: Crowd-Sourcing Weather Reports for Research (Elmore 2014)](https://journals.ametsoc.org/bams/article/95/9/1335/87658/MPING-Crowd-Sourcing-Weather-Reports-for-Research)
+- #PAPER [ExtremeWeather - A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events (Racah 2017)](https://arxiv.org/abs/1612.02095)
+	- https://extremeweatherdataset.github.io/ 
+	- https://papers.nips.cc/paper/6932-extremeweather-a-large-scale-climate-dataset-for-semi-supervised-detection-localization-and-understanding-of-extreme-weather-events
+- #PAPER [A High-Resolution Global Gridded Historical Dataset of Climate Extreme Indices (Mistry, 2019)](https://www.mdpi.com/2306-5729/4/1/41/htm)
+- #PAPER [ClimateNet: an expert-labelled open dataset and Deep Learning architecture for enabling high-precision analyses of extreme weather (Prabhat 2020)](https://gmd.copernicus.org/preprints/gmd-2020-72/) 
+	- https://portal.nersc.gov/project/ClimateNet/ 
+	- ClimateNet – an open, community-sourced human expert-labeled curated dataset – that captures tropical cyclones (TCs) and atmospheric rivers (ARs) in high-resolution climate model output from a simulation of a recent historical period
+	- The key contribution of this work is that it paves the way for DL-based automated, hi-fidelity and highly precise analytics of climate data using a curated expert-labelled dataset – ClimateNet
+	- https://cs.lbl.gov/news-media/news/2019/climatenet-aims-to-improve-machine-learning-applications-in-climate-science-on-a-global-scale/ 
+	- https://www.nersc.gov/research-and-development/data-analytics/big-data-center/climatenet/ 
+	- https://eos.org/articles/teaching-machines-to-detect-climate-extremes#.XuxgZhBVnts.twitter
+- #PAPER [Deepti: Deep-Learning-Based Tropical Cyclone Intensity Estimation System (Maskey 2020)](https://ieeexplore.ieee.org/document/9149719)
+	- http://registry.mlhub.earth/10.34911/rdnt.xs53up/
+
 ### Projections
 - [CMIP6](https://pcmdi.llnl.gov/CMIP6/)
 	- Coupled Model Intercomparison Project Phase 6
