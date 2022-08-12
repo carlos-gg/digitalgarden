@@ -27,7 +27,7 @@ Review papers:
 - #PAPER [Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey (Sultana, 2020)](https://arxiv.org/abs/2001.0407430)
 
 - #PAPER [Fully Convolutional Networks for Semantic Segmentation (Long 2015)](https://arxiv.org/abs/1411.4038)
-- #PAPER [CGNet: A Light-weight Context Guided Network for Semantic Segmentation (Wu 2018)](https://arxiv.org/abs/1811.08201) ^cgnet
+- #PAPER [CGNet: A Light-weight Context Guided Network for Semantic Segmentation (Wu 2018)](https://arxiv.org/abs/1811.08201) 
 	- Context Guided (CG) block learns the joint feature of both local feature and surrounding context, and further improves the joint feature with the global context
 	- CGNet captures contextual information in all stages of the network and is specially tailored for increasing segmentation accuracy 
 	- CGNet is also elaborately designed to reduce the number of parameters and save memory footprint

@@ -182,7 +182,7 @@ See [[AI/DS and DataEng/Open ML data]]
 - #PAPER [Pen and Paper Exercises in Machine Learning (Gutmann 2022)](https://arxiv.org/pdf/2206.13446)
 
 ### Machine learning for scientific discovery
-See [[AI/Deep learning/DL#Deep learning for scientific discovery]]
+See [[AI/Deep learning/DL#Deep learning for scientific discovery]] and [[AI/AI#AI for scientific discovery]]
 - [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
 - #PAPER [Machine learning and the physical sciences (Carleo 2019)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002)
 - #PAPER [Machine Learning for Scientific Discovery (Surana 2021)](https://arxiv.org/abs/2102.12712)

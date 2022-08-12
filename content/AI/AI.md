@@ -26,19 +26,19 @@ title: "Artificial Intelligence"
 - [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 	- [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 
-
-### AI in Science and research
+### AI for scientific discovery
+See [[AI/Deep learning/DL#Deep learning for scientific discovery]] and [[AI/Machine Learning#Machine learning for scientific discovery]]
 - [The AI revolution in science: applications and new research directions](https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/)
 - [The AI revolution in scientific research (The Royal Society, The Alan Turing Institute)](https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf)
 - [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
 - [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
-
+- #TALK [Using AI to Accelerate Scientific Discovery (Demis Hassabis, Deepmind)](https://www.youtube.com/watch?v=jocWJiztxYA)
 
 ### AI for Earth Sciences
 See [[AI4ES/AI4ES]]
 
 ### AI for good
-- See [[AI4G/AI4good]]
+See [[AI4G/AI4good]]
 
 ## Events
 - [Neural Information Processing Systems Conference (NeurIPS)](https://nips.cc/)
@@ -50,10 +50,6 @@ See [[AI4ES/AI4ES]]
 - [AAAI Conference on Artificial Intelligence](http://www.aaai.org/Conferences/conferences.php)
 - [World summit AI](https://worldsummit.ai/)
 
-## References
-- #PAPER [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (Marcus 2020)](https://arxiv.org/abs/2002.06177v3)
-	- https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/
-	- #TALK [AI debate: Yoshua Bengio | Gary Marcus](https://www.youtube.com/watch?v=EeqwFjqFvJA)
 
 ## Books
 - #BOOK [AI Transformation Playbook (Andrew Ng, 2018)](https://landing.ai/ai-transformation-playbook/)
@@ -63,6 +59,7 @@ See [[AI4ES/AI4ES]]
 	- https://github.com/aimacode
 	- [Javascript visualization (and implementation) of algorithms](http://aimacode.github.io/aima-javascript/)
 - #BOOK [The quest for AI - A history of ideas and achievements (Nilson 2010, Cambridge)](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+
 ## Courses
 - #COURSE [Introduction to Artificial Intelligence (CS 188, Berkeley)](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 - #COURSE [Intro to AI (CS188 , UC Berkeley)](http://ai.berkeley.edu/home.html, )
@@ -129,3 +126,6 @@ See [[AI/FairAI]]
 
 ### Explainable AI
 See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]
+
+### Neuro-Symbolic AI
+See [[Neuro-symbolic AI]]

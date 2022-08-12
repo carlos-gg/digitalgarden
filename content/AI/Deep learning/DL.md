@@ -392,7 +392,7 @@ See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
 ### Deep learning for scientific discovery
-See relevant code in [[AI/Deep learning/DL#DL for science]]. See [[AI/Deep learning/Neural ODEs]]
+See [[AI/AI#AI for scientific discovery]], [[AI/Machine Learning#Machine learning for scientific discovery]], [[AI/Deep learning/Neural ODEs]], and relevant code in [[AI/Deep learning/DL#DL for science]]
 - #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
 - #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
 	- #CODE https://github.com/lululxvi/deepxde
