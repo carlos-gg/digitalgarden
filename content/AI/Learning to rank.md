@@ -15,6 +15,9 @@ title: "Learning to rank"
 - http://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/
 
 ## Code
+- #CODE [RAX](https://github.com/google/rax)
+	- #PAPER [Rax: Composable Learning-to-Rank using JAX (Jagerman 2022)](https://research.google/pubs/pub51453/#:~:text=Rax%20is%20a%20library%20for,rest%20of%20the%20JAX%20ecosystem.)
+	- https://www.marktechpost.com/2022/08/16/google-ai-open-sources-rax-a-python-library-for-ltr-learning-to-rank-in-the-jax-ecosystem/
 - #CODE [Adarank](https://github.com/rueycheng/AdaRank)
 - #CODE [Pyltr - LambdaMART](https://github.com/jma127/pyltr)
 - #CODE [Mord - Ordinal Regression in Python](https://github.com/fabianp/mord)

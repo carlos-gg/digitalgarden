@@ -188,6 +188,8 @@ See [[AI/Deep learning/DL#Deep learning for scientific discovery]] and [[AI/AI#A
 - #PAPER [Machine Learning for Scientific Discovery (Surana 2021)](https://arxiv.org/abs/2102.12712)
 - #PAPER [Machine Intelligence for Scientific Discovery and Engineering Invention (Daniels 2021)](https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/). White paper
 - #PAPER [Optimizing the synergy between physics and machine learning (2021)](https://www.nature.com/articles/s42256-021-00416-w). Editorial
+- #PAPER [Leakage and the Reproducibility Crisis in ML-based Science (Kapoor 2022)](https://arxiv.org/abs/2207.07048)
+	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
 
 ## Subtopics
