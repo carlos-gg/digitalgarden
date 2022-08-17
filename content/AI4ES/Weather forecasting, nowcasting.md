@@ -132,6 +132,7 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/abs/2202.11214)            
 	- [Accelerating Extreme Weather Prediction with FourCastNet](https://www.youtube.com/watch?v=nuT_U1AQz3g)
 	- #TALK [Building Digital Twins of the Earth for NVIDIA's Earth-2 Initiative](https://www.youtube.com/watch?v=IBTVAC82xtQ)
+	- #CODE https://github.com/NVlabs/FourCastNet
 	- #CODE (NOT OFFICIAL) https://github.com/HFAiLab/FourCastNet
 	- ERA5 0.25 deg, 20 variables, from 1979 (~50k training samples)
 	- Unparalleled accuracy at forecast lead times of up to one week, challenging variables such as surface winds and precipitation

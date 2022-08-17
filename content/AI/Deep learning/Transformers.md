@@ -12,6 +12,12 @@ title: "Transformers"
 	- #CODE https://github.com/sayakpaul/probing-vits
 - [Self-Supervised Learning in Vision Transformers](https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c)
 
+
+## Courses
+- #COURSE [CS25: Transformers United (Stanford)](https://web.stanford.edu/class/cs25/)
+	- [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
+
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
 	- thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
