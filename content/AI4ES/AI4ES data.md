@@ -55,6 +55,7 @@ See [[AI4ES/Extremes events#Databases]]
 - #PAPER [A High-Resolution Global Gridded Historical Dataset of Climate Extreme Indices (Mistry, 2019)](https://www.mdpi.com/2306-5729/4/1/41/htm)
 - #PAPER [ClimateNet: an expert-labelled open dataset and Deep Learning architecture for enabling high-precision analyses of extreme weather (Prabhat 2020)](https://gmd.copernicus.org/preprints/gmd-2020-72/) 
 	- https://portal.nersc.gov/project/ClimateNet/ 
+	- #CODE https://github.com/andregraubner/ClimateNet
 	- ClimateNet – an open, community-sourced human expert-labeled curated dataset – that captures tropical cyclones (TCs) and atmospheric rivers (ARs) in high-resolution climate model output from a simulation of a recent historical period
 	- The key contribution of this work is that it paves the way for DL-based automated, hi-fidelity and highly precise analytics of climate data using a curated expert-labelled dataset – ClimateNet
 	- https://cs.lbl.gov/news-media/news/2019/climatenet-aims-to-improve-machine-learning-applications-in-climate-science-on-a-global-scale/ 

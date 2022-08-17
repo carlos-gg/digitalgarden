@@ -9,6 +9,7 @@ title: "Transfer learning"
 ## Resources
 - https://en.wikipedia.org/wiki/Transfer_learning
 - https://github.com/artix41/awesome-transfer-learning
+- [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/index.html#usingpretrainedcnnfeatures)
 - [Domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation)
 	- Domain adaptation is a field associated with machine learning and transfer learning. This scenario arises when we aim at learning from a source data distribution a well performing model on a different (but related) target data distribution
 

@@ -13,7 +13,7 @@ title: "Multi-task learning"
 - https://en.wikipedia.org/wiki/Multi-task_learning
 	- Multitask Learning is an approach to inductive transfer that improves generalization by using the domain information contained in the training signals of related tasks as an inductive bias. It does this by learning tasks in parallel while using a shared representation; what is learned for each task can help other tasks be learned better
 	- Multi-task learning works because regularization induced by requiring an algorithm to perform well on a related task can be superior to regularization that prevents overfitting by penalizing all complexity uniformly
-
+- [An Overview of Multi-Task Learning in Deep Neural Networks](https://ruder.io/multi-task/)
 
 ## Courses
 - #COURSE [CS 330](https://cs330.stanford.edu/): Deep Multi-Task and Meta Learning (Stanford)
