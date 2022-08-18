@@ -21,6 +21,7 @@ title: "EO"
 
 ## Courses
 - #COURSE [Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
+- #COURSE [ESA MOOCs](https://eo4society.esa.int/training-education/massive-open-online-courses-moocs/)
 - #COURSE [ESA ML lectures 2018](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
 
 ## Data and benchmark datasets
