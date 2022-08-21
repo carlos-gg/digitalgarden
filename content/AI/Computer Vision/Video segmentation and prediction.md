@@ -64,3 +64,5 @@ title: "Video segmentation and prediction"
 - #PAPER [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin  Memory Model (Cheng 2022)](https://arxiv.org/pdf/2207.07115v2)
 	- #CODE https://github.com/hkchengrex/XMem
 	- https://hkchengrex.github.io/XMem/
+- #PAPER [MinVIS: A Minimal Video Instance Segmentation Framework without  Video-based Training (Huang 2022)](https://arxiv.org/pdf/2208.02245v1)
+	- #CODE https://github.com/NVlabs/MinVIS

@@ -51,6 +51,11 @@ title: "Probabilistic deep learning"
 - #BOOK [Probabilistic Deep Learning - With Python, Keras and TensorFlow Probability (Durr, MANNING 2020)](https://www.manning.com/books/probabilistic-deep-learning)
 	- https://tensorchiefs.github.io/dl_book/
 
+
+## Talks
+- #TALK [Uncertainty in deep learning (Olof Mogren)](https://www.youtube.com/watch?v=L8S5B6ojbwY)
+
+
 ## Courses
 - #COURSE [Introductory course on probabilistic graphical models](https://ermongroup.github.io/cs228-notes/)
 
