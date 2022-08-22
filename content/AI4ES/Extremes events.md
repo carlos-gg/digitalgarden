@@ -13,6 +13,7 @@ title: "Extremes events"
 	- [AI for Earth observation and numerical weather prediction](http://eo-alert-h2020.eu/2019/04/22/ai-for-earth-observation-and-numerical-weather-prediction/)
 - [National Meteorological Library and Archive Fact sheet 3 — Water in the atmosphere](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_3-water-in-the-atmosphere.pdf)
 - https://www.deeprain-project.de/en/publications-2/
+- [Severe weather Europe](https://www.severe-weather.eu/)
 
 ### Hurricanes
 - [Hurricanes Database](https://products.climate.ncsu.edu/weather/hurricanes/database/?search=year&yr=2017)
@@ -23,6 +24,11 @@ title: "Extremes events"
 - [2017 Conference on Fire Prediction Across Scales](http://extremeweather.columbia.edu/events/past-events/2017-conference-on-fire-prediction-across-scales/
 - [Climate Change Increases the Risk of Wildfires](https://sciencebrief.org/briefs/wildfires)
 - [Leverhulme Centre for Wildfires, Environment and Society](https://centreforwildfires.org/projects/) 
+
+### Atmospheric rivers
+- See ClimateNet dataset
+- https://en.wikipedia.org/wiki/Atmospheric_river
+- [About ARs (NOAA)](https://www.psl.noaa.gov/arportal/about/)
 
 
 ## Code
@@ -78,6 +84,12 @@ See [[AI4ES/AI4ES data#Extreme events labeled data]]
 - #PAPER [Skillful forecasting of global fire activity using seasonal climate predictions (Turco 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6045620/)
 	- See [[AI4ES/S2S]]
 - #PAPER [The Global Fire Atlas of individual fire size, duration, speed and direction (Andela 2019)](https://essd.copernicus.org/articles/11/529/2019/)
+
+### Atmospheric rivers
+- #PAPER [Daily Precipitation Extreme Events in the Iberian Peninsula and Its Association with Atmospheric Rivers (Ramos 2015)](https://journals.ametsoc.org/view/journals/hydr/16/2/jhm-d-14-0103_1.xml)
+- #PAPER [On the relationship between atmospheric rivers, weather types and floods in Galicia, NW Spain (Eiras-Barca 2018)](https://nhess.copernicus.org/articles/18/1633/2018/)
+- #PAPER [Predictive skill for atmospheric rivers in the western Iberian Peninsula (Ramos 2020)](https://nhess.copernicus.org/articles/20/877/2020/)
+- #PAPER [Atmospheric Rivers and Associated Precipitation over France and Western Europe: 1980–2020 Climatology and Case Study (Doiteau 2021)](https://www.mdpi.com/2073-4433/12/8/1075)
 
 ### Extreme events and Climate Change
 - [Extreme Climate and Weather Events in a Warmer World](https://kids.frontiersin.org/articles/10.3389/frym.2022.682759)
@@ -191,7 +203,7 @@ See [[AI/Supervised Learning/Supervised learning]]
 - #PAPER [Spatio-temporal segmentation and tracking of weather patterns with light-weight Neural Networks (Kapp-Schwoerer 2020)](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_55.pdf)
 	- Uses the ClimateNet [[AI4ES/AI4ES data#Extreme events labeled data]] and the CGNet architecture [[Semantic segmentation]]
 	- Weather pattern recognition by deep neural networks can work remarkably better than feature engineering, such as hand-crafted heuristics, used traditionally in climate science
-	- Deep Learning - based semantic segmentation of atmospheric rivers andtropical cyclones on the expert-annotated ClimateNet data set, and track individual events using a spatio-temporal overlapping approach
+	- Deep Learning - based semantic segmentation of atmospheric rivers and tropical cyclones on the expert-annotated ClimateNet data set, and track individual events using a spatio-temporal overlapping approach
 - #PAPER [HydroDeep -- A Knowledge Guided Deep Neural Network for Geo-Spatiotemporal Data Analysis (Sarkar 2020)](https://arxiv.org/abs/2010.04328)
 	- Application to floods
 	- This paper demonstrates a neural network architecture (HydroDeep) that couples a process-based hydro-ecological model with a combination of Deep Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) Network to build a hybrid baseline model
