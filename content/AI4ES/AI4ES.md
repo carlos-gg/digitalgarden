@@ -89,7 +89,6 @@ title: "AI4ES"
 ### AI for pattern recognition and spatio-temporal modelling
 - See [[AI/Computer Vision/Video segmentation and prediction]]
 - Extreme events identification. See [[AI4ES/Extremes events]]
-- See [[Weather forecasting, nowcasting#^e83f4e]]
 
 ### Climate models
 See [[AI4ES/ESMs, GCMs]], [[AI4ES/Ensembles, multi-models]] and [[AI4ES/Weather forecasting, nowcasting]], [[AI/Computer Vision/Image-to-image translation]], [[AI/Computer Vision/Video segmentation and prediction]] (next frame prediction) using the temporal dimension
@@ -148,8 +147,11 @@ See [[AI4ES/Emulators]]
 - #PAPER [Facilitating a smoother transition to renewable energy with AI (Chatterjee 2022)](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900125-8)
 - #PAPER [Universal Digital Twin: Integration of national-scale energy systems and climate data (Savage 2022)](https://www.cambridge.org/core/journals/data-centric-engineering/article/universal-digital-twin-integration-of-nationalscale-energy-systems-and-climate-data/EEBFDF0787319FC1A858BD3718F2B7A9)
 
-### Computational Fluid Dynamics (CFD)
- #PAPER [Accelerating urban scale simulations leveraging local spatial 3D structure (Iserte 2022)](https://www.sciencedirect.com/science/article/pii/S1877750322001326)
+#### Computational Fluid Dynamics (CFD)
+- #PAPER [Accelerating urban scale simulations leveraging local spatial 3D structure (Iserte 2022)](https://www.sciencedirect.com/science/article/pii/S1877750322001326)
+
+#### Climate change
+- See [[AI4ES/Climate change]]
 
 
 ## Infrastructure and data
