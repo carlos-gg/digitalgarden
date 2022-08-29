@@ -233,6 +233,12 @@ See [[AI/Unsupervised learning/Unsupervised learning]]
 - #PAPER [Bayesian Anomaly Detection and Classification (Roberts, 2019)](https://arxiv.org/abs/1902.08627)
 - #PAPER [A probabilistic gridded product for daily precipitation extremes over  the United States (Risser 2019)](https://arxiv.org/pdf/1807.04177)
 - #PAPER [Detection Uncertainty Matters for Understanding Atmospheric Rivers (Obrien 2020)](https://journals.ametsoc.org/view/journals/bams/101/6/BAMS-D-19-0348.1.xml)
+- #PAPER [Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data (Miloshevich 2022)](https://arxiv.org/abs/2208.00971)
+	- Demonstrate that DNNs have the ability to predict the probability of occurrence of long lasting 14-day heatwaves over France, up to 15 days ahead of time for fast dynamical drivers (500 hPa geopotential height fields), and also at much longer lead times for slow physical drivers (soil moisture)
+	- Used a 8,000-year dataset obtained from the Planet Simulator (PlaSim) climate model. The PlaSim model has physical parameterizations that are of a lesser quality compared to up-to-date climate models which are used for CMIP experiment
+	- Softmax parametrization is a way to output probabilities associated with a discrete variable
+	- Used a definition of heatwaves that actually involves a measure related to both the persistence and the amplitude of air temperature close to the ground. We thus define heatwave as time and area average of daily 2-meter temperature
+	- 3-layer CNN with ReLU activations and maxpool in between -> dense layer -> 2 outputs. Softmax function (not sigmoid? what about calibration of "probabilities")
 
 ### Active learning approaches
 See [[AI/Active learning]]
