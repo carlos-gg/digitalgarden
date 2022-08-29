@@ -227,6 +227,7 @@ See [[AI4ES/Pangeo]]
 	- https://app.wonder.me/?spaceId=7b51f530-f040-40ce-a108-f06b53c18752
 
 ### 2021
+- [Artificial Intelligence for Earth System Predictability](https://www.ai4esp.org/)
 - [Trustworthy Artificial Intelligence for Environmental Science (TAI4ES) Summer School](https://www2.cisl.ucar.edu/tai4es)
 	- [Recording and slides](https://docs.google.com/document/d/1qKGbbYKswzftWKmQpfMU08LTUmBjYXGO8XY9ueB782k/edit?usp=sharing)
 - [ESA-ECMWF WORKSHOP. Machine Learning for Earth System Observation and Prediction](https://nikal.eventsair.com/esa-ecmwf-workshop-2021/)
