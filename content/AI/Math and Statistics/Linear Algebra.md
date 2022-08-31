@@ -31,7 +31,7 @@ See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
 - [QR decomposition](https://en.wikipedia.org/wiki/QR_decomposition)
 
 #### SVD
-See [[SVD]]
+See [[AI/Math and Statistics/SVD]] and [[AI/Unsupervised learning/PCA]]
 
 ## Code
 - #CODE [Tensorly](https://github.com/tensorly/tensorly)

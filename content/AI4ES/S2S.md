@@ -149,6 +149,10 @@ MJO:
 - #PAPER [Seasonal Arctic sea ice forecasting with probabilistic deep learning (Andersson 2021)](https://www.nature.com/articles/s41467-021-25257-4)
 - #PAPER [Dynamical–statistical seasonal forecasts of winter and summer precipitation for the Island of Ireland (Goliam 2022)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7557)
 - #PAPER [Using Explainable Machine Learning Forecasts to Discover Subseasonal Drivers of High Summer Temperatures in Western and Central Europe (van Straatem 2022)](https://journals.ametsoc.org/view/journals/mwre/150/5/MWR-D-21-0201.1.xml)
+- #PAPER [Opportunistic Mixture Model for S2S Predictions of Temperature and Precipitation (Landry 2022)](http://s2sprediction.net/file/newsletter/Newsletter%2020_Aug%202022.pdf)
+	- #CODE https://github.com/crim-ca/crims2s
+	- #TALK https://www.bilibili.com/video/BV1Nv4y1K7Sy/
+	- https://events.ecmwf.int/event/294/contributions/3053/attachments/1748/3161/ML-WS_Landry.pdf
 
 ### Verification
 - [#BSC Seasonal forecasts quality assessment report (report by Marcos, ESS)](https://zenodo.org/record/2391735#.X_29a9Yo9qg)

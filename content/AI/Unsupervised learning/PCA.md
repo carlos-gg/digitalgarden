@@ -25,7 +25,7 @@ title: "Principal component analysis (PCA)"
 - This algorithm has constant memory complexity, on the order of `batch_size * n_features`, enabling use of np.memmap files without loading the entire file into memory. For sparse matrices, the input is converted to dense in batches (in order to be able to subtract the mean) which avoids storing the entire dense matrix at any one time.
 
 ### Robust PCA
-See [[Robust PCA]]
+See [[AI/Unsupervised learning/Robust PCA]]
 
 ### Multilinear PCA
 - https://en.wikipedia.org/wiki/Multilinear_principal_component_analysis
