@@ -103,6 +103,7 @@ Review papers:
 	- https://cega.berkeley.edu/research/mosaiks-a-generalizable-and-accessible-approach-to-machine-learning-with-global-satellite-imagery/
 	- #TALK https://cega.berkeley.edu/resource/video-afternoon-keynotes-catherine-wolfram-sol-hsiang-infra4dev-2020/
 	- ML system to tap the problem-solving potential of satellite imaging, using low-cost, easy-to-use technology that could bring access and analytical power to researchers and governments worldwide
+- #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
 
 
 ### Object detection/recognition

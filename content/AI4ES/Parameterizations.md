@@ -45,3 +45,4 @@ title: "Parameterizations"
 	- DNN scheme that surrogates the process-based wildfire model with the Energy Exascale Earth System Model (E3SM) interface. The DNN wildfire model accurately simulates observed burned area with over 90 % higher accuracy with a large reduction in parameterization time compared with the current process-based wildfire model
 	- DNN: seems to be a 5-layer MLP [[AI/Deep learning/MLPs]] with softplus activation. The surrogate DNN-Fire is improved by fine-tuning the weight parameters using observations
 	- The DNN wildfire model accurately simulates observed burned area with over 90 % higher accuracy with a large reduction in parameterization time compared with the current process-based wildfire model
+- #PAPER [Benchmarking of machine learning ocean subgrid parameterizations in an idealized model (Slavin Ross 2022)](https://www.essoar.org/doi/10.1002/essoar.10511742.1)

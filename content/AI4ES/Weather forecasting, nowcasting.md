@@ -146,3 +146,6 @@ title: "Weather forecasting, nowcasting"
 	- used pre-training (training on the large 20CRv3 reanalysis dataset spanning from 1836 to 1980, then transfer learning)
 	- using a interpretation technique called integrated gradients, we could attribute each variable’s contributions for a particular observation on a grid-point basis. This is especially important if we want to understand global climate processes better and explain drivers behind specific weather regimes that account for major uncertainty in NWP models days to weeks ahead
 - #PAPER [Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based U-NET in a case study with ERA5 (Chattopadhyay 2022)](https://gmd.copernicus.org/articles/15/2221/2022/)
+- #PAPER [Earthformer: Exploring Space-Time Transformers for Earth System Forecasting (Gao 2022)](https://arxiv.org/pdf/2207.05833)
+	- Earthformer is a space-time Transformer for Earth system forecasting. Earthformer is based on a generic, flexible and efficient space-time attention block, named Cuboid Attention
+	- The idea is to decompose the data into cuboids and apply cuboid-level self-attention in parallel. These cuboids are further connected with a collection of global vectors
