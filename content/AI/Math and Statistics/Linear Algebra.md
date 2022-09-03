@@ -2,8 +2,11 @@
 title: "Linear Algebra"
 ---
 
+> Mathematical discipline that deals with vectors and matrices and, more generally, with vector spaces and linear transformations
+
 ## Resources
 - https://en.wikipedia.org/wiki/Linear_algebra
+- https://www.britannica.com/science/linear-algebra
 - [The Matrix Cookbook (Brandt 2012)](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Stanford, Linear algebra refresher](https://stanford.edu/~shervine/teaching/cme-102/linear-algebra)
 - Stanford CS229, algebra and calculus refresher: 
@@ -14,7 +17,8 @@ title: "Linear Algebra"
 - http://nbviewer.jupyter.org/github/relopezbriega/relopezbriega.github.io/blob/master/downloads/LinearAlgebraPython.ipynb
 
 ### Matrix decompositions
-See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
+- See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
+- See [[AI/Math and Statistics/SVD]]
 - https://en.wikipedia.org/wiki/Matrix_decomposition
 - http://people.duke.edu/~ccc14/sta-663/LinearAlgebraMatrixDecompWithSolutions.html
 - http://hameddaily.blogspot.be/2016/12/simple-matrix-factorization-with.html
@@ -30,8 +34,6 @@ See [[AI/Unsupervised learning/Dimensionality reduction and low rank modeling]]
 - [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
 - [QR decomposition](https://en.wikipedia.org/wiki/QR_decomposition)
 
-#### SVD
-See [[AI/Math and Statistics/SVD]] and [[AI/Unsupervised learning/PCA]]
 
 ## Code
 - #CODE [Tensorly](https://github.com/tensorly/tensorly)

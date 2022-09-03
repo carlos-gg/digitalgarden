@@ -15,7 +15,7 @@ title: "Principal component analysis (PCA)"
 	- http://jotterbach.github.io/2016/03/24/Principal_Component_Analysis/ 
 
 ### PCA and SVD
-- Link between [[SVD]] and PCA: the eigenvectors of DDT are simply the left singular vectors of D. SVD gives us also the eigenvectors of DTD, useful for rows  instead of columns notation (python notation)
+- Link between [[AI/Math and Statistics/SVD]] and [[AI/Unsupervised learning/PCA]]: the eigenvectors of DDT are simply the left singular vectors of D. SVD gives us also the eigenvectors of DTD, useful for rows  instead of columns notation (python notation)
 - http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues 
 - https://www.quora.com/What-is-an-intuitive-explanation-of-singular-value-decomposition-SVD
 - https://stats.stackexchange.com/questions/10251/what-is-the-objective-function-of-pca

@@ -2,8 +2,12 @@
 title: "Singular Value Decomposition (SVD)"
 ---
 
+> The singular value decomposition (SVD) is a factorization of a real or complex matrix. It generalizes the eigendecomposition of a square normal matrix with an orthonormal eigenbasis to any `m x n` matrix
+
+> See [[AI/Unsupervised learning/PCA#PCA and SVD]]
+
 ## Resources
-- [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
+- https://en.wikipedia.org/wiki/Singular_value_decomposition
 - https://mathworld.wolfram.com/SingularValueDecomposition.html
 - [Geometric explanation of SVD and applications](http://www.ams.org/publicoutreach/feature-column/fcarc-svd)
 - [Cool Linear Algebra: Singular Value Decomposition](https://andrew.gibiansky.com/blog/mathematics/cool-linear-algebra-singular-value-decomposition/)

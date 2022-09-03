@@ -161,7 +161,7 @@ title: "Natural Language Processing (NLP)"
 #### Distributional semantics
 - General recipe:
 	- form a word-context matrix of counts (data)
-	- perform dimensionality reduction (SVD) for generalization
+	- perform dimensionality reduction ([[AI/Math and Statistics/SVD]]) for generalization
 - For LSA the context is the document where the word appears.
 - For word2vec the context is just a work, nearby words (in some window)  in a document.
 - [Latent semantic analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
