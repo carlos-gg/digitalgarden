@@ -15,7 +15,8 @@ title: "Generative modeling"
 ## Courses
 - #COURSE [Deep Generative Modeling: VAEs and GANs (MIT 6.S191)](https://www.youtube.com/watch?v=rZufA635dq4&t=1062s)
 - #COURSE [Deep Generative Models (Stanford CS236 - Fall 2021)](https://deepgenerativemodels.github.io/)
-- #COURSE Deep Generative Models [lecture (Carnegie Mellon University)](https://www.youtube.com/watch?v=qEbYtPhG768)
+- #COURSE [Deep Generative Models lecture (Carnegie Mellon University)](https://www.youtube.com/watch?v=qEbYtPhG768)
+
 
 ## Subtopics
 ### Autoencoders
@@ -31,7 +32,13 @@ See [[AI/Deep learning/Normalizing flows]]
 See [[AI/Deep learning/Diffusion models]]
 
 ### Generative models for Image data
-See [[AI/Computer Vision/Image-to-image translation]], "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]], "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]], "For Computer Vision" section in [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Diffusion models]]
+See: 
+- [[AI/Computer Vision/Image-to-image translation]]
+- "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
+- "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]
+- "For Computer Vision" section in [[AI/Deep learning/Transformers]] 
+- [[AI/Deep learning/Diffusion models]]
+- [[AI/Deep learning/Multimodal learning]]
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
@@ -48,7 +55,7 @@ See [[AI/Computer Vision/Image-to-image translation]], "GAN-based" section in [[
 - #PAPER [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models (Grathwohl 2018)](https://arxiv.org/abs/1810.01367 )
 - #PAPER [Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks (Dupont 2018)](http://arxiv.org/abs/1802.03065) ^dupont18
 	- Using G and D we want to generate realistic images conditioned on a set of known pixels
-	- Total loss is a combination of a Prior loss (high score of generated images from D) and a Contexet loss (generated image should match the known pxs)
+	- Total loss is a combination of a Prior loss (high score of generated images from D) and a Context loss (generated image should match the known pxs)
 	- For the Context loss, a mask is used with smoothing
 - #PAPER [Parametric generation of conditional geological realizations using generative neural networks (Chan 2019)](https://link.springer.com/article/10.1007%2Fs10596-019-09850-7) ^chan19
 - #PAPER [Parametrization of Stochastic Inputs Using Generative Adversarial Networks With Application in Geology (Chan 2020)](https://www.frontiersin.org/articles/10.3389/frwa.2020.00005/full) ^chan20
@@ -62,6 +69,4 @@ See [[AI/Computer Vision/Image-to-image translation]], "GAN-based" section in [[
 - #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)
 - #PAPER [Autoregressive Image Generation using Residual Quantization (Lee 2022)](https://arxiv.org/pdf/2203.01941v2)            
 	- #CODE https://github.com/kakaobrain/rq-vae-transformer
-- #PAPER [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis (Wu 2022)](https://arxiv.org/pdf/2207.09814)
-	- #CODE https://github.com/microsoft/NUWA
-	- https://nuwa-infinity.microsoft.com/#/
+- #PAPER [High-Resolution Image Synthesis with Latent Diffusion Models (Rombach 2022)](https://arxiv.org/pdf/2112.10752)

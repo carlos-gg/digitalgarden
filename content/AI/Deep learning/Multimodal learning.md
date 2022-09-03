@@ -8,6 +8,14 @@ title: "Multimodal learning, Foundation models"
 - [Multimodal Deep Learning](https://multimodal-dl.mpi-inf.mpg.de/)
 - https://paperswithcode.com/methods/category/vision-and-language-pre-trained-models
 - [Vision Language models: towards multi-modal deep learning](https://theaisummer.com/vision-language-models/)
+- [AI Image Generators Compared Side-By-Side Reveals Stark Differences](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/)
+
+### Models
+- [Midjourney](https://www.midjourney.com/home/)
+- [DALLE-2](https://openai.com/dall-e-2/)
+- [IMAGEN](https://imagen.research.google/)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+	- https://stability.ai/blog/stable-diffusion-announcement
 
 ## Code
 - #CODE [Pykale (in pytorch)](https://github.com/pykale/pykale)
@@ -44,16 +52,20 @@ Review papers:
 	- New approach, inspired by large-scale language models, that acts a single generalist agent. The agent, called Gato, is built to work as a multi-modal, multi-task, multi-embodiment generalist policy
 - #PAPER [Language Models are General-Purpose Interfaces (Hao 2022)](https://arxiv.org/pdf/2206.06336v1)
 	- #CODE https://github.com/microsoft/unilm
+- #PAPER [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis (Wu 2022)](https://arxiv.org/pdf/2207.09814)
+	- #CODE https://github.com/microsoft/NUWA
+	- https://nuwa-infinity.microsoft.com/#/
 
 ### Vision and language models
 Review papers:
 - #PAPER [A Survey of Vision-Language Pre-Trained Models (Du 2022)](https://arxiv.org/pdf/2202.10936)            
+- #PAPER [The Creativity of Text-to-Image Generation (Oppenlaender 2022)](https://arxiv.org/pdf/2206.02904)
 
-- #PAPER [DALL-E - Creating Images from Text (Ramesh 2021)](https://openai.com/blog/dall-e/) ^dall-e
+- #PAPER [DALL-E - Creating Images from Text (Ramesh 2021)](https://openai.com/blog/dall-e/)
 	- https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/
 	- [Blogpost explained](https://www.youtube.com/watch?v=j4xgkjWlfL4)
 	- #CODE https://github.com/EleutherAI/DALLE-mtf
-	- Multi-modal text and speech
+	- Multi-modal text and vision
 	- [DALL-E mini](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA)
 - #PAPER [Learning Transferable Visual Models From Natural Language Supervision (Radford 2021)](https://arxiv.org/pdf/2103.00020v1)            
 	- #CODE https://paperswithcode.com/paper/learning-transferable-visual-models-from#code
