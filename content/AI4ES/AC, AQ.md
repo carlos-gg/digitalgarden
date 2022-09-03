@@ -12,6 +12,8 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 - [Air Quality e-Reporting](https://www.eea.europa.eu/data-and-maps/data/aqereporting-9)
 
 ### Methane emission sources
+- [The MEthane Tracking Emissions Reference (METER) database](https://meterplatform.web.app/)
+	- The METER database combines public data set aggregation, crowdsourcing, and artificial intelligence to create a freely available, global repository of methane-emitting infrastructure
 - [GHGsat](https://www.bloomberg.com/news/articles/2021-02-12/new-climate-satellite-spotted-giant-methane-leak-as-it-happened)
 - Methane tracker: 
 	- https://www.iea.org/articles/global-methane-emissions-from-oil-and-gas
@@ -61,6 +63,10 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- In addition to a better spatial representation of emission sources and especially hotspots, the air quality modeling results show that UrbEm outputs, when compared to a uniform spatial disaggregation, have an impact on NO2 predictions up to 70% for urban regions with complex topographies, which corresponds to a big improvement of model accuracy (FAC2 > 0.5), especially at the source-impacted sites 
 - #PAPER [MethaNet – An AI-driven approach to quantifying methane point-source emission from high-resolution 2-D plume imagery (Jongaramrungruang 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0034425721005290?casa_token=Rr8iWs71uhYAAAAA:D4PWThLU5hKi7khAv3yk23pR76hR81P5dTDSUjLJrF5SPL2r76hZE3YkHOGPzapU64pAzzHuAgU#!)
 - #PAPER [Single-blind validation of space-based point-source methane emissions detection and quantification (Sherwin 2022)](https://eartharxiv.org/repository/view/3465/)
+- #PAPER [METER-ML: A Multi-sensor Earth Observation Benchmark for Automated Methane Source Mapping (Zhu 2022)](https://stanfordmlgroup.github.io/projects/meter-ml/)
+	- multi-sensor Earth observation dataset containing georeferenced images in the U.S. labeled for the presence or absence of six methane source facilities
+
+
 
 
 
