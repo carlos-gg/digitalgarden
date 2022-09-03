@@ -16,6 +16,8 @@ title: "Multimodal learning, Foundation models"
 - [IMAGEN](https://imagen.research.google/)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 	- https://stability.ai/blog/stable-diffusion-announcement
+	- [DreamStudio](https://beta.dreamstudio.ai) 
+
 
 ## Code
 - #CODE [Pykale (in pytorch)](https://github.com/pykale/pykale)
