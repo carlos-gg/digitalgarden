@@ -24,6 +24,14 @@ title: AI for good (AI4G)
 - [Why AI for social good is a thing (podcast)](https://www.techtarget.com/searchcio/podcast/Why-AI-for-social-good-is-a-thing)
 - [Is the Purpose of Artificial Intelligence to Sell Sugar Water?](https://medium.com/intuitionmachine/is-the-purpose-of-ai-to-sell-sugar-water-e6466d574ec0)
 
+### Climate (change) applications
+- See [[AI4ES/AI4ES]]
+- [A running list of 200+ companies hiring for geospatial & climate-tech roles](https://www.linkedin.com/pulse/running-list-200-companies-hiring-geospatial-roles-ali-ahmadalipour/)
+- [ClimateChangeAI](https://forum.climatechange.ai/)
+- [Work on Climate](https://workonclimate.org/)
+- [AI for the planet](https://www.aifortheplanet.org/en)
+- [Predictive Analytics World - Climate](https://predictiveanalyticsworldclimate.com/agenda/2022-north-america/)
+	- [Videos](https://www.youtube.com/playlist?list=PLGRPEjgVM822OQnBvo2AmSCgagMnGVSLj)
 
 ### Sustainable Development Goals (SDGs)
 - [United Nations SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
