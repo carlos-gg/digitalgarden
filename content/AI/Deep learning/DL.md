@@ -19,7 +19,8 @@ title: "Deep Learning (DL)"
 - [Time Benchmark of models](https://dawn.cs.stanford.edu/benchmark/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
-
+- [No, We Don't Have to Choose Batch Sizes As Powers Of 2](https://sebastianraschka.com/blog/2022/batch-size-2.html)
+	- https://www.youtube.com/watch?v=81ES7IguZo4
 
 ### DL news aggregators
 - [DeepAI](https://deepai.org/)

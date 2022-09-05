@@ -173,8 +173,8 @@ See [[AI4ES/AI4ES data]]
 ## Code
 See [[AI4ES/Pangeo]]
 - #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
-- #CODE [xcast](https://github.com/kjhall01/xcast)
-	- A High-Performance Data Science Toolkit for the Earth Sciences
+- #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
+- #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences
 - #CODE [climate_indices](https://github.com/monocongo/climate_indices)
 	- Climate indices for drought monitoring, community reference implementations in Python
 - #CODE [CliMetLab - Python package to easy access to weather and climate data](https://github.com/ecmwf/climetlab)
