@@ -78,8 +78,6 @@ Review papers:
 	- Future challenges in ML for space weather: The information problem, The gray‐box problem, The surrogate problem (What components in the Space Weather chain can be replaced by an approximated black‐box surrogate model?), The uncertainty problem (Assessing the uncertainty associated to Weather predictions), The too often too quiet problem (data sets are typically imbalanced. Use synthetic data? Use simulated data), The knowledge discovery problem (How do we distill some knowledge from a machine learning model and improve our understanding of a given system? How do we open the black‐box and reverse‐engineer a machine learning algorithm?)
 - #PAPER [Machine Learning for Precipitation Nowcasting from Radar Images (Agrawal 2019)](https://arxiv.org/abs/1912.12132)
 	- https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html
-- #PAPER [Feature Extraction and Classification Based on Spatial-Spectral ConvLSTM Neural Network for Hyperspectral Images (Hu 2019)](https://arxiv.org/abs/1905.03577)
-	- ConvLSTM 3-D
 - #PAPER [DL meets SAR (Xiang Zhu 2020)](https://arxiv.org/abs/2006.10027v1)
 - #PAPER [Sentinel-2 Sharpening via Parallel Residual Network (Wu 2020)](https://www.mdpi.com/2072-4292/12/2/279/htm)
 - #PAPER [Spectral Variability in Hyperspectral Data Unmixing: A Comprehensive Review (Borsoi 2020)](http://arxiv.org/abs/2001.07307)
@@ -105,7 +103,6 @@ Review papers:
 	- ML system to tap the problem-solving potential of satellite imaging, using low-cost, easy-to-use technology that could bring access and analytical power to researchers and governments worldwide
 - #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
 
-
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
 - #PAPER [Object Detection in Remote Sensing Images Based on Improved Bounding Box Regression and Multi-Level Features Fusion (Qian 2020)](https://www.mdpi.com/2072-4292/12/1/143/htm)
@@ -114,9 +111,11 @@ Review papers:
 	- computer vision-based pipeline leveraging aerial imagery with a spatial resolution of 10 cm/pixel and 3D building data to automatically create address-level PV registries for all counties within Germany's most populous state North Rhine-Westphalia
 - #PAPER FAIR1M (see [[AI4ES/AI4ES data#EO and Satellite data]])
 
-
-### Semantic segmentation
+### Semantic Segmentation and Hyperspectral Image Classification
 - #PAPER [Multi3Net: Segmenting Flooded Buildings via Fusion of Multiresolution, Multisensor, and Multitemporal Satellite Imagery (Rudner 2018)](https://arxiv.org/abs/1812.01756)
+- #PAPER [Feature Extraction and Classification Based on Spatial-Spectral ConvLSTM Neural Network for Hyperspectral Images (Hu 2019)](https://arxiv.org/abs/1905.03577)
+	- ConvLSTM 3-D
+- #PAPER [Semantic segmentation of slums in satellite images using transfer learning on fully convolutional neural networks (Wurm 2019)](https://www.sciencedirect.com/science/article/pii/S0924271619300383)
 - #PAPER [Wide-Area Land Cover Mapping with Sentinel-1 Imagery using DL Semantic Segmentation Models (Scepanovic 2020)](https://arxiv.org/abs/1912.05067v2)
 - #PAPER [Dense Dilated Convolutions Merging Network for Land Cover Classification (Liu 2020)](https://arxiv.org/abs/2003.04027v1)
 - #PAPER [Continental-Scale Building Detection from High Resolution Satellite Imagery (Sirko 2021)](https://arxiv.org/abs/2107.12283)
@@ -125,7 +124,7 @@ Review papers:
 - #PAPER [A Dual Network for Super-Resolution and Semantic Segmentation of Sentinel-2 Imagery (Abadal 2021)](https://www.mdpi.com/2072-4292/13/22/4547/htm)
 	- https://imatge.upc.edu/web/publications
 - #PAPER [Evaluation of Semantic Segmentation Methods for Land Use with Spectral Imaging Using Sentinel-2 and PNOA Imagery (Pedrayes 2021)](https://www.mdpi.com/2072-4292/13/12/2292/htm)
-- #PAPER [Semantic segmentation of slums in satellite images using transfer learning on fully convolutional neural networks (Wurm 2019)](https://www.sciencedirect.com/science/article/pii/S0924271619300383)
+- #PAPER [Deep Residual Involution Network for Hyperspectral Image Classification (Meng 2021)](https://www.mdpi.com/2072-4292/13/16/3055/htm)
 
 ### Super-resolution
 See [[Super-resolution]] and [[AI4ES/Statistical downscaling]]
