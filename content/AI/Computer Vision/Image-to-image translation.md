@@ -11,8 +11,7 @@ title: "Image-to-image translation"
 - [Deep Domain Adaptation In Computer Vision](https://towardsdatascience.com/deep-domain-adaptation-in-computer-vision-8da398d3167f)
 
 ## References
-Review papers:
-- #PAPER [Image-to-Image Translation: Methods and Applications (Pang 2021)](https://arxiv.org/abs/2101.08629)
+- #PAPER #REVIEW [Image-to-Image Translation: Methods and Applications (Pang 2021)](https://arxiv.org/abs/2101.08629)
 
 
 ### CNN-based
@@ -21,7 +20,7 @@ See [[AI/Deep learning/Encoder-decoder networks]]
 
 
 ### GAN-based
-See "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]
+See [[AI/Deep learning/GANs#GANs for representation learning and image synthesis]]
 - #PAPER [Deep Generative Adversarial Networks for Image-to-Image Translation: A Review (Alotaibi 2020)](https://www.mdpi.com/2073-8994/12/10/1705/htm#) ^I2IGANs20
 	- The powerful ability of deep feature learning to automatically utilize complex and high-level feature representations has significantly advanced the performance of state-of-the-art methods across computer applications
 	- The underlying structure and distinctive (complex) features are both discovered via deep learning-based methods that can be classified further into discriminative feature-learning algorithms and generative feature-learning algorithms

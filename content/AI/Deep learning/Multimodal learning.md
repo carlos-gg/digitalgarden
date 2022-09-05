@@ -28,10 +28,8 @@ title: "Multimodal learning, Foundation models"
 
 
 ## References
-Review papers:
-- #PAPER [Recent Advances and Trends in Multimodal Deep Learning: A Review (Summaira 2021)](https://arxiv.org/abs/2105.11087)
-
 - #PAPER [Multi-modal Transformer for Video Retrieval (Gabeur 2020)](https://arxiv.org/abs/2007.10639)
+- #PAPER #REVIEW [Recent Advances and Trends in Multimodal Deep Learning: A Review (Summaira 2021)](https://arxiv.org/abs/2105.11087)
 - #PAPER [Perceiver: General Perception with Iterative Attention (Jaegle 2021)](https://arxiv.org/abs/2103.03206)
 	- https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/
 	- Multi-model with image, audio, video, 3d point clouds
@@ -59,10 +57,6 @@ Review papers:
 	- https://nuwa-infinity.microsoft.com/#/
 
 ### Vision and language models
-Review papers:
-- #PAPER [A Survey of Vision-Language Pre-Trained Models (Du 2022)](https://arxiv.org/pdf/2202.10936)            
-- #PAPER [The Creativity of Text-to-Image Generation (Oppenlaender 2022)](https://arxiv.org/pdf/2206.02904)
-
 - #PAPER [DALL-E - Creating Images from Text (Ramesh 2021)](https://openai.com/blog/dall-e/)
 	- https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/
 	- [Blogpost explained](https://www.youtube.com/watch?v=j4xgkjWlfL4)
@@ -90,3 +84,5 @@ Review papers:
 	- #CODE https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models
 - #PAPER [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (Lu 2022)](https://arxiv.org/pdf/2206.08916)
 	- https://unified-io.allenai.org/
+- #PAPER #REVIEW [A Survey of Vision-Language Pre-Trained Models (Du 2022)](https://arxiv.org/pdf/2202.10936)            
+- #PAPER #REVIEW [The Creativity of Text-to-Image Generation (Oppenlaender 2022)](https://arxiv.org/pdf/2206.02904)

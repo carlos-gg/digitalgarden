@@ -25,10 +25,8 @@ title: "Gaussian Process"
 	- https://secondmind-labs.github.io/GPflux/tutorials.html
 
 
-## Books and review papers
+## Books
 - #BOOK [Bayesian Optimization Book (Garnett 2021)](https://bayesoptbook.com/)
-- #PAPER [An Intuitive Tutorial to Gaussian Processes Regression (Wang 2021)](https://arxiv.org/abs/2009.10862)
-- #PAPER [Deep Gaussian Processes: A Survey (Jakkala 2021)](https://arxiv.org/abs/2106.12135)
 
 
 ## References
@@ -41,3 +39,5 @@ title: "Gaussian Process"
 	- https://github.com/kekeblom/DeepCGP/blob/master/notebooks/Inspect.ipynb
 - #PAPER [Gaussian processes meet NeuralODEs: A Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data (Aziz Bhouri 2021)](https://arxiv.org/abs/2103.03385)
 	- #CODE https://github.com/PredictiveIntelligenceLab/GP-NODEs
+- #PAPER #REVIEW [An Intuitive Tutorial to Gaussian Processes Regression (Wang 2021)](https://arxiv.org/abs/2009.10862)
+- #PAPER #REVIEW [Deep Gaussian Processes: A Survey (Jakkala 2021)](https://arxiv.org/abs/2106.12135)

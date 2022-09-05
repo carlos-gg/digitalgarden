@@ -12,12 +12,10 @@ title: "Inpainting and restoration"
 - [GANs and Missing Data Imputation](https://towardsdatascience.com/gans-and-missing-data-imputation-815a0cbc4ece)
 
 ## References
-Review papers:
-- #PAPER [Image inpainting: A review (Elharrouss 2019)](https://arxiv.org/abs/1909.06399)
+- #PAPER #REVIEW [Image inpainting: A review (Elharrouss 2019)](https://arxiv.org/abs/1909.06399)
 
 ### CNN-based
 See [[AI/Computer Vision/Deep image prior]]
-
 - #PAPER [Feature Learning by Inpainting (Pathak 2016)](https://arxiv.org/abs/1604.07379v1)
 	- #CODE https://github.com/pathak22/context-encoder
 - #PAPER [Image Inpainting for Irregular Holes Using Partial Convolutions (Liu 2018)](https://arxiv.org/abs/1804.07723)

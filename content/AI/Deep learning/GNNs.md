@@ -37,17 +37,15 @@ title: "Graph neural networks (GNNs)"
 	- https://towardsdatascience.com/beyond-graph-neural-networks-with-pyneuralogic-c1e6502c46f7
 
 ## References
-Review papers:
-- #PAPER [A Comprehensive Survey on Graph Neural Networks (Wu 2019)](https://arxiv.org/pdf/1901.00596)
-- #PAPER [Graph neural networks: A review of methods and applications (Zhou 2020)](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
-
 - #PAPER [Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting (Diao 2019)](https://www.aaai.org/ojs/index.php/AAAI/article/view/3877)
 - #PAPER [A Comprehensive Survey on Graph Neural Networks (Wu 2019)](https://arxiv.org/abs/1901.00596)
+- #PAPER #REVIEW [A Comprehensive Survey on Graph Neural Networks (Wu 2019)](https://arxiv.org/pdf/1901.00596)
 - #PAPER [Graph Neural Networks for Decentralized Controllers (Gama 2020)](https://arxiv.org/abs/2003.10280 )
 - #PAPER [Learning to Simulate Complex Physics with Graph Networks (Sanchez-Gonzalez 2020)](https://arxiv.org/abs/2002.09405)
 	- [Two minute papers](https://www.youtube.com/watch?v=2Bw5f4vYL98)
 - #PAPER [DeepSphere: a graph-based spherical CNN (Defferrard 2020)](https://arxiv.org/abs/2012.15000) ^deepsphere
 	- #CODE https://github.com/deepsphere
+- #PAPER #REVIEW [Graph neural networks: A review of methods and applications (Zhou 2020)](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
 - #PAPER [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization (Ding 2021)](https://arxiv.org/abs/2110.14363)
 - #PAPER [Nested Graph Neural Networks (Zhang 2021)](https://arxiv.org/abs/2110.13197)
 	- #CODE https://paperswithcode.com/paper/nested-graph-neural-networks?from=n19
@@ -63,9 +61,7 @@ Review papers:
 	- https://www.marktechpost.com/2022/06/08/researchers-from-china-introduce-vision-gnn-vig-a-graph-neural-network-for-computer-vision-systems/
 
 ### Graph convolutional networks
-Review papers:
-- #PAPER [Graph Neural Networks: A Review of Methods and Applications (Zhou 2019)](https://arxiv.org/abs/1812.08434)
-
 - #PAPER [Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016)](https://arxiv.org/abs/1612.07659)
 	- Graph Convolutional Recurrent Network (GCRN)
 - #PAPER [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting (Yu 2018)](https://arxiv.org/abs/1709.04875 )
+- #PAPER #REVIEW [Graph Neural Networks: A Review of Methods and Applications (Zhou 2019)](https://arxiv.org/abs/1812.08434)

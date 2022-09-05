@@ -51,10 +51,6 @@ title: "Generative Adversarial Networks (GANs)"
 
 
 ## References
-Review papers:
-- #PAPER [A Survey on Generative Adversarial Networks: Variants, Applications,and Training (Jabbar 2020)](https://arxiv.org/abs/2006.05132)
-- #PAPER [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (Gui 2020)](https://arxiv.org/abs/2001.06937)
-
 - #PAPER [Generative Adversarial Networks (Goodfellow 2014)](http://arxiv.org/abs/1406.2661)
 	- [Paper explained](https://www.youtube.com/watch?v=eyxmSmjmNS0)
 - #PAPER [GAN to convert text descriptions into images (Reed 2016)](https://arxiv.org/abs/1605.05396)
@@ -83,6 +79,8 @@ Review papers:
 - #PAPER [HoloGAN: Unsupervised learning of 3D representations from natural images (Nguyen-Phuoc 2019)](https://arxiv.org/abs/1904.01326 )
 	- https://www.monkeyoverflow.com/#/hologan-unsupervised-learning-of-3d-representations-from-natural-images/ 
 	- #TALK https://www.youtube.com/watch?v=z2DnFOQNECM
+- #PAPER #REVIEW [A Survey on Generative Adversarial Networks: Variants, Applications,and Training (Jabbar 2020)](https://arxiv.org/abs/2006.05132)
+- #PAPER #REVIEW [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (Gui 2020)](https://arxiv.org/abs/2001.06937)
 - #PAPER [Implicit competitive regularization in GANs (Schafer 2020)](https://arxiv.org/abs/1910.05852)
 - #PAPER [Training Generative Adversarial Networks with Limited Data (Karras 2020)](https://arxiv.org/abs/2006.06676)
 - #PAPER [Gradient-Guided Dynamic Efficient Adversarial Training (Waag 2021)](https://arxiv.org/abs/2103.03076)

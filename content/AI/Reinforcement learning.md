@@ -9,6 +9,7 @@ title: "Reinforcement learning (RL)"
 - Reinforcement learning is the task of learning what actions to take, given a certain situation/environment, so as to maximize a reward signal. The interesting difference between supervised and reinforcement learning is that this reward signal simply tells you whether the action (or input) that the agent takes is good or bad. It doesn’t tell you anything about what the best action is. Contrast this to CNNs where the corresponding label for each image input is a definite instruction of what the output should be for each input. Another unique component of RL is that an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step.
 - [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html)
 - [Andrej Karpathy's introduction to RL](http://karpathy.github.io/2016/05/31/rl/)
+- [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 - [Evolution strategies vs RL](https://blog.openai.com/evolution-strategies/)
 	- https://github.com/openai/evolution-strategies-starter
 - [Reinforcement learning derivations (math)](http://www.alexirpan.com/rl-derivations/)
@@ -53,16 +54,6 @@ title: "Reinforcement learning (RL)"
 
 
 ## References
-### Deep RL
-- [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
-
-Review papers:
-- #PAPER [A Brief Survey of Deep Reinforcement Learning (Arulkumaran 2017)](https://arxiv.org/abs/1708.05866)
-	- Many of the successes in DRL have been based on scaling up prior work in RL to high-dimensional problems. This is due to the learning of low-dimensional feature representations and the powerful function approximation properties of neural networks. By means of representation learning, DRL can deal efficiently with the curse of dimensionality, unlike tabular and traditional non-parametric methods.
-	- https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning
-- #PAPER [An Introduction to Deep Reinforcement Learning (Fancois-Lavet 2018)](https://arxiv.org/abs/1811.12560)
-- #PAPER [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (Levine 2020)](https://arxiv.org/abs/2005.01643)
-
 - #PAPER [DQN: Human-level control through Deep Reinforcement Learning (Mnih 2015)](https://deepmind.com/research/dqn/)
 	- https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 - #PAPER [Learning to Optimize (Li 2016)](https://arxiv.org/abs/1606.01885)
@@ -74,10 +65,15 @@ Review papers:
 	- The agent uses a semi-tabular representation of the value function: a buffer of past experience containing slowly changing state representations and rapidly updated estimates of the value function
 	- https://www.technologyreview.es/s/6656/olvidese-del-aprendizaje-profundo-el-nuevo-enfoque-de-google-funciona-mucho-mejor
 	- [Explanation of Neural Episodic Control](https://rylanschaeffer.github.io/content/research/neural_episodic_control/main.html)
+- #PAPER #REVIEW [A Brief Survey of Deep Reinforcement Learning (Arulkumaran 2017)](https://arxiv.org/abs/1708.05866)
+	- Many of the successes in DRL have been based on scaling up prior work in RL to high-dimensional problems. This is due to the learning of low-dimensional feature representations and the powerful function approximation properties of neural networks. By means of representation learning, DRL can deal efficiently with the curse of dimensionality, unlike tabular and traditional non-parametric methods.
+	- https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning
+- #PAPER #REVIEW [An Introduction to Deep Reinforcement Learning (Fancois-Lavet 2018)](https://arxiv.org/abs/1811.12560)
 - #PAPER [Supervising strong learners by amplifying weak experts (Christiano 2018)](https://arxiv.org/abs/1810.08575)
 	- [Learning Complex Goals with Iterated Amplification](https://blog.openai.com/amplifying-ai-training/)
 - #PAPER [MuZero - Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (Schrittwieser 2019)](https://deepmind.com/research/publications/MasterinModel)
 	- https://medium.com/dataseries/deepminds-muzero-is-one-of-the-most-important-deep-learning-systems-ever-created-347442a6793g-Atari-Go-Chess-and-Shogi-by-Planning-with-a-Learned-
+- #PAPER #REVIEW [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (Levine 2020)](https://arxiv.org/abs/2005.01643)
 - #PAPER [Decision Transformer: Reinforcement Learning via Sequence Modeling (Chen 2021)](https://arxiv.org/abs/2106.01345v1) ^decisiontransformer
 	- #CODE https://paperswithcode.com/paper/decision-transformer-reinforcement-learning
 	- [Paper explained](https://www.youtube.com/watch?v=-buULmf7dec)

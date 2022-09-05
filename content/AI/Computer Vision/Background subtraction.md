@@ -18,17 +18,14 @@ title: "Background subtraction"
 	- Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos 
 
 ## References
-Review papers:
-- #PAPER [A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos](https://www.sciencedirect.com/science/article/pii/S1077314213002361)
-- #PAPER [Traditional and recent approaches in background modeling for foreground detection: An overview](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
-
-- #PAPER [Mixture of Gaussians models. Adaptive background mixture models for real-time tracking](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)
-- #PAPER [ViBe: A Universal Background Subtraction Algorithm for Video Sequences](http://ieeexplore.ieee.org/document/5672785/)
-- #PAPER [PBAS - Background Segmentation with Feedback: The Pixel-Based Adaptive Segmenter](http://ieeexplore.ieee.org/document/6238925/)
-- #PAPER Background Subtraction For Visual Surveillance: A Fuzzy Approach
-	- https://hal.archives-ouvertes.fr/hal-00811434
+- #PAPER [Mixture of Gaussians models. Adaptive background mixture models for real-time tracking (Straufer 1998)](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)
+- #PAPER [ViBe: A Universal Background Subtraction Algorithm for Video Sequences (Barnich 2011)](http://ieeexplore.ieee.org/document/5672785/)
+- #PAPER [PBAS - Background Segmentation with Feedback: The Pixel-Based Adaptive Segmenter (Hoffman 2012)](http://ieeexplore.ieee.org/document/6238925/)
+- #PAPER [Background Subtraction For Visual Surveillance: A Fuzzy Approach (Bouwmans 2012)](https://hal.archives-ouvertes.fr/hal-00811434)
 	- http://www.academia.edu/download/36330997/ChapterFuzzy.pdf
-- #PAPER [Robust Principal Component Analysis for Background Subtraction: Systematic Evaluation and Comparative Analysis](https://www.intechopen.com/books/principal-component-analysis/robust-principal-component-analysis-for-background-subtraction-systematic-evaluation-and-comparative)
+- #PAPER [Robust Principal Component Analysis for Background Subtraction: Systematic Evaluation and Comparative Analysis (Guyon 2012)](https://www.intechopen.com/books/principal-component-analysis/robust-principal-component-analysis-for-background-subtraction-systematic-evaluation-and-comparative)
+- #PAPER #REVIEW [A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos (Sobral 2014)](https://www.sciencedirect.com/science/article/pii/S1077314213002361)
+- #PAPER #REVIEW [Traditional and recent approaches in background modeling for foreground detection: An overview (Bouwmans 2014)](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
 
 ### CNN based
 - #PAPER [Deep background subtraction with scene-specific convolutional neural networks](https://ieeexplore.ieee.org/document/7502717)

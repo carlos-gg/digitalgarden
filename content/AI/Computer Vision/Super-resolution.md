@@ -26,17 +26,6 @@ title: "Super-resolution"
 
 
 ## References
-### Review Papers
-- #PAPER [Deep Learning for Single Image Super-Resolution: A Brief Review (2018)](https://arxiv.org/abs/1808.03344)
-- #PAPER [A Deep Journey into Super-resolution: A survey (Anwar 2020)](https://arxiv.org/abs/1904.07523)
-	- https://github.com/saeed-anwar/SRsurvey
-- #PAPER [Deep Learning for Image Super-resolution: A Survey (Wang 2020)](https://arxiv.org/abs/1902.06068 )
-- #PAPER [NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results (Zhang 2020)](https://arxiv.org/abs/2005.01056)
-	- https://data.vision.ee.ethz.ch/cvl/ntire20/
-	- Jointly with NTIRE 2020 workshop we have an NTIRE challenge on perceptual extreme super-resolution, that is,the task of super-resolving an LR image to a perceptually pleasant HR image with a magnification factor x16
-- #PAPER [A Comprehensive Review of Deep Learning-based Single Image Super-resolution (Bashir 2021)](https://arxiv.org/abs/2102.09351)
-
-
 ### Supervised CNN-based
 - #PAPER [Image Super-Resolution Using Deep Convolutional Networks, SRCNN (Dong 2015)](https://arxiv.org/abs/1501.00092)
 	- #CODE https://github.com/MarkPrecursor/SRCNN-keras
@@ -70,6 +59,7 @@ title: "Super-resolution"
 	- #CODE https://github.com/Golbstein/EDSR-Keras
 	- #CODE https://github.com/hieubkset/Keras-Image-Super-Resolution
 - #PAPER [Pixel Deconvolutional Networks (Gao 2017)](https://arxiv.org/abs/1705.06820)
+- #PAPER #REVIEW [Deep Learning for Single Image Super-Resolution: A Brief Review (2018)](https://arxiv.org/abs/1808.03344)
 - #PAPER [RDN - Residual Dense Network for Image Super-Resolution (Zhang 2018)](https://arxiv.org/abs/1802.08797)
 	- #CODE https://github.com/idealo/image-super-resolution
 	- #CODE https://github.com/hengchuan/RDN-TensorFlow
@@ -109,10 +99,17 @@ title: "Super-resolution"
 	- https://yinboc.github.io/liif/
 	- #CODE https://github.com/yinboc/liif
 	- Continuous, arbitrary scaling
+- #PAPER [NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results (Zhang 2020)](https://arxiv.org/abs/2005.01056)
+	- https://data.vision.ee.ethz.ch/cvl/ntire20/
+	- Jointly with NTIRE 2020 workshop we have an NTIRE challenge on perceptual extreme super-resolution, that is,the task of super-resolving an LR image to a perceptually pleasant HR image with a magnification factor x16
 - #PAPER [Fixed smooth convolutional layer for avoiding checkerboard artifacts in CNNs (Kinoshita 2020)](https://arxiv.org/abs/2002.02117v1)
 - #PAPER [Efficient Image Super-Resolution Using Pixel Attention (Zhao 2020)](https://arxiv.org/abs/2010.01073) ^srwithpixelattention
 	-  #CODE See code in [CNNs](AI/Deep%20learning/CNNs.md)
 	-  #CODE https://github.com/zhaohengyuan1/PAN
+- #PAPER #REVIEW [A Deep Journey into Super-resolution: A survey (Anwar 2020)](https://arxiv.org/abs/1904.07523)
+	- https://github.com/saeed-anwar/SRsurvey
+- #PAPER #REVIEW [Deep Learning for Image Super-resolution: A Survey (Wang 2020)](https://arxiv.org/abs/1902.06068 )
+- #PAPER #REVIEW [A Comprehensive Review of Deep Learning-based Single Image Super-resolution (Bashir 2021)](https://arxiv.org/abs/2102.09351)
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM

@@ -21,15 +21,12 @@ title: "Normalizing flows"
 
 
 ## References
-Review papers:
-- #PAPER [Normalizing Flows: An Introduction and Review of Current Methods (Kobyzev 2020)](https://arxiv.org/abs/1908.09257)
-
 - #PAPER [NICE: Non-linear Independent Components Estimation (Dinh 2015)](https://arxiv.org/abs/1410.8516)
 - #PAPER [Glow: Generative Flow with Invertible 1x1 Convolutions (Kingma 2018)](https://arxiv.org/abs/1807.03039)
 	- https://openai.com/blog/glow/
 	- #CODE https://github.com/openai/glow
-
+- #PAPER #REVIEW [Normalizing Flows: An Introduction and Review of Current Methods (Kobyzev 2020)](https://arxiv.org/abs/1908.09257)
 
 ### Image-to-image translation
-See "Flow-based" section in [[AI/Computer Vision/Image-to-image translation]]
+See [[AI/Computer Vision/Image-to-image translation#Flow-based]]
 

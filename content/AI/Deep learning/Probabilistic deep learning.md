@@ -60,9 +60,6 @@ title: "Probabilistic deep learning"
 - #COURSE [Introductory course on probabilistic graphical models](https://ermongroup.github.io/cs228-notes/)
 
 ## References
-- Review papers: 
-	- #PAPER [A Survey of Uncertainty in Deep Neural Networks (Gawlikowski 2022)](https://arxiv.org/abs/2107.03342)
-
 - #PAPER [Probabilistic machine learning and artificial intelligence (Ghahramani 2015)](https://www.nature.com/articles/nature14541)
 - #PAPER [Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning (Gal 2016)](https://arxiv.org/abs/1506.02142)
 - #PAPER [Bayesian Neural Networks (Mullachery, 2018)](https://arxiv.org/abs/1801.07710)
@@ -79,4 +76,5 @@ title: "Probabilistic deep learning"
 - #PAPER [Uncertainty Baselines: Benchmarks for Uncertainty & Robustness in Deep Learning (Nado 2021)](https://arxiv.org/abs/2106.04015)
 	- https://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html
 	- #CODE https://github.com/google/uncertainty-baselines
-- #PAPER [Probabilistic Deep Learning with Probabilistic Neural Networks and Deep Probabilistic Models](https://arxiv.org/pdf/2106.00120)
+- #PAPER [Probabilistic Deep Learning with Probabilistic Neural Networks and Deep Probabilistic Models (Chang 2021)](https://arxiv.org/abs/2106.00120)
+- #PAPER #REVIEW [A Survey of Uncertainty in Deep Neural Networks (Gawlikowski 2022)](https://arxiv.org/abs/2107.03342)

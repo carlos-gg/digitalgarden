@@ -20,11 +20,6 @@ title: "Object detection"
 - #CODE [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 
 ## References
-Review papers:
-- #PAPER [Recent Advances in Object Detection in the Age of Deep [CNNs](AI/Deep%20learning/CNNs.md) (Agarwal 2019)](https://arxiv.org/abs/1809.03193)
-- #PAPER [Deep learning for Generic Object Detection: A Survey (Liu 2019)](https://arxiv.org/abs/1809.02165v4)
-
-
 - #PAPER [Multiple Object Recognition with Visual Attention (Ba 2015)](http://arxiv.org/abs/1412.7755)
 - #PAPER Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks (Oquab 2015): 
 	- http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf
@@ -42,6 +37,8 @@ Review papers:
 	- https://towardsdatascience.com/object-detection-on-aerial-imagery-using-retinanet-626130ba2203
 - #PAPER [CornerNet: Detecting Objects as Paired Keypoints (Law 2018)](https://arxiv.org/abs/1808.01244)
 	- #CODE https://github.com/makalo/CornerNet
+- #PAPER #REVIEW [Deep learning for Generic Object Detection: A Survey (Liu 2019)](https://arxiv.org/abs/1809.02165v4)
+- #PAPER #REVIEW [Recent Advances in Object Detection in the Age of Deep CNNs (Agarwal 2019)](https://arxiv.org/abs/1809.03193)
 - #PAPER [ExtremeNet. Bottom-up Object Detection by Grouping Extreme and Center Points (Zhou 2019)](https://arxiv.org/abs/1901.08043)
 	- #CODE https://github.com/xingyizhou/ExtremeNet
 - #PAPER [EfficientDet: Scalable and Efficient Object Detection (Tan 2020)](https://arxiv.org/pdf/1911.09070.pdf)
