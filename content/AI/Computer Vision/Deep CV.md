@@ -19,6 +19,7 @@ title: "Deep CV"
 - http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 
 ### Applications
+See:
 - [[AI/Computer Vision/Background subtraction]]
 - [[AI/Computer Vision/Image and video captioning]] 
 - [[AI/Computer Vision/Image-to-image translation]]
@@ -37,9 +38,17 @@ title: "Deep CV"
 - #PAPER [Deep learning-enabled medical computer vision (Esteva 2021)](https://www.nature.com/articles/s41746-020-00376-2)
 - #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition, a brand new neural operator (Li 2021)](https://arxiv.org/abs/2103.06255)
 	- #CODE https://github.com/d-li14/involution
-	- [Paper explained](https://www.youtube.com/watch?v=pH2jZun8MoY&list=WL&index=27&t=641s)
+	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds
+	- [Paper explained](https://www.youtube.com/watch?v=pH2jZun8MoY)
+	- https://keras.io/examples/vision/involution/
+	- [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://medium.com/analytics-vidhya/involution-a-step-towards-a-new-generation-of-neural-networks-for-visual-recognition-3b8ad75eb818)
 	- involution is a general-purpose neural primitive that is versatile for a spectrum of deep learning models on different vision tasks
 	- involution bridges convolution and self-attention in design, while being more efficient and effective than convolution, simpler than self-attention in form
 	- the proposed involution operator could be leveraged as fundamental bricks to build the new generation of neural networks for visual recognition, powering different deep learning models on several prevalent benchmarks
 - #PAPER [Unifying Nonlocal Blocks for Neural Networks (Zhu 2021)](https://arxiv.org/abs/2108.02451v3)
 	- #CODE https://github.com/zh460045050/SNL_ICCV2021
+- #PAPER [X-volution: On the unification of convolution and self-attention (Chen 2021)](https://arxiv.org/pdf/2106.02253)
+- #PAPER [Bivolution: A Static and Dynamic Coupled Filter (Hu 2022)](https://aaai-2022.virtualchair.net/poster_aaai2015)
+	- #CODE https://github.com/neuralchen/Bivolution	
+- #PAPER [Convolution of Convolution: Let Kernels Spatially Collaborate (Zhao 2022)](https://www.semanticscholar.org/paper/Convolution-of-Convolution%3A-Let-Kernels-Spatially-Zhao-Li/87e0f7adce75bac24f944f0b8fb7e2441b36cfb4)
+	- #CODE https://github.com/Genera1Z/ConvolutionOfConvolution

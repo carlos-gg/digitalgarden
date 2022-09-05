@@ -32,6 +32,7 @@ title: "Object classification, image recognition"
 - #PAPER See SENets in [CNNs](AI/Deep%20learning/CNNs.md)
 - #PAPER [Aggregated Residual Transformations for Deep Neural Networks (Xie 2017)](https://arxiv.org/abs/1611.05431)
 	- #CODE https://github.com/taki0112/SENet-Tensorflow
+- #PAPER [Local Relation Networks for Image Recognition (Hu 2019)](https://arxiv.org/abs/1904.11491)
 - #PAPER [Designing Network Design Spaces (Radosavovic 2020)](https://arxiv.org/abs/2003.13678v1)
 - #PAPER [NFNets. High-Performance Large-Scale Image Recognition Without Normalization (Brock 2021)](https://arxiv.org/abs/2102.06171)
 	- #CODE https://github.com/deepmind/deepmind-research/tree/master/nfnets
