@@ -56,10 +56,6 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 		- https://submit.geopython.net/media/eoreader_geopython_2022_compressed_lQL1HCR.pdf
 
 ## References
-Review papers:
-- #PAPER [Survey of Deep Learning Approaches for Remote Sensing Observation Enhancement (Tsagkatakis 2019)](https://www.mdpi.com/1424-8220/19/18/3929)
-- #PAPER ESA-ECMWF Report on recent progress and research directions in machine learning for Earth System observation and prediction ()
-
 - #PAPER [Machine Learning Applications for Earth Observation (Lary 2018)](https://www.researchgate.net/publication/322659251_Machine_Learning_Applications_for_Earth_Observation)
 - #PAPER [Learning Spectral-Spatial-Temporal Features via a Recurrent Convolutional Neural Network for Change Detection in Multispectral Imagery (Mou 2018)](https://arxiv.org/abs/1803.02642 )
 - #PAPER [Multi-Stream CNNs for SAR Automatic Target Recognition (Zhao 2018)](https://www.mdpi.com/2072-4292/10/9/1473)
@@ -69,6 +65,7 @@ Review papers:
 - #PAPER [Satellite Imagery Multiscale Rapid Detection with Windowed Networks (Van Etten 2018)](https://arxiv.org/abs/1809.09978)
 	- #CODE https://github.com/avanetten/simrdwn
 	-  The SIMRDWN pipeline includes a modified version of YOLO (known as YOLT), along with the models of the tensorflow object detection API: SSD, Faster R-CNN, and R-FCN
+- #PAPER #REVIEW [Survey of Deep Learning Approaches for Remote Sensing Observation Enhancement (Tsagkatakis 2019)](https://www.mdpi.com/1424-8220/19/18/3929)
 - #PAPER [AI Data Science Methodology for Earth Observation (Dumitru 2019)](https://www.intechopen.com/books/advanced-analytics-and-artificial-intelligence-applications/artificial-intelligence-data-science-methodology-for-earth-observation)
 - #PAPER [Next Generation Mapping: Combining DL, Cloud Computing, and Big Remote Sensing Data (Parente 2019)](https://www.mdpi.com/2072-4292/11/23/2881)
 - #PAPER [Temporal CNNs for the Classification of Satellite Image Time Series (Pelletier 2019)](https://arxiv.org/abs/1811.10166)
@@ -102,6 +99,7 @@ Review papers:
 	- #TALK https://cega.berkeley.edu/resource/video-afternoon-keynotes-catherine-wolfram-sol-hsiang-infra4dev-2020/
 	- ML system to tap the problem-solving potential of satellite imaging, using low-cost, easy-to-use technology that could bring access and analytical power to researchers and governments worldwide
 - #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
+- #PAPER #REVIEW [ESA-ECMWF Report on recent progress and research directions in machine learning for Earth System observation and prediction (Schneider 2022)](https://www.nature.com/articles/s41612-022-00269-z)
 
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
@@ -125,13 +123,10 @@ Review papers:
 	- https://imatge.upc.edu/web/publications
 - #PAPER [Evaluation of Semantic Segmentation Methods for Land Use with Spectral Imaging Using Sentinel-2 and PNOA Imagery (Pedrayes 2021)](https://www.mdpi.com/2072-4292/13/12/2292/htm)
 - #PAPER [Deep Residual Involution Network for Hyperspectral Image Classification (Meng 2021)](https://www.mdpi.com/2072-4292/13/16/3055/htm)
+- #PAPER #REVIEW [Hyperspectral Image Classification Using Deep Learning Models: A Review (Kumar 2021)](https://iopscience.iop.org/article/10.1088/1742-6596/1950/1/012087)
 
 ### Super-resolution
 See [[Super-resolution]] and [[AI4ES/Statistical downscaling]]
-
-Review papers:
-- #PAPER [Deep Learning for Single Image Super-Resolution:A Brief Review (Yang 2019)](https://arxiv.org/abs/1808.03344)
-
 - #PAPER [PanNet: A deep network architecture for pan-sharpening (Yang 2017)](http://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html)
 	- #CODE https://github.com/oyam/PanNet-Landsat
 - #PAPER [Target-adaptive CNN-based pansharpening (Scarpa 2018)](https://arxiv.org/abs/1709.06054)
@@ -143,6 +138,7 @@ Review papers:
 	- https://www.youtube.com/watch?v=_RFQP1rRusQ&list=PLvT7fd9OiI9XORxAfLw_f9CsDkvM9lfKs&index=18&t=0s
 - #PAPER [Super-Resolution Restoration of MISR Images Using the UCL MAGiGAN System (Tao 2019)](https://www.mdpi.com/2072-4292/11/1/52/htm)
 - #PAPER [A Multi-Scale Wavelet 3D-CNN for Hyperspectral Image Super-Resolution (Yang 2019)](https://www.mdpi.com/2072-4292/11/13/1557/htm)
+- #PAPER #REVIEW [Deep Learning for Single Image Super-Resolution:A Brief Review (Yang 2019)](https://arxiv.org/abs/1808.03344)
 - #PAPER [Ultra-dense GANs for satellite imagery super-resolution (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602)
 - #PAPER [Super-resolution of multispectral satellite images using convolutional neural networks (Muller 2020)](https://arxiv.org/abs/2002.00580)
 - #PAPER [DeepSUM: Deep neural network for Super-resolution of Unregistered Multitemporal images (Bordone Molini 2020)](https://arxiv.org/abs/1907.06490)
