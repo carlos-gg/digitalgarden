@@ -3,7 +3,7 @@ title: "(Earth system model) Emulators and surrogates"
 ---
 
 > See:
-> - [[Parameterizations]]
+> - [[AI4ES/Parameterizations]]
 
 ## Resources
 - [Earth system modelling](https://www.climateurope.eu/earth-system-modeling-a-definition/)
@@ -54,7 +54,7 @@ title: "(Earth system model) Emulators and surrogates"
 	- Presented an end-to-end hybrid modeling approach that learns and predicts spatial-temporal variations of observed and unobserved (latent) hydrological variables globally
 - #PAPER [Enforcing statistical constraints in generative adversarial networks for modeling chaotic dynamical systems (Wu 2020)](https://www.sciencedirect.com/science/article/pii/S0021999119309143)
 	- https://arxiv.org/abs/1905.06841
-	- Confirmed statistics-conforming property of [[GANs]] for modeling dynamical systems
+	- Confirmed statistics-conforming property of [[AI/Deep learning/GANs]] for modeling dynamical systems
 	- Highlighted the lack of robustness of GANs and need of explicit physical constraints
 	- Improved training robustness of GANs by explicitly enforcing statistical constraints. Constraint on optimization with penalty  terms  added  into  the  optimization loss function of GANs (distance measure between two covariance structures, related to symmetrized Kullback–Leibler divergence) 
 	- Demonstrated merits of statistics-informed GANs on modeling Rayleigh-Bénard convection

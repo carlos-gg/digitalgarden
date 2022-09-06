@@ -13,8 +13,8 @@ title: "Mathematical Optimization"
 - [Why Momentum works](http://distill.pub/2017/momentum/)
 
 ### Heuristics
+- See [[AI/Math and Statistics/Genetic algorithms]]
 - A heuristic is any algorithm which is not guaranteed (mathematically) to find the solution, but which is nevertheless useful in certain practical situations.
-- [[Genetic algorithms]]
 - [Nelder–Mead method](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method)
 	- The Nelder–Mead method or downhill simplex method or amoeba method is a commonly applied numerical method used to find the minimum or maximum of an objective function in a multidimensional space. It is applied to nonlinear optimization problems for which derivatives may not be known. However, the Nelder–Mead technique is a heuristic search method that can converge to non-stationary points on problems that can be solved by alternative methods.
 	- The method uses the concept of a simplex, which is a special polytope of n+ 1 vertices in n dimensions. Examples of simplices include a line segment on a line, a triangle on a plane, a tetrahedron in three-dimensional space and so forth. The method approximates a local optimum of a problem with n variables when the objective function varies smoothly and is unimodal.

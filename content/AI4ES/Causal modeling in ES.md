@@ -3,7 +3,7 @@ title: "Causal modeling in ES"
 ---
 
 > See: 
-> - [[Causality]]
+> - [[AI/Causality]]
 	- [[AI4ES/Extremes events#Causality studies]]
 
 ## Resources

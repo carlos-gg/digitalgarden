@@ -62,7 +62,7 @@ title: "Regression"
 See [[AI/Supervised Learning/Classification]]
 
 ### Regularized regression
-See [[Regularized regression]]
+See [[AI/Supervised Learning/Regularized regression]]
 
 ### SVM
 See [[AI/Supervised Learning/Classification]]

@@ -11,7 +11,7 @@ title: "Data Engineering and Computer Science"
 - [Have we bridged the gap between Data Science and DevOps?](https://jaxenter.com/bridge-gap-data-science-devops-134712.html)
 
 ### Python
-See [[Python]]
+See [[AI/DS and DataEng/Python]]
 
 ### Julia 
 - #TALK https://www.youtube.com/watch?v=AyvyVS6u8AM

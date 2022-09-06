@@ -26,8 +26,8 @@ title: "Parameterizations"
 - #PAPER [Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization (Bolton and Zanna 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001472)
 - #PAPER [A data-driven approach to precipitation parameterizations using convolutional encoder-decoder neural networks (Rozas Larraondo 2019)](http://arxiv.org/abs/1903.10274)
 	- ERA-Interim data, precipitation as predictant
-	- encoder-decoder [[CNNs]] can be used to derive total precipitation using geopotential height as the only input
-	- several popular neural network architectures, from the field of image processing, are considered and a comparison with baseline [[machine learning]] methodologies is provided. UNET show best performance
+	- encoder-decoder [[AI/Deep learning/CNNs]] can be used to derive total precipitation using geopotential height as the only input
+	- several popular neural network architectures, from the field of image processing, are considered and a comparison with baseline ML methodologies is provided. UNET show best performance
 - #PAPER [Fast domain-aware neural network emulation of a planetary boundary layer parameterization in a numerical weather forecast model (Wang 2019)](https://www.geosci-model-dev.net/12/4261/2019/)
 - #PAPER [Spatially Extended Tests of a Neural Network Parametrization Trained by Coarse‐Graining (Brenowitz and Bretherton, 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001711)
 	- this article describes an NN parametrization trained by coarse‐graining a near‐global CRM simulation with a 4‐km horizontal grid spacing

@@ -3,9 +3,9 @@ title: "Statistical downscaling"
 ---
 
 > See: 
-> - [[Super-resolution]] 
-> - [[EO#Super-resolution]] 
-> - [[Image-to-image translation]]
+> - [[AI/Computer Vision/Super-resolution]] 
+> - [[AI4ES/EO#Super-resolution]] 
+> - [[AI/Computer Vision/Image-to-image translation]]
 > - [[AI4ES/Bias correction, adjustment]]
 
 ## Resources

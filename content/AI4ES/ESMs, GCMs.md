@@ -21,19 +21,19 @@ title: "ESMs, GCMs"
 
 
 ### Tuning of ESMs
-See [[ESM tuning]]
+See [[AI4ES/ESM tuning]]
 
 ### Emulators and surrogates
-See [[Emulators]] 
+See [[AI4ES/Emulators]] 
 
 ### Parameterizations
-See [[Parameterizations]]
+See [[AI4ES/Parameterizations]]
 
 ### Data assimilation
-See [[Data assimilation]]
+See [[AI4ES/Data assimilation]]
 
 ### Ensembles, multi-models 
-See [[Ensembles, multi-models]]
+See [[AI4ES/Ensembles, multi-models]]
 
 ## Bias correction and adjustment
 See [[AI4ES/Bias correction, adjustment]]

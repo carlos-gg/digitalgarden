@@ -3,8 +3,8 @@ title: "ML interpretability in ES"
 ---
 
 > See:
-> - [[XAI]]
-> - [[Causal modeling in ES]]
+> - [[AI/XAI]]
+> - [[AI4ES/Causal modeling in ES]]
 
 
 ## References
