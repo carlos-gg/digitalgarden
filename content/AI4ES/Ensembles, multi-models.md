@@ -3,9 +3,9 @@ title: "Ensembles, multi-models"
 ---
 
 >  See:
->  - [[Weather forecasting, nowcasting]] 
->  - [[S2S]]
->  - [[S2D]]
+>  - [[AI4ES/Weather forecasting, nowcasting]] 
+>  - [[AI4ES/S2S]]
+>  - [[AI4ES/S2D]]
 
 ## Resources
 - Improving predictions of Ensembles and averaging. Reducing uncertainty on future predictions

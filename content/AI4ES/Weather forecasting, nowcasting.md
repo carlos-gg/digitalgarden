@@ -72,7 +72,7 @@ title: "Weather forecasting, nowcasting"
 		- network: trivial CNN for classification with a final output of 4 values (categorical cross-entropy)
 	- Showed the outstanding performance of CNNs in re-identifying and predicting patterns in chaotic, multi-scale, non-stationary, spatio-temporal data with minimal pre-processing
 	- CNNs are not used as a clustering technique, as clusters are already found using an unsupervised method (the K-means algorithm). Rather, CNNs are used to predict which cluster index a Z500 pattern will belong to in 1–5 days in the future
-	- The cluster-based forecasting of circulation patterns that is presented here, again if performed using a CNN trained on reanalysis data and using more input variables, might help with prediction of low-frequency variability in the S2S timescales (see [[S2S]])
+	- The cluster-based forecasting of circulation patterns that is presented here, again if performed using a CNN trained on reanalysis data and using more input variables, might help with prediction of low-frequency variability in the S2S timescales (see [[AI4ES/S2S]])
 	- The scaling (of the prediction accuracy of the CNNs) that is found here shows a nonlinear relation between accuracy and N, and suggests that the amount of data currently available from reanalysis since 1979 can be enough to successfully train an accurate CNN for applications involving daily large-scale weather patterns
 	- Follow up paper using CapsNets and extreme temperature clusters [[AI4ES/Extremes events#^d42267]]
 - #PAPER [A review of radar-based nowcasting of precipitation and applicable machine learning techniques (Prudden, 2020)](https://arxiv.org/abs/2005.04988)
@@ -81,7 +81,7 @@ title: "Weather forecasting, nowcasting"
 	- [[GANs]] for spatio-temporal forecasting
 	- https://www.climatechange.ai/CameraReadySubmissions%202-119/52/CameraReadySubmission/nips2019_icml.pdf
 - #PAPER [A generative adversarial network approach to (ensemble) weather prediction (Bihlo 2020)](https://arxiv.org/abs/2006.07718)
-	- Implemented a deep convolutional [[GANs]] to predict the geopotential height of the 500 hPa pressure level, the two-meter temperature and the total precipitation for the next 24 hours over Europe
+	- Implemented a deep convolutional [[AI/Deep learning/GANs]] to predict the geopotential height of the 500 hPa pressure level, the two-meter temperature and the total precipitation for the next 24 hours over Europe
 	- The proposed models are trained on 4 years of ERA5 reanalysis data from 2015–2018 with the goal to predict the associated meteorological fields in 2019
 	- The forecasts show a good qualitative and quantitative agreement with the true reanalysis data for the geopotential height and two-meter temperature, while failing for total precipitation, thus indicating that weather forecasts based on data alone may be possible for specific meteorological parameters
 - #PAPER [Ensemble methods for neural network-based weather forecasts (Scher 2020)](https://arxiv.org/abs/2002.05398v2)
@@ -133,7 +133,7 @@ title: "Weather forecasting, nowcasting"
 	- [Accelerating Extreme Weather Prediction with FourCastNet](https://www.youtube.com/watch?v=nuT_U1AQz3g)
 	- #TALK [Building Digital Twins of the Earth for NVIDIA's Earth-2 Initiative](https://www.youtube.com/watch?v=IBTVAC82xtQ)
 	- #CODE https://github.com/NVlabs/FourCastNet
-	- #CODE (NOT OFFICIAL) https://github.com/HFAiLab/FourCastNet
+	- #CODE https://github.com/HFAiLab/FourCastNet (NOT OFFICIAL)
 	- ERA5 0.25 deg, 20 variables, from 1979 (~50k training samples)
 	- Unparalleled accuracy at forecast lead times of up to one week, challenging variables such as surface winds and precipitation
 	- FourCastNet has eight times greater resolution than state-of-the-art DL-based global weather models
@@ -144,7 +144,7 @@ title: "Weather forecasting, nowcasting"
 	- supervised machine learning approach based on deformable convolutional neural networks (deCNNs) and transfer learning to forecast the North Atlantic-European weather regimes during extended boreal winter for 1 to 15 days into the future
 	- authors could extract and learn transformation-invariant spatial patterns across large geographical areas using deformable convolutions, which is not possible with regular CNNs
 	- used pre-training (training on the large 20CRv3 reanalysis dataset spanning from 1836 to 1980, then transfer learning)
-	- using a interpretation technique called integrated gradients, we could attribute each variable’s contributions for a particular observation on a grid-point basis. This is especially important if we want to understand global climate processes better and explain drivers behind specific weather regimes that account for major uncertainty in NWP models days to weeks ahead
+	- using an interpretation technique called integrated gradients, we could attribute each variable’s contributions for a particular observation on a grid-point basis. This is especially important if we want to understand global climate processes better and explain drivers behind specific weather regimes that account for major uncertainty in NWP models days to weeks ahead
 - #PAPER [Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based U-NET in a case study with ERA5 (Chattopadhyay 2022)](https://gmd.copernicus.org/articles/15/2221/2022/)
 - #PAPER [Earthformer: Exploring Space-Time Transformers for Earth System Forecasting (Gao 2022)](https://arxiv.org/pdf/2207.05833)
 	- Earthformer is a space-time Transformer for Earth system forecasting. Earthformer is based on a generic, flexible and efficient space-time attention block, named Cuboid Attention

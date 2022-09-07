@@ -14,7 +14,7 @@ title: "Dimensionality reduction and low-rank modeling"
 - Linear projection techniques produce a linear transformation of data dimensions in lower-dimensional space. Proximity between data points indicates similarity. The more similar data points are, the closer they are located to each other and vice versa. This is why linear projection techniques are also known as global techniques.
 
 #### Principal component analysis (PCA)
-See [[PCA]]
+See [[AI/Unsupervised learning/PCA]]
 
 #### Non-negative matrix factorization (NMF)
 - Non-negative matrix factorization (NNMF, or NMF) is a method for factorizing a matrix into two lower rank matrices with strictly non-negative elements.

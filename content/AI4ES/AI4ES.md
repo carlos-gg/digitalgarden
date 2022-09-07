@@ -47,7 +47,7 @@ title: "AI4ES"
 	- [Google Slides](https://docs.google.com/presentation/d/1Fa9SuyK9DIpd-MkJJjGqjCbAa-sHtr3qufC9MhmewDQ/edit?usp=sharing)
 - #COURSE [An Introduction to Earth and Environmental Data Science (Ryan Abernathey, Columbia UIniversity, 2021)](https://earth-env-data-science.github.io/intro.html)
 - #COURSE [Research computing in ES (Ryan Abernathey, Columbia UIniversity)](https://rabernat.github.io/research_computing_2018/)
-- #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science_, 2022)](https://bookdown.org/igisc/EnvDataSci/)
+- #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science, 2022)](https://bookdown.org/igisc/EnvDataSci/)
 
 
 ## Infrastructure and data
@@ -129,7 +129,7 @@ See [[AI4ES/Pangeo]]
 - #PAPER [Machine Learning for Clouds and Climate (Beucler 2020)](https://www.semanticscholar.org/paper/Machine-Learning-for-Clouds-and-Climate-Beucler-Ebert%E2%80%90Uphoff/ea0ccde42b1f4517e87ee2e3f77fb6c06671666b)
 - #PAPER [What is next for National Meteorological Services? (Arribas 2020)](https://arxiv.org/abs/2005.01425)
 	- Head of informatics lab at Met  office, Prof. U. Exeter, Turing fellow
-	- #TALK [[AI]], a change in science/technology ... or culture? 
+	- #TALK AI, a change in science/technology ... or culture? 
 		- https://vimeo.com/438176732
 		- https://www.ecmwf.int/sites/default/files/medialibrary/2020-07/14_July_Arribas.pdf
 - #PAPER [A digital twin of Earth for the green transition (Bauer 2021)](https://www.nature.com/articles/s41558-021-00986-y)
