@@ -83,7 +83,6 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 ## References
 - #PAPER [The Mythos of Model Interpretability (Lipton 2017)](https://arxiv.org/abs/1606.03490)
 - #PAPER [A Survey of Methods for Explaining Black Box Models (Guidotti, 2018)](https://dl.acm.org/doi/10.1145/3236009)
-- #PAPER [Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning (McGovern et al. 2019)](https://journals.ametsoc.org/bams/article/100/11/2175/343787/Making-the-Black-Box-More-Transparent)
 - #PAPER [Towards Explainable Artificial Intelligence (Samek & Muller 2019)](https://arxiv.org/abs/1909.12072)
 - #PAPER [Explaining Explanations: An Overview of Interpretability of Machine Learning (Gilpin et al. 2019)](https://arxiv.org/abs/1806.00069)
 - #PAPER [One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques (Arya 2019)](https://arxiv.org/abs/1909.03012)

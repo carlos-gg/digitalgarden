@@ -49,6 +49,62 @@ title: "AI4ES"
 - #COURSE [Research computing in ES (Ryan Abernathey, Columbia UIniversity)](https://rabernat.github.io/research_computing_2018/)
 - #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science_, 2022)](https://bookdown.org/igisc/EnvDataSci/)
 
+
+## Infrastructure and data
+See [[AI4ES/AI4ES data]]
+- [Microsfot Planetary Computer](https://planetarycomputer.microsoft.com/)
+- [European Weather Cloud](https://www.europeanweather.cloud/)
+	- https://www.ecmwf.int/en/newsletter/165/computing/progress-towards-european-weather-cloud
+- [Climate Engine](http://climateengine.org/)
+- [The OpenWIS Association AISBL](http://openwis.github.io/openwis-documentation/)
+- [Euro Data Cube](https://www.eurodatacube.com/)
+	- https://hub.eox.at/marketplace/notebooks
+- [Ocean OPS](https://www.ocean-ops.org/board)
+	- Integrated information, maps and tools to help coordinate and monitor global ocean observation efforts
+- [EUMETSAT data portal](https://www.eumetsat.int/who-we-work/access-copernicus-data)
+	- [EUMETView](https://view.eumetsat.int/productviewer?v=default)
+	- [Product navigator](https://navigator.eumetsat.int/start)
+- AI4ES/Pangeo Forge. See [[AI4ES/Pangeo]]
+
+## Code
+See [[AI4ES/Pangeo]]
+- #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
+- #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
+- #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences
+- #CODE [climate_indices](https://github.com/monocongo/climate_indices)
+	- Climate indices for drought monitoring, community reference implementations in Python
+- #CODE [CliMetLab - Python package to easy access to weather and climate data](https://github.com/ecmwf/climetlab)
+	- https://climetlab.readthedocs.io/en/latest/index.html
+- #CODE [intake - lightweight package for finding, investigating, loading and disseminating data](https://github.com/intake/intake)
+	- https://medium.com/pangeo/cesm-lens-on-aws-4e2a996397a1
+	- [example](https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/master?urlpath=lab)
+	- https://www.anaconda.com/blog/intake-discovering-and-exploring-data-in-a-graphical-interface
+- #CODE [intake-esm - An intake plugin for parsing an Earth System Model (ESM) catalog and loading assets into xarray datasets](https://github.com/intake/intake-esm)
+	- https://intake-esm-test.readthedocs.io
+- #CODE [Aospy - Python package for automated analysis and management of gridded climate data](https://github.com/spencerahill/aospy)
+- #CODE [EarthPy](https://github.com/earthlab/earthpy)
+	- A package built to support working with spatial data using open source python
+	- https://earthpy.readthedocs.io/en/latest/
+- #CODE [Psyplot - Python package for interactive data visualization](https://github.com/psyplot/psyplot)
+	- https://psyplot.readthedocs.io/en/latest/
+	- https://psyplot.readthedocs.io/projects/psyplot-gui/en/latest/index.html#psyplot-gui
+	- https://psyplot.readthedocs.io/projects/psy-view/en/latest/index.html#psy-view
+- #CODE [PyRain](https://github.com/FrontierDevelopmentLab/PyRain)
+	- [[AI4ES/AI4ES data#^rainbench]]
+- #CODE [Verde](https://github.com/fatiando/verde)
+	- Processing and interpolating spatial data with a twist of machine learning
+	- https://github.com/fatiando/verde
+	- https://www.fatiando.org/verde/latest/index.html
+- #CODE [Radiant MLHub API](https://github.com/radiantearth/radiant-mlhub)
+	- Open Library for Earth Observations Machine Learning
+	- https://www.radiant.earth/mlhub/
+	- https://github.com/radiantearth/mlhub-tutorials
+	- [Radiant MLHub](https://www.mlhub.earth/#datasets)
+- #CODE [GIBS Downloader](https://github.com/spaceml-org/GIBS-Downloader)
+	- command-line tool which facilitates the downloading of NASA satellite imagery and offers different functionalities in order to prepare the images for training in a machine learning pipeline
+	- #CODE https://github.com/spaceml-org/Self-Supervised-Learner
+
+
 ## References
 - #PAPER [Earth System Modeling 2.0: A Blueprint for Models That Learn From Observations and Targeted High‐Resolution Simulations (Schneider 2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076101)
 	- http://climate-dynamics.org/earth-system-modeling-2-0/
@@ -115,7 +171,7 @@ See [[AI4ES/Bias correction, adjustment]]
 See [[AI/DS and DataEng/Distributed DL]] and [[AI4ES/HPC-AI convergence]]
 
 ### ML interpretability and causal modelling in ES
-See [[AI4ES/ML interpretability in ES]] and [[AI4ES/Causal modeling in ES]]
+See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 
 ### Digital twins
 See [[AI4ES/Emulators]]
@@ -152,61 +208,6 @@ See [[AI4ES/Emulators]]
 
 #### Climate change
 - See [[AI4ES/Climate change]]
-
-
-## Infrastructure and data
-See [[AI4ES/AI4ES data]]
-- [Microsfot Planetary Computer](https://planetarycomputer.microsoft.com/)
-- [European Weather Cloud](https://www.europeanweather.cloud/)
-	- https://www.ecmwf.int/en/newsletter/165/computing/progress-towards-european-weather-cloud
-- [Climate Engine](http://climateengine.org/)
-- [The OpenWIS Association AISBL](http://openwis.github.io/openwis-documentation/)
-- [Euro Data Cube](https://www.eurodatacube.com/)
-	- https://hub.eox.at/marketplace/notebooks
-- [Ocean OPS](https://www.ocean-ops.org/board)
-	- Integrated information, maps and tools to help coordinate and monitor global ocean observation efforts
-- [EUMETSAT data portal](https://www.eumetsat.int/who-we-work/access-copernicus-data)
-	- [EUMETView](https://view.eumetsat.int/productviewer?v=default)
-	- [Product navigator](https://navigator.eumetsat.int/start)
-- AI4ES/Pangeo Forge. See [[AI4ES/Pangeo]]
-
-## Code
-See [[AI4ES/Pangeo]]
-- #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
-- #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
-- #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences
-- #CODE [climate_indices](https://github.com/monocongo/climate_indices)
-	- Climate indices for drought monitoring, community reference implementations in Python
-- #CODE [CliMetLab - Python package to easy access to weather and climate data](https://github.com/ecmwf/climetlab)
-	- https://climetlab.readthedocs.io/en/latest/index.html
-- #CODE [intake - lightweight package for finding, investigating, loading and disseminating data](https://github.com/intake/intake)
-	- https://medium.com/pangeo/cesm-lens-on-aws-4e2a996397a1
-	- [example](https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/master?urlpath=lab)
-	- https://www.anaconda.com/blog/intake-discovering-and-exploring-data-in-a-graphical-interface
-- #CODE [intake-esm - An intake plugin for parsing an Earth System Model (ESM) catalog and loading assets into xarray datasets](https://github.com/intake/intake-esm)
-	- https://intake-esm-test.readthedocs.io
-- #CODE [Aospy - Python package for automated analysis and management of gridded climate data](https://github.com/spencerahill/aospy)
-- #CODE [EarthPy](https://github.com/earthlab/earthpy)
-	- A package built to support working with spatial data using open source python
-	- https://earthpy.readthedocs.io/en/latest/
-- #CODE [Psyplot - Python package for interactive data visualization](https://github.com/psyplot/psyplot)
-	- https://psyplot.readthedocs.io/en/latest/
-	- https://psyplot.readthedocs.io/projects/psyplot-gui/en/latest/index.html#psyplot-gui
-	- https://psyplot.readthedocs.io/projects/psy-view/en/latest/index.html#psy-view
-- #CODE [PyRain](https://github.com/FrontierDevelopmentLab/PyRain)
-	- [[AI4ES/AI4ES data#^rainbench]]
-- #CODE [Verde](https://github.com/fatiando/verde)
-	- Processing and interpolating spatial data with a twist of machine learning
-	- https://github.com/fatiando/verde
-	- https://www.fatiando.org/verde/latest/index.html
-- #CODE [Radiant MLHub API](https://github.com/radiantearth/radiant-mlhub)
-	- Open Library for Earth Observations Machine Learning
-	- https://www.radiant.earth/mlhub/
-	- https://github.com/radiantearth/mlhub-tutorials
-	- [Radiant MLHub](https://www.mlhub.earth/#datasets)
-- #CODE [GIBS Downloader](https://github.com/spaceml-org/GIBS-Downloader)
-	- command-line tool which facilitates the downloading of NASA satellite imagery and offers different functionalities in order to prepare the images for training in a machine learning pipeline
-	- #CODE https://github.com/spaceml-org/Self-Supervised-Learner
 
 
 ## Events

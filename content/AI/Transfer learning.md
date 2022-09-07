@@ -12,6 +12,7 @@ title: "Transfer learning"
 - [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/index.html#usingpretrainedcnnfeatures)
 - [Domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation)
 	- Domain adaptation is a field associated with machine learning and transfer learning. This scenario arises when we aim at learning from a source data distribution a well performing model on a different (but related) target data distribution
+- [Fine-tuning with Keras and Deep Learning](https://pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
 
 ## Courses
 - #COURSE [Transfer Learning | Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw)
