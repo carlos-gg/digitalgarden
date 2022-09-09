@@ -37,5 +37,5 @@ See [[AI/Unsupervised learning/Clustering]]
 See [[AI/Anomaly and Outlier Detection]]
 
 ### Sparse dictionary learning
-See [[Sparse dictionary learning]]
+See [[AI/Unsupervised learning/Sparse dictionary learning]]
 

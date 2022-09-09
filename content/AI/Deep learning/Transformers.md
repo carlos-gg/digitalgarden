@@ -225,6 +225,8 @@ title: "Transformers"
 	- #CODE https://github.com/locuslab/convmixer
 	- https://scoste.fr/posts/convmixer/index.html
 	- https://medium.com/codex/an-overview-on-convmixer-patches-are-all-you-need-8502a8d87011
+- #PAPER [The Fully Convolutional Transformer for Medical Image Segmentation (Tragakis 2022)](https://arxiv.org/abs/2206.00566v1)
+	- #CODE https://github.com/Thanos-DB/FullyConvolutionalTransformer
 
 ## Multi-modal transformers
 See [[AI/Deep learning/Multimodal learning]]

@@ -131,4 +131,4 @@ See [[AI/FairAI]]
 See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]
 
 ### Neuro-Symbolic AI
-See [[Neuro-symbolic AI]]
+See [[AI/Neuro-symbolic AI]]

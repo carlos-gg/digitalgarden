@@ -234,7 +234,7 @@ See [[AI/Math and Statistics/Monte Carlo methods]]
 See [[AI/Math and Statistics/Mathematical Optimization]]
 
 ### Time series analysis
-See [[Time Series analysis]]
+See [[AI/Time Series analysis]]
 
 ### Regression analysis
 See [[AI/Supervised Learning/Regression]]

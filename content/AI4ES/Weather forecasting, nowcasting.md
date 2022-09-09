@@ -78,7 +78,7 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [A review of radar-based nowcasting of precipitation and applicable machine learning techniques (Prudden, 2020)](https://arxiv.org/abs/2005.04988)
 - #PAPER [Boosting performance in machine learning of geophysical flows via scale separation (Faranda 2020)](https://npg.copernicus.org/preprints/npg-2020-39/)
 - #PAPER [DeepClimGAN: A High-Resolution Climate Data Generator (Puchko 2020)](https://arxiv.org/abs/2011.11705)
-	- [[GANs]] for spatio-temporal forecasting
+	- [[AI/Deep learning/GANs]] for spatio-temporal forecasting
 	- https://www.climatechange.ai/CameraReadySubmissions%202-119/52/CameraReadySubmission/nips2019_icml.pdf
 - #PAPER [A generative adversarial network approach to (ensemble) weather prediction (Bihlo 2020)](https://arxiv.org/abs/2006.07718)
 	- Implemented a deep convolutional [[AI/Deep learning/GANs]] to predict the geopotential height of the 500 hPa pressure level, the two-meter temperature and the total precipitation for the next 24 hours over Europe

@@ -59,7 +59,7 @@ title: "(Earth system model) Emulators and surrogates"
 	- Improved training robustness of GANs by explicitly enforcing statistical constraints. Constraint on optimization with penalty  terms  added  into  the  optimization loss function of GANs (distance measure between two covariance structures, related to symmetrized Kullback–Leibler divergence) 
 	- Demonstrated merits of statistics-informed GANs on modeling Rayleigh-Bénard convection
 - #PAPER [Boosting performance in Machine Learning of Turbulent and Geophysical Flows via scale separation (Faranda 2020)](https://npg.copernicus.org/preprints/npg-2020-39/)
-	- Uses [[RNNs#Echo state networks ESN]] for forecasting [[Weather forecasting, nowcasting]] dynamics of complex systems (sea level pressure data)
+	- Uses [[AI/Deep learning/Reservoir computing#Echo state networks ESN]] for forecasting [[AI4ES/Weather forecasting, nowcasting]] dynamics of complex systems (sea level pressure data)
 	- #TALK https://www.youtube.com/watch?v=qztvuflzNfQ
 - #PAPER [Towards Physics-informed Deep Learning for Turbulent Flow Prediction (Wang 2020)](https://arxiv.org/abs/1911.08655)
 	- Aimed to predict turbulent flow by learning its highly nonlinear dynamics from spatiotemporal velocity fields of large-scale fluid flow simulations of relevance to turbulence modeling and climate modeling
