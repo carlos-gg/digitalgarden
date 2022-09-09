@@ -37,11 +37,9 @@ title: "Computer Vision"
 	- [Videos for each lecture](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - #COURSE [Computer vision (NYU)](https://cs.nyu.edu/~fergus/teaching/vision/)
 - #COURSE [Digital image processing (U Tartu)](https://sisu.ut.ee/dev/imageprocessing/avaleht)
-- #COURSE Convolutional Neural Networks for Image Recognition (DeepMind x UCL | Deep Learning Lectures)
-	- https://www.youtube.com/watch?v=shVKhOmT0HE&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=3&t=1s
+- #COURSE [Convolutional Neural Networks for Image Recognition](https://www.youtube.com/watch?v=shVKhOmT0HE&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=3&t=1s) (DeepMind x UCL | Deep Learning Lectures)
 	- https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L3%20-%20UUCLxDeepMind%20DL2020.pdf
-- #COURSE Advanced Models for Computer Vision (DeepMind x UCL | Deep Learning Lectures)
-	- https://www.youtube.com/watch?v=_aUq7lmMfxo&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=4
+- #COURSE [Advanced Models for Computer Vision](https://www.youtube.com/watch?v=_aUq7lmMfxo&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=4)(DeepMind x UCL | Deep Learning Lectures)
 	- https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L4%20-%20UCLxDeepMind%20DL2020.pdf
 - #COURSE [Rendering course (TU Wien)](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
 	- This rendering course is an MSc-level class at the Technical University of Vienna. It is about ray tracing, photorealistic rendering and global illumination
@@ -79,9 +77,9 @@ title: "Computer Vision"
 - #PAPER [Brief review of image denoising techniques (Fan 2019)](https://vciba.springeropen.com/articles/10.1186/s42492-019-0016-7)
 
 ### Traditional CV techniques
-See [[Traditional CV]]
+See [[AI/Computer Vision/Traditional CV]]
 
 ### Deep learning-based CV
-See [[Deep CV]]
+See [[AI/Computer Vision/Deep CV]]
 
 

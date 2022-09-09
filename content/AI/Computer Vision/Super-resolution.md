@@ -169,5 +169,6 @@ See [[AI/Deep learning/Transformers]]
 	- SR3 adapts denoising diffusion probabilistic models to conditional image generation and performs super-resolution through a stochastic denoising process
 	- Inference starts with pure Gaussian noise and iteratively refines the noisy output using a U-Net model trained on denoising at various noise levels
 	- #CODE https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
+	- #CODE https://github.com/guillaumeboniface/super_resolution
 	- #CODE https://paperswithcode.com/paper/image-super-resolution-via-iterative
 	- https://beebom.com/google-new-ai-models-turn-low-resolution-images-into-high-quality/

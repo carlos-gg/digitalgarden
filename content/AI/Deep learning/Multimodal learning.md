@@ -17,6 +17,7 @@ title: "Multimodal learning, Foundation models"
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 	- https://stability.ai/blog/stable-diffusion-announcement
 	- [DreamStudio](https://beta.dreamstudio.ai) 
+	- [Two minute papers](https://www.youtube.com/watch?v=nVhmFski3vg)
 
 
 ## Code
