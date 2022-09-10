@@ -51,7 +51,6 @@ title: "Bias correction, adjustment"
 
 - #PAPER [Deep Learning for Climate Model Output Statistics (Steininger 2020)](https://www.climatechange.ai/papers/neurips2020/7)
 	- https://meetingorganizer.copernicus.org/EGU21/EGU21-2175.html
-- #PAPER [[Ensembles, multi-models#^gronquist20]]
 - #PAPER [A Model Output Deep Learning Method for Grid Temperature Forecasts in Tianjin Area (Chen 2020)](https://www.mdpi.com/2076-3417/10/17/5808/htm)
 	- This paper proposes a model output deep learning (MODL) method for post-processing
 	- Samples are multi-variable and spatio-temporal (53 time steps as leadtime)

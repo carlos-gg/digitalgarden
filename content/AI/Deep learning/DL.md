@@ -170,17 +170,6 @@ State of ML frameworks:
 	- #PAPER [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)
 - #CODE [Deep cognition](https://deepcognition.ai/)
 
-### DL for science
-- #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) 
-	- GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process 
-	- https://gt4sd.github.io/gt4sd-core/
-	- https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery
-	- https://thenewstack.io/ibms-open-source-gt4sd-generates-ideas-for-scientists/
-- #CODE [Deep Search](https://github.com/DS4SD)
-	- https://ds4sd.github.io/
-	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
-	- [Handling Scientific Articles with Deep Search](https://opensource.science/handling-scientific-articles-with-deep-search-d3d7adebd3)
-
 
 ## References
 - #PAPER [Deep learning in NNs: An overview (Schmidhuber 2015)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
@@ -393,16 +382,7 @@ See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
 ### Deep learning for scientific discovery
-See [[AI/AI#AI for scientific discovery]], [[AI/Machine Learning#Machine learning for scientific discovery]], [[AI/Deep learning/Neural ODEs]], and relevant code in [[AI/Deep learning/DL#DL for science]]
-- #PAPER [A Survey of Deep Learning for Scientific Discovery (Raghu & Schmidt, 2020)](https://arxiv.org/abs/2003.11755) ^dlscience20
-- #PAPER [DeepXDE: A deep learning library for solving differential equations (Lu 2020)](https://arxiv.org/abs/1907.04502)
-	- #CODE https://github.com/lululxvi/deepxde
-	- https://deepxde.readthedocs.io/en/latest/
-- #PAPER [SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks (Haghighat 2020)](https://arxiv.org/abs/2202.07575)
-	 - #CODE https://github.com/sciann/sciann
-- #PAPER [Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning (Jiang 2021)](http://ai.googleblog.com/2021/06/learning-accurate-physics-simulator-via.html "Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning")
-- #PAPER [Data-driven discovery of Green’s functions with human-understandable deep learning (Boulle 2022)](https://www.nature.com/articles/s41598-022-08745-5)
-	- https://phys.org/news/2022-04-rational-neural-network-advances-partial.html
+See [[AI/AI-ML-DL for scientific discovery]]
 
 ### Multimodal learning
 See [[AI/Deep learning/Multimodal learning]]

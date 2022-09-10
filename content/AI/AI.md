@@ -27,15 +27,7 @@ title: "Artificial Intelligence"
 	- [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 
 ### AI for scientific discovery
-See [[AI/Deep learning/DL#Deep learning for scientific discovery]] and [[AI/Machine Learning#Machine learning for scientific discovery]]
-- [The AI revolution in science: applications and new research directions](https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/)
-- [The AI revolution in scientific research (The Royal Society, The Alan Turing Institute)](https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf)
-- [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
-- #TALK [Using AI to Accelerate Scientific Discovery (Demis Hassabis, Deepmind)](https://www.youtube.com/watch?v=jocWJiztxYA)
-- #PAPER [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
-- #PAPER [OpenMedIA: Open-Source Medical Image Analysis Toolbox and Benchmark under Heterogeneous AI Computing Platforms (Zhuang 2022)](https://arxiv.org/pdf/2208.05616v1)
-	- #CODE https://git.openi.org.cn/OpenMedIA
-	- OpenMedIA is an open-source toolbox library containing a rich set of deep learning methods for medical image analysis under heterogeneous AI computing platforms
+See [[AI/AI-ML-DL for scientific discovery]]
 
 ### AI for Earth Sciences
 See [[AI4ES/AI4ES]]
