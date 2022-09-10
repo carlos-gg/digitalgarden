@@ -201,7 +201,7 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- These are additionally evaluated with the Dice and Tversky Intersection over Union (IoU) metrics, having Dice coefficient scores ranging from 0.51 to 0.76 and Tversky coefficients ranging from 0.56 to 0.74
 - #PAPER [Improving Emergency Response during Hurricane Season using Computer Vision (Bosch 2020)](https://arxiv.org/abs/2008.07418v2)
 - #PAPER [Spatio-temporal segmentation and tracking of weather patterns with light-weight Neural Networks (Kapp-Schwoerer 2020)](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_55.pdf)
-	- Uses the ClimateNet [[AI4ES/AI4ES data#Extreme events labeled data]] and the CGNet architecture [[Semantic segmentation]]
+	- Uses the ClimateNet [[AI4ES/AI4ES data#Extreme events labeled data]] and the CGNet architecture [[AI/Computer Vision/Semantic segmentation]]
 	- Weather pattern recognition by deep neural networks can work remarkably better than feature engineering, such as hand-crafted heuristics, used traditionally in climate science
 	- Deep Learning - based semantic segmentation of atmospheric rivers and tropical cyclones on the expert-annotated ClimateNet data set, and track individual events using a spatio-temporal overlapping approach
 - #PAPER [HydroDeep -- A Knowledge Guided Deep Neural Network for Geo-Spatiotemporal Data Analysis (Sarkar 2020)](https://arxiv.org/abs/2010.04328)
@@ -254,8 +254,7 @@ See [[AI/Deep learning/GANs]]
 	- https://www.kdnuggets.com/2021/02/adversarial-generation-extreme-samples.html
 
 ### Causality studies
-- [[Causal modeling in ES#^d43897]]
-- [[Causal modeling in ES#^c4333d]]
+See [[AI4ES/Causal modeling in ES#Extreme events]]
 
 ### Droughts
 - #PAPER [Construction of Comprehensive Drought Monitoring Model in Jing-Jin-Ji Region Based on Multisource Remote Sensing Data (Yu 2019)](https://www.mdpi.com/2073-4441/11/5/1077)

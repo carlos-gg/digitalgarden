@@ -31,9 +31,6 @@ title: "Causal modeling in ES"
 	- https://advances.sciencemag.org/content/5/11/eaau4996
 	- PCMCI algorithm
 - #PAPER [Inferring causation from time series in Earth system sciences (Runge 2019)](https://www.nature.com/articles/s41467-019-10105-3)
-- #PAPER [A Novel Data-driven Approach for Tropical Cyclone Tracks Prediction Based on Granger Causality and GRU (Dong 2019)](https://www.semanticscholar.org/paper/A-Novel-Data-driven-Approach-for-Tropical-Cyclone-Dong-Lian/a391af3f58933f373ba2f812305fa0fd9521f656) ^d43897
-- #PAPER [Robust predictors for seasonal Atlantic hurricane activity (Pfleiderer 2020)](https://wcd.copernicus.org/articles/1/313/2020/wcd-1-313-2020.html) ^c4333d
-	- #TALK https://vimeo.com/472722333
 - #PAPER [Estimating causal networks in biosphere–atmosphere interaction with the PCMCI approach (Krich 2020)](https://www.biogeosciences.net/17/1033/2020/)
 - #PAPER [Causal networks for climate model evaluation and constrained projections (Nowack 2020)](https://www.nature.com/articles/s41467-020-15195-y)
 	- apply causal discovery algorithms to sea level pressure data from a large set of climate model simulations and, as a proxy for observations, meteorological reanalyses
@@ -41,4 +38,7 @@ title: "Causal modeling in ES"
 - #PAPER [Reconstructing regime-dependent causal relationships from observational time series (Saggioro 2020)](https://arxiv.org/abs/2007.00267)
 - #PAPER [Dominant patterns of interaction between the tropics and mid-latitudes in boreal summer: causal relationships and the role of timescales (Di Capua 2020)](https://wcd.copernicus.org/articles/1/519/2020/)
 
-
+### Extreme events
+- #PAPER [A Novel Data-driven Approach for Tropical Cyclone Tracks Prediction Based on Granger Causality and GRU (Dong 2019)](https://www.semanticscholar.org/paper/A-Novel-Data-driven-Approach-for-Tropical-Cyclone-Dong-Lian/a391af3f58933f373ba2f812305fa0fd9521f656) 
+- #PAPER [Robust predictors for seasonal Atlantic hurricane activity (Pfleiderer 2020)](https://wcd.copernicus.org/articles/1/313/2020/wcd-1-313-2020.html) 
+	- #TALK https://vimeo.com/472722333
