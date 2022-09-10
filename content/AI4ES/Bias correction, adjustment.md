@@ -4,7 +4,8 @@ title: "Bias correction, adjustment"
 
 > See: 
 > - [[AI4ES/Statistical downscaling]]
-> - [[AI4ES/S2S]], [[AI4ES/S2D]]
+> - [[AI4ES/S2S]]
+> - [[AI4ES/S2D]]
 > - [[AI4ES/Ensembles, multi-models]]
 
 ## Resources

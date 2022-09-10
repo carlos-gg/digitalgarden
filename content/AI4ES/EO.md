@@ -126,7 +126,7 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 - #PAPER #REVIEW [Hyperspectral Image Classification Using Deep Learning Models: A Review (Kumar 2021)](https://iopscience.iop.org/article/10.1088/1742-6596/1950/1/012087)
 
 ### Super-resolution
-See [[Super-resolution]] and [[AI4ES/Statistical downscaling]]
+See [[AI/Computer Vision/Super-resolution]] and [[AI4ES/Statistical downscaling]]
 - #PAPER [PanNet: A deep network architecture for pan-sharpening (Yang 2017)](http://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html)
 	- #CODE https://github.com/oyam/PanNet-Landsat
 - #PAPER [Target-adaptive CNN-based pansharpening (Scarpa 2018)](https://arxiv.org/abs/1709.06054)

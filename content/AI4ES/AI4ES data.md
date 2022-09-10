@@ -5,7 +5,7 @@ title: "AI4ES data"
 > See [[AI4ES/AI4ES#Infrastructure and data]]
 
 ## Climate data
-- See [[Climate change#Data and visualizations]]
+- See [[AI4ES/Climate change#Data and visualizations]]
 - [Climate Data Store - Copernicus](https://cds.climate.copernicus.eu)
 	- [CEMS - Emergency Management System](https://emergency.copernicus.eu/)
 - https://github.com/pangeo-data/

@@ -3,8 +3,8 @@ title: "S2S"
 ---
 
 > See:
-> - [[S2D]]
-> - [[Ensembles, multi-models]]
+> - [[AI4ES/S2D]]
+> - [[AI4ES/Ensembles, multi-models]]
 > - [[AI4ES/AI4ES data#Seasonal forecasts]]
 
 ## Resources
@@ -114,7 +114,6 @@ MJO:
 	- [Deep Learning for Scientific Inference from Geophysical Data: The Madden-Julian Oscillation as a Test Case (Toms, 2020)](https://arxiv.org/abs/1902.04621v1)
 - #PAPER [Improving subseasonal precipitation forecasts through a statistical–dynamical approach: application to the southwest tropical Pacific (Specq 2020)](https://link.springer.com/article/10.1007/s00382-020-05355-7)
 - #TALK [Predictable weather regimes at the S2S time scale (Cortesi 2020)](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-1580.html)
-	- #BSC Nicola Cortesi  
 	- weather regime classification at the s2s time scale for enhancing s2s predictability of the frequencies of weather regimes
 	- using clustering techniques (k-means) and weighting based on the anomaly correlation coeff. (ACC) 
 	- using NCEP reanalysis 40 years, Euro-Atlantic region
@@ -155,7 +154,7 @@ MJO:
 	- https://events.ecmwf.int/event/294/contributions/3053/attachments/1748/3161/ML-WS_Landry.pdf
 
 ### Verification
-- [#BSC Seasonal forecasts quality assessment report (report by Marcos, ESS)](https://zenodo.org/record/2391735#.X_29a9Yo9qg)
+- #BSC [Seasonal forecasts quality assessment report](https://zenodo.org/record/2391735#.X_29a9Yo9qg)
 - [Guidance on Verification of Operational Seasonal Climate Forecasts](https://library.wmo.int/doc_num.php?explnum_id=4886)
 - [Forecast Verification methods Across Time and Space Scales](https://www.cawcr.gov.au/projects/verification/)
 - [Verification of climate forecasts](http://indico.ictp.it/event/a09161/session/29/contribution/17/material/0/0.pdf)

@@ -1,9 +1,8 @@
 ---
 title: "Machine Learning (ML)"
-disableToc: false 
 ---
 
-> Machine learning identifies patterns using statistical learning and computers by unearthing boundaries in data sets. 
+> The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyse and draw inferences from patterns in data
 
 ## Resources
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
@@ -243,8 +242,8 @@ See [[AI/Deep learning/Generative modelling]]
 See [[AI/XAI]]
 
 ### Federated learning
-See [[Federated learning]]
+See [[AI/Federated learning]]
 
 ## Quantum ML
-See [[QML]]
+See [[AI/QML]]
 
