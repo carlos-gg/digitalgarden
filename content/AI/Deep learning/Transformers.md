@@ -6,11 +6,11 @@ title: "Transformers"
 - https://github.com/IDEACVR/awesome-detection-transformer
 - https://github.com/Yangzhangcst/Transformer-in-Computer-Vision
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
-- https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
-- https://analyticsindiamag.com/transformers-for-vision-7-works-that-indicate-fusion-is-the-future-of-ai/
+- [A Complete Learning Path To Transformers (With Guide To 23 Architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/)
 - [Investigating Vision Transformer representations](https://keras.io/examples/vision/probing_vits/)
 	- #CODE https://github.com/sayakpaul/probing-vits
 - [Self-Supervised Learning in Vision Transformers](https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c)
+- [A Deep Dive into Transformers with TensorFlow and Keras](https://pyimagesearch.com/2022/09/05/a-deep-dive-into-transformers-with-tensorflow-and-keras-part-1/)
 
 
 ## Courses
@@ -28,7 +28,8 @@ title: "Transformers"
 	- This codebase is designed for training large-scale vision models on Cloud TPU VMs. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable input pipelines in the Cloud
 
 
-## For NLP
+## References
+### For NLP
 - #PAPER [Attention is all you need (Vaswani 2017)](https://arxiv.org/abs/1706.03762)
 	- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 	- [Paper explained](https://www.youtube.com/watch?v=iDulhoQ2pro)
@@ -81,7 +82,7 @@ title: "Transformers"
 	- [Paper explained](https://www.youtube.com/watch?v=aPiHhJjN3hI)
 - #PAPER [LaMDA: Language Models for Dialog Applications (Thoppilan 2022)](https://arxiv.org/pdf/2201.08239)
 
-## For Computer Vision
+### For Computer Vision
 - #PAPER [Spatial Transformer Networks (Jaderberg 2016)](https://arxiv.org/abs/1506.02025)
 	-  the use of spatial transformers results in models which learn invariance to translation, scale, rotation and more generic warping, result-ing in state-of-the-art performance on several benchmarks, and for a number of classes of transformations
 	-  https://www.youtube.com/watch?v=6NnearestOQC_fl1hQ
@@ -173,14 +174,14 @@ title: "Transformers"
 	- #CODE https://github.com/HRNet/HRFormer
 - #PAPER [ITTR: Unpaired Image-to-Image Translation with Transformers (Zheng 2022)](https://arxiv.org/pdf/2203.16015)
 
-### Self-supervised vision transformers
+#### Self-supervised vision transformers
 - #PAPER [SiT: Self-supervised vIsion Transformer (Atito 2021)](https://arxiv.org/abs/2104.03602)
 - #PAPER [DINO - Emerging Properties in Self-Supervised Vision Transformers (Caron 2021)](https://arxiv.org/abs/2104.14294)
 	- https://towardsdatascience.com/on-dino-self-distillation-with-no-labels-c29e9365e382
 - #PAPER [ConvMAE: Masked Convolution Meets Masked Autoencoders (Gao 2022)](https://arxiv.org/abs/2205.03892v2)
 	- #CODE https://github.com/Alpha-VL/ConvMAE
 
-### Vision transformers with convolutions
+#### Vision transformers with convolutions
 - #PAPER [CeiT - Incorporating Convolution Designs into Visual Transformers (Yan 2021)](https://arxiv.org/abs/2103.11816v1)
 	- #CODE https://paperswithcode.com/paper/incorporating-convolution-designs-into-visual
 	- CeiT combines the advantages of CNNs in extracting low-level features, strengthening locality, and the advantages of Transformers in establishing long-range dependencies
@@ -228,8 +229,8 @@ title: "Transformers"
 - #PAPER [The Fully Convolutional Transformer for Medical Image Segmentation (Tragakis 2022)](https://arxiv.org/abs/2206.00566v1)
 	- #CODE https://github.com/Thanos-DB/FullyConvolutionalTransformer
 
-## Multi-modal transformers
+### Multi-modal transformers
 See [[AI/Deep learning/Multimodal learning]]
 
-## For RL
+### For RL
 See ^decisiontransformer in [[AI/Reinforcement learning]]

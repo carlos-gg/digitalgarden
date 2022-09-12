@@ -12,6 +12,7 @@ title: "Singular Value Decomposition (SVD)"
 - [Geometric explanation of SVD and applications](http://www.ams.org/publicoutreach/feature-column/fcarc-svd)
 - [Cool Linear Algebra: Singular Value Decomposition](https://andrew.gibiansky.com/blog/mathematics/cool-linear-algebra-singular-value-decomposition/)
 - [Singular Value Decomposition as Simply as Possible](https://gregorygundersen.com/blog/2018/12/10/svd/)
+- [Numpy Tutorial: Linear algebra on n-dimensional arrays](https://numpy.org/doc/1.21/user/tutorial-svd.html)
 - https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
 - Implementations:
 	- https://fa.bianp.net/blog/2012/singular-value-decomposition-in-scipy/

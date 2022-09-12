@@ -17,6 +17,9 @@ title: "Pytorch"
 	- [Ecosystem tools](https://pytorch.org/ecosystem/)
 	- Tensors and Dynamic neural networks in Python with strong GPU acceleration
 	- https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/
+- #CODE [PADL](https://github.com/lf1-io/padl) - Pipeline Abtractions for Deep Learning
+	- https://padl.ai/
+	- https://medium.com/pytorch/padl-portable-pytorch-pipelines-facilitating-deep-learning-model-use-c73b7ed95bcc
 - #CODE [TorchStudio](https://www.torchstudio.ai/)
 	- IDE for PyTorch and its ecosystem
 	- https://www.assemblyai.com/blog/beginners-guide-to-torchstudio-pytorch-only-ide/
