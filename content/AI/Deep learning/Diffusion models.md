@@ -4,9 +4,11 @@ title: "Diffusion models"
 
 > Diffusion Models are generative models that work by destroying training data through the successive addition of Gaussian noise, and then learning to recover the data by reversing this noising process. After training, the Diffusion Model can be used to generate data by simply passing randomly sampled noise through the learned denoising process
 
+> See [[AI/Deep learning/Multimodal learning]]
 
 ## Resources
 - [Diffusion models are autoencoders (Dieleman | Deepmind)](https://benanne.github.io/2022/01/31/diffusion.html "Diffusion models are autoencoders")
+- [Guidance: a cheat code for diffusion models (Dieleman | Deepmind)](https://benanne.github.io/2022/05/26/guidance.html "Guidance: a cheat code for diffusion models")
 - [High Fidelity Image Generation Using Diffusion Models](http://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html "High Fidelity Image Generation Using Diffusion Models")
 - [Introduction to deep generative modeling: Diffusion-based Deep Generative Models](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html)
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
@@ -25,4 +27,5 @@ title: "Diffusion models"
 	- #CODE https://github.com/openai/guided-diffusion
 	- Diffusion models are a class of likelihood-based models that have shown to produce high-quality images with desired properties such as distribution coverage and easy scalability. These models generate samples by gradually removing noise from a signal. Previous research has shown that they improve reliably with increased compute. The proposed method brings improvements to diffusions models that have worked for GANs, such as improved model architecture and a scheme to trade off diversity for quality. The proposed diffusion model achieves several state-of-the-art results, surpassing GANs on several metrics and datasets
 	- [Paper explained](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
-- See Imagen in [[AI/Deep learning/Multimodal learning]]
+- #PAPER [Classifier-Free Diffusion Guidance (Ho 2022)](https://arxiv.org/pdf/2207.12598)
+- #PAPER [Understanding Diffusion Models: A Unified Perspective (Luo 2022)](https://arxiv.org/pdf/2208.11970)

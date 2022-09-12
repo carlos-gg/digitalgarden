@@ -19,6 +19,9 @@ title: "Forecasting"
 - https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
 
 ## Code
+- #CODE [statsforecast](https://github.com/Nixtla/statsforecast)
+	- StatsForecast offers a collection of widely used univariate time series forecasting models, including autoARIMA and ETS modeling optimized for high performance using numba
+	- https://nixtla.github.io/statsforecast/
 - #CODE [Darts](https://github.com/unit8co/darts)
 	- https://unit8co.github.io/darts/
 	- Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA, Prophet,  deep neural networks (NBEATS, RNNs, Transformers)
