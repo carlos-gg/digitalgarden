@@ -7,6 +7,7 @@ title: "Python"
 ## Resources
 - https://www.python.org/
 - https://github.com/vinta/awesome-python
+- https://github.com/DjangoEx/python-engineer-roadmap
 - https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Python
 - https://github.com/ujjwalkarn/DataSciencePython
 - [Optimizing Python code performance with cProfile](https://blog.alookanalytics.com/2017/03/21/python-profiling-basics/)

@@ -110,6 +110,10 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 	- #CODE See Code section
 	- Can be used for computer vision tasks
 - #PAPER [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (Yang 2021)](https://arxiv.org/abs/2109.09847)
+- #PAPER [ExSum: From Local Explanations to Model Understanding (Zhou 2022)](https://arxiv.org/pdf/2205.00130)
+	- https://yilunzhou.github.io/exsum/
+	- #CODE https://github.com/YilunZhou/ExSum
+	- https://techxplore.com/news/2022-05-framework-individual-machine-learning-decisions.html
 
 #### Partial Dependence Plot
 - The partial dependence plot (short PDP or PD plot) shows the marginal effect one or two features have on the predicted outcome of a machine learning model
