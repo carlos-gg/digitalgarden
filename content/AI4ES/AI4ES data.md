@@ -79,10 +79,9 @@ See [[AI4ES/Extremes events#Databases]]
 	- https://www.ecmwf.int/en/newsletter/154/meteorology/ecmwfs-new-long-range-forecasting-system-seas5
 
 ### AC forecasts
-- CAMS - Copernicus Atmosphere Monitoring Service: 
+- [CAMS](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-atmospheric-composition-forecasts?tab=doc) - Copernicus Atmosphere Monitoring Service: 
 	- https://www.ecmwf.int/en/forecasts/dataset/cams-global-atmospheric-composition-forecasts
 	- https://atmosphere.copernicus.eu/accessing-atmospheric-composition-forecasts-made-easy
-	- https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-atmospheric-composition-forecasts?tab=doc
 	- [CAMSRA global reanalysis at 0.8 deg (80x80 km)](https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis)
 	- CAMS regional reanalysis at 0.1 deg (10x10 km):
 		- https://confluence.ecmwf.int/display/CKB/CAMS+Regional%3A+European+air+quality+analysis+and+forecast+data+documentation
@@ -99,8 +98,12 @@ See [[AI4ES/Extremes events#Databases]]
 	- The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km
 	- ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions
 	- ERA5 combines vast amounts of historical observations into global estimates using advanced modelling and data assimilation systems
-- [ERA5 land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview)
+- #PAPER [ERA5-Land: a state-of-the-art global reanalysis dataset for land applications (Muñoz-Sabater 2021)](https://essd.copernicus.org/articles/13/4349/2021/)
+	- [ERA5 land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview)
 	- ERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution (0.1 degrees) compared to ERA5
+- #PAPER [ERA-20C: An Atmospheric Reanalysis of the Twentieth Century (Poli 2016)](https://journals.ametsoc.org/view/journals/clim/29/11/jcli-d-15-0556.1.xml?tab_body=fulltext-display)
+	- ERA-20C is ECMWF's first atmospheric reanalysis of the 20th century, from 1900-2010
+	- The horizontal resolution is approximately 125 km. The temporal resolution of the daily products is usually 3-hourly
 - [gridMET](https://www.climatologylab.org/gridmet.html)
 	- gridMET is a dataset of daily high-spatial resolution (~4-km, 1/24th degree) surface meteorological data covering the contiguous US from 1979-yesterday
 - [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-single-levels?tab=overview) regional reanalysis for Europe
@@ -223,7 +226,6 @@ See [[AI4ES/Extremes events#Databases]]
 	- Microsoft AI for Earth, Microsoft Planetary Computer (Sentinel-2 data)
 	- https://caitlin-kontgis.medium.com/mapping-the-world-in-unprecedented-detail-7c0513205b90
 	- https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31
-
 
 ### Sentinel 5p (TROPOMI)
 - https://docs.sentinel-hub.com/api/latest/data/sentinel-5p-l2/
