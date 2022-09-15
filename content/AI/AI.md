@@ -25,6 +25,8 @@ title: "Artificial Intelligence"
 - [Where will AGI come from? (Karpathy)](https://ivenzor.com/wp-content/uploads/2018/07/yconftalk-170902200916.pdf)
 - [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 	- [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
+- [More Is Different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/)
+	- [More Is Different for AI - Scaling Up, Emergence, and Paperclip Maximizers (w/ Jacob Steinhardt)](https://www.youtube.com/watch?v=K-cXYoqHxBc)
 
 ### AI for scientific discovery
 See [[AI/AI-ML-DL for scientific discovery]]

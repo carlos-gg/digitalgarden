@@ -7,7 +7,9 @@ title: "Climate change"
 ## Resources
 - [The IPCC’s sixth assessment report on climate science (summary)](https://www.carbonbrief.org/in-depth-qa-the-ipccs-sixth-assessment-report-on-climate-science)
 - [Climate change: science and solutions](https://royalsociety.org/topics-policy/projects/climate-change-science-solutions/)
-- [Carbonbrief](https://www.carbonbrief.org/) - website covering the latest developments in climate science, climate policy and energy policy
+- [Carbonbrief](https://www.carbonbrief.org/) - Website covering the latest developments in climate science, climate policy and energy policy
+- [Climate Central](https://www.climatecentral.org/library) - Researching and reporting the science and impacts of climate change
+- [Climate Feedback](https://climatefeedback.org/) - worldwide network of scientists sorting fact from fiction in climate change media coverage
 - [Using AI and machine learning to kickstart climate change fightback](https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate)
 - [Digital technology and the planet](https://royalsociety.org/topics-policy/projects/digital-technology-and-the-planet/) - How can digital technologies be harnessed to tackle climate change? 
 - [Artificial Intelligence and Climate Change Opportunities, considerations, and policy levers to align AI with climate change goals](https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change)
@@ -18,14 +20,12 @@ title: "Climate change"
 - [Some new climate models are projecting extreme warming. Are they correct?](https://www.yaleclimateconnections.org/2020/07/some-new-climate-models-are-projecting-extreme-warming-are-they-correct/)
 - [Climate change indices](http://etccdi.pacificclimate.org/list_27_indices.shtml)
 - [Resource Watch provides trusted and timely data for a sustainable future](https://resourcewatch.org/)
-- [Centre for AI & climate](https://www.c-ai-c.org/)
-	- The Centre for AI & Climate is the leading organisation focused on advancing the application of data science and AI to accelerate action on climate change.
+- [Centre for AI & climate](https://www.c-ai-c.org/) - The Centre for AI & Climate is the leading organisation focused on advancing the application of data science and AI to accelerate action on climate change.
 - [Very Few Young Techies Are Trying to Do the Big Hard Things](https://marcwinkelmann.de/coders_clive_thompson_interview/)
 - [AI Is Not a Silver Bullet Against Climate Change - interview Lynn Kaack](https://marcwinkelmann.de/interview_lynn_kaack_climate-change-ai/)
 - [Is AI and Deep Learning a Climate Change Threat?](https://www.ibm.com/uk-en/it-infrastructure/learn/ai-and-deep-learning-climate-change-threat) 
 - [Extreme weather takes climate change models ‘off the scale’](https://www.fr24news.com/a/2021/07/extreme-weather-takes-climate-change-models-off-the-scale.html)
-- [Climate Central](https://www.climatecentral.org/library)
-	- Researching and reporting the science and impacts of climate change
+
 
 ### ESA CCI
 - [ESA climate office](https://climate.esa.int/en/)
