@@ -116,7 +116,8 @@ title: "Deep Learning (DL)"
 ## Code
 State of ML frameworks: 
 - https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
-- https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
+- [TensorFlow or PyTorch?](https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a) 
+- [TensorFlow, PyTorch, and JAX: Choosing a deep learning framework](https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html)
 
 - #CODE [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md)
 - #CODE [Pytorch](AI/DS%20and%20DataEng/Pytorch.md)

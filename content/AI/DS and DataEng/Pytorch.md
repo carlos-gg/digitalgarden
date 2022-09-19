@@ -5,6 +5,7 @@ title: "Pytorch"
 
 ## Resources
 - [Named Tensors using First-class Dimensions in PyTorch](https://github.com/facebookresearch/torchdim)
+- [Accelerate your models to production with Google Cloud and PyTorch](https://opensource.googleblog.com/2022/09/accelerate-your-models-to-production-with-google-cloud-and-pytorch_0905763892.html)
 
 
 ## Courses

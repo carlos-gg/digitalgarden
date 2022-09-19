@@ -2,12 +2,16 @@
 title: "Data assimilation"
 ---
 
+## Resources
+- [Data assimilation or machine learning?](https://www.ecmwf.int/en/newsletter/167/meteorology/data-assimilation-or-machine-learning)
+
 ## Courses
 - #COURSE [ECMWF An introduction to data assimilation](https://www.ecmwf.int/assets/elearning/da/da1/story_html5.html)
 - #COURSE [ECMWF Training course: Data assimilation](https://events.ecmwf.int/event/153/contributions/)
 
 ## Talks
 - #TALK [Ensemble Data Assimilation](https://confluence.ecmwf.int/display/OPTR/Our+training+resources?preview=/35751136/36012464/EDA.png)
+- #TALK [Data Learning: Integrating Data Assimilation and Machine Learning (CMCC)](https://www.youtube.com/watch?v=86eCVRJjMto)
 
 ## References
 - #PAPER [A review of operational methods of variational and ensemble‐variational data assimilation (Bannister 2016)](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2982)
@@ -21,7 +25,8 @@ title: "Data assimilation"
 	- Lower computational complexity of previous methods
 	- Tested the new method with data from a real-world application: a pollution model in London
 - #PAPER [Deep Data Assimilation: Integrating Deep Learning with Data Assimilation (Arcucci 2021)](https://www.mdpi.com/2076-3417/11/3/1114)
-
+- #PAPER [Data Learning: Integrating Data Assimilation and Machine Learning (Buizza 2022)](https://www.sciencedirect.com/science/article/abs/pii/S1877750321001861)
+- #PAPER [Deep Learning Augmented Data Assimilation: Reconstructing Missing Information with Convolutional Autoencoders (Wang 2022)](https://journals.ametsoc.org/view/journals/mwre/150/8/MWR-D-21-0288.1.xml)
 
 
 ### ECMWF-ESA Workshop on ML for Earth System Observation and Prediction (2020)
