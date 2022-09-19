@@ -90,3 +90,5 @@ title: "Multimodal learning, Foundation models"
 	- https://unified-io.allenai.org/
 - #PAPER #REVIEW [A Survey of Vision-Language Pre-Trained Models (Du 2022)](https://arxiv.org/pdf/2202.10936)            
 - #PAPER #REVIEW [The Creativity of Text-to-Image Generation (Oppenlaender 2022)](https://arxiv.org/pdf/2206.02904)
+- #PAPER [MultiMAE: Multi-modal Multi-task Masked Autoencoders (Bachman 2022)](https://arxiv.org/pdf/2204.01678)
+	- https://medium.com/syncedreview/epfls-multi-modal-multi-task-masked-autoencoder-a-simple-flexible-and-effective-vit-pretraining-3185c4aa62fc

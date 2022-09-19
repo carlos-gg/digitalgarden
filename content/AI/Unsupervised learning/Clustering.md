@@ -51,3 +51,6 @@ title: "Clustering"
 	- grouping images into semantically meaningful clusters when ground-truth annotations. This is tackling the task of unsupervised image classification in [Computer vision](AI/Computer%20Vision/Computer%20vision.md)
 	- advocate a two-step approach where feature learning and clustering are decoupled. First, a self-supervised task from representation learning is employed to obtain semantically meaningful features.Second, we use the obtained features as a prior in a learnable clustering  approach.  In  doing  so,  we  remove  the  ability  for  cluster  learning to depend on low-level features, which is present in current end-to-end learning approaches
 - #PAPER [Deep Robust Clustering by Contrastive Learning (Zhong 2020)](https://arxiv.org/abs/2008.03030)
+- #PAPER [DeepDPM: Deep Clustering With an Unknown Number of Clusters (Ronen 2022)](https://arxiv.org/pdf/2203.14309)
+	- #CODE https://github.com/BGU-CS-VIL/DeepDPM
+	- https://medium.com/syncedreview/meet-deepdpm-no-predefined-number-of-clusters-needed-for-deep-clustering-tasks-e7c635039013

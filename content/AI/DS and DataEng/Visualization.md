@@ -38,8 +38,7 @@ title: "Visualization"
 - #COURSE [Data Science: Visualization (Harvard-edX)](https://www.edx.org/course/data-science-visualization-harvardx-ph125-2x)
 - #COURSE [Reading and interpreting data (Khan academy)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning)
 - #TALK [23 Visualizations and When to Use Them in 30 Minutes](https://www.youtube.com/watch?v=RG_BKQRbJZw)
-- #TALK The Python Visualization Landscape (Vanderplas, Pycon 2017): 
-	- https://www.youtube.com/watch?v=FytuB8nFHPQ
+- #TALK [The Python Visualization Landscape (Vanderplas, Pycon 2017)](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 	- https://us.pycon.org/2017/schedule/presentation/616/
 - #TALK [Everything we know about how humans interpret graphics (Elliot 2016)](https://www.youtube.com/watch?v=s0J6EDvlN30)
 - #TALK [Constructive Code Review (Rose, PyCon 2017)](https://www.youtube.com/watch?v=iNG1a--SIlk)
@@ -96,14 +95,12 @@ title: "Visualization"
 		- https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503
 		- #TALK [Dash - A New Framework for Building User Interfaces for Technical Computing | SciPy 2017 | Chris Par](https://www.youtube.com/watch?v=sea2K4AuPOk)
 	- #CODE [Redash](https://redash.io/)
-	- #CODE Superset:  http://airbnb.io/projects/superset/
+	- #CODE [Superset](http://airbnb.io/projects/superset/)
 		- https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5
 		- https://indatalabs.com/blog/data-strategy/open-source-data-visualization-tool-superset
-	- #CODE Shiny (for R)
-		- https://shiny.rstudio.com/
+	- #CODE [Shiny](https://shiny.rstudio.com/) (for R)
 		- http://www.htmlwidgets.org/
-	- #CODE Pyxley - Python helpers for building dashboards using Flask and React: 
-		- https://github.com/stitchfix/pyxley
+	- #CODE [Pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
 		- http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/
 	- #CODE [Spyre](https://github.com/adamhajari/spyre)
 	- #CODE [Bowtie](http://bowtie-py.readthedocs.io/en/latest/)
@@ -117,3 +114,6 @@ title: "Visualization"
 - #CODE [Ipyvolume](https://ipyvolume.readthedocs.io/en/latest/)
 - #CODE [Vaex](https://vaex.io/)
   
+## References
+- #PAPER [A Survey on ML4VIS: Applying Machine Learning Advances to Data  Visualization (Wang 2021)](https://arxiv.org/pdf/2012.00467)
+- #PAPER [FAIR and Interactive Data Graphics from a Scientific Knowledge Graph (Deagen 2022)](https://www.nature.com/articles/s41597-022-01352-z)
