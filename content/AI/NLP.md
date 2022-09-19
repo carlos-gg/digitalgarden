@@ -57,6 +57,7 @@ title: "Natural Language Processing (NLP)"
 - [YaLM-100B](https://github.com/yandex/YaLM-100B)
 
 ## Code
+- #CODE [Arabica](https://github.com/PetrKorab/Arabica) - A Python package for exploratory analysis of text data
 - #CODE [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
 	- PaddleSpeech is an open-source toolkit on PaddlePaddle platform for a variety of critical tasks in speech and audio, with the state-of-art and influential models
 	- #PAPER [PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit (Zhang 2022)](https://arxiv.org/pdf/2205.12007v1)            
@@ -64,8 +65,7 @@ title: "Natural Language Processing (NLP)"
 	- Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP
 - #CODE [Beir - Heterogeneous Benchmark for Information Retrieval](https://github.com/UKPLab/beir)
 	- #PAPER [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models (Thakur 2021)](https://arxiv.org/abs/2104.08663)
-- #CODE [FastText](https://fasttext.cc/)
-	-  Library for efficient text classification and representation learning
+- #CODE [FastText](https://fasttext.cc/) -  Library for efficient text classification and representation learning
 	 - [Install FastText on Google colaboratory](https://colab.research.google.com/notebook#fileId=1MikDdEIDzFVpH7V6ZSTho8bwOALEmUoa)
 - #CODE [Fairseq](https://github.com/facebookresearch/fairseq)
 	- Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks
@@ -74,8 +74,7 @@ title: "Natural Language Processing (NLP)"
 - #CODE [Textgen RNN](https://github.com/minimaxir/textgenrnn)
 - #CODE [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 - #CODE [NLTK - NLTK is a leading platform for building Python programs to work with human language data](http://www.nltk.org/)
-- #CODE [Textblob](https://textblob.readthedocs.io/en/dev/)
-	- TextBlobis a Python library for processing textual data
+- #CODE [Textblob](https://textblob.readthedocs.io/en/dev/) - TextBlobis a Python library for processing textual data
 	- http://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
 	- http://nicschrading.com/project/Intro-to-NLP-in-Python/
 	- https://github.com/NSchrading/intro-python-nlp/blob/master/Intro_Python_NLP.ipynb

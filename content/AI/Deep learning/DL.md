@@ -77,6 +77,7 @@ title: "Deep Learning (DL)"
 
 
 ## Courses
+- #COURSE [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) (Karpathy)
 - #COURSE [Introduction to Deep Learning (COMP0090, UCL)](https://github.com/YipengHu/COMP0090 )
 - #COURSE [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 	- [Full Stack Deep Learning - Spring 2021](https://fullstackdeeplearning.com/spring2021/)

@@ -19,6 +19,7 @@ title: "Multimodal learning, Foundation models"
 	- [DreamStudio](https://beta.dreamstudio.ai) 
 	- [Two minute papers](https://www.youtube.com/watch?v=nVhmFski3vg)
 	- [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
+	- [stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
 
 
 ## Code
