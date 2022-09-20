@@ -14,6 +14,8 @@ title: "EO"
 	- Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018)
 - https://interestingengineering.com/mapping-every-solar-panel-in-the-world-with-machine-learning
 - [Image Classification with Hugging Face Transformers and Keras (EuroSAT dataset)](https://www.philschmid.de/image-classification-huggingface-transformers-keras)
+- [The most misunderstood words in Earth Observation - Spatial resolution](https://medium.com/sentinel-hub/the-most-misunderstood-words-in-earth-observation-d0106adbe4b0)
+- [U-Net for Semantic Segmentation on Unbalanced Aerial Imagery](https://towardsdatascience.com/u-net-for-semantic-segmentation-on-unbalanced-aerial-imagery-3474fa1d3e56)
 
 ## Events
 - [ESA EO Phi-week](https://phiweek.esa.int/)
@@ -100,6 +102,8 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 	- ML system to tap the problem-solving potential of satellite imaging, using low-cost, easy-to-use technology that could bring access and analytical power to researchers and governments worldwide
 - #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
 - #PAPER #REVIEW [ESA-ECMWF Report on recent progress and research directions in machine learning for Earth System observation and prediction (Schneider 2022)](https://www.nature.com/articles/s41612-022-00269-z)
+- #PAPER [A high-resolution canopy height model of the Earth (Lang 2022)](https://arxiv.org/abs/2204.08322)
+	- https://techxplore.com/news/2022-04-neural-network-tree-heights-satellite.html
 
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
@@ -148,7 +152,6 @@ See [[AI/Computer Vision/Super-resolution]] and [[AI4ES/Statistical downscaling]
 - #PAPER [D-SRGAN: DEM Super-Resolution with GANs (Demiray 2020)](https://arxiv.org/abs/2004.04788)
 - #PAPER [Super-Resolution of Sentinel-2 Imagery Using Generative Adversarial Networks (Salgueiro Romero 2020)](https://www.mdpi.com/2072-4292/12/15/2424/htm)
 	- https://upcommons.upc.edu/bitstream/handle/2117/329711/Final_thesis_OEC.pdf
-
 
 ### Data Fusion
 - #PAPER [The SEN1-2 Dataset for DL in SAR-Optical Data Fusion (Schmitt 2018)](http://arxiv.org/abs/1807.01569)

@@ -187,6 +187,8 @@ See [[AI4ES/Extremes events#Databases]]
 
 
 ## EO and Satellite data
+- [ESA openEO Platform](https://openeo.cloud/)
+	- openEO platform provides intuitive programming libraries to process a wide variety of earth observation datasets. This large-scale data access and processing is performed on multiple infrastructures, which all support the openEO API
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 - [Hyperlabelme](https://ieeexplore.ieee.org/document/8113131/authors#authors )
 - [HyRank (hyperspectral dataset)](http://www2.isprs.org/commissions/comm3/wg4/HyRANK.html )
