@@ -40,6 +40,9 @@ title: "Autoencoders"
 - #PAPER [Image-To-Image Translation Using a Cross-Domain Auto-Encoder and Decoder (Yoo 2019)](https://www.mdpi.com/2076-3417/9/22/4780/htm )
 	- Early image-to-image translation methods used convolutional neural networks (CNN), which learn to minimize the loss of a pixel value between the source domain image and the target domain image but had the limitation of failing to produce more photorealistic images 
 	- Unlike other approaches… our method is not limited to a specific task, nor do we rely on predefined relationships between the source and target domains. Our method can be applied to make a general-domain solution for many image-to-image translation tasks. 
+- #PAPER [Accelerated Design and Deployment of Low-Carbon Concrete for Data Centers (Ge 2022)](https://arxiv.org/pdf/2204.05397)
+	- use conditional variational autoencoders (CVAEs), a type of semi-supervised generative artificial intelligence (AI) model, to discover concrete formulas with desired properties
+	- https://www.theregister.com/2022/04/29/meta_ai_green_concrete/
 
 ### Variational Autoencoders (VAE)
 - #PAPER [Auto-Encoding Variational Bayes (Kingma 2014)](https://arxiv.org/abs/1312.6114)

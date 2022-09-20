@@ -19,6 +19,7 @@ title: "Machine Learning (ML)"
 - [Best practices for ML engineering (Google)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [Recommendation System Algorithms](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
 - [Training Machine Learning Models More Efficiently with Dataset Distillation](http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html "Training Machine Learning Models More Efficiently with Dataset Distillation")
+- [Codelabs - AI & ML](https://codelabs.developers.google.com/?category=aiandmachinelearning)
 
 ### Cheatsheets and notes
 - https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf
@@ -64,6 +65,7 @@ See [[AI/DS and DataEng/Open ML data]]
 	- https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
 
 ## Code 
+- See [[AI/DS and DataEng/ML Ops#Code]]
 - #CODE [Benchmarks of ML libraries](https://github.com/szilard/benchm-ml)
 - #CODE [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 	- http://scikit-learn.org/stable/
@@ -137,41 +139,6 @@ See [[AI/DS and DataEng/Open ML data]]
 - #CODE [PyCM](https://github.com/sepandhaghighi/pycm)
 	- PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 	- http://www.pycm.ir/
-
-### ML platforms
-- #CODE [Azure (Microsoft)](https://azure.microsoft.com/en-gb/)
-	- [Azure ML Studio](https://azure.microsoft.com/en-us/services/machine-learning/)
-	- [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
-- #CODE [Google Cloud Platform](https://cloud.google.com/)
-	- [Pick your AI/ML Path on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/pick-your-aiml-path-google-cloud)
-	- https://codelabs.developers.google.com/
-	- https://cloud.google.com/products/ai/
-	- https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17
-	- [Cloud AI building blocks](https://cloud.google.com/products/ai/building-blocks/)
-	- [Cloud ML Engine](https://cloud.google.com/ml/)
-		- [Google Cloud Machine Learning platform](https://cloud.google.com/ml-engine/docs/)
-		- #TALK [Machine Intelligence at Google Scale: Vision/Speech API (Guillaume Laforge)](https://www.youtube.com/watch?v=zqWt8oI4gEw)
-		- https://www.slideshare.net/matthiasfeys/machine-learning-at-scale-with-google-cloud-platform
-		- https://github.com/Fematich/mlengine-boilerplate
-	- [AI Hub](https://cloud.google.com/ai-hub/)
-	- [Cloud AutoML](https://cloud.google.com/automl/)
-- #CODE [Amazon web services (AWS)](https://aws.amazon.com/)
-	- https://github.com/donnemartin/awesome-aws
-	- [ML on AWS](https://aws.amazon.com/machine-learning/)
-	- [SageMaker](https://aws.amazon.com/sagemaker/)
-	- [AI on AWS](https://aws.amazon.com/lex/) 
-		- https://aws.amazon.com/polly
-		- https://aws.amazon.com/rekognition
-- #CODE [Watson (IBM)](http://www.ibm.com/watson/)
-	- [IBM Watson APIs](https://www.ibm.com/watson/developer/)
-	- http://www.datasciencecentral.com/profiles/blogs/ibm-watson-does-your-taxes-question-answering-machine-versus-expe
-	- https://www.codecademy.com/learn/ibm-watson
-	- https://www.ibm.com/cloud/watson-studio
-	- https://www.ibm.com/watson/services/knowledge-studio/
-- #CODE [Dataiku DSS](https://www.dataiku.com/)
-- #CODE [Domino DataLab](https://www.dominodatalab.com/)
-- #CODE [RapidMiner](https://rapidminer.com/)
-- #CODE [Knime](https://www.knime.org/knime-analytics-platform)
 
 
 ## References

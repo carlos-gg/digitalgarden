@@ -106,6 +106,7 @@ title: "Super-resolution"
 - #PAPER [Efficient Image Super-Resolution Using Pixel Attention (Zhao 2020)](https://arxiv.org/abs/2010.01073) ^srwithpixelattention
 	-  #CODE See code in [CNNs](AI/Deep%20learning/CNNs.md)
 	-  #CODE https://github.com/zhaohengyuan1/PAN
+- #PAPER [Arbitrary Back-Projection Networks for Image Super-Resolution (Ma 2020)](https://www.worldscientific.com/doi/full/10.1142/S1469026820500261)
 - #PAPER #REVIEW [A Deep Journey into Super-resolution: A survey (Anwar 2020)](https://arxiv.org/abs/1904.07523)
 	- https://github.com/saeed-anwar/SRsurvey
 - #PAPER #REVIEW [Deep Learning for Image Super-resolution: A Survey (Wang 2020)](https://arxiv.org/abs/1902.06068 )
@@ -113,6 +114,7 @@ title: "Super-resolution"
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM
+- #PAPER [Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters (Hu 2021)](https://ieeexplore.ieee.org/document/9180081)
 - #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588) 
 
 

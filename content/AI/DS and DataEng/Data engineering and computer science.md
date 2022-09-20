@@ -9,6 +9,8 @@ title: "Data Engineering and Computer Science"
 - [What is Data Engineering and Why Is It So Important?](https://quanthub.com/what-is-data-engineering/)
 - [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - [Have we bridged the gap between Data Science and DevOps?](https://jaxenter.com/bridge-gap-data-science-devops-134712.html)
+- [Codelabs](https://codelabs.developers.google.com/)
+	- Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application
 
 ### Python
 See [[AI/DS and DataEng/Python]]
