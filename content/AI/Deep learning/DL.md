@@ -262,7 +262,7 @@ State of ML frameworks:
 	- http://mipal.snu.ac.kr/images/1/16/Dropout_ACCV2016.pdf
 - #PAPER [Effective and Efficient Dropout for Deep Convolutional Neural Networks (Cai 2020)](https://arxiv.org/abs/1904.03392)
 
-### Stochastic depth
+#### Stochastic depth
 - #PAPER [Deep Networks with Stochastic Depth (Huang 2016)](https://arxiv.org/pdf/1603.09382)
 	- Stochastic depth is a regularization technique that randomly drops a set of layers. During inference, the layers are kept as they are. It is very much similar to Dropout but only that it operates on a block of layers rather than individual nodes present inside a layer
 
@@ -274,8 +274,7 @@ State of ML frameworks:
 - https://sebastianraschka.com/faq/docs/scale-training-test.html 
 - Data normalization/standardization can be used as an alternative (before training) to synch batchnorm (multi-gpu training)
 - [Spectral normalization](https://sthalles.github.io/advanced_gans/)
-
-- #PAPER [Normalization Techniques in Training DNNs: Methodology, Analysis and Application (Huang 2020)](https://arxiv.org/abs/2009.12836)
+- #PAPER #REVIEW [Normalization Techniques in Training DNNs: Methodology, Analysis and Application (Huang 2020)](https://arxiv.org/abs/2009.12836)
 
 ##### BatchNorm
 - #PAPER [ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Ioffe 2015)](https://arxiv.org/abs/1502.03167)
@@ -289,12 +288,15 @@ State of ML frameworks:
 ### Activations
 - https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
 - https://mlfromscratch.com/activation-functions-explained/
-- [RELU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
-	- https://www.quora.com/What-is-special-about-rectifier-neural-units-used-in-NN-learning
 - http://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-network
 - https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions
+- #PAPER [ImageNet Classification with Deep Convolutional Neural Networks (Krizhevsky 2012)](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+	- [RELU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+	- https://www.quora.com/What-is-special-about-rectifier-neural-units-used-in-NN-learning
+- #PAPER [Universal activation function for machine learning (Yuen 2021)](https://www.nature.com/articles/s41598-021-96723-8)
+- #PAPER #REVIEW [Activation Functions in Deep Learning: A Comprehensive Survey and Benchmark (Dubey 2022)](https://arxiv.org/pdf/2109.14545)
 
-### Loss/Cost functions
+### Loss functions
 - Cross entropy
 	- http://neuralnetworksanddeeplearning.com/chap3.html
 	- https://en.wikipedia.org/wiki/Cross_entropy
@@ -321,7 +323,6 @@ State of ML frameworks:
 - [Back-propagation - Math Simplified](https://github.com/DebPanigrahi/Machine-Learning/blob/master/back_prop.ipynb)
 - https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 - https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/amp/
-
 - #PAPER [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima (Shirish Keshkar 2017)](https://arxiv.org/abs/1609.04836)
 - #PAPER [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour (Goyal 2018)](https://arxiv.org/abs/1706.02677)
 - #PAPER [Decoupled Weight Decay Regularization (Loshchilov 2018)](https://arxiv.org/abs/1711.05101)
@@ -347,12 +348,11 @@ State of ML frameworks:
 - #PAPER [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (Menghani 2021)](https://arxiv.org/abs/2106.08962)
 	- https://analyticsindiamag.com/how-to-build-smaller-faster-better-deep-learning-models/
 
-### Scaling and distributed DL
+### Distributed DL
 See [[AI/DS and DataEng/Distributed DL]]
 
 ### Attention
-See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual attention" section in [[/AI/Deep learning/CNNs]]
-
+- See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual attention" section in [[/AI/Deep learning/CNNs]]
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
 
@@ -362,7 +362,7 @@ See [[AI/Deep learning/Explainability methods for NNs]]
 ## Applications
 
 ### Deep learning for multi-dimensional data
-See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
+- See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 
 ### Deep learning for tabular data

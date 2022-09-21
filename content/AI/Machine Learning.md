@@ -67,16 +67,20 @@ See [[AI/DS and DataEng/Open ML data]]
 ## Code 
 - See [[AI/DS and DataEng/ML Ops#Code]]
 - #CODE [Benchmarks of ML libraries](https://github.com/szilard/benchm-ml)
+- #CODE [Ludwig](https://github.com/ludwig-ai/ludwig) - declarative machine learning framework
+	- https://medium.com/predibase/ludwig-automl-for-text-classification-7c1759f3b150
 - #CODE [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 	- http://scikit-learn.org/stable/
 	- [Contrib packages](https://github.com/scikit-learn-contrib)
 	- #TALK [PyData tutorial by Sebastian Raschka](https://www.youtube.com/watch?v=9fOWryQq9J8)
-	- #CODE [scikit-plot](http://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
 	- #CODE [Lightning](http://contrib.scikit-learn.org/lightning/)
 		- Large-scale linear classification, [[AI/Supervised Learning/Regression]] and ranking ([[AI/Learning to rank]]] in Python
 	- #CODE [MAPIE](https://github.com/scikit-learn-contrib/mapie)
 		- #PAPER [MAPIE: an open-source library for distribution-free uncertainty quantification](https://arxiv.org/pdf/2207.12274v1)
 		- A scikit-learn-compatible module for estimating prediction intervals for single-output regression or multi-class classification settings
+	- #CODE [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex)
+		- Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
+		- https://intel.github.io/scikit-learn-intelex/
 - #CODE [mlinsights](https://github.com/sdpython/mlinsights/)
 	- http://www.xavierdupre.fr/app/mlinsights/helpsphinx/notebooks/piecewise_linear_regression.html
 - #CODE [PyCaret](https://github.com/pycaret/pycaret)
@@ -116,13 +120,10 @@ See [[AI/DS and DataEng/Open ML data]]
 	- #CODE [cuSignal - RAPIDS Signal Processing Library](https://github.com/rapidsai/cusignal)
 	- #CODE [cuGraph - RAPIDS Graph Analytics Library](https://github.com/rapidsai/cugraph)
 	- #CODE [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
-- #CODE [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex)
-	- Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
-	- https://intel.github.io/scikit-learn-intelex/
-- #CODE [CuPy - NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
-	- https://cupy.chainer.org/
-	- https://docs-cupy.chainer.org/en/stable/
-	- https://docs-cupy.chainer.org/en/stable/tutorial/
+	- #CODE [CuPy - NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
+		- https://cupy.chainer.org/
+		- https://docs-cupy.chainer.org/en/stable/
+		- https://docs-cupy.chainer.org/en/stable/tutorial/
 - #CODE [ArrayFire](https://github.com/arrayfire/arrayfire-python)
 	- ArrayFire is a high performance library for parallel computing with an easy-to-use API. It enables users to write scientific computing code that is portable across CUDA, OpenCL and CPU devices. This project provides Python bindings for the ArrayFire library.
 	- https://arrayfire.com/

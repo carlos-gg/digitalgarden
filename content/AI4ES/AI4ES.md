@@ -25,7 +25,7 @@ title: "AI4ES"
 		- label or target values that are not usually structured, such as oceanic measurements from drifting buoys that cannot be adapted easily to the grid systems commonly used in ML algorithms
 - [Weathering Environmental Change Through Advances in AI](https://eos.org/opinions/weathering-environmental-change-through-advances-in-ai)
 - [Tackling 21st Century Geoscience Problems with Machine Learning](https://eos.org/editors-vox/tackling-21st-century-geoscience-problems-with-machine-learning)
-- [Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data (NASA)](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) ^7b7470
+- [Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data (NASA)](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
 - [Training the Next Generation of Physical Data Scientists](https://eos.org/opinions/training-the-next-generation-of-physical-data-scientists)
 - [Guest post (CarbonBrief): How artificial intelligence is fast becoming a key tool for climate science](https://www.carbonbrief.org/guest-post-how-artificial-intelligence-is-fast-becoming-a-key-tool-for-climate-science/)
 
@@ -51,7 +51,8 @@ title: "AI4ES"
 
 
 ## Infrastructure and data
-See [[AI4ES/AI4ES data]]
+- See [[AI4ES/AI4ES data]]
+- Pangeo Forge. See [[AI4ES/Pangeo]]
 - [Microsfot Planetary Computer](https://planetarycomputer.microsoft.com/)
 - [European Weather Cloud](https://www.europeanweather.cloud/)
 	- https://www.ecmwf.int/en/newsletter/165/computing/progress-towards-european-weather-cloud
@@ -64,10 +65,9 @@ See [[AI4ES/AI4ES data]]
 - [EUMETSAT data portal](https://www.eumetsat.int/who-we-work/access-copernicus-data)
 	- [EUMETView](https://view.eumetsat.int/productviewer?v=default)
 	- [Product navigator](https://navigator.eumetsat.int/start)
-- AI4ES/Pangeo Forge. See [[AI4ES/Pangeo]]
 
 ## Code
-See [[AI4ES/Pangeo]]
+- See [[AI4ES/Pangeo]]
 - #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
 - #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
 - #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences
@@ -174,7 +174,7 @@ See [[AI/DS and DataEng/Distributed DL]] and [[AI4ES/HPC-AI convergence]]
 See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 
 ### Digital twins
-See [[AI4ES/Emulators]]
+- See [[AI4ES/Emulators]]
 - [NVIDIA Construirá la Supercomputadora Earth-2 para Ver Nuestro Futuro](https://la.blogs.nvidia.com/2021/11/16/supercomputadora-earth-2/)
 - [Climate Science Sessions at GTC Highlight How Digital Twins Powered by HPC and AI Can Help Earth](https://blogs.nvidia.com/blog/2022/03/08/climate-science-sessions-gtc/)
 - #PAPER [How to tell the difference between a model and a digital twin (Wright 2020)](https://amses-journal.springeropen.com/articles/10.1186/s40323-020-00147-4)
