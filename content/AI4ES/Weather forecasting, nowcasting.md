@@ -10,6 +10,9 @@ title: "Weather forecasting, nowcasting"
 > - [[AI/Deep learning/Fourier Neural Operators]]
 
 
+## Resources
+- [Artificial intelligence can create better lightning forecasts](https://phys.org/news/2021-12-artificial-intelligence-lightning.html)
+
 ## Code
 - #CODE [PySTEPS - Python framework for short-term ensemble prediction systems](https://github.com/pySTEPS/pysteps)
 	- https://pysteps.github.io/
@@ -131,9 +134,10 @@ title: "Weather forecasting, nowcasting"
 	- #CODE https://github.com/andersonsam/cnn_lstm_era
 - #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/abs/2202.11214)            
 	- [Accelerating Extreme Weather Prediction with FourCastNet](https://www.youtube.com/watch?v=nuT_U1AQz3g)
+	- [Deep-learning model speeds extreme weather predictions](https://phys.org/news/2021-12-deep-learning-extreme-weather.html)
 	- #TALK [Building Digital Twins of the Earth for NVIDIA's Earth-2 Initiative](https://www.youtube.com/watch?v=IBTVAC82xtQ)
 	- #CODE https://github.com/NVlabs/FourCastNet
-	- #CODE https://github.com/HFAiLab/FourCastNet (NOT OFFICIAL)
+	- #CODE https://github.com/HFAiLab/FourCastNet (UNOFFICIAL)
 	- ERA5 0.25 deg, 20 variables, from 1979 (~50k training samples)
 	- Unparalleled accuracy at forecast lead times of up to one week, challenging variables such as surface winds and precipitation
 	- FourCastNet has eight times greater resolution than state-of-the-art DL-based global weather models

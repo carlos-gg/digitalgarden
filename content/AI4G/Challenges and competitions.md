@@ -29,3 +29,5 @@ title: "AI4G - Challenges and competitions"
 	- $1.5 million worth of cloud services available for projects that improve understanding of our planet
 - [AI4Citites](https://ai4cities.eu/) - using AI to make Europe's cities more sustainable
 - [Climathon](https://climathon.climate-kic.org/) 
+- [AI for global climate cooperation](https://www.ai4climatecoop.org/)
+- [2022 Call for Code Global Challenge](https://callforcode.bemyapp.com/)
