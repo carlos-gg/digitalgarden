@@ -13,7 +13,7 @@ title: "AI4ES"
 - [Accelerating progress in Climate Science (Schneider 2021, Physics today)](https://digital.physicstoday.org/physicstoday/june_2021/MobilePagedReplica.action?utm_source=newsletter&utm_medium=email&utm_campaign=TXPHYS210602002&utm_content=gtxcel&pm=2&folio=44#pg47)
 - https://www.scientificamerican.com/article/how-machine-learning-could-help-to-improve-climate-forecasts/
 - https://e360.yale.edu/features/can-artificial-intelligence-help-build-better-smarter-climate-models
-- [Artificial Intelligence—A Game Changer for Climate Change and the Environment ](https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/)
+- [AI - A Game Changer for Climate Change and the Environment ](https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/)
 - [Ten Ways to Apply Machine Learning in Earth and Space Sciences](https://eos.org/opinions/ten-ways-to-apply-machine-learning-in-earth-and-space-sciences)
 - [Supercomputers, Climate Models and 40 Years of the World Climate Research Programme](https://insideclimatenews.org/news/06122019/climate-models-supercomputer-world-research-program-agu-100-anniversary-cheyenne-wyoming)
 - [Thoughtfully Using Artificial Intelligence in Earth Science](https://eos.org/opinions/thoughtfully-using-artificial-intelligence-in-earth-science)
@@ -180,6 +180,8 @@ See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 - #PAPER [How to tell the difference between a model and a digital twin (Wright 2020)](https://amses-journal.springeropen.com/articles/10.1186/s40323-020-00147-4)
 
 ### Other applications
+- See [[AI4G/Challenges and competitions#Earth observation climate]]
+
 #### Agriculture
 - #PAPER [Deep learning in agriculture: A survey (Kamilaris 2018)](http://arxiv.org/abs/1807.11809)
 - #PAPER [Machine Learning in Agriculture: A Review (Liakos 2018)](https://www.mdpi.com/1424-8220/18/8/2674/htm)

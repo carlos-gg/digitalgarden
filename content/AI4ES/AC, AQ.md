@@ -10,6 +10,7 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- CTM is expected to accurately represent the entire cycle for the species of interest, including fluxes (e.g. advection), chemical production/loss, and deposition
 - [Gaussian process regression (GPR) on Mauna Loa CO2 data. — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html)
 - [Air Quality e-Reporting](https://www.eea.europa.eu/data-and-maps/data/aqereporting-9)
+- [AI4EO challenge](https://platform.ai4eo.eu/air-quality-and-health)
 
 ### Methane emission sources
 - [The MEthane Tracking Emissions Reference (METER) database](https://meterplatform.web.app/)
@@ -20,9 +21,6 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- https://www.iea.org/articles/methane-tracker-database
 	- [Mapping methane emissions on a global scale](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Mapping_methane_emissions_on_a_global_scale)
 	- [Monitoring methane emissions from gas pipelines](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Monitoring_methane_emissions_from_gas_pipelines)
-
-### TROPOMI
-- [AI4EO challenge](https://platform.ai4eo.eu/air-quality-and-health)
 
 
 ## References
