@@ -180,9 +180,6 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- Trained separate models for RI prediction for different lead-time, i.e. 6h, 12h, 18h, 24h, and create corresponding training data sets respectively.  For each lead-time, we split independent TCs into training and test split to prevent potential correlations. Overall, this gives us by estimation roughly4000 TCs in training set, and each TC provides a series of pairs of feature map and ground truth binary label indicating whether RI happens. 
 - #PAPER [Machine Learning for Generalizable Prediction of Flood Susceptibility (Sidrane 2019)](https://arxiv.org/abs/1910.06521)
 - #PAPER [Forecasting El Niño with Convolutional and Recurrent Neural Networks (Mahesh 2019)](https://www.researchgate.net/publication/343794841)
-- #PAPER [Spherical CNNs on unstructured grids (Jiang 2019)](https://arxiv.org/abs/1901.02039)
-	- #CODE https://github.com/maxjiang93/ugscnn
-	- Based on https://github.com/jonas-koehler/s2cnn
 - #PAPER [A mixed model approach to drought prediction using artificial neural networks: Case of an operational drought monitoring environment (Adede 2019)](https://arxiv.org/abs/1901.04927)
 	- The study uses 10 precipitation and vegetation variables that are lagged over 1, 2 and 3-month time-steps to predict drought situations
 	- In the model space search for the most predictive artificial neural network (ANN) model, as opposed to the traditional greedy search for the most predictive variables, we use the General Additive Model (GAM) approach

@@ -17,6 +17,7 @@ title: "Forecasting"
 	- https://www.bounteous.com/insights/2020/09/15/forecasting-time-series-model-using-python-part-two/
 - https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
 - https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
+- [Predicting energy demand with neural networks](https://towardsdatascience.com/forecasting-energy-consumption-using-neural-networks-xgboost-2032b6e6f7e2)
 
 ## Code
 - #CODE [statsforecast](https://github.com/Nixtla/statsforecast)

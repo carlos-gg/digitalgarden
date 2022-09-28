@@ -30,6 +30,8 @@ title: "EO"
 See [[AI4ES/AI4ES data#EO and Satellite data]]
 
 ## Code
+- #CODE [Earthspy](https://github.com/AdrienWehrle/earthspy)
+	- Monitor and study any place on Earth and in Near Real-Time (NRT) using the Sentinel Hub services developed by the EO research team at Sinergise
 - #CODE [TorchGeo (Microsoft)](https://github.com/microsoft/torchgeo)
 	- https://torchgeo.readthedocs.io/
 - #CODE [Raster vision](https://github.com/azavea/raster-vision)

@@ -4,8 +4,11 @@ title: "AI4G - Challenges and competitions"
 
 
 ## Resources
-- [Big data for social good (IBM)](https://ibmhadoop.devpost.com/)
-	- IBM invites developers and data enthusiasts to take a deep dive into real world civic issues using big data and IBM Bluemix’s Analytics for Hadoop service. Analyze one of our curated datasets or bring your own (provided it meets these requirements)! Use Hadoop and your data to create a clickable and interactive data visualization to highlight insights that you’ve found.
+- [Devpost - social good challenges](https://devpost.com/hackathons?themes[]=Social%20Good)
+	- [Big data for social good (IBM)](https://ibmhadoop.devpost.com/)
+		- IBM invites developers and data enthusiasts to take a deep dive into real world civic issues using big data and IBM Bluemix’s Analytics for Hadoop service. Analyze one of our curated datasets or bring your own (provided it meets these requirements)! Use Hadoop and your data to create a clickable and interactive data visualization to highlight insights that you’ve found.
+- [Omdena](https://omdena.com/projects)
+	- A platform to bring together the global AI community with impact-driven organizations to educate, innovate, and build real-world AI solutions
 - [Data Science Bowl](https://datasciencebowl.com/)
 	- For us, data science is more than a skill or profession. It is a calling and a way of life. It rewards grit as much as talent. Failure, curiosity, and small successes lead to discovery. Data science grants the power of entire nations or corporations to the individual. It gives a megaphone to those who were previously silent. Our purpose is bigger than any one of us.
 - [Call for Code - Global](https://callforcode.org/)
@@ -30,4 +33,4 @@ title: "AI4G - Challenges and competitions"
 - [AI4Citites](https://ai4cities.eu/) - using AI to make Europe's cities more sustainable
 - [Climathon](https://climathon.climate-kic.org/) 
 - [AI for global climate cooperation](https://www.ai4climatecoop.org/)
-- [2022 Call for Code Global Challenge](https://callforcode.bemyapp.com/)
+- [Call for Code Global Challenge (2022)](https://callforcode.bemyapp.com/)

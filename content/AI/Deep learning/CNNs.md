@@ -179,3 +179,7 @@ See "Neural Networks explainability" section in [[AI/XAI]]
 	- attention-map-guided visual explanations for deep neural networks, employing an attention mechanism to find the most important region of an input image
 	- The Grad-CAM method is used to extract the feature map for deep neural networks, and then the attention mechanism is used to extract the high-level attention maps
 	- Inspired in CBAM technique
+
+
+### Spherical CNNs
+See [[AI/Deep learning/Spherical CNNs]]
