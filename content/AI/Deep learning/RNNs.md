@@ -32,6 +32,8 @@ title: "Recurrent Neural Networks (RNNs)"
 - #PAPER [Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau 2016)](https://arxiv.org/abs/1409.0473)
 	- https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
 - #PAPER [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks (Salinas 2019)](https://arxiv.org/abs/1704.04110)            
+- #PAPER [A Modern Self-Referential Weight Matrix That Learns to Modify Itself (Irie 2022)](https://arxiv.org/pdf/2202.05780)
+	- https://syncedreview.com/2022/04/19/toward-self-improving-neural-networks-schmidhuber-teams-scalable-self-referential-weight-matrix-learns-to-modify-itself/
 
 ### LSTMs
 See [[AI/Deep learning/LSTMs]]

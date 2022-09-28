@@ -43,8 +43,6 @@ title: "Graph neural networks (GNNs)"
 - #PAPER [Graph Neural Networks for Decentralized Controllers (Gama 2020)](https://arxiv.org/abs/2003.10280 )
 - #PAPER [Learning to Simulate Complex Physics with Graph Networks (Sanchez-Gonzalez 2020)](https://arxiv.org/abs/2002.09405)
 	- [Two minute papers](https://www.youtube.com/watch?v=2Bw5f4vYL98)
-- #PAPER [DeepSphere: a graph-based spherical CNN (Defferrard 2020)](https://arxiv.org/abs/2012.15000) ^deepsphere
-	- #CODE https://github.com/deepsphere
 - #PAPER #REVIEW [Graph neural networks: A review of methods and applications (Zhou 2020)](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
 - #PAPER [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization (Ding 2021)](https://arxiv.org/abs/2110.14363)
 - #PAPER [Nested Graph Neural Networks (Zhang 2021)](https://arxiv.org/abs/2110.13197)

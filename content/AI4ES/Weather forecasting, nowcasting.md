@@ -94,16 +94,10 @@ title: "Weather forecasting, nowcasting"
 	- The latter method is widely used in numerical weather prediction models, but is yet to be tested on neural networks
 	- The ensemble mean forecasts obtained from these four approaches all beat the unperturbed neural network forecasts, with the retraining method yielding the highest improvement
 	- The skill of the neural network fore-casts is systematically lower than that of state-of-the-art numerical weather prediction models
-- #PAPER [Spherical convolution and other forms of informed machine learning for deep neural network based weather forecasts (Scher 2020)](https://arxiv.org/abs/2008.13524)
-	- CNN-based weather forecasting solutions are are usually trained on atmospheric data represented as regular latitude-longitude grids, neglecting the curvature of the Earth
-	- Showed the benefit of replacing the convolution operations with a spherical convolution operation, which takes into account the geometry of the underlying data, including correct representations near the poles
-	- Additionally, studied the effect of including the information that the two hemispheres of the Earth have “flipped” properties - for example cyclones circulating in opposite directions - into the structure of the network
-	- Using spherical convolution leads to an additional improvement in forecast skill, especially close to the poles in the first days of the forecast
-	- The spherical convolution is implemented flexibly and scales well to high resolution datasets, but is still significantly more expensive than a standard convolution operation
 - #THESIS/PHD [Artificial intelligence in weather and climate prediction (Scher 2020)](https://www.diva-portal.org/smash/get/diva2:1425352/FULLTEXT01.pdf ^2e6f0f)
 - #THESIS/MSC [Geometric deep learning for medium-range weather prediction (Llorens 2020)](https://infoscience.epfl.ch/record/278138)
 	- #CODE https://github.com/illorens/weather_prediction
-	- Spherical CNNs benchmarking
+	- [[AI/Deep learning/Spherical CNNs]] benchmarking
 - #PAPER [Temporal convolutional neural (TCN) network for an effective weather forecasting using time-series data from the local weather station (Hewage 2020)](https://link.springer.com/article/10.1007/s00500-020-04954-0)
 - #PAPER [Optimization of Deep Learning Precipitation Models Using Categorical Binary Metrics (Rozas Larraondo 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001909)
 	- #CODE https://github.com/prl900/weather_encoders
