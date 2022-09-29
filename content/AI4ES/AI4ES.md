@@ -28,6 +28,7 @@ title: "AI4ES"
 - [Advancing Application of Machine Learning Tools for NASA’s Earth Observation Data (NASA)](https://cdn.earthdata.nasa.gov/conduit/upload/14287/NASA_ML_Workshop_Report.pdf) 
 - [Training the Next Generation of Physical Data Scientists](https://eos.org/opinions/training-the-next-generation-of-physical-data-scientists)
 - [Guest post (CarbonBrief): How artificial intelligence is fast becoming a key tool for climate science](https://www.carbonbrief.org/guest-post-how-artificial-intelligence-is-fast-becoming-a-key-tool-for-climate-science/)
+- [How machine learning is helping us fine-tune climate models to reach unprecedented detail](https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818)
 
 ## Talks
 - #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)

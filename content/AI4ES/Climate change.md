@@ -2,7 +2,9 @@
 title: "Climate change"
 ---
 
-> See "Extreme events and Climate Change" in [[AI4ES/Extremes events]]
+> See :
+> - "Extreme events and Climate Change" in [[AI4ES/Extremes events]]
+> - [[AI4ES/AC, AQ]]
 
 ## Resources
 - [The IPCC’s sixth assessment report on climate science (summary)](https://www.carbonbrief.org/in-depth-qa-the-ipccs-sixth-assessment-report-on-climate-science)

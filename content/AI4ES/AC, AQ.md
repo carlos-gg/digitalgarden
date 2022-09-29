@@ -2,17 +2,18 @@
 title: "Atmospheric composition and air quality (AC, AQ)"
 ---
 
+> See [[AI4ES/Climate change]]
+
 ## Resources
 - [Atmospheric composition data products](https://iasi.aeris-data.fr/)
 - [Chemical transport model (CTM)](https://en.wikipedia.org/wiki/Chemical_transport_model)
 	- type of computer numerical model which typically simulates atmospheric chemistry and may give air pollution forecasting
 	- CTM focuses on the stocks and flows of one or more chemical species
 	- CTM is expected to accurately represent the entire cycle for the species of interest, including fluxes (e.g. advection), chemical production/loss, and deposition
-- [Gaussian process regression (GPR) on Mauna Loa CO2 data. — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html)
 - [Air Quality e-Reporting](https://www.eea.europa.eu/data-and-maps/data/aqereporting-9)
 - [AI4EO challenge](https://platform.ai4eo.eu/air-quality-and-health)
 
-### Methane emission sources
+### Methane emissions
 - [The MEthane Tracking Emissions Reference (METER) database](https://meterplatform.web.app/)
 	- The METER database combines public data set aggregation, crowdsourcing, and artificial intelligence to create a freely available, global repository of methane-emitting infrastructure
 - [GHGsat](https://www.bloomberg.com/news/articles/2021-02-12/new-climate-satellite-spotted-giant-methane-leak-as-it-happened)
@@ -21,6 +22,12 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- https://www.iea.org/articles/methane-tracker-database
 	- [Mapping methane emissions on a global scale](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Mapping_methane_emissions_on_a_global_scale)
 	- [Monitoring methane emissions from gas pipelines](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Monitoring_methane_emissions_from_gas_pipelines)
+
+### CO2 emissions
+- [Electricity Maps](https://github.com/electricitymaps) - Mapping the carbon footprint of electricity worldwide
+	- [Visualización del impacto climático de la electricidad](https://app.electricitymaps.com/map)
+	- https://www.genbeta.com/web/este-mapa-interactivo-nos-dice-donde-procede-electricidad-que-se-consume-cada-pais-sus-emisiones-co2
+- [Gaussian process regression (GPR) on Mauna Loa CO2 data. — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html)
 
 
 ## References

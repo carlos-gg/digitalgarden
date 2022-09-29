@@ -15,6 +15,10 @@ title: "XAI for Earth Sciences"
 - #PAPER [Indicator patterns of forced change learned by an artificial neural network (Barnes 2020)](https://www.semanticscholar.org/paper/Indicator-patterns-of-forced-change-learned-by-an-Barnes-Toms/38018254d806f18352f2f3702380c18403aeef35)
 - #PAPER [Evaluation, Tuning and Interpretation of Neural Networks for Meteorological Applications (Ebert-Uphoff 2020)](https://www.semanticscholar.org/paper/Evaluation%2C-Tuning-and-Interpretation-of-Neural-for-Ebert-Uphoff-Hilburn/b31e4e9d6ba87a8e709d743b1e96a18c8dd0bbf6)
 - #PAPER [Detecting climate signals using explainable AI with single-forcing large ensembles (Labe 2021)](https://www.essoar.org/doi/10.1002/essoar.10505762.1)
+- #PAPER [Using Machine Learning to Analyze Physical Causes of Climate Change: A Case Study of U.S. Midwest Extreme Precipitation (Davenport 2021)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL093787)
+	- use a neural network to predict extreme precipitation from daily sea level pressure and 500-hPa geopotential height fields
+	- CNN 2 layers to predict extreme precipitation (p95) based on the average precipitation over a rectangular region covering the Upper Mississippi Watershed and the eastern portion of the Missouri Watershed
+	- use daily mean sea level pressure (SLP) and 500-hPa geopotential height (GPH) anomalies calculated from the NCEP/NCAR-R1 reanalysis, 2.5 deg resolution on a larger spatial domain that covers the continental U.S. and surrounding oceans
 - #PAPER [Oceanic Harbingers of Pacific Decadal Oscillation Predictability in CESM2 Detected by Neural Networks (Gordon 2021)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095392)
 - #POSTER [Mapped-PCMCI: an algorithm for causal discovery at the grid level (Tibau Alberdi 2021)](https://meetingorganizer.copernicus.org/EGU21/EGU21-5633.html)
 - #PAPER [Assessing Decadal Predictability in an Earth-System Model Using Explainable Neural Networks (Toms 2021)](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL093842)
