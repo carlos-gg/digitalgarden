@@ -39,10 +39,6 @@ title: "XAI"
 See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
-- #CODE [Xplique](https://github.com/deel-ai/xplique)
-	- Python toolkit dedicated to explainability, currently based on Tensorflow
-	- https://deel-ai.github.io/xplique/
-	- #PAPER [Xplique: A Deep Learning Explainability Toolbox (Fel 2022)](https://arxiv.org/pdf/2206.04394v1)
 - #CODE [CARLA](https://github.com/carla-recourse/CARLA)
 	- CARLA is a python library to benchmark counterfactual explanation and recourse models
 	- #PAPER [CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021)](https://arxiv.org/abs/2108.00783)
@@ -53,10 +49,10 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 	- https://explainerdashboard.readthedocs.io/en/latest/index.html#
 	- library for quickly building interactive dashboards for analyzing and explaining the predictions and workings of (scikit-learn compatible) machine learning models, including xgboost, catboost and lightgbm
 	- #TALK https://www.youtube.com/watch?v=1nMlfrDvwc8
-- #CODE [AIX360](https://github.com/Trusted-AI/AIX360) ^aix360
+- #CODE [AIX360](https://github.com/Trusted-AI/AIX360) 
 	- Interpretability and explainability of data and machine learning models
 	- http://aix360.mybluemix.net/
-- #CODE [LIME: Local Interpretable Model-agnostic Explanations](https://github.com/marcotcr/lime) ^limegithub
+- #CODE [LIME: Local Interpretable Model-agnostic Explanations](https://github.com/marcotcr/lime) 
 - #CODE [Skater](https://github.com/datascienceinc/Skater)
 	- Skater is a python package for model agnostic interpretation of predictive models. With Skater, you can unpack the internal mechanics of arbitrary models; as long as you can obtain inputs, and use a function to obtain outputs, you can use Skater to learn about the models internal decision policies.
 	- https://datascienceinc.github.io/Skater/overview.html
@@ -69,7 +65,7 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 	- ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API. It has built-in support for several ML frameworks and provides a way to explain black-box models.
 	- http://eli5.readthedocs.io/en/latest/
 - #CODE [BlackBox Auditing](https://github.com/algofairness/BlackBoxAuditing)
-- #CODE [SHAP](https://github.com/slundberg/shap) ^shapgithub
+- #CODE [SHAP](https://github.com/slundberg/shap) 
 	- Unified approach to explain the output of any machine learning model. SHAP connects game theory with local explanations, uniting several previous methods and representing the only possible consistent and locally accurate additive feature attribution method based on expectations.
 - #CODE [FastTreeSHAP](https://github.com/linkedin/FastTreeSHAP)
 	- Fast SHAP value computation for interpreting tree-based models

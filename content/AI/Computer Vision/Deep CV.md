@@ -32,10 +32,10 @@ See:
 - [[AI/Computer Vision/Video segmentation and prediction]]
 
 ## References
-- #PAPER [Deep Learning for Computer Vision: A Brief Review (Voulodimos 2017)](https://www.hindawi.com/journals/cin/2018/7068349/)
+- #PAPER #REVIEW [Deep Learning for Computer Vision: A Brief Review (Voulodimos 2017)](https://www.hindawi.com/journals/cin/2018/7068349/)
 - #PAPER [Deep Learning vs. Traditional Computer Vision (O'Mahony 2019)](https://arxiv.org/abs/1910.13796)
 - #PAPER [Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning (Abrol 2021)](https://www.nature.com/articles/s41467-020-20655-6)
-- #PAPER [Deep learning-enabled medical computer vision (Esteva 2021)](https://www.nature.com/articles/s41746-020-00376-2)
+- #PAPER #REVIEW [Deep learning-enabled medical computer vision (Esteva 2021)](https://www.nature.com/articles/s41746-020-00376-2)
 - #PAPER [Involution: Inverting the Inherence of Convolution for Visual Recognition, a brand new neural operator (Li 2021)](https://arxiv.org/abs/2103.06255)
 	- #CODE https://github.com/d-li14/involution
 	- #CODE https://github.com/PrivateMaRyan/keras-involution2Ds

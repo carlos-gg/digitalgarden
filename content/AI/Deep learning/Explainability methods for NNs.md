@@ -38,6 +38,10 @@ title: "Explainability methods for NNs"
 
 
 ## Code
+- #CODE [Xplique](https://github.com/deel-ai/xplique)
+	- Python toolkit dedicated to explainability, currently based on Tensorflow
+	- https://deel-ai.github.io/xplique/
+	- #PAPER [Xplique: A Deep Learning Explainability Toolbox (Fel 2022)](https://arxiv.org/pdf/2206.04394v1)
 - #CODE [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
 	- Quantus is an eXplainable AI toolkit for responsible evaluation of neural network explanations
 - #CODE [TruLens (tf.keras and pytorch): Explainability for Neural Networks](https://github.com/truera/trulens)
@@ -50,7 +54,7 @@ title: "Explainability methods for NNs"
 	- PyTorch based visualization package for generating layer-wise explanations for CNNs
 - #CODE [Saliency](https://github.com/PAIR-code/saliency)
 	- XRAI, SmoothGrad, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG
-- #CODE [iNNvestigate](https://github.com/albermax/innvestigate) ^innvestigate
+- #CODE [iNNvestigate](https://github.com/albermax/innvestigate) 
 	- Vanilla gradient, SmoothGrad, DeConvNet, Guided BackProp, PatternNet, DeepTaylor, PatternAttribution, LRP, IntegratedGradients, DeepLIFT
 - #CODE [TF-explain](https://github.com/sicara/tf-explain)
 	- implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding

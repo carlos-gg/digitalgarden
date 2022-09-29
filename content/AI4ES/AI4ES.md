@@ -68,35 +68,31 @@ title: "AI4ES"
 
 ## Code
 - See [[AI4ES/Pangeo]]
-- #CODE [Lexcube - Leipzig explorer of Earth data cubes](https://www.lexcube.org/)
+- #CODE [Lexcube](https://www.lexcube.org/) - Leipzig explorer of Earth data cubes
 - #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
 - #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences
-- #CODE [climate_indices](https://github.com/monocongo/climate_indices)
-	- Climate indices for drought monitoring, community reference implementations in Python
-- #CODE [CliMetLab - Python package to easy access to weather and climate data](https://github.com/ecmwf/climetlab)
+- #CODE [climate_indices](https://github.com/monocongo/climate_indices) - Climate indices for drought monitoring, community reference implementations in Python
+- #CODE [CliMetLab](https://github.com/ecmwf/climetlab) - Python package to easy access to weather and climate data
 	- https://climetlab.readthedocs.io/en/latest/index.html
-- #CODE [intake - lightweight package for finding, investigating, loading and disseminating data](https://github.com/intake/intake)
+- #CODE [Intake](https://github.com/intake/intake) - lightweight package for finding, investigating, loading and disseminating data
 	- https://medium.com/pangeo/cesm-lens-on-aws-4e2a996397a1
 	- [example](https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/master?urlpath=lab)
 	- https://www.anaconda.com/blog/intake-discovering-and-exploring-data-in-a-graphical-interface
-- #CODE [intake-esm - An intake plugin for parsing an Earth System Model (ESM) catalog and loading assets into xarray datasets](https://github.com/intake/intake-esm)
+- #CODE [intake-esm](https://github.com/intake/intake-esm) - An intake plugin for parsing an Earth System Model (ESM) catalog and loading assets into xarray datasets
 	- https://intake-esm-test.readthedocs.io
-- #CODE [Aospy - Python package for automated analysis and management of gridded climate data](https://github.com/spencerahill/aospy)
-- #CODE [EarthPy](https://github.com/earthlab/earthpy)
-	- A package built to support working with spatial data using open source python
+- #CODE [Aospy](https://github.com/spencerahill/aospy) - Python package for automated analysis and management of gridded climate data
+- #CODE [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python
 	- https://earthpy.readthedocs.io/en/latest/
-- #CODE [Psyplot - Python package for interactive data visualization](https://github.com/psyplot/psyplot)
+- #CODE [Psyplot](https://github.com/psyplot/psyplot) - Python package for interactive data visualization
 	- https://psyplot.readthedocs.io/en/latest/
 	- https://psyplot.readthedocs.io/projects/psyplot-gui/en/latest/index.html#psyplot-gui
 	- https://psyplot.readthedocs.io/projects/psy-view/en/latest/index.html#psy-view
 - #CODE [PyRain](https://github.com/FrontierDevelopmentLab/PyRain)
-	- [[AI4ES/AI4ES data#^rainbench]]
-- #CODE [Verde](https://github.com/fatiando/verde)
-	- Processing and interpolating spatial data with a twist of machine learning
+	- See "rainbench" in [[AI4ES/AI4ES data]]
+- #CODE [Verde](https://github.com/fatiando/verde) - Processing and interpolating spatial data with a twist of machine learning
 	- https://github.com/fatiando/verde
 	- https://www.fatiando.org/verde/latest/index.html
-- #CODE [Radiant MLHub API](https://github.com/radiantearth/radiant-mlhub)
-	- Open Library for Earth Observations Machine Learning
+- #CODE [Radiant MLHub API](https://github.com/radiantearth/radiant-mlhub) - Open Library for Earth Observations Machine Learning
 	- https://www.radiant.earth/mlhub/
 	- https://github.com/radiantearth/mlhub-tutorials
 	- [Radiant MLHub](https://www.mlhub.earth/#datasets)
@@ -256,14 +252,13 @@ See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 	- https://github.com/ECAS-Lab/ecas-training
 	- https://portal.enes.org/data/data-metadata-service/enes-climate-analytics-service-ecas
 	- [Slides, resources](https://drive.google.com/drive/folders/1Af5GlUV27kZpoIpC6BHMXCHlZmq59232)
-- IS-ENES3/ESiWACE2 New Opportunities for AI/ML in weather/climate modelling
+- [IS-ENES3/ESiWACE2 New Opportunities for AI/ML in weather/climate modelling](https://www.esiwace.eu/events/joint-is-enes3-esiwace2-ml-ai-workshop)
 
 ### 2020
 - [Environmental Intelligence Conference](https://www.bigmarker.com/JCEEI/JCEEI-Environmental-Intelligence-Conference-Thursday-17th-December)
 - [ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction (5-8 October 2020)](https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction)
 - [Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2020 (September)](https://sites.google.com/view/maclean2020/)
-- NCAR Artificial Intelligence for Earth System Science (AI4ESS) Summer School
-	- https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school
+- [NCAR Artificial Intelligence for Earth System Science (AI4ESS) Summer School](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school)
 	- [Slides](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/presentation-slides)
 	- #TALK https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/presentation-recordings
 	- #CODE https://github.com/NCAR/ai4ess-hackathon-2020
