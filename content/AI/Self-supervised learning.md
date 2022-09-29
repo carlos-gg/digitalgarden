@@ -15,6 +15,8 @@ title: "Self-supervised learning"
 - [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 	- The general technique of self-supervised learning is to predict any unobserved or hidden part (or property) of the input from any observed or unhidden part of the input
 	- [Blog post explained](https://www.youtube.com/watch?v=Ag1bw8MfHGQ&t=6s)
+- [Grokking self-supervised (representation) learning: how it works in computer vision and why](https://theaisummer.com/self-supervised-representation-learning-computer-vision/)
+- [Self-supervised learning tutorial: Implementing SimCLR with pytorch lightning](https://theaisummer.com/simclr/)
 	
  
 ## Code

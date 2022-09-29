@@ -29,6 +29,7 @@ title: "AI4ES"
 - [Training the Next Generation of Physical Data Scientists](https://eos.org/opinions/training-the-next-generation-of-physical-data-scientists)
 - [Guest post (CarbonBrief): How artificial intelligence is fast becoming a key tool for climate science](https://www.carbonbrief.org/guest-post-how-artificial-intelligence-is-fast-becoming-a-key-tool-for-climate-science/)
 - [How machine learning is helping us fine-tune climate models to reach unprecedented detail](https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818)
+- [Machine learning-based global maps of ecological variables and the challenge of assessing them (Meyer 2022)](https://www.nature.com/articles/s41467-022-29838-9)
 
 ## Talks
 - #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
@@ -49,6 +50,8 @@ title: "AI4ES"
 - #COURSE [An Introduction to Earth and Environmental Data Science (Ryan Abernathey, Columbia UIniversity, 2021)](https://earth-env-data-science.github.io/intro.html)
 - #COURSE [Research computing in ES (Ryan Abernathey, Columbia UIniversity)](https://rabernat.github.io/research_computing_2018/)
 - #COURSE [Introduction to Environmental Data Science (Jerry Davis, SFSU Institute for Geographic Information Science, 2022)](https://bookdown.org/igisc/EnvDataSci/)
+- #COURSE [Ocean/Atmosphere Time Series Analysis](https://zenodo.org/record/5986397#.YzYCPuzP368)
+	- https://github.com/jonathanlilly/time-series
 
 
 ## Infrastructure and data
