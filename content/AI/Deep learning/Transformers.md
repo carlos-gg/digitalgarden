@@ -233,6 +233,7 @@ title: "Transformers"
 	- https://medium.com/codex/an-overview-on-convmixer-patches-are-all-you-need-8502a8d87011
 - #PAPER [The Fully Convolutional Transformer for Medical Image Segmentation (Tragakis 2022)](https://arxiv.org/abs/2206.00566v1)
 	- #CODE https://github.com/Thanos-DB/FullyConvolutionalTransformer
+- #PAPER [Conviformers: Convolutionally guided Vision Transformer (Vaishnav 2022)](https://arxiv.org/pdf/2208.08900)
 
 ### Multi-modal transformers
 See [[AI/Deep learning/Multimodal learning]]

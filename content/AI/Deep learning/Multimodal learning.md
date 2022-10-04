@@ -14,12 +14,13 @@ title: "Multimodal learning, Foundation models"
 - [Midjourney](https://www.midjourney.com/home/)
 - [DALLE-2](https://openai.com/dall-e-2/)
 - [IMAGEN](https://imagen.research.google/)
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
-	- https://stability.ai/blog/stable-diffusion-announcement
+- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)
+	- #CODE https://github.com/CompVis/stable-diffusion
+	- #CODE https://github.com/divamgupta/stable-diffusion-tensorflow
 	- [DreamStudio](https://beta.dreamstudio.ai) 
 	- [Two minute papers](https://www.youtube.com/watch?v=nVhmFski3vg)
+	- [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models | ML Coding Series](https://www.youtube.com/watch?v=f6PtJKdey8E)
 	- [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
-	- [stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
 
 
 ## Code
