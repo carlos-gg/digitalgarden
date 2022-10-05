@@ -50,6 +50,9 @@ Data lazy loading:
 - Tensorflow data netcdf, MATEX tensorflow (seems to be abandoned) :https://github.com/matex-org/matex/wiki/DataSet-Reader 
 
 
+### Tensorflow on M1/M2 Apple silicon
+- https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706
+
 
 ## Code
 - #CODE [Tensorflow (Google)](https://github.com/tensorflow/tensorflow)
