@@ -51,3 +51,5 @@ title: "AI-ML-DL for scientific discovery"
 	- OpenMedIA is an open-source toolbox library containing a rich set of deep learning methods for medical image analysis under heterogeneous AI computing platforms
 - #PAPER [Leakage and the Reproducibility Crisis in ML-based Science (Kapoor 2022)](https://arxiv.org/abs/2207.07048)
 	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
+- #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
+	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI

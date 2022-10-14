@@ -37,8 +37,11 @@ title: "Climate change"
 		- [GUI](https://github.com/CCI-Tools/cate-desktop)
 		- [Python API](https://github.com/CCI-Tools/cate)
 	- [CCI research fellowship](http://cci.esa.int/content/climate-change-initiative-launches-new-research-fellowship)
-	- What is an ECV? http://cci.esa.int/content/what-ecv
+	- [What is an ECV?](http://cci.esa.int/content/what-ecv) 
+
+#### Copernicus Climate Change Service
 - [Copernicus climate change service (C3S)](https://climate.copernicus.eu/)
+- #PAPER [The Copernicus Climate Change Service: Climate Science in Action (Buontempo 2022)](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-21-0315.1/BAMS-D-21-0315.1.xml?tab_body=abstract-display)
 
 ### ClimateChange AI
 - https://www.climatechange.ai/

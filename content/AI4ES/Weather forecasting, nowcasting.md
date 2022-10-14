@@ -18,9 +18,8 @@ title: "Weather forecasting, nowcasting"
 	- https://pysteps.github.io/
 
 ## Courses
-- #COURSE [ Sources of uncertainty (Buizza, ECMWF)](https://www.ecmwf.int/en/elibrary/19274-sources-uncertainty)
+- #COURSE [Sources of uncertainty (Buizza, ECMWF)](https://www.ecmwf.int/en/elibrary/19274-sources-uncertainty)
 - #COURSE [Using stochastic physics to represent model uncertainty](https://www.ecmwf.int/assets/elearning/stochphysics/stochphysics1/story_html5.html)
-
 
 ## References
 - #PAPER [ConvLSTM: Convolutional LSTM Network- A Machine Learning Approach for Precipitation Nowcasting (Shi 2015)](https://arxiv.org/abs/1506.04214)
@@ -28,7 +27,7 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model, trajGRU (Shi 2017)](https://arxiv.org/abs/1706.03458)
 	- https://github.com/CNALeon007/TrajGRU
 - #PAPER [Automating weather forecasts based on CNNs (Rozas Larraondo 2017)](https://deepstruct.github.io/ICML17/1stDeepStructWS_paper_2.pdf)
-- [#THESIS/PHD Application of machine learning techniques to weather forecasting (Rozas Larraondo 2019)](https://addi.ehu.es/handle/10810/32532)
+- #THESIS/PHD [Application of machine learning techniques to weather forecasting (Rozas Larraondo 2019)](https://addi.ehu.es/handle/10810/32532)
 - #PAPER [A Generative Adversarial Gated Recurrent Unit Model for Precipitation Nowcasting (Tian, 2019)](https://ieeexplore.ieee.org/document/8777193)
 - #PAPER [Can machines learn to predict weather? Using deep learning to predict gridded 500‐hPa geopotential height from historical weather data (Weyn 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001705)
 - #PAPER [Reversible Deep Generative Models for Climate Informatics (Rosenfeld 2019)](https://sailinglab.github.io/pgm-spring-2019/assets/project/final-reports/project7.pdf)
@@ -60,7 +59,7 @@ title: "Weather forecasting, nowcasting"
 		- https://www.ecmwf.int/sites/default/files/medialibrary/2020-05/12_May.pdf
 - #PAPER [TRU-NET: A Deep Learning Approach to High Resolution Prediction of Rainfall (Adewoyin 2020)](https://arxiv.org/abs/2008.09090v1)
 	- #CODE https://github.com/Akanni96/TRUNET
-- #PAPER [Predicting clustered weather patterns: A test case for applications of convolutional neural networks to spatio-temporal climate data (Chattopadhyay, 2020)](https://www.nature.com/articles/s41598-020-57897-9) ^e83f4e
+- #PAPER [Predicting clustered weather patterns: A test case for applications of convolutional neural networks to spatio-temporal climate data (Chattopadhyay, 2020)](https://www.nature.com/articles/s41598-020-57897-9) 
 	- Introduced an unsupervised auto-labeling strategy that can facilitate exploring the capabilities of supervised deep learning techniques such as CNNs in studying problems in climate and environmental sciences
 	- Applied this strategy to clustered daily large-scale weather patterns over North America
 		- focused on re-identifying and predicting the daily weather patterns over North America in summer and winter
@@ -103,7 +102,7 @@ title: "Weather forecasting, nowcasting"
 	- #CODE https://github.com/prl900/weather_encoders
 	- This work introduces a methodology for optimizing neural network models using a combination of continuous and categorical binary indices in the context of precipitation forecasting
 	- Proposed an alternative formulation for these categorical indices that are differentiable and we demonstrate how they can be used to optimize the skill of precipitation neural network models defined as a multiobjective optimization problem
-- #PAPER [Localized Convolutional Neural Networks for Geospatial Wind Forecasting (Uselis 2020)](https://www.mdpi.com/1996-1073/13/13/3440/htm) ^uselis20
+- #PAPER [Localized Convolutional Neural Networks for Geospatial Wind Forecasting (Uselis 2020)](https://www.mdpi.com/1996-1073/13/13/3440/htm) 
 	- #CODE https://github.com/oshapio/Localized-CNNs-for-Geospatial-Wind-Forecasting
 	- In a convolutional layer, each neuron has a fixed local receptive field of the layer input and shares its weights with all the other (repeated) neurons arranged in a lattice corresponding to the dimensions of the input
 	- Typically, an element-wise nonlinear function is applied to the results of the convolution which gives a lattice of identical weighted-sum-and-non linearity neurons each looking at a different k×k size patch of the input image

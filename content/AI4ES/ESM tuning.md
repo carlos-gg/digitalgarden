@@ -14,7 +14,7 @@ title: "ESM tuning"
 - #PAPER [Bayesian optimization for tuning chaotic systems (Abbas 2014)](https://npg.copernicus.org/preprints/npg-2014-51/)
 - #PAPER [Empirical evaluation of Bayesian optimization in parametric tuning of chaotic systems (Abbas 2016)](https://pdfs.semanticscholar.org/af49/04931008e4fe8fcfbbf27cb743a40c5f622a.pdf)
 - #PAPER [The Art and Science of Climate Model Tuning (Hourdin 2016)](https://journals.ametsoc.org/doi/10.1175/BAMS-D-15-00135.1)
-- [#THESIS/PHD Training methods for climate and neural network models (Abbas 2018)](https://aaltodoc.aalto.fi/bitstream/handle/123456789/34496/isbn9789526082592.pdf?sequence=1)
+- #THESIS/PHD [Training methods for climate and neural network models (Abbas 2018)](https://aaltodoc.aalto.fi/bitstream/handle/123456789/34496/isbn9789526082592.pdf?sequence=1)
 	- Bayesian optimization for tuning chaotic systems, see other two papers Abbas 2014, 2016
 - #PAPER [How parameter specification of an Earth system model of intermediate complexity influences its climate simulations (Shi 2019)](https://link.springer.com/article/10.1186/s40645-019-0294-x)
 - #PAPER [Model Parameter Optimization: ML-guided trans-resolution tuning of physical models (Partee 2019)](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_103.pdf)

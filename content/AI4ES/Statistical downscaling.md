@@ -78,7 +78,7 @@ title: "Statistical downscaling"
 	- #CODE https://github.com/tjvandal/deepsd
 	- #CODE https://github.com/tjvandal/srcnn-tensorflow
 	- https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single
-	- [#THESIS/PHD Statistical downscaling of global climate models with image super-resolution and uncertainty quantification (Vandal 2018)](https://www.semanticscholar.org/paper/Statistical-downscaling-of-global-climate-models-Vandal/a5dbe8d2af5b4f49b6f5ee89e5822d3d30c653a4 ^592e4e)
+	- #THESIS/PHD [Statistical downscaling of global climate models with image super-resolution and uncertainty quantification (Vandal 2018)](https://www.semanticscholar.org/paper/Statistical-downscaling-of-global-climate-models-Vandal/a5dbe8d2af5b4f49b6f5ee89e5822d3d30c653a4 ^592e4e)
 		- https://repository.library.northeastern.edu/files/neu:cj82st065/fulltext.pdf
 	- #TALK [Super-Resolution and Deep Learning for Climate Downscaling](https://ams.confex.com/ams/98Annual/webprogram/Paper333682.html)
 	- Precipitation use case. PRISM dataset at a 4km daily spatial resolution which aggregates station observations to a grid with physical and topographical information
@@ -109,7 +109,7 @@ title: "Statistical downscaling"
 	- The input volume is fed into a series of convolutions which are initialized with an approximate delta function up to the last but one layer
 	- The architecture is configurable and supports n−1 identity convolutions
 	- Results show significant improvement when compared with standard practices and the strategy is still lightweight enough to run on modest computer systems
-- [#THESIS/MSC Exploring Machine Learning Models for Wind Speed Prediction (Prieto 2018)](https://upcommons.upc.edu/bitstream/handle/2117/117771/131678.pdf)
+- #THESIS/MSC [Exploring Machine Learning Models for Wind Speed Prediction (Prieto 2018)](https://upcommons.upc.edu/bitstream/handle/2117/117771/131678.pdf)
 - #PAPER [Climatologies at high resolution for the earth’s land surface areas (Karger 2017)](https://www.nature.com/articles/sdata2017122)
 - #PAPER [Downscaling rainfall using deep learning long short‐term memory and feed-forward neural network (Tran Anh 2019)](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6066)
 	- Precipitation use case and climate projections
@@ -125,7 +125,7 @@ title: "Statistical downscaling"
 - #PAPER [Geographically Weighted Machine Learning and Downscaling for High-Resolution Spatiotemporal Estimations of Wind Speed (Li 2019)](https://www.mdpi.com/2072-4292/11/11/1378)
 - #PAPER [Optimized Artificial Neural Networks-Based Methods for Statistical Downscaling of Gridded Precipitation Data (Hossein Salimi 2019)](https://www.mdpi.com/2073-4441/11/8/1653)
 - #TALK [Downscaling of Low-Resolution Wind Fields using Neural Networks (Kern 2019)](https://atmosphere.copernicus.eu/sites/default/files/2019-11/ecmwf_downscaling_final.pdf)
-- [#THESIS/MSC Development of Multi-Model Ensembles for Climate Downscaling in Ontario, Canada (Li 2019)](https://macsphere.mcmaster.ca/handle/11375/25121)
+- #THESIS/MSC [Development of Multi-Model Ensembles for Climate Downscaling in Ontario, Canada (Li 2019)](https://macsphere.mcmaster.ca/handle/11375/25121)
 - #PAPER [Prediction of Long-Term Near-Surface Temperature Based on NA-CORDEX Output (Li 2019)](http://www.jeiletters.org/index.php?journal=mys&page=article&op=view&path%5B%5D=201900012)
 - #PAPER [Time-Dependent Downscaling of PM2.5 Predictions from CAMS Air Quality Models to Urban Monitoring Sites in Budapest (Varga-Balogh 2020)](https://www.mdpi.com/2073-4433/11/6/669/htm)
 	- 24-h PM2.5 forecasts obtained from seven individual models of the Copernicus Atmosphere Monitoring Service (CAMS) were downscaled by using hourly measurements at six urban monitoring sites in Budapest for the heating season of 2018–2019

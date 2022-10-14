@@ -37,11 +37,13 @@ title: "AI4ES"
 - #TALK [Destination Earth and AI (Peter Dueben)](https://www.youtube.com/watch?v=qcYbHkgTrvM)
 
 ## Books
+- #BOOK [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science and Geosciences (Camps-Valls 2021)](https://www.amazon.com/-/es/Gustau-Camps-Valls-dp-1119646146/dp/1119646146/ref=mt_other?_encoding=UTF8&me=&qid=)
+- #BOOK [The Environmental Data Science book](https://the-environmental-ds-book.netlify.app/welcome.html)
+	- https://github.com/alan-turing-institute/environmental-ds-book
 - #BOOK [Introduction to Climate Science (Schmittner 2017)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-climate-science-1st-edition-schmittner)
 - #BOOK [Introduction to Oceanography (Webb 2019)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-oceanography)
 - #BOOK [Introduction to Environmental Science - 2nd Edition (2018)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-environmental-science-2nd-edition)
 - #BOOK [Introduction to Physical Oceanography (Stewart 2008)](https://open.umn.edu/opentextbooks/textbooks/introduction-to-physical-oceanography)
-- #BOOK [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science and Geosciences (Camps-Valls 2021)](https://www.amazon.com/-/es/Gustau-Camps-Valls-dp-1119646146/dp/1119646146/ref=mt_other?_encoding=UTF8&me=&qid=)
 
 ## Courses
 - #COURSE [Applied Machine Learning Tutorial for Earth Scientists](https://github.com/eabarnes1010/ml_tutorial_csu)
