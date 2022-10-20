@@ -12,6 +12,10 @@ title: "Machine Learning Operations (MLOps)"
 - [More Data, More Problems: Using DVC to handle data versioning for a computer vision problem](https://mlops.systems/tools/redactionmodel/computervision/mlops/2022/05/24/data-versioning-dvc.html)
 
 
+## Courses
+- #COURSE [MLOps Course](https://github.com/GokuMohandas/mlops-course)
+	- https://madewithml.com/#mlops
+
 ## Code
 ### Experiment tracking
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools

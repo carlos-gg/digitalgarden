@@ -14,6 +14,7 @@ title: "Data Science"
 - [A Complete Data Science Curriculum for Beginners](https://towardsdatascience.com/a-complete-data-science-curriculum-for-beginners-825a39915b54)
 
 ### Cheatsheets
+- [Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
 - https://github.com/ml874/Data-Science-Cheatsheet
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 - https://github.com/FavioVazquez/ds-cheatsheets
@@ -47,9 +48,20 @@ title: "Data Science"
 
 
 ## Books
-- #BOOK [The field guide to DS (Booz Allen Hamilton Inc 2015)](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html)
-	- https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf
-	- https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
+- #BOOK [Network Data Science (Johns Hopkins University 2022)](https://bdpedigo.github.io/networks-course/landing.html)
+- #BOOK [The Data Science Interview Book (2021)](https://dipranjan.github.io/dsinterviewqns/intro.html)
+- #BOOK [R Programming for Data Science (Peng, 2020)](https://bookdown.org/rdpeng/rprogdatascience/)
+- #BOOK [Statistical Inference via Data Science (Ismay 2020)](https://moderndive.com/)
+- #BOOK [Data Science Live Book (Casas 2020)](https://livebook.datascienceheroes.com/)
+- #BOOK [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+	- See [[AI4ES/Geospatial science]]
+- #BOOK [Introduction to Data Science, Data Analysis and Prediction Algorithms with R (Irizarry 2019)](https://flowingdata.com/2022/10/13/introduction-to-data-science-an-open-source-book/)
+- #BOOK [Data Science Live Book -- in R (Casas 2019))](https://livebook.datascienceheroes.com/)
+- #BOOK [Python Programming for Data Science (Beuzen 2019)](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
+- #BOOK [Python for Data Analysis 2nd ed (McKinney, 2017 O'REILLY)](http://wesmckinney.com/pages/book.html)
+	-  https://github.com/wesm/pydata-book
+- #BOOK [R for Data Science (Grolemund 2017 O'REILLY)](http://r4ds.had.co.nz/)
+- #BOOK [Scala: Guide for Data Science Professionals (Nicolas, 2017 PACKT)](http://shop.oreilly.com/product/9781787282858.do)
 - #BOOK [Going pro in data science (Overton 2016, O'REILLY)](https://www.oreilly.com/library/view/going-pro-in/9781492048534/)
 	- http://ds4100.weebly.com/uploads/8/6/5/9/8659576/going-pro-in-data-science.pdf
 - #BOOK [Weapons of Math Destruction - How big data increases inequality and threatens democracy (O'Neil, 2016)](https://weaponsofmathdestructionbook.com/)
@@ -60,21 +72,10 @@ title: "Data Science"
 	- http://nuovolabs.fauser.edu/~valeria/materiale-didattico/python/Packt.Mastering.Aug.2015.ISBN.1784390151.pdf
 - #BOOK [Python Data Science Handbook (VanderPlas, 2016 OREILLY)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 	-  http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb
-- #BOOK [Python for Data Analysis 2nd ed (McKinney, 2017 O'REILLY)](http://wesmckinney.com/pages/book.html)
-	-  https://github.com/wesm/pydata-book
 - #BOOK [Scala for Data Science (Bugnion, 2016 PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/scala-data-science)
-- #BOOK [Scala: Guide for Data Science Professionals (Nicolas, 2017 PACKT)](http://shop.oreilly.com/product/9781787282858.do)
-- #BOOK [R for Data Science (Grolemund 2017 O'REILLY)](http://r4ds.had.co.nz/)
-- #BOOK [Data Science Live Book (in R)](https://livebook.datascienceheroes.com/)
-- #BOOK [R Programming for Data Science (Peng, 2020)](https://bookdown.org/rdpeng/rprogdatascience/)
-- #BOOK [Statistical Inference via Data Science (Ismay 2020)](https://moderndive.com/)
-- #BOOK [Data Science Live Book (Casas 2020)](https://livebook.datascienceheroes.com/)
-- #BOOK [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
-- #BOOK [Network Data Science](https://bdpedigo.github.io/networks-course/landing.html)
-- #BOOK [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
-- #BOOK [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html)
-- #BOOK [Statistics and Data Science](http://theoryandpractice.org/stats-ds-book/intro.html)
-
+- #BOOK [The field guide to DS (Booz Allen Hamilton Inc 2015)](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html)
+	- https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf
+	- https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
 
 ## Courses
 - #COURSE Introduction to Computational Thinking (MIT)

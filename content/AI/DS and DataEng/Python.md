@@ -57,11 +57,12 @@ twine upload dist/*
 
 
 ## Courses
+- #COURSE [Python para principiantes (Microsoft)](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
 - #COURSE [Data Structures & Algorithms - Python](https://pythonschool.net/category/data-structures-algorithms.html)
 - #COURSE [Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc)
 - #COURSE [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - #COURSE [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
-- #COURSE https://www.learneroo.com/modules/65/nodes/366
+- #COURSE [Learn Python by Example - Learneroo](https://www.learneroo.com/modules/65/nodes/366)
 
 
 ## Code
