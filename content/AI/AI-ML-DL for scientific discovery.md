@@ -9,6 +9,7 @@ title: "AI-ML-DL for scientific discovery"
 - [The AI revolution in science: applications and new research directions](https://blogs.royalsociety.org/in-verba/2019/08/07/the-ai-revolution-in-science-applications-and-new-research-directions/)
 - [The AI revolution in scientific research (The Royal Society, The Alan Turing Institute)](https://royalsociety.org/-/media/policy/projects/ai-and-society/AI-revolution-in-science.pdf)
 - [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
+- [The researchers using AI to analyse peer review](https://www.nature.com/articles/d41586-022-02787-5)
 
 
 ## Talks
@@ -23,8 +24,10 @@ title: "AI-ML-DL for scientific discovery"
 	- https://thenewstack.io/ibms-open-source-gt4sd-generates-ideas-for-scientists/
 - #CODE [Deep Search](https://github.com/DS4SD)
 	- https://ds4sd.github.io/
+	- https://research.ibm.com/interactive/deep-search/
 	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
 	- [Handling Scientific Articles with Deep Search](https://opensource.science/handling-scientific-articles-with-deep-search-d3d7adebd3)
+- [Consensus - Ask a question, get conclusions from research papers](https://consensus.app/search/)
 
 
 ## Events
@@ -53,3 +56,4 @@ title: "AI-ML-DL for scientific discovery"
 	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 - #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
 	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI
+- #PAPER [Journal Impact Factor and Peer Review Thoroughness and Helpfulness: A Supervised Machine Learning Study (Severin 2022)](https://arxiv.org/pdf/2207.09821)

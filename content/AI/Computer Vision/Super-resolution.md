@@ -11,7 +11,6 @@ title: "Super-resolution"
 - https://keras.io/examples/vision/super_resolution_sub_pixel/
 - [Image Super-Resolution: A Comprehensive Review (2020)](https://blog.paperspace.com/image-super-resolution/ )
 
-
 ## Talks
 - #TALK [How Super Resolution Works (2019)](https://www.youtube.com/watch?v=KULkSwLk62I)
 - #TALK [Can you enhance that? Single Image Super Resolution (Pydata 2019)](https://www.youtube.com/watch?v=lmUxbRY7H2I)
@@ -23,7 +22,6 @@ title: "Super-resolution"
 	- EDSR, SRGAN, SRFeat, RCAN, ESRGAN and ERCA (not published)
 - #CODE [Single Image Super-Resolution with EDSR, WDSR and SRGAN (Keras)](https://github.com/krasserm/super-resolution)
 	- http://krasserm.github.io/2019/09/04/super-resolution/
-
 
 ## References
 ### Supervised CNN-based
@@ -85,20 +83,11 @@ title: "Super-resolution"
 	- Moreover, a differentiable upscaling (SR) module is employed to upscale the LR result into its underlying HR counterpart
 	- By back-propagating the reconstruction error down to the original HR input across the entire framework to adjust model parameters, the proposed framework achieves a new state-of-the-art SR performance through upscaling guided image resamplers which adaptively preserve detailed information that is essential to the upscaling
 - #PAPER [Image Super-Resolution Using Attention Based DenseNet with Residual Deconvolution (Li 2019)](https://arxiv.org/abs/1907.05282)
-- #PAPER [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution (Hu 2019)](https://arxiv.org/abs/1903.00875)
-	- #CODE https://github.com/XuecaiHu/Meta-SR-Pytorch
-	- #CODE https://github.com/smallsunsun1/Meta-SR/
-	- #CODE https://github.com/jason71995/meta_sr/
-	- Continuous, arbitrary scaling
 - #PAPER [Pixel Transposed Convolutional Networks (Gao 2019)](https://ieeexplore.ieee.org/document/8618415)
 	- The pixel transposed convolutional layer (PixelTCL) is proposed to establish direct relationships among adjacent pixels on the up-sampled feature map
 	- PixelTCL can largely overcome the checkerboard problem suffered by regular transposed convolutional operations
 - #PAPER [A Very Deep Spatial Transformer Towards Robust Single Image Super-Resolution (Jiang 2019)](https://ieeexplore.ieee.org/abstract/document/8679959)
 - #PAPER [ASDN: A Deep Convolutional Network for Arbitrary Scale Image Super-Resolution (Shen 2020)](https://arxiv.org/abs/2010.02414v1)
-- #PAPER [LIIF - Learning Continuous Image Representation with Local Implicit Image Function (Chen 2020)](https://arxiv.org/abs/2012.09161)
-	- https://yinboc.github.io/liif/
-	- #CODE https://github.com/yinboc/liif
-	- Continuous, arbitrary scaling
 - #PAPER [NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results (Zhang 2020)](https://arxiv.org/abs/2005.01056)
 	- https://data.vision.ee.ethz.ch/cvl/ntire20/
 	- Jointly with NTIRE 2020 workshop we have an NTIRE challenge on perceptual extreme super-resolution, that is,the task of super-resolving an LR image to a perceptually pleasant HR image with a magnification factor x16
@@ -106,7 +95,6 @@ title: "Super-resolution"
 - #PAPER [Efficient Image Super-Resolution Using Pixel Attention (Zhao 2020)](https://arxiv.org/abs/2010.01073) ^srwithpixelattention
 	-  #CODE See code in [CNNs](AI/Deep%20learning/CNNs.md)
 	-  #CODE https://github.com/zhaohengyuan1/PAN
-- #PAPER [Arbitrary Back-Projection Networks for Image Super-Resolution (Ma 2020)](https://www.worldscientific.com/doi/full/10.1142/S1469026820500261)
 - #PAPER #REVIEW [A Deep Journey into Super-resolution: A survey (Anwar 2020)](https://arxiv.org/abs/1904.07523)
 	- https://github.com/saeed-anwar/SRsurvey
 - #PAPER #REVIEW [Deep Learning for Image Super-resolution: A Survey (Wang 2020)](https://arxiv.org/abs/1902.06068 )
@@ -114,9 +102,22 @@ title: "Super-resolution"
 - #PAPER [Dense U-net for super-resolution with shuffle pooling layer (Lu 2021)](https://arxiv.org/abs/2011.05490)
 - #PAPER [OverNet: Lightweight Multi-Scale Super-Resolution with Overscaling Network (Behjati 2021)](https://arxiv.org/abs/2008.02382)
 	- https://www.youtube.com/watch?v=_YAn5TaIJfM
-- #PAPER [Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters (Hu 2021)](https://ieeexplore.ieee.org/document/9180081)
 - #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588) 
 
+#### Arbitrary scale
+- #PAPER [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution (Hu 2019)](https://arxiv.org/abs/1903.00875)
+	- #CODE https://github.com/XuecaiHu/Meta-SR-Pytorch
+	- #CODE https://github.com/smallsunsun1/Meta-SR/
+	- #CODE https://github.com/jason71995/meta_sr/
+	- Continuous, arbitrary scaling
+- #PAPER [LIIF - Learning Continuous Image Representation with Local Implicit Image Function (Chen 2020)](https://arxiv.org/abs/2012.09161)
+	- https://yinboc.github.io/liif/
+	- #CODE https://github.com/yinboc/liif
+	- Continuous, arbitrary scaling
+- #PAPER [Arbitrary Back-Projection Networks for Image Super-Resolution (Ma 2020)](https://www.worldscientific.com/doi/full/10.1142/S1469026820500261)
+- #PAPER [Meta-USR: A Unified Super-Resolution Network for Multiple Degradation Parameters (Hu 2021)](https://ieeexplore.ieee.org/document/9180081)
+- #PAPER [An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic  Resonance Image using Implicit Neural Representation (Wu 2021)](https://arxiv.org/pdf/2110.14476)
+	- #CODE https://github.com/iwuqing/ArSSR
 
 ### GAN-based
 - #PAPER [SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (Ledig 2016)](https://arxiv.org/abs/1609.04802)
@@ -149,7 +150,6 @@ title: "Super-resolution"
 	- Proposed a high-order degradation modeling process to better simulate complex real-world degradations (blur, downsampling, noise, etc and combinations)
 - #PAPER [Deep Hierarchical Super-Resolution for Scientific Data Reduction and  Visualization (Wurster 2021)](https://arxiv.org/pdf/2107.00462)
 
-
 ### Transformer-based
 See [[AI/Deep learning/Transformers]]
 - #PAPER [Learning Texture Transformer Network for Image Super-Resolution (Yang 2020)](https://arxiv.org/abs/2006.04139) 
@@ -161,7 +161,6 @@ See [[AI/Deep learning/Transformers]]
 - #PAPER [Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image  Super-resolution (Hu 2021)](https://arxiv.org/pdf/2109.02079)
 - #PAPER [Transformer for Single Image Super-Resolution (Lu 2022)](https://arxiv.org/pdf/2108.11084)
 	- #CODE https://github.com/luissen/ESRT
-
 
 ### Diffusion models-based
 - #PAPER [Image Super-Resolution via Iterative Refinement (Saharia 2021)](https://arxiv.org/abs/2104.07636)

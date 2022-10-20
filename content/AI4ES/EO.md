@@ -107,7 +107,8 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 - #PAPER [A high-resolution canopy height model of the Earth (Lang 2022)](https://arxiv.org/abs/2204.08322)
 	- https://techxplore.com/news/2022-04-neural-network-tree-heights-satellite.html
 - #PAPER [A deep learning approach to solar radio flux forecasting (Stevenson 2022)](https://www.sciencedirect.com/science/article/pii/S009457652100415X)
-
+- #PAPER [RaVÆn: unsupervised change detection of extreme events using ML on‑board satellites (Ruzicka 2022)](https://www.nature.com/articles/s41598-022-19437-5.epdf)
+	- #CODE https://github.com/spaceml-org/RaVAEn
 
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
