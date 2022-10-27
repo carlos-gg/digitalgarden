@@ -69,6 +69,7 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 - #PAPER [Near-real-time global gridded daily CO2 emissions (Dou 2021)](<https://www.cell.com/the-innovation/fulltext/S2666-6758(21)00107-7>)
 	- https://carbonmonitor-graced.com/
 - #PAPER [Physics-informed deep learning for prediction of CO2 storage site response (Shokouhi 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0169772221000747)
+- #PAPER [Importance of satellite observations for high-resolution mapping of near-surface NO2 by machine learning (Kim 2021)](https://www.sciencedirect.com/science/article/pii/S0034425721002935)
 - #PAPER [MethaNet – An AI-driven approach to quantifying methane point-source emission from high-resolution 2-D plume imagery (Jongaramrungruang 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0034425721005290?casa_token=Rr8iWs71uhYAAAAA:D4PWThLU5hKi7khAv3yk23pR76hR81P5dTDSUjLJrF5SPL2r76hZE3YkHOGPzapU64pAzzHuAgU#!)
 - #PAPER [Single-blind validation of space-based point-source methane emissions detection and quantification (Sherwin 2022)](https://eartharxiv.org/repository/view/3465/)
 - #PAPER [METER-ML: A Multi-sensor Earth Observation Benchmark for Automated Methane Source Mapping (Zhu 2022)](https://stanfordmlgroup.github.io/projects/meter-ml/)

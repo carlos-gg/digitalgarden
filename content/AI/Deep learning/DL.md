@@ -122,38 +122,33 @@ State of ML frameworks:
 
 - #CODE [Tensorflow, keras](AI/DS%20and%20DataEng/Tensorflow,%20keras.md)
 - #CODE [Pytorch](AI/DS%20and%20DataEng/Pytorch.md)
-- #CODE [Ivy](https://github.com/unifyai/ivy)
-	- The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
+- #CODE [Ivy](https://github.com/unifyai/ivy) - The unified machine learning framework, enabling framework-agnostic functions, layers and libraries
 	- [lets-unify.ai](https://lets-unify.ai/ "https://lets-unify.ai")
 	- #PAPER [Ivy: Templated Deep Learning for Inter-Framework Portability (Lenton 2021)](https://arxiv.org/abs/2102.02886)
 	- https://medium.com/@unifyai/why-unify-21b502f2015e
 	- https://medium.com/@unifyai/standardization-7726c5113e4
-- #CODE [Huggingface](https://huggingface.co/)
-	- Build, train and deploy state of the art models powered by the reference open source in ML
+- #CODE [Huggingface](https://huggingface.co/) - Build, train and deploy state of the art models powered by the reference open source in ML
 	- [Datasets](https://github.com/huggingface/datasets)
 	- [Datasets-viewer](https://github.com/huggingface/datasets-viewer)
 		- https://huggingface.co/datasets/viewer/
 	- [Transformers](https://github.com/huggingface/transformers)
-- #CODE [Triton](https://github.com/openai/triton)
-	- language and compiler for writing highly efficient custom Deep-Learning primitives
+- #CODE [Triton](https://github.com/openai/triton) - language and compiler for writing highly efficient custom Deep-Learning primitives
 	- https://openai.com/blog/triton/
 	- https://www.infoq.com/news/2021/08/openAI-triton/
 	- Triton uses Python as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem, currently the biggest destination for developing machine-learning solutions
-- #CODE [Oneflow](https://github.com/Oneflow-Inc/oneflow)
-	- OneFlow is a performance-centered and open-source deep learning framework
+- #CODE [Oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework
 	- http://www.oneflow.org/
-- #CODE [MindSpore (Huawei)](https://github.com/mindspore-ai/mindspore) ^huaweimindpore
+- #CODE [MindSpore (Huawei)](https://github.com/mindspore-ai/mindspore) 
 	- https://towardsdatascience.com/program-your-first-neural-network-with-huawei-mindspore-1fc50023e90d
 	- https://towardsdatascience.com/huaweis-mindspore-a-new-competitor-for-tensorflow-and-pytorch-d319deff2aec
 	- https://www.mindspore.cn/en
-- #CODE [Tensorlayer - Deep Learning and Reinforcement Learning Library for Scientists and Engineers](https://github.com/tensorlayer/tensorlayer)
+- #CODE [Tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 	- http://tensorlayer.org/
-- #CODE [Elegy - Neural Networks framework based on Jax and inspired by Keras](https://github.com/poets-ai/elegy)
+- #CODE [Elegy](https://github.com/poets-ai/elegy) - Neural Networks framework based on Jax and inspired by Keras
 	- https://poets-ai.github.io/elegy/
 	- See [Mathematical Optimization](AI/Math%20and%20Statistics/Mathematical%20Optimization.md) JAX
-- #CODE [Paddle (Baidu)](https://github.com/PaddlePaddle/Paddle)
+- #CODE [Paddle (Baidu)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice
 	- http://www.paddlepaddle.org/
-	- PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice
 - #CODE [Mxnet (Apache)](https://github.com/apache/incubator-mxnet)
 	- http://mxnet.io/
 	- [Towards Next Generation Deep Learning Framework](https://mli.github.io/cvpr17/)
@@ -161,16 +156,16 @@ State of ML frameworks:
 	- https://www.microsoft.com/en-us/research/product/cognitive-toolkit/
 	- Microsoft Cognitive Toolkit: A free, easy-to-use, open-source, commercial-grade toolkit that trains deep learning algorithms to learn like the human brain.
 	- #TALK https://www.youtube.com/watch?v=9gDDO5ldT-4&feature=youtu.be
-- #CODE [Neupy - NeuPy is a Tensorflow based python library for prototyping and building neural networks](https://github.com/itdxer/neupy)
+- #CODE [Neupy](https://github.com/itdxer/neupy) - NeuPy is a Tensorflow based python library for prototyping and building neural networks
 	- http://neupy.com/pages/home.html
-- #CODE Chainer - Chainer is a Python-based deep learning framework aiming at flexibility
-	- https://github.com/chainer/chainer
+- #CODE [Chainer](https://github.com/chainer/chainer) - Chainer is a Python-based deep learning framework aiming at flexibility
 - #CODE [Neural Network Console (Sony)](https://dl.sony.com/)
-- #CODE [PySyft](https://github.com/OpenMined/PySyft)
-	- PySyft is a Python library for secure and private Deep Learning. 
+- #CODE [PySyft](https://github.com/OpenMined/PySyft) - PySyft is a Python library for secure and private Deep Learning
 	- PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation (like Multi-Party Computation (MPC) and Homomorphic Encryption (HE)) within the main Deep Learning frameworks like PyTorch and TensorFlow.
 	- #PAPER [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)
 - #CODE [Deep cognition](https://deepcognition.ai/)
+- #CODE [Quaterion](https://github.com/qdrant/quaterion) - Blazing fast framework for fine-tuning similarity learning models
+	- https://quaterion.qdrant.tech/
 
 
 ## References

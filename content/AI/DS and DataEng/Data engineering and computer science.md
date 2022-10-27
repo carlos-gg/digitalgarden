@@ -72,10 +72,13 @@ See "Courses" section in [[AI/DS and DataEng/Python]]
 	- Defines a distributed command line system and manual argument parsing
 	- https://999999999.hatenablog.com/entry/argument_parse_with_abseil
 	- https://github.com/abseil/abseil-py/blob/main/smoke_tests/sample_app.py
-- #CODE [Memray](https://github.com/bloomberg/memray)
-	- Memray is a memory profiler for Python
+- #CODE [Memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 	- https://bloomberg.github.io/memray/
 	- https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/
+- #CODE [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja)
+	- Memory mapped numpy arrays of varying shapes
+	- You can use `mmap_ninja` with any training framework (such as `Tensorflow`, `PyTorch`, `MxNet`), etc., as it stores your dataset as a memory-mapped numpy array
+	- A memory mapped file is a file that is physically present on disk in a way that the correlation between the file and the memory space permits applications to treat the mapped portions as if it were primary memory, allowing very fast I/O
 - #CODE [StreamAlert](https://github.com/airbnb/streamalert)
 	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
 - #CODE [Pandas](https://github.com/pandas-dev/pandas)

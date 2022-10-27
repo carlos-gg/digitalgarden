@@ -80,7 +80,7 @@ See [[AI4ES/Extremes events#Databases]]
 	- https://www.ecmwf.int/en/newsletter/154/meteorology/ecmwfs-new-long-range-forecasting-system-seas5
 
 ### AC forecasts
-- [CAMS](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-atmospheric-composition-forecasts?tab=doc) - Copernicus Atmosphere Monitoring Service: 
+- [CAMS](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-atmospheric-composition-forecasts?tab=doc) - Copernicus Atmosphere Monitoring Service
 	- https://www.ecmwf.int/en/forecasts/dataset/cams-global-atmospheric-composition-forecasts
 	- https://atmosphere.copernicus.eu/accessing-atmospheric-composition-forecasts-made-easy
 	- [CAMSRA global reanalysis at 0.8 deg (80x80 km)](https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis)
@@ -88,6 +88,7 @@ See [[AI4ES/Extremes events#Databases]]
 		- https://confluence.ecmwf.int/display/CKB/CAMS+Regional%3A+European+air+quality+analysis+and+forecast+data+documentation
 		- https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=overview
 	- #PAPER [The CAMS reanalysis of atmospheric composition (Inness 2019)](https://acp.copernicus.org/articles/19/3515/2019/)
+	- #PAPER [Comprehensive evaluation of the Copernicus Atmosphere Monitoring Service (CAMS) reanalysis against independent observations: Reactive gases (Wagner 2021)](https://online.ucpress.edu/elementa/article/9/1/00171/117164/Comprehensive-evaluation-of-the-Copernicus)
 
 ### Reanalysis 
 - [Advancing Reanalysis](https://reanalyses.org/ "Home")

@@ -13,6 +13,9 @@ title: "Statistical downscaling"
 - Downscaling is any procedure to infer high-resolution information from low-resolution variables. This technique is based on dynamical or statistical approaches commonly used in several disciplines, especially meteorology, climatology and remote sensing. The term downscaling usually refers to an increase in spatial resolution, but it is often also used for temporal resolution.
 - Statistical downscaling or what climate can I expect in my own backyard? Statistical DS learns a functional mapping between low and high-resolution climate models from observed data (computationally efficient and scalable across multi-model ensembles) vs dynamical DS, where all the local processes are encoded, such as convective precipitation and vegetation schemes, with subgrid parameters and GCM boundary conditions for HR projections (high computational costs) 
 - "downscaling" is a climate modeling term while "downsampling" comes from signal processing. Confusingly, "downscaling" is actually equivalent to "upsampling", both referring to "increasing resolution"
+- CarbonPlan - [Open data and tools for multiple methods of global climate downscaling](https://carbonplan.org/research/cmip6-downscaling-explainer)
+
+## Talks
 - #TALK [What is bias correction/adjustment and statistical downscaling?](https://www.youtube.com/watch?v=diCEdcDTtgw)
 - #TALK [Different methods for bias adjustment and downscaling](https://www.youtube.com/watch?v=f5yGo9hcjbk)
 - #TALK [Statistical Downscaling (South Central Climate Adaptation Science Center)](https://www.youtube.com/watch?v=etaMadjy12k)
