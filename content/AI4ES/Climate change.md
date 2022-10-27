@@ -28,7 +28,6 @@ title: "Climate change"
 - [Is AI and Deep Learning a Climate Change Threat?](https://www.ibm.com/uk-en/it-infrastructure/learn/ai-and-deep-learning-climate-change-threat) 
 - [Extreme weather takes climate change models ‘off the scale’](https://www.fr24news.com/a/2021/07/extreme-weather-takes-climate-change-models-off-the-scale.html)
 
-
 ### ESA CCI
 - [ESA climate office](https://climate.esa.int/en/)
 - [Climate change initiative (CCI)](http://cci.esa.int/)
@@ -48,6 +47,7 @@ title: "Climate change"
 - [Climate Change AI Wiki](https://wiki.climatechange.ai/wiki/Welcome_to_the_Climate_Change_AI_Wiki)
 - [Climate change 101](https://docs.google.com/presentation/d/1KxVq-FlngspK687AvdEYJ2IXZQaK0tbQPPsek6rC7jA/edit#slide=id.p)
 - [CCAI webinars](https://www.climatechange.ai/webinars)
+- [Climate Change AI Workshop Papers](https://www.climatechange.ai/papers?)
 - #TALK https://www.youtube.com/channel/UCyjDr_aoMlzhSvCTdT7eZ9g/videos
 - #TALK [Machine Learning 101 for CC](https://www.youtube.com/watch?v=mc9QG2R-rf4) 
 

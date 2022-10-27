@@ -18,6 +18,7 @@ title: "AI4ES data"
 	- The STAC specification is a common language to describe geospatial information, so it can more easily be worked with, indexed, and discovered.
 	- [intake-stac](https://medium.com/pangeo/introducing-intake-stac-2c988d8e1d30)
 - [Cryosphere](https://github.com/awesome-cryosphere/cryosphere-links)
+- [PANGEA](https://www.pangaea.de/) - Data Publisher for Earth & Environmental Science
 
 - #PAPER [Enabling Immediate Access to Earth Science Models through Cloud Computing: Application to the GEOS-Chem Model (Zhuang 2019)](https://journals.ametsoc.org/bams/article/100/10/1943/344808/Enabling-Immediate-Access-to-Earth-Science-Models)
 - #PAPER [A Portal Offering Standard Visualization and Analysis on top of an Open Data Cube for Sub-National Regions: The Catalan Data Cube Example (Maso 2019)](https://www.mdpi.com/2306-5729/4/3/96)
@@ -197,6 +198,7 @@ See [[AI4ES/Extremes events#Databases]]
 - [Kelvins - ESA's Advanced Concepts Competition Website. Data challenges](https://kelvins.esa.int/  )
 - [AVIRIS-NG aerial hyperspectral remote sensing data](https://avirisng.jpl.nasa.gov/dataportal/)
 	- The AVRIS-NG data portal includes an unparalleled publicly available dataset of hyperspectral remote sensing aerial surveys on multiple continents, including detected large point-source methane emissions (for many campaigns, plus some point-source CO2 emissions)
+- [CaFFe](https://doi.pangaea.de/10.1594/PANGAEA.940950) (CAlving Fronts and where to Find thEm: a benchmark dataset and methodology for automatic glacier calving front extraction from sar imagery)
 
 ### Benchmark datasets
 - #PAPER [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (Helber 2019)](https://arxiv.org/abs/1709.00029)

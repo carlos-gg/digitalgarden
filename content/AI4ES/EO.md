@@ -29,6 +29,9 @@ title: "EO"
 ## Data and benchmark datasets
 See [[AI4ES/AI4ES data#EO and Satellite data]]
 
+## Books
+- #BOOK [Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications](https://www.eefabook.org/)
+
 ## Code
 - #CODE [Earthspy](https://github.com/AdrienWehrle/earthspy)
 	- Monitor and study any place on Earth and in Near Real-Time (NRT) using the Sentinel Hub services developed by the EO research team at Sinergise

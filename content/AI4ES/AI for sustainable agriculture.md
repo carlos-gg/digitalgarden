@@ -11,6 +11,9 @@ title: "AI for sustainable agriculture"
 ## Code
 - #CODE [farmvibes-ai](https://github.com/microsoft/farmvibes-ai)
 	- FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
+- #CODE [cyclesgym](https://github.com/kora-labs/cyclesgym)
+	- CyclesGym: an OpenAI gym interface to the Cycles agricultural simulator
+	- #PAPER https://openreview.net/forum?id=Zx5qJzNesn0
 
 ## References
 - #PAPER [Deep learning in agriculture: A survey (Kamilaris 2018)](http://arxiv.org/abs/1807.11809)
