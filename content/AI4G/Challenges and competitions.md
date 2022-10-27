@@ -2,7 +2,6 @@
 title: "AI4G - Challenges and competitions"
 ---
 
-
 ## Resources
 - [Devpost - social good challenges](https://devpost.com/hackathons?themes[]=Social%20Good)
 	- [Big data for social good (IBM)](https://ibmhadoop.devpost.com/)
@@ -23,14 +22,5 @@ title: "AI4G - Challenges and competitions"
 	- The $5 million IBM Watson AI XPRIZE is a global competition challenging teams to develop and demonstrate how humans can collaborate with powerful AI technologies to tackle the world’s Grand Challenges.
 - [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org/)
 
-
-### Earth observation, climate
-- [AI4EO](https://ai4eo.eu/)
-	- AI4EO is organising several artificial intelligence-based challenges with world-class partners and sponsors. Through these challenges we will foster the growth of the AI4EO community, support researchers and coders by promoting their work and use AI to extract more information from EO to solve some of the pressing challenges faced by our society.
-	- https://platform.ai4eo.eu/
-- [GEOSS + AWS](http://www.earthobservations.org/aws.php)
-	- $1.5 million worth of cloud services available for projects that improve understanding of our planet
-- [AI4Citites](https://ai4cities.eu/) - using AI to make Europe's cities more sustainable
-- [Climathon](https://climathon.climate-kic.org/) 
-- [AI for global climate cooperation](https://www.ai4climatecoop.org/)
-- [Call for Code Global Challenge (2022)](https://callforcode.bemyapp.com/)
+### Earth observation and climate science
+See [[AI4G/Challenges in EO and Climate]]

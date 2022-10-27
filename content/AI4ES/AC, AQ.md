@@ -11,7 +11,7 @@ title: "Atmospheric composition and air quality (AC, AQ)"
 	- CTM focuses on the stocks and flows of one or more chemical species
 	- CTM is expected to accurately represent the entire cycle for the species of interest, including fluxes (e.g. advection), chemical production/loss, and deposition
 - [Air Quality e-Reporting](https://www.eea.europa.eu/data-and-maps/data/aqereporting-9)
-- [AI4EO challenge](https://platform.ai4eo.eu/air-quality-and-health)
+- AI4EO Air quality challenge. See [[AI4G/Challenges in EO and Climate]]
 
 ### Methane emissions
 - [The MEthane Tracking Emissions Reference (METER) database](https://meterplatform.web.app/)

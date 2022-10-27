@@ -7,6 +7,7 @@ title: "AI4ES"
 > See:
 > - [[AI4ES/EO]]
 > - [[AI4ES/Geospatial science]]
+> - [[AI4G/Challenges in EO and Climate]]
 
 ## Resources
 - [Earth system science](https://en.wikipedia.org/wiki/Earth_system_science)
@@ -181,25 +182,23 @@ See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 - [Climate Science Sessions at GTC Highlight How Digital Twins Powered by HPC and AI Can Help Earth](https://blogs.nvidia.com/blog/2022/03/08/climate-science-sessions-gtc/)
 - #PAPER [How to tell the difference between a model and a digital twin (Wright 2020)](https://amses-journal.springeropen.com/articles/10.1186/s40323-020-00147-4)
 
-### Other applications
-- See [[AI4G/Challenges and competitions#Earth observation climate]]
+### Climate change
+- See [[AI4ES/Climate change]]
 
-#### Agriculture
-- #PAPER [Deep learning in agriculture: A survey (Kamilaris 2018)](http://arxiv.org/abs/1807.11809)
-- #PAPER [Machine Learning in Agriculture: A Review (Liakos 2018)](https://www.mdpi.com/1424-8220/18/8/2674/htm)
-- #PAPER [Crop yield prediction using machine learning: A systematic literature review (van Klompenburg 2020)](https://www.sciencedirect.com/science/article/pii/S0168169920302301?dgcid=rss_sd_all)
+### Agriculture
+- See [[AI4ES/AI for sustainable agriculture]]
 
-#### Smart buildings
+### Smart buildings
 - #PAPER [Leveraging Machine Learning and Big Data for Smart Buildings: A Comprehensive Survey (Qolomany 2019)](https://www.researchgate.net/publication/332170623_Leveraging_Machine_Learning_and_Big_Data_for_Smart_Buildings_A_Comprehensive_Survey )
 - #PAPER [Physics-constrained deep learning of multi-zone building thermal dynamics (Drgona 2021)](https://www.sciencedirect.com/science/article/pii/S0378778821002760#f0010)
 
-#### Compression of Climate model outputs
+### Compression of Climate model outputs
 - #PAPER [Evaluating lossy data compression on climate simulation data within a large ensemble (Baker 2016)](https://gmd.copernicus.org/articles/9/4381/2016/)
 - #PAPER [A statistical analysis of lossily compressed climate model data (Poppick 2020)](https://www.sciencedirect.com/science/article/pii/S009830042030580X)
 - #PAPER [Compressing atmospheric data into its real information content (Kloewer 2022)](https://www.researchsquare.com/article/rs-590601/v1)
 	- #CODE https://github.com/esowc/Elefridge.jl
 
-#### Energy optimization and renewable energy
+### Energy optimization and renewable energy
 - #PAPER [Surrogate modelling for sustainable building design – A review (Westermann 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0378778819302877)
 - #PAPER [Building energy optimization using surrogate model and active sampling (Bamdad 2020)](https://www.tandfonline.com/doi/full/10.1080/19401493.2020.1821094)
 - #PAPER [Using a deep temporal convolutional network as a building energy surrogate model that spans multiple climate zones (Westermann 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0306261920310758)
@@ -207,12 +206,8 @@ See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 - #PAPER [Facilitating a smoother transition to renewable energy with AI (Chatterjee 2022)](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900125-8)
 - #PAPER [Universal Digital Twin: Integration of national-scale energy systems and climate data (Savage 2022)](https://www.cambridge.org/core/journals/data-centric-engineering/article/universal-digital-twin-integration-of-nationalscale-energy-systems-and-climate-data/EEBFDF0787319FC1A858BD3718F2B7A9)
 
-#### Computational Fluid Dynamics (CFD)
+### Computational Fluid Dynamics (CFD)
 - #PAPER [Accelerating urban scale simulations leveraging local spatial 3D structure (Iserte 2022)](https://www.sciencedirect.com/science/article/pii/S1877750322001326)
-
-#### Climate change
-- See [[AI4ES/Climate change]]
-
 
 ## Events
 - See [[AI4ES/EO#Events]] and [[AI4ES/Geospatial science#Events]]

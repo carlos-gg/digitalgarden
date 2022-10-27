@@ -17,3 +17,4 @@ title: "Random forest"
 
 ## References
 - #THESIS/PHD [Understanding Random Forests: From Theory to Practice (Louppe 2014)](https://arxiv.org/abs/1407.7502)
+- #PAPER [Trees, Forests, Chickens, and Eggs: When and Why to Prune Trees in a Random Forest (Zhou 2021)](https://arxiv.org/pdf/2103.16700.pdf)
