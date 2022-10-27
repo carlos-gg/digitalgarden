@@ -2,7 +2,10 @@
 title: "Super-resolution"
 ---
 
-> See [[AI/Computer Vision/Image-to-image translation]]
+> See: 
+> - [[AI/Computer Vision/Image-to-image translation]]
+> - [[AI/Deep learning/Implicit Neural Representations]]
+
 
 ## Resources
 - [Papers and related resources, mainly state-of-the-art and novel works in ICCV, ECCV and CVPR about image super-resolution and video super-resolution](https://github.com/HymEric/latest-development-of-ISR-VSR)
@@ -105,6 +108,7 @@ title: "Super-resolution"
 - #PAPER [Revolution: A Spatial-specific Convolution for Image Super-Resolution (Zhang 2021)](https://ieeexplore.ieee.org/document/9525588) 
 
 #### Arbitrary scale
+See [[AI/Deep learning/Implicit Neural Representations]]
 - #PAPER [Meta-SR: A Magnification-Arbitrary Network for Super-Resolution (Hu 2019)](https://arxiv.org/abs/1903.00875)
 	- #CODE https://github.com/XuecaiHu/Meta-SR-Pytorch
 	- #CODE https://github.com/smallsunsun1/Meta-SR/

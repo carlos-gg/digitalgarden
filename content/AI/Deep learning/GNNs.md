@@ -23,7 +23,7 @@ title: "Graph neural networks (GNNs)"
 - #CODE [DGL - Deep graph library](https://github.com/dmlc/dgl)
 	- https://www.dgl.ai/
 - #CODE [Pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
-- #CODE [Spektral - Graph Neural Networks with Keras and Tensorflow 2](https://github.com/danielegrattarola/spektral)
+- #CODE [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2
 - #CODE [Deep Graph Library (DGL)](https://github.com/dmlc/dgl) 
 	- http://dgl.ai
 	- Python package built to ease deep learning on graph, on top of existing DL frameworks. 

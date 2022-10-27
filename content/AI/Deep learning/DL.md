@@ -454,3 +454,7 @@ See [[AI/Deep learning/Neural processes]]
 
 ### Bayesian/probabilistic DL
 See [[AI/Deep learning/Probabilistic deep learning]]
+
+### Implicit Neural Representations
+See [[AI/Deep learning/Implicit Neural Representations]]
+
