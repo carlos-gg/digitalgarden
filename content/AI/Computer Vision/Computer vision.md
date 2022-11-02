@@ -27,6 +27,7 @@ title: "Computer Vision"
 - #BOOK [Computer vision (chapter)](https://d2l.ai/chapter_computer-vision/index.html)
 
 ## Courses
+- #COURSE [Computer Vision (U. Tubingen)](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
 - #COURSE [Computer vision (CS543/ECE549, UIUC)](https://courses.engr.illinois.edu/cs543/sp2015/)
 - #COURSE [Advances in Computer vision (MIT)](http://6.869.csail.mit.edu/fa18/)
 - #COURSE [Introduction to computer vision (Udacity, Georgia Tech)](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
