@@ -162,6 +162,11 @@ See [[AI4ES/Extremes events#Databases]]
 	- Comparison with in situ observations shows that the ERA5 surface winds offer the best agreement, correlating and reproducing the observed variability better than a multi-reanalysis mean in 35.1% of the tall tower sites on a daily time-scale.
 - #PAPER [A collection and categorization of open-source wind and wind power datasets (Effenberger 2022)](https://onlinelibrary.wiley.com/doi/10.1002/we.2766)
 
+#### NEWA
+- [New European Wind Atlas](https://map.neweuropeanwindatlas.eu/)
+- #PAPER [The making of the New European Wind Atlas – Part 1: Model sensitivity (Hahmann 2020)](https://gmd.copernicus.org/articles/13/5053/2020/)
+- #PAPER [The Making of the New European Wind Atlas – Part 2: Production and evaluation (Dorenkamper 2020)](https://gmd.copernicus.org/articles/13/5079/2020/)
+
 ### Fires
 - [MODIS Thermal Anomalies/Fire](https://modis.gsfc.nasa.gov/data/dataprod/mod14.php)
 - FireCCI51 and FireCCILT11, ESA Climate Change Initiative
