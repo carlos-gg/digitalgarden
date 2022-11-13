@@ -164,6 +164,11 @@ See [[AI4ES/Extremes events#Databases]]
 
 #### NEWA
 - [New European Wind Atlas](https://map.neweuropeanwindatlas.eu/)
+	- EU plus Turkey and 100 km offshore as well as the complete North and Baltic Seas
+	- The WRF model was used in a NEWA consortium developed configuration
+	- 3 km grid spacing and simulation period covering 30 years (1989-2018)
+	- Microscale Atlas: https://wps.neweuropeanwindatlas.eu/api/microscale-atlas/v1/docs
+	- Mesoscale Atlas: https://wps.neweuropeanwindatlas.eu/api/mesoscale-atlas/v1/docs
 - #PAPER [The making of the New European Wind Atlas – Part 1: Model sensitivity (Hahmann 2020)](https://gmd.copernicus.org/articles/13/5053/2020/)
 - #PAPER [The Making of the New European Wind Atlas – Part 2: Production and evaluation (Dorenkamper 2020)](https://gmd.copernicus.org/articles/13/5079/2020/)
 

@@ -11,12 +11,14 @@ title: "Machine Learning Operations (MLOps)"
 - https://github.com/EthicalML/awesome-production-machine-learning
 - [More Data, More Problems: Using DVC to handle data versioning for a computer vision problem](https://mlops.systems/tools/redactionmodel/computervision/mlops/2022/05/24/data-versioning-dvc.html)
 
-
 ## Courses
 - #COURSE [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 	- https://madewithml.com/#mlops
 
 ## Code
+- #CODE [MUSE](https://github.com/Lightning-AI/stable-diffusion-deploy)
+	- Open source, stable-diffusion production server to show how to deploy diffusion models in a real production environment with: load-balancing, gpu-inference, performance-testing, micro-services orchestration and more. All handled easily with the Lightning Apps framework
+
 ### Experiment tracking
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools
 - #CODE [Weights & Biases](https://docs.wandb.com/)
