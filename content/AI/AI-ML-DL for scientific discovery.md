@@ -28,7 +28,10 @@ title: "AI-ML-DL for scientific discovery"
 	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
 	- [Handling Scientific Articles with Deep Search](https://opensource.science/handling-scientific-articles-with-deep-search-d3d7adebd3)
 - [Consensus - Ask a question, get conclusions from research papers](https://consensus.app/search/)
-
+- [Galactica (Meta AI)](https://galactica.org/)
+	- #PAPER [Galactica: A Large Language Model for Science (Taylor 2022)](https://arxiv.org/abs/2211.09085)
+	- #CODE https://github.com/paperswithcode/galai
+	- [Paper explained](https://www.youtube.com/watch?v=ZTs_mXwMCs8&t=1145s)
 
 ## Events
 - [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
