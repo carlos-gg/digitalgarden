@@ -25,7 +25,8 @@ title: "Multimodal learning, Foundation models"
 - [Make-A-Video](https://makeavideo.studio/)
 
 ## Code
-- #CODE [Pykale (in pytorch)](https://github.com/pykale/pykale)
+- #CODE [Pykale](https://github.com/pykale/pykale) - Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research
+- #CODE [Unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 
 ## Courses
 - #COURSE [Multimodal Machine Learning (Carnegie Mellon University)](https://www.youtube.com/watch?v=VIq5r7mCAyw&list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G)
@@ -60,6 +61,7 @@ title: "Multimodal learning, Foundation models"
 - #PAPER [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis (Wu 2022)](https://arxiv.org/pdf/2207.09814)
 	- #CODE https://github.com/microsoft/NUWA
 	- https://nuwa-infinity.microsoft.com/#/
+- #PAPER [Foundation Transformers (Wang 2022)](https://arxiv.org/pdf/2210.06423)
 
 ### Vision and language models
 - #PAPER [DALL-E - Creating Images from Text (Ramesh 2021)](https://openai.com/blog/dall-e/)

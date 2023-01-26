@@ -8,6 +8,7 @@ title: "AI4ES data"
 - See [[AI4ES/Climate change#Data and visualizations]]
 - [Climate Data Store - Copernicus](https://cds.climate.copernicus.eu)
 	- [CEMS - Emergency Management System](https://emergency.copernicus.eu/)
+		- [Global Flood Awareness System](https://www.globalfloods.eu/technical-information/products/) (GloFAS) - support preparatory measures for flood events worldwide, particularly in large trans-national river basins, by providing: meteorological, seasonal and impact forecasts
 - https://github.com/pangeo-data/
 - [NOAA gridded climate data](https://psl.noaa.gov/data/gridded/index.html)
 - [The DL4ES book, DATA](https://github.com/DL4ES/DL4ES)
@@ -19,6 +20,10 @@ title: "AI4ES data"
 	- [intake-stac](https://medium.com/pangeo/introducing-intake-stac-2c988d8e1d30)
 - [Cryosphere](https://github.com/awesome-cryosphere/cryosphere-links)
 - [PANGEA](https://www.pangaea.de/) - Data Publisher for Earth & Environmental Science
+- Regridding:
+	- [Regridding Overview (NCAR)](https://climatedataguide.ucar.edu/climate-tools/regridding-overview)
+	- [Regridding with CDO](https://www.climate-cryosphere.org/wiki/index.php?title=Regridding_with_CDO)
+	- [CDO, horizontal grids](https://code.mpimet.mpg.de/projects/cdo/embedded/index.html#x1-280001.5)
 
 - #PAPER [Enabling Immediate Access to Earth Science Models through Cloud Computing: Application to the GEOS-Chem Model (Zhuang 2019)](https://journals.ametsoc.org/bams/article/100/10/1943/344808/Enabling-Immediate-Access-to-Earth-Science-Models)
 - #PAPER [A Portal Offering Standard Visualization and Analysis on top of an Open Data Cube for Sub-National Regions: The Catalan Data Cube Example (Maso 2019)](https://www.mdpi.com/2306-5729/4/3/96)

@@ -75,6 +75,7 @@ title: "Climate change"
 ## Talks
 - #TALK [Artificial Intelligence in ESA Contribution to the United Nations Framework Convention on Climate Change (UNFCCC) : An Overview](https://events.ecmwf.int/event/172/contributions/1719/)
 - #TALK [Digital twins for understanding and adapting to climate change (Bjorn Stevens)](https://www.nvidia.com/gtc/session-catalog/?search=S41950&search=S41950%2C+S41950&tab.scheduledorondemand=1583520458947001NJiE&ncid=em-even-878227-general&mkt_tok=MTU2LU9GTi03NDIAAAGDVJIckDR-eNvplu5zP5U6wChea9lbDNdxzK9j2oiXSgURVx489ABLbGUVkRjjtgkPw4pVTd83UwS6fTUpy1blJ4ANwPJjSh1h_k3gs8n8v51ArowVTw#/session/1638815834579001GVCZ)
+- #TALK [Al Gore and the Climate TRACE Coalition release detailed inventory of the sources of GHG emissions worldwide](https://unfccc.int/event/al-gore-and-the-climate-trace-coalition-release-detailed-inventory-of-the-sources-of-ghg-emissions)
 
 
 ## References

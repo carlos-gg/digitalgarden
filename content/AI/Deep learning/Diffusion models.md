@@ -12,6 +12,9 @@ title: "Diffusion models"
 - [High Fidelity Image Generation Using Diffusion Models](http://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html "High Fidelity Image Generation Using Diffusion Models")
 - [Introduction to deep generative modeling: Diffusion-based Deep Generative Models](https://jmtomczak.github.io/blog/10/10_ddgms_lvm_p2.html)
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+- Improving Diffusion Models as an Alternative To GANs
+	- [Part 1](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/)
+	- [Part 2](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-2/)
 
 ## Code
 - #CODE [diffusers](https://github.com/huggingface/diffusers) (huggingface)

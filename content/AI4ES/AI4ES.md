@@ -36,6 +36,7 @@ title: "AI4ES"
 - #TALK [Deep Learning for Climate (Gallinari)](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)
 - #TALK [A collective agenda for AI on the Earth sciences (Camps-Valls)](https://www.youtube.com/watch?v=ts5XSYgcsiE)
 - #TALK [Destination Earth and AI (Peter Dueben)](https://www.youtube.com/watch?v=qcYbHkgTrvM)
+- #TALK [Integrating Machine Learning with System Modelling and Observations for a better understanding of the Earth System (Markus Reichtein)](https://mpml.tecnico.ulisboa.pt/seminars?id=6819)
 
 ## Books
 - #BOOK [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science and Geosciences (Camps-Valls 2021)](https://www.amazon.com/-/es/Gustau-Camps-Valls-dp-1119646146/dp/1119646146/ref=mt_other?_encoding=UTF8&me=&qid=)
