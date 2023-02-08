@@ -30,6 +30,9 @@ See [[AI/Supervised Learning/Ensemble learning]]
 ### Class imbalance
 See [[AI/Supervised Learning/Class imbalance]]
 
+### Data augmentation
+See [[AI/Supervised Learning/Data augmentation]]
+
 ### Model selection and tuning
 See [[AI/Supervised Learning/Model selection and tuning]]
 

@@ -240,10 +240,7 @@ State of ML frameworks:
 - https://medium.com/intelligentmachines/convolutional-neural-network-and-regularization-techniques-with-tensorflow-and-keras-5a09e6e65dc7
 
 #### Data augmentation
-- https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-- https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
-- #PAPER [A survey on Image Data Augmentation for Deep Learning (Shorten 2019)](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)
-- #PAPER [AutoAugment: Learning Augmentation Policies from Data (Cubuk 2019)](https://arxiv.org/pdf/1805.09501)
+See [[AI/Supervised Learning/Data augmentation]]
 
 #### Dropout
 - http://www.cs.toronto.edu/~hinton/absps/dropout.pdf
@@ -356,29 +353,30 @@ See [[AI/Deep learning/Explainability methods for NNs]]
 
 ## Applications
 
-### Deep learning for multi-dimensional data
+### DL for multi-dimensional data
 - See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 
-### Deep learning for tabular data
+### DL for tabular data
 - [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 - [Applying Deep Learning on Tabular Data Using TensorFlow 2.0](https://pdf.co/blog/deep-learning-on-tabular-data-using-tensorflow-20)
 - [A short chronology of deep learning for tabular data (Sebastian Rschka)](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
-- #CODE See Pytorch tabular in [[AI/DS and DataEng/Pytorch]] 
+- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) 
+	- https://pytorch-tabular.readthedocs.io/en/latest/
+	- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 - #PAPER [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Popov 2019)](https://arxiv.org/abs/1909.06312)
 - #PAPER [TabNet: Attentive Interpretable Tabular Learning (Arik 2020)](https://arxiv.org/abs/1908.07442)
 - #PAPER [Converting tabular data into images for deep learning with convolutional neural networks (Zhu 2021)](https://www.nature.com/articles/s41598-021-90923-y)
 - #PAPER [Tabular Data: Deep Learning is Not All You Need (Shwartz-Ziv 2021)](https://arxiv.org/abs/2106.03253)
 - #PAPER [XBNet: An Extremely Boosted Neural Network (Sarkar 2021)](https://arxiv.org/abs/2106.05239)
-	- #CODE [XBNet](https://github.com/tusharsarkar3/XBNet)
-	- Boosted neural network for tabular data
+	- #CODE [XBNet](https://github.com/tusharsarkar3/XBNet) - Boosted neural network for tabular data
 	- https://analyticsindiamag.com/guide-to-xbnet-an-extremely-boosted-neural-network/
 - #PAPER [Revisiting Deep Learning Models for Tabular Data (Gorishniy 2021)](https://arxiv.org/abs/2106.11959)
 	- #CODE [RDTL (Yandex)](https://github.com/yandex-research/rtdl)
 	- https://yandex-research.github.io/rtdl/
 - #PAPER [TABBIE: Pretrained Representations of Tabular Data (Lida 2021)](https://arxiv.org/abs/2105.02584v1)
 
-### Deep learning for scientific discovery
+### DL for scientific discovery
 See [[AI/AI-ML-DL for scientific discovery]]
 
 ### Multimodal learning

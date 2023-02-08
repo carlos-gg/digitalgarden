@@ -39,8 +39,6 @@ title: "Pytorch"
 - #CODE [Pytext (Facebook) - A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext )
 	- https://fb.me/pytextdocs
 	- PyText is a deep-learning based NLP modeling framework built on PyTorch
-- #CODE [Pytorch tabular](https://github.com/manujosephv/pytorch_tabular) ^pytorchtab
-	- https://deep-and-shallow.com/2021/01/27/pytorch-tabular-a-framework-for-deep-learning-for-tabular-data/
 - #CODE [Clearml](https://github.com/allegroai/clearml)
 	- ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, [[AI/DS and DataEng/ML Ops]] and Data-Management
 	- https://clear.ml/docs

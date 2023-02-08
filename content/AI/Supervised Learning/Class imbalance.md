@@ -26,6 +26,7 @@ title: "Class imbalance"
 - #PAPER [Survey of resampling techniques for improving classification performance in unbalanced datasets (More 2016)](https://arxiv.org/abs/1608.06048)
 
 #### Oversampling
+* See [[AI/Supervised Learning/Data augmentation]]
 - #PAPER [SMOTE: Synthetic Minority Over-sampling Technique (Chaula 2002)](https://jair.org/index.php/jair/article/view/10302)
 	- There are a number of methods available to oversample a dataset used in a typical classification problem (using a classification algorithm to classify a set of images, given a labelled training set of images). The most common technique is known as SMOTE. 
 	- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
