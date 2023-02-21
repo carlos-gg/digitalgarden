@@ -15,6 +15,13 @@ title: "Diffusion models"
 - Improving Diffusion Models as an Alternative To GANs
 	- [Part 1](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/)
 	- [Part 2](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-2/)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - Lilian Weng
+- [Diffusion models from scratch in PyTorch](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
+
+## Talks
+- #TALK [Diffusion Probabilistic Models](https://www.youtube.com/watch?v=XCUlnHP1TNM) - MIT, Jascha Sohl-Dickstein
+- #TALK [What are Diffusion Models?](https://www.youtube.com/watch?v=fbLgFrlTnGU) - Ari Seff, math explained
+- #TALK [Diffusion models explained. How does OpenAI's GLIDE work?](https://www.youtube.com/watch?v=344w5h24-h8) - AI Coffee break with Laetitia
 
 ## Code
 - #CODE [diffusers](https://github.com/huggingface/diffusers) (huggingface)
@@ -32,3 +39,4 @@ title: "Diffusion models"
 	- [Paper explained](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
 - #PAPER [Classifier-Free Diffusion Guidance (Ho 2022)](https://arxiv.org/pdf/2207.12598)
 - #PAPER [Understanding Diffusion Models: A Unified Perspective (Luo 2022)](https://arxiv.org/pdf/2208.11970)
+- #PAPER [High-Resolution Image Synthesis with Latent Diffusion Models (Rombach 2022)](https://arxiv.org/abs/2112.10752)
