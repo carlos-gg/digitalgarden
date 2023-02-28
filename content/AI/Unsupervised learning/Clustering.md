@@ -33,7 +33,11 @@ title: "Clustering"
 		- Assignment: Assign each observation to the cluster whose mean yields the least within-cluster sum of squares (WCSS). Also called “Expectation step” because it involves updating our expectation of which cluster each point belongs to
 		- Update step: Calculate the new means to be the centroids of the observations in the new clusters. This also minimizes the within-cluster sum of squares (WCSS) objective. Also called “Maximization step” because it involves maximizing some fitness function that defines the location of the cluster centers — in this case, that maximization is accomplished by taking a simple mean of the data in each cluster
   - http://stanford.edu/~cpiech/cs221/handouts/kmeans.html  
-  - [Five Minutes With Ingo - K Means Clustering](https://www.youtube.com/watch?v=wGzumILN5ww)
+  - Estimating the number of clusters:
+	  - [Are You Still Using the Elbow Method?](https://towardsdatascience.com/are-you-still-using-the-elbow-method-5d271b3063bd)
+	  - Elbow method: the best value for k is the point of maximum curvature of the inertia curve, where inertia is the sum of squared distances between each point and the center of the cluster it belongs to (inertia gets smaller as _k_ increases). The elbow is the point where a lower value of inertia is not worth the additional complexity (i.e. more clusters)
+	  - Alternative scores, not based on the inertia concept: Calinski-Harabasz, Davies-Bouldin, Silhouette, BIC (Bayesian Information Criterion)
+	  - A systematic comparison shows that Calinski-Harabasz and BIC are the best performing methods. The elbow method seems to be the worse choice overall
 
 ### DBSCAN 
 - [Density-based spatial clustering of applications with noise](https://en.wikipedia.org/wiki/DBSCAN)

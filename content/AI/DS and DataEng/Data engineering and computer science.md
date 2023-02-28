@@ -75,12 +75,12 @@ See "Courses" section in [[AI/DS and DataEng/Python]]
 - #CODE [Memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 	- https://bloomberg.github.io/memray/
 	- https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/
-- #CODE [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja)
-	- Memory mapped numpy arrays of varying shapes
+- #CODE [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja) - Memory mapped numpy arrays of varying shapes
 	- You can use `mmap_ninja` with any training framework (such as `Tensorflow`, `PyTorch`, `MxNet`), etc., as it stores your dataset as a memory-mapped numpy array
 	- A memory mapped file is a file that is physically present on disk in a way that the correlation between the file and the memory space permits applications to treat the mapped portions as if it were primary memory, allowing very fast I/O
-- #CODE [StreamAlert](https://github.com/airbnb/streamalert)
-	- StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
+- #CODE [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+	- https://www.pola.rs/benchmarks.html
+	- https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e
 - #CODE [Pandas](https://github.com/pandas-dev/pandas)
 	- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 	- https://www.youtube.com/watch?v=9d5-Ti6onew
@@ -103,7 +103,7 @@ See "Courses" section in [[AI/DS and DataEng/Python]]
 - #CODE [Singer - Simple, Composable Open Source ETL](https://www.singer.io/)
 - #CODE [Docker](https://www.docker.com/)
 	- https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9
-- #CODE Kubernetes - K8s is an open-source system for automating deployment, scaling, and management of containerized applications.
+- #CODE [Kubernetes](https://github.com/kubernetes/kubernetes) - K8s is an open-source system for automating deployment, scaling, and management of containerized applications.
 	- https://kubernetes.io/
 	- https://opensource.com/article/19/1/why-data-scientists-love-kubernetes
 	- https://github.com/Langhalsdino/Kubernetes-GPU-Guide

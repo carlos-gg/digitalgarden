@@ -76,6 +76,7 @@ title: "AI4ES"
 
 ## Code
 - See [[AI4ES/Pangeo]]
+- #CODE [MetPy](https://github.com/Unidata/MetPy) - Collection of tools in Python for reading, visualizing and performing calculations with weather data
 - #CODE [Lexcube](https://www.lexcube.org/) - Leipzig explorer of Earth data cubes
 - #CODE [Ncvue](https://github.com/mcuntz/ncvue) - A minimal GUI for a quick view of netcdf files
 - #CODE [xcast](https://github.com/kjhall01/xcast) - A High-Performance Data Science Toolkit for the Earth Sciences

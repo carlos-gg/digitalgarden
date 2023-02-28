@@ -167,6 +167,7 @@ See [[AI/Deep learning/Transformers]]
 	- #CODE https://github.com/luissen/ESRT
 
 ### Diffusion models-based
+See [[AI/Deep learning/Diffusion models]]
 - #PAPER [Image Super-Resolution via Iterative Refinement (Saharia 2021)](https://arxiv.org/abs/2104.07636)
 	- https://iterative-refinement.github.io/
 	- Related to [[AI/Deep learning/Diffusion models]]
