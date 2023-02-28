@@ -57,6 +57,7 @@ title: "Graph neural networks (GNNs)"
 	- the ViG model is built based on the graph representation of images to transform and exchange information among all the nodes
 	- ViG consists of two basic modules: Grapher module with graph convolution for aggregating and updating graph information, and FFN module with two linear layers for node feature transformation
 	- https://www.marktechpost.com/2022/06/08/researchers-from-china-introduce-vision-gnn-vig-a-graph-neural-network-for-computer-vision-systems/
+- #PAPER #REVIEW [Everything is Connected: Graph Neural Networks (Velickovic 2023)](https://arxiv.org/pdf/2301.08210)
 
 ### Graph convolutional networks
 - #PAPER [Structured Sequence Modeling with Graph Convolutional Recurrent Networks (Seo 2016)](https://arxiv.org/abs/1612.07659)
