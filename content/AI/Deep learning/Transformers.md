@@ -12,11 +12,9 @@ title: "Transformers"
 - [Self-Supervised Learning in Vision Transformers](https://towardsdatascience.com/self-supervised-learning-in-vision-transformers-30ff9be928c)
 - [A Deep Dive into Transformers with TensorFlow and Keras](https://pyimagesearch.com/2022/09/05/a-deep-dive-into-transformers-with-tensorflow-and-keras-part-1/)
 
-
 ## Courses
 - #COURSE [CS25: Transformers United (Stanford)](https://web.stanford.edu/class/cs25/)
 	- [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-
 
 ## Code
 - #CODE [Transformers](https://github.com/huggingface/transformers)
@@ -26,7 +24,6 @@ title: "Transformers"
 - #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
 - #CODE [Big vision](https://github.com/google-research/big_vision)
 	- This codebase is designed for training large-scale vision models on Cloud TPU VMs. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable input pipelines in the Cloud
-
 
 ## References
 ### For NLP
@@ -59,7 +56,7 @@ title: "Transformers"
 - #PAPER [Language Models are Few-Shot Learners, GPT-3 (Brown 2020)](https://arxiv.org/abs/2005.14165)
 	- Paper explained: 
 		- https://www.youtube.com/watch?v=SY5PvZrJhLE
-		-  https://www.youtube.com/watch?v=_x9AwxfjxvE
+		- https://www.youtube.com/watch?v=_x9AwxfjxvE
 - #PAPER [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners (Schick 2020)](https://arxiv.org/abs/2009.07118)
 	- #CODE https://github.com/timoschick/pet
 	- https://www.infoq.com/news/2020/10/training-exceeds-gpt3/
@@ -233,6 +230,7 @@ title: "Transformers"
 	- https://medium.com/codex/an-overview-on-convmixer-patches-are-all-you-need-8502a8d87011
 - #PAPER [The Fully Convolutional Transformer for Medical Image Segmentation (Tragakis 2022)](https://arxiv.org/abs/2206.00566v1)
 	- #CODE https://github.com/Thanos-DB/FullyConvolutionalTransformer
+	- #CODE https://github.com/Thanos-DB/FullyConvolutionalTransformer/blob/main/TensorFlow/main_ACDC_92.84.ipynb
 - #PAPER [Conviformers: Convolutionally guided Vision Transformer (Vaishnav 2022)](https://arxiv.org/pdf/2208.08900)
 
 ### Multi-modal transformers

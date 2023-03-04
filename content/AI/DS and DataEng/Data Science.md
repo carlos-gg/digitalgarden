@@ -49,7 +49,7 @@ title: "Data Science"
 
 ## Books
 - #BOOK [Network Data Science (Johns Hopkins University 2022)](https://bdpedigo.github.io/networks-course/landing.html)
-- #BOOK [The Data Science Interview Book (2021)](https://dipranjan.github.io/dsinterviewqns/intro.html)
+- #BOOK [The Data Science Interview Book (2021)](https://book.thedatascienceinterviewproject.com/)
 - #BOOK [R Programming for Data Science (Peng, 2020)](https://bookdown.org/rdpeng/rprogdatascience/)
 - #BOOK [Statistical Inference via Data Science (Ismay 2020)](https://moderndive.com/)
 - #BOOK [Data Science Live Book (Casas 2020)](https://livebook.datascienceheroes.com/)

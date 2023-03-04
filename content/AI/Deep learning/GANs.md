@@ -65,7 +65,8 @@ title: "Generative Adversarial Networks (GANs)"
 - #PAPER [Checkerboard artifact free sub-pixel convolution: A note on sub-pixel convolution, resize convolution and convolution resize (Aitken 2017)](https://arxiv.org/abs/1707.02937)
 - #PAPER [Wasserstein GAN (Arjovsky 2017)](https://arxiv.org/abs/1701.07875)
 	- [From GAN to Wasserstein GAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html#wasserstein-gan-wgan )
-- #PAPER [Improved Training of Wasserstein GANs (Gulrajani 2017)](https://arxiv.org/abs/1704.00028) ^wgangp
+- #PAPER [Improved Training of Wasserstein GANs (Gulrajani 2017)](https://arxiv.org/abs/1704.00028)
+	- #CODE [WGAN-GP overriding `Model.train_step` in TF.Keras](https://keras.io/examples/generative/wgan_gp/)
 - #PAPER [Bayesian GAN (Saatchi 2017)](https://arxiv.org/abs/1705.09558)
 	- #CODE https://github.com/andrewgordonwilson/bayesgan
 - #PAPER [WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images (Li 2017)](https://arxiv.org/abs/1702.07392 )

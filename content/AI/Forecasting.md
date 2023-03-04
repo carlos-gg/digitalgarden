@@ -51,14 +51,13 @@ title: "Forecasting"
 	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
 	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
 	
-
 ## Talks
 - #TALK [Feature Engineering for Time Series Forecasting | PyData London 2022](https://www.youtube.com/watch?v=9QtL7m3YS9I)
 
-
 ## Books
-- #BOOK [Forescasting: principles and practice (Hyndman 2018, R)](https://otexts.com/fpp2/)
-
+- #BOOK [Forescasting: principles and practice (Hyndman, R)]
+- [2nd ed.](https://otexts.com/fpp2/)
+- [3rd ed.](https://otexts.com/fpp3/)
 
 ## References
 - #PAPER [Time Series Forecasting With Deep Learning: A Survey (Lim 2020)](https://arxiv.org/abs/2004.13408)
@@ -68,3 +67,5 @@ title: "Forecasting"
 - #PAPER [Temporal Fusion Transformers for interpretable multi-horizon time series forecasting (Lim 2021)](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
 	- https://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html
 	- [[AI/Deep learning/Transformers]]
+- #PAPER [Understanding forecast reconciliation (Hollyman 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0377221721000199)
+	- Forecast Reconciliation - a process by which independently generated forecasts of a collection of linearly related time series are reconciled via the introduction of accounting aggregations that naturally apply to the data

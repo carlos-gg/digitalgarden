@@ -43,6 +43,7 @@ title: "Convolutional Neural Networks (CNNs)"
 
 ## Code 
 - #CODE [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets)
+	- AlexNet, VGG, GoogleNet, ResNet, ResNeXT, Xception, MobileNet, EfficientNet, RegNet, ConvMixer, ConvNEXT
 - #CODE [Keras Layers (for TensorFlow 2.x)](https://github.com/mvoelk/keras_layers)
 - #CODE [Model Zoo - Discover open source deep learning code and pretrained models](https://modelzoo.co/)
 - #CODE https://github.com/microsoft/computervision-recipes

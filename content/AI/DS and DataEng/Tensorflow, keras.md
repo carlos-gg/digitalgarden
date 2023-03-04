@@ -19,6 +19,8 @@ title: "Tensorflow, Keras"
 - [How to Write TensorFlow 2 Custom Loops](https://towardsdatascience.com/writing-tensorflow-2-custom-loops-438b1ab6eb6c)
 - [Solving the TensorFlow Keras Model Loss Problem](https://towardsdatascience.com/solving-the-tensorflow-keras-model-loss-problem-fd8281aeeb11)
 
+### Mixed precision
+- https://www.tensorflow.org/guide/mixed_precision
 
 ### Distributed training
 - https://missinglink.ai/guides/tensorflow/tensorflow-distributed-training-introduction-tutorials/ 
@@ -48,7 +50,6 @@ Data lazy loading:
 	- https://www.tensorflow.org/api_docs/python/tf/data/Dataset#from_generator
 	- https://www.tensorflow.org/tutorials/distribute/input
 - Tensorflow data netcdf, MATEX tensorflow (seems to be abandoned) :https://github.com/matex-org/matex/wiki/DataSet-Reader 
-
 
 ### Tensorflow on M1/M2 Apple silicon
 - https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706

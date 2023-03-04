@@ -280,10 +280,15 @@ See [[AI/Supervised Learning/Data augmentation]]
 - #PAPER [Rethinking the Usage of Batch Normalization and Dropout (Chen 2019)](https://arxiv.org/abs/1905.05928)
 
 ### Activations
+- [Fundamentals of Deep Learning – Activation Functions and When to Use Them?](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 - https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
-- https://mlfromscratch.com/activation-functions-explained/
-- http://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-network
-- https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions
+- [What are the advantages of ReLU over sigmoid function in deep neural networks?](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks)
+	- Two additional major benefits of ReLUs are sparsity and a reduced likelihood of vanishing gradient
+- [ReLU and Softmax Activation Functions](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
+	- The softmax function squashes the outputs of each unit to be between 0 and 1, just like a sigmoid function. But it also divides each output such that the total sum of the outputs is equal to 1
+	- The output of the softmax function is equivalent to a categorical probability distribution, it tells you the probability that any of the classes are true
+- [Sigmoid and SoftMax Functions in 5 minutes](https://towardsdatascience.com/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9)
+	- Sigmoid is used for binary classification methods where we only have 2 classes, while SoftMax applies to multiclass problems. In fact, the SoftMax function is an extension of the Sigmoid function
 - #PAPER [ImageNet Classification with Deep Convolutional Neural Networks (Krizhevsky 2012)](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 	- [RELU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 	- https://www.quora.com/What-is-special-about-rectifier-neural-units-used-in-NN-learning
