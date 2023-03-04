@@ -162,20 +162,22 @@ See [[AI4ES/Extremes events#Databases]]
 	- products: Soil Evaporation, Snow Sublimation, Transpiration, Open-water Evaporation, Evaporative Stress, Root-zone Soil Moisture, Surface Soil Moisture
 
 ### Wind
+- #PAPER [The Global Wind Atlas: An EUDP project carried out by DTU Wind Energy (Badger 2015)](https://backend.orbit.dtu.dk/ws/files/238494910/url.pdf)
+	- https://globalwindatlas.info/es/
+- #PAPER [Assessing the Global Wind Atlas and local measurements for bias correction of wind power generation simulated from MERRA-2 in Brazil (Gruber 2019)](https://arxiv.org/abs/1904.13083)
 - #PAPER [What global reanalysis best represents near-surface winds? (Ramon 2019)](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3616)
 	- In an effort to identify the products that best represent the wind speed features at turbine hub heights, five state-of-the-art global reanalyses have been analysed: ERA5,ERA-Interim, the Japanese 55-year Reanalysis (JRA55), the Modern Era Retrospective Analysis for Research and Applications-2 (MERRA2), and the National Centersfor Environmental Prediction (NCEP)/National Center for Atmospheric Research(NCAR) Reanalysis 1 (R1)
 	- Comparison with in situ observations shows that the ERA5 surface winds offer the best agreement, correlating and reproducing the observed variability better than a multi-reanalysis mean in 35.1% of the tall tower sites on a daily time-scale.
-- #PAPER [A collection and categorization of open-source wind and wind power datasets (Effenberger 2022)](https://onlinelibrary.wiley.com/doi/10.1002/we.2766)
-
-#### NEWA
-- [New European Wind Atlas](https://map.neweuropeanwindatlas.eu/)
-	- EU plus Turkey and 100 km offshore as well as the complete North and Baltic Seas
-	- The WRF model was used in a NEWA consortium developed configuration
-	- 3 km grid spacing and simulation period covering 30 years (1989-2018)
-	- Microscale Atlas: https://wps.neweuropeanwindatlas.eu/api/microscale-atlas/v1/docs
-	- Mesoscale Atlas: https://wps.neweuropeanwindatlas.eu/api/mesoscale-atlas/v1/docs
 - #PAPER [The making of the New European Wind Atlas – Part 1: Model sensitivity (Hahmann 2020)](https://gmd.copernicus.org/articles/13/5053/2020/)
 - #PAPER [The Making of the New European Wind Atlas – Part 2: Production and evaluation (Dorenkamper 2020)](https://gmd.copernicus.org/articles/13/5079/2020/)
+	- [New European Wind Atlas](https://map.neweuropeanwindatlas.eu/)
+		- EU plus Turkey and 100 km offshore as well as the complete North and Baltic Seas
+		- The WRF model was used in a NEWA consortium developed configuration
+		- 3 km grid spacing and simulation period covering 30 years (1989-2018)
+		- Microscale Atlas: https://wps.neweuropeanwindatlas.eu/api/microscale-atlas/v1/docs
+		- Mesoscale Atlas: https://wps.neweuropeanwindatlas.eu/api/mesoscale-atlas/v1/docs
+- #PAPER [A collection and categorization of open-source wind and wind power datasets (Effenberger 2022)](https://onlinelibrary.wiley.com/doi/10.1002/we.2766)
+- #PAPER [Online Wind-Atlas Databases and GIS Tool Integration for Wind Resource Assessment: A Spanish Case Study (Sanchez del Rey 2022)](https://www.mdpi.com/1996-1073/15/3/852)
 
 ### Fires
 - [MODIS Thermal Anomalies/Fire](https://modis.gsfc.nasa.gov/data/dataprod/mod14.php)

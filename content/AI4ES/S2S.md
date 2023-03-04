@@ -152,6 +152,7 @@ MJO:
 	- #CODE https://github.com/crim-ca/crims2s
 	- #TALK https://www.bilibili.com/video/BV1Nv4y1K7Sy/
 	- https://events.ecmwf.int/event/294/contributions/3053/attachments/1748/3161/ML-WS_Landry.pdf
+- #PAPER [Outcomes of the WMO Prize Challenge to Improve Subseasonal to Seasonal Predictions Using Artificial Intelligence (Vitart 2022)](https://journals.ametsoc.org/view/journals/bams/103/12/BAMS-D-22-0046.1.xml)
 
 ### Verification
 - #BSC [Seasonal forecasts quality assessment report](https://zenodo.org/record/2391735#.X_29a9Yo9qg)
