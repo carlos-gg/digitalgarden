@@ -1,8 +1,10 @@
 ---
-title: "Multimodal learning, Foundation models"
+title: "Multimodal learning"
 ---
 
 > General-purpose neural networks capable of handling diverse inputs and output tasks
+> 
+> See [[AI/Foundation models]]
 
 ## Resources
 - [Multimodal Deep Learning](https://multimodal-dl.mpi-inf.mpg.de/)
@@ -11,6 +13,7 @@ title: "Multimodal learning, Foundation models"
 - [AI Image Generators Compared Side-By-Side Reveals Stark Differences](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/)
 
 ### Models
+- [Leonardo.AI](https://leonardo.ai/)
 - [Midjourney](https://www.midjourney.com/home/)
 - [DALLE-2](https://openai.com/dall-e-2/)
 - [IMAGEN](https://imagen.research.google/)
@@ -32,6 +35,8 @@ title: "Multimodal learning, Foundation models"
 - #COURSE [Multimodal Machine Learning (Carnegie Mellon University)](https://www.youtube.com/watch?v=VIq5r7mCAyw&list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G)
 	- https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
 
+## Books
+- #BOOK [Multimodal Deep Learning (Akkus 2023)](https://arxiv.org/abs/2301.04856)
 
 ## References
 - #PAPER [Multi-modal Transformer for Video Retrieval (Gabeur 2020)](https://arxiv.org/abs/2007.10639)
@@ -61,7 +66,6 @@ title: "Multimodal learning, Foundation models"
 - #PAPER [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis (Wu 2022)](https://arxiv.org/pdf/2207.09814)
 	- #CODE https://github.com/microsoft/NUWA
 	- https://nuwa-infinity.microsoft.com/#/
-- #PAPER [Foundation Transformers (Wang 2022)](https://arxiv.org/pdf/2210.06423)
 
 ### Vision and language models
 - #PAPER [DALL-E - Creating Images from Text (Ramesh 2021)](https://openai.com/blog/dall-e/)

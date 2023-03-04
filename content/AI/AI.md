@@ -126,3 +126,6 @@ See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]
 
 ### Neuro-Symbolic AI
 See [[AI/Neuro-symbolic AI]]
+
+### Foundation models
+See [[AI/Foundation models]]
