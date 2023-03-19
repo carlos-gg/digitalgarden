@@ -20,6 +20,11 @@ title: "Forecasting"
 - [Predicting energy demand with neural networks](https://towardsdatascience.com/forecasting-energy-consumption-using-neural-networks-xgboost-2032b6e6f7e2)
 
 ## Code
+- #CODE [Skforecast](https://github.com/JoaquinAmatRodrigo/skforecast)
+	- https://joaquinamatrodrigo.github.io/skforecast/
+	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
+	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
+- #CODE [Deep_XF](https://github.com/ajayarunachalam/Deep_XF)
 - #CODE [statsforecast](https://github.com/Nixtla/statsforecast)
 	- StatsForecast offers a collection of widely used univariate time series forecasting models, including autoARIMA and ETS modeling optimized for high performance using numba
 	- https://nixtla.github.io/statsforecast/
@@ -46,10 +51,6 @@ title: "Forecasting"
 	- A flexible, intuitive and fast forecasting library
 - #CODE [Scalecast](https://github.com/mikekeith52/scalecast)
 	- https://towardsdatascience.com/introducing-scalecast-a-forecasting-library-pt-1-33b556d9b019
-- #CODE [Skforecast](https://github.com/JoaquinAmatRodrigo/skforecast)
-- #CODE [Deep_XF](https://github.com/ajayarunachalam/Deep_XF)
-	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
-	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
 	
 ## Talks
 - #TALK [Feature Engineering for Time Series Forecasting | PyData London 2022](https://www.youtube.com/watch?v=9QtL7m3YS9I)

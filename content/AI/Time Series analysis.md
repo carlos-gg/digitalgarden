@@ -8,6 +8,7 @@ disableToc: false
 > - [[AI/Deep learning/RNNs]]
 > - "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]]
 > - "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
+> - [[AI/Deep learning/Transformers]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series
@@ -16,40 +17,36 @@ disableToc: false
 - https://github.com/cuge1995/awesome-time-series
 - http://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
 - [Python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
-
-
 ## Code
 - See code in [[AI/Forecasting]]
 - #PAPER [A systematic review of Python packages for time series analysis (Siebert 2021)](https://arxiv.org/pdf/2104.07406)            
-
 - #CODE [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning library for Time Series and Sequences
 	- https://timeseriesai.github.io/tsai/
 - #CODE [Sktime](https://github.com/alan-turing-institute/sktime)
 	- https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55
-- #CODE [Stumpy](https://github.com/TDAmeritrade/stumpy)
-	- STUMPY is a powerful and scalable Python library for modern time series analysis
-- #CODE [Orbit](https://github.com/uber/orbit)
-	- A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- #CODE [Stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
+- #CODE [Orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood
 	- https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/
 - #CODE [TSflex](https://github.com/predict-idlab/tsflex)
 	- https://predict-idlab.github.io/tsflex/
-- #CODE [Merlion](https://github.com/salesforce/merlion)
+- #CODE [Merlion](https://github.com/salesforce/merlion) - Merlion is a Python library for time series intelligence
 	- #PAPER [Merlion: A Machine Learning Library for Time Series (Bhatnagar 2021)](https://arxiv.org/abs/2109.09265)
-	- Merlion is a Python library for time series intelligence
 - #CODE [Kats](https://github.com/facebookresearch/Kats) 
 	- Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends
 	- https://facebookresearch.github.io/Kats/
 	- https://engineering.fb.com/2021/06/21/open-source/kats/
 	- https://towardsdatascience.com/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057
-- #CODE [Tsfresh - Time Series Feature extraction based on scalable hypothesis tests](https://github.com/blue-yonder/tsfresh)
+- #CODE [Tsfresh](https://github.com/blue-yonder/tsfresh) - Time Series Feature extraction based on scalable hypothesis tests
 	- [Automatic extraction of relevant features from time series](http://tsfresh.readthedocs.io)
 - #CODE [TSFEL](https://github.com/fraunhoferportugal/tsfel)
 	- #PAPER [TSFEL: Time Series Feature Extraction Library (Barandas 2020)](https://www.sciencedirect.com/science/article/pii/S2352711020300017)
-- #CODE [Tslearn - A machine learning toolkit dedicated to time-series data](https://github.com/rtavenar/tslearn)
+- #CODE [Tslearn](https://github.com/rtavenar/tslearn) - A machine learning toolkit dedicated to time-series data
 - #CODE [Pmdarima](https://github.com/alkaline-ml/pmdarima)
 	- Pyramid bridges one more gap between R and Python by bringing R's auto.arima to Python. Pyramid wraps statsmodels' well-tested ARIMA and SARIMAX estimators.
 - #CODE [Tick](https://github.com/X-DataInitiative/tick)
 - #CODE [Feature engine](https://feature-engine.readthedocs.io/en/1.3.x/user_guide/timeseries/index.html)
+- #CODE [Featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
+	- https://www.featuretools.com/
 
 ## Subtopics
 ### Time Series Forecasting
