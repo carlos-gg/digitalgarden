@@ -12,6 +12,11 @@ title: "Classification"
 	- https://www.neuraldesigner.com/blog/methods-binary-classification
 	- http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 	- http://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html
+- Propensity models
+	- The term “propensity model” is a blanket term that covers multiple different statistical models that each are typically used to predict a binary outcome (something happens, or it doesn’t)
+	- [Propensity Model: How to Predict Customer Behavior Using Machine Learning](https://www.altexsoft.com/blog/propensity-model/)
+	- [psmpy: Propensity Score Matching in Python — and why it’s needed](https://towardsdatascience.com/psmpy-propensity-score-matching-in-python-a3e0cd4d2631)
+	- [Comparing Propensity Modeling Techniques to Predict Customer Behavior](https://www.blastanalytics.com/blog/comparing-propensity-modeling-techniques-to-predict-customer-behavior)
 
 ### Naive Bayes
 - https://blancosilva.wordpress.com/2012/06/21/naive-bayes/
@@ -25,7 +30,6 @@ title: "Classification"
 - SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces. It's much more computationally intensive. Complexity: O(n^3m), n number of points, m number of dimensions
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb
 - https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
-- http://blog.yhat.com/posts/why-support-vector-machine.html
 - The kernel trick takes the data you give it and transforms it. In expanding the dataset there are now more obvious boundaries between your classes and the SVM algorithm is able to compute a much more optimal hyperplane.
 - #TALK [How Support Vector Machines work / How to open a black box (Brandon Rohrer)](https://www.youtube.com/watch?v=-Z4aojJ-pdg&t=331s)
 - #TALK 5 Minutes With Ingo - Understanding Support Vector Machines: 

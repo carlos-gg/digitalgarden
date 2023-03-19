@@ -12,6 +12,8 @@ title: "Machine Learning Operations (MLOps)"
 - [More Data, More Problems: Using DVC to handle data versioning for a computer vision problem](https://mlops.systems/tools/redactionmodel/computervision/mlops/2022/05/24/data-versioning-dvc.html)
 
 ## Courses
+- #COURSE [Effective MLOps - Model development](https://www.wandb.courses/courses/effective-mlops-model-development) (Weights & Biases)
+- #COURSE [CI/CD for Machine Learning (GitOps)](https://www.wandb.courses/courses/ci-cd-for-machine-learning) (Weights & Biases)
 - #COURSE [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 	- https://madewithml.com/#mlops
 
@@ -21,39 +23,41 @@ title: "Machine Learning Operations (MLOps)"
 
 ### Experiment tracking
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools
-- #CODE [Weights & Biases](https://docs.wandb.com/)
-	- Library that -helps you keep track of your machine learning projects. Use our tool to log hyperparameters and output metrics from your runs, then visualize and compare results and quickly share findings with your colleagues.
-- #CODE [Aim](https://github.com/aimhubio/aim)
-	- The open-source tool for ML experiment comparison
+- #CODE [Weights & Biases](https://github.com/wandb/wandb) - A tool for visualizing and tracking your machine learning experiments
+	- https://docs.wandb.com/
+	- Tool to log hyperparameters and output metrics from your runs, then visualize and compare results and quickly share findings with your colleagues.
+- #CODE [Aim](https://github.com/aimhubio/aim) - The open-source tool for ML experiment comparison
 	- https://aimstack.io/
 - #CODE [ClearML](https://github.com/allegroai/clearml)
 	- https://clear.ml/
 
+### Visualization and UI 
+- #CODE [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments
+- #CODE [Gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+	- https://gradio.app/
+
 ### Workflow managers
-- #CODE [Kedro](https://github.com/kedro-org/kedro)
-	- A Python framework for creating reproducible, maintainable and modular data science code
+- #CODE [Kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code
 	- https://kedro.readthedocs.io/
-	- #CODE [kedro-viz](https://github.com/kedro-org/kedro-viz)
-- #CODE [MLrun](https://github.com/mlrun/mlrun)
-	- The Open-Source MLOps Orchestration Framework
+- #CODE [MLrun](https://github.com/mlrun/mlrun) - The Open-Source MLOps Orchestration Framework
 	- https://docs.mlrun.org/en/stable/
-- #CODE [Metaflow](https://github.com/Netflix/metaflow)
-	- Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects
+- #CODE [Metaflow](https://github.com/Netflix/metaflow) - Human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects
 	- Originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning
 	- https://metaflow.org/
 	- #CODE [metaflow-ui](https://github.com/Netflix/metaflow-ui)
 		- https://netflixtechblog.com/open-sourcing-a-monitoring-gui-for-metaflow-75ff465f0d60
-- #CODE [Flyte](https://github.com/flyteorg/flyte)
-	- Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source
+- #CODE [Flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale
+	- It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source
 	- https://flyte.org/
 - #CODE [MLFlow](https://github.com/mlflow/mlflow/ )
 	- [An open source platform for the machine learning lifecycle](https://mlflow.org)
-- #CODE [Airflow: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows](https://github.com/apache/airflow)
+- #CODE [Airflow](https://github.com/apache/airflow) - Apache Airflow is a platform to programmatically author, schedule, and monitor workflows
 	- http://nerds.airbnb.com/airflow/
 	- https://medium.com/datasd/why-data-automation-matters-4391d59e1952
 - #CODE [Luigi (Spotify)](https://github.com/spotify/luigi)
 	- https://luigi.readthedocs.io/en/latest/
-- #CODE [Kale](https://github.com/kubeflow-kale/kale)
+- #CODE [Kubeflow](https://github.com/kubeflow/kubeflow) - cloud-native platform for machine learning operations - pipelines, training and deployment
+	- https://www.kubeflow.org/
 - #CODE [Azkaban](https://github.com/azkaban/azkaban)
 - #CODE [PredictionIO (Apache)](https://predictionio.apache.org)
 
@@ -61,9 +65,9 @@ title: "Machine Learning Operations (MLOps)"
 - [Azure (Microsoft)](https://azure.microsoft.com/en-gb/)
 	- [Azure ML Studio](https://azure.microsoft.com/en-us/services/machine-learning/)
 	- [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
-- [Vertex AI](https://cloud.google.com/vertex-ai) - Google Cloud’s unified ML platform
-	- [Take your ML models from prototype to production with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/go-from-a-notebook-to-a-production-ml-model)
 - [Google Cloud Platform](https://cloud.google.com/)
+	- [Vertex AI](https://cloud.google.com/vertex-ai) - Google Cloud’s unified ML platform
+		- [Take your ML models from prototype to production with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/go-from-a-notebook-to-a-production-ml-model)
 	- [Pick your AI/ML Path on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/pick-your-aiml-path-google-cloud)
 	- https://codelabs.developers.google.com/
 	- https://cloud.google.com/products/ai/
