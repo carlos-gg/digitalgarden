@@ -38,7 +38,7 @@ title: "Transformers"
 	- [Attention is all you need, attentional neural network models (Łukasz Kaiser)](https://www.youtube.com/watch?v=rBCqOTEfxvg)
 	- [LSTM is dead, long live Transformers](https://sea-adl.org/2019/12/03/lstm-is-dead-long-live-transformers/)
 - #PAPER [Tensor2tensor (Vaswani 2018)](https://arxiv.org/abs/1803.07416)
-	- Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T is actively used and maintained by researchers and engineers within the Google Brain team and a community of users. We're eager to collaborate with you too, so feel free to open an issue on GitHub or send along a pull request (see our contribution doc). You can chat with us on Gitter and join the T2T Google Group.
+	- Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T is actively used and maintained by the Google Brain team and a community of users
 	- It includes the reference implementation of the state-of-the-art Transformer model.
 - #PAPER [Improving Language Understanding by Generative Pre-Training, GPT (Radford 2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 	- https://openai.com/blog/language-unsupervised/
