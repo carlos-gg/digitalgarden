@@ -2,7 +2,13 @@
 title: "Transformers"
 ---
 
+> The transformer is a deep learning model that uses self-attention to process sequential input data, such as natural language, all at once. It was introduced in 2017 by a team at Google Brain and has since been used primarily in the fields of [[AI/NLP]] and [[AI/Computer Vision/Computer vision]]. Unlike [[AI/Deep learning/RNNs]], transformers process the entire input all at once and can learn long-range dependencies between input and output sequences more efficiently. 
+> The transformer architecture follows an encoder-decoder structure but does not rely on recurrence and convolutions to generate an output. Instead, it uses multi-headed attention mechanisms to directly model relationships between all words in a sentence, regardless of their respective position. The encoder compresses an input string from the source language into a vector that represents the words and their relations to each other. The decoder module transforms the encoded vector into a string of text in the destination language.
+> Multi-headed attention is a module for attention mechanisms that runs through an attention mechanism several times in parallel. Each of these parallel computations is called an attention head, and the independent outputs are concatenated and linearly transformed into the expected dimension. Multi-head attention allows neural networks to control the mixing of information between pieces of an input sequence, leading to better performance in natural language processing tasks such as machine translation and text summarization.
+
+
 ## Resources
+- https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 - https://github.com/IDEACVR/awesome-detection-transformer
 - https://github.com/Yangzhangcst/Transformer-in-Computer-Vision
 - https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/ (from RNNs with attention to Transformers)
@@ -17,8 +23,7 @@ title: "Transformers"
 	- [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 ## Code
-- #CODE [Transformers](https://github.com/huggingface/transformers)
-	- thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
+- #CODE [Transformers (huggingface)](https://github.com/huggingface/transformers) - thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio
 	- JAX, PyTorch and TensorFlow
 - #CODE [Xformers](https://github.com/facebookresearch/xformers)
 - #CODE [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers)
@@ -26,6 +31,8 @@ title: "Transformers"
 	- This codebase is designed for training large-scale vision models on Cloud TPU VMs. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable input pipelines in the Cloud
 
 ## References
+- #PAPER #REVIEW [Transformer models: an introduction and catalog (Amatriain 2023)](https://arxiv.org/pdf/2302.07730)
+
 ### For NLP
 - #PAPER [Attention is all you need (Vaswani 2017)](https://arxiv.org/abs/1706.03762)
 	- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
@@ -90,14 +97,14 @@ title: "Transformers"
 	-  https://www.youtube.com/watch?v=6NnearestOQC_fl1hQ
 	-  #CODE https://github.com/oarriaga/paz/tree/master/examples/spatial_transfomer_networks
 - #PAPER [Image Transformer (Parmar 2018)](https://arxiv.org/abs/1802.05751)
-- #PAPER [Generative Pretraining from Pixels (Chen 2020)](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) ^imagegpt
+- #PAPER [Generative Pretraining from Pixels (Chen 2020)](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) 
 	- https://openai.com/blog/image-gpt/ 
 	- #CODE https://github.com/openai/image-gpt
 	- [Paper explained](https://www.youtube.com/watch?v=YBlNQK0Ao6g)
 	- https://www.youtube.com/watch?v=7rFLnQdl22c
 - #PAPER [DETR - End-to-End Object Detection with Transformers (Carion 2020)](https://arxiv.org/abs/2005.12872 )
 	- #CODE https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers
-- #PAPER [Taming Transformers for High-Resolution Image Synthesis (Esser 2020)](https://arxiv.org/abs/2012.09841v1) ^tamingtransformers
+- #PAPER [Taming Transformers for High-Resolution Image Synthesis (Esser 2020)](https://arxiv.org/abs/2012.09841v1) 
 	- https://compvis.github.io/taming-transformers/
 	- https://github.com/CompVis/taming-transformers
 	- https://www.marktechpost.com/2020/12/28/a-new-method-to-code-inductive-image-biases-into-models-using-cnn-and-transformers/
@@ -167,7 +174,7 @@ title: "Transformers"
 	- #CODE https://paperswithcode.com/paper/how-do-vision-transformers-work-1?from=n26
 - #PAPER [EfficientFormer: Vision Transformers at MobileNet Speed (Li 2022)](https://arxiv.org/pdf/2206.01191v3)
 	- #CODE https://github.com/snap-research/efficientformer
-- #PAPER [Vision Transformers for Dense Prediction (Ranftl 2022)](https://arxiv.org/pdf/2103.13413) ^dpt
+- #PAPER [Vision Transformers for Dense Prediction (Ranftl 2022)](https://arxiv.org/pdf/2103.13413) 
 	- #CODE https://github.com/isl-org/DPT
 	- DPT is a dense prediction architecture that is based on an encoder-decoder design that leverages a transformer as the basic computational building block of the encoder
 	- used the recently proposed VIT as a backbone architecture reassembling the bag-of-words representation that is provided by ViT into image-like feature representations at various resolutions and progressively combine the feature representations into the final dense prediction using a convolutional decoder
@@ -194,7 +201,7 @@ title: "Transformers"
 	- transformer encodes tokenized image patches from a convolution neural network (CNN) feature map as the input sequence for extracting global contexts
 	- on the other hand, the decoder upsamples the encoded features which are then combined with the high-resolution CNN feature maps to enable precise localization
 	- #TALK [Paper explained](https://www.youtube.com/watch?v=jKBJITQ8xJY)
-- #PAPER [Escaping the Big Data Paradigm with Compact Transformers (Hassani 2021)](https://arxiv.org/abs/2104.05704) ^cctransformer
+- #PAPER [Escaping the Big Data Paradigm with Compact Transformers (Hassani 2021)](https://arxiv.org/abs/2104.05704) 
 	- Compact Convolutional Transformer (CCT)
 	- #CODE https://github.com/SHI-Labs/Compact-Transformers
 	- #CODE https://keras.io/examples/vision/cct/
@@ -237,4 +244,4 @@ title: "Transformers"
 See [[AI/Deep learning/Multimodal learning]]
 
 ### For RL
-See ^decisiontransformer in [[AI/Reinforcement learning]]
+See "Decision transformer" in [[AI/Reinforcement learning]]

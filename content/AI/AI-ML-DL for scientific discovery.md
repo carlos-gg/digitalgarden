@@ -2,7 +2,9 @@
 title: "AI-ML-DL for scientific discovery"
 ---
 
-> See [[AI/Deep learning/Neural ODEs]]
+> See: 
+> - [[AI/Deep learning/Neural ODEs]]
+> - "AI-based conversational models and search engines" in [[AI/Foundation models]]
 
 
 ## Resources
@@ -11,10 +13,8 @@ title: "AI-ML-DL for scientific discovery"
 - [The AI revolution in science](https://www.sciencemag.org/news/2017/07/ai-revolution-science)
 - [The researchers using AI to analyse peer review](https://www.nature.com/articles/d41586-022-02787-5)
 
-
 ## Talks
 - #TALK [Using AI to Accelerate Scientific Discovery (Demis Hassabis, Deepmind)](https://www.youtube.com/watch?v=jocWJiztxYA)
-
 
 ## Code
 - #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) 
@@ -35,7 +35,6 @@ title: "AI-ML-DL for scientific discovery"
 
 ## Events
 - [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
-
 
 ## References
 - #PAPER [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)

@@ -10,22 +10,6 @@ title: "Multimodal learning"
 - [Multimodal Deep Learning](https://multimodal-dl.mpi-inf.mpg.de/)
 - https://paperswithcode.com/methods/category/vision-and-language-pre-trained-models
 - [Vision Language models: towards multi-modal deep learning](https://theaisummer.com/vision-language-models/)
-- [AI Image Generators Compared Side-By-Side Reveals Stark Differences](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/)
-
-### Models
-- [Leonardo.AI](https://leonardo.ai/)
-- [Midjourney](https://www.midjourney.com/home/)
-- [DALLE-2](https://openai.com/dall-e-2/)
-- [IMAGEN](https://imagen.research.google/)
-- [IMAGEN video](https://imagen.research.google/video/)
-- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)
-	- #CODE https://github.com/CompVis/stable-diffusion
-	- #CODE https://github.com/divamgupta/stable-diffusion-tensorflow
-	- [DreamStudio](https://beta.dreamstudio.ai) 
-	- [Two minute papers](https://www.youtube.com/watch?v=nVhmFski3vg)
-	- [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models | ML Coding Series](https://www.youtube.com/watch?v=f6PtJKdey8E)
-	- [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
-- [Make-A-Video](https://makeavideo.studio/)
 
 ## Code
 - #CODE [Pykale](https://github.com/pykale/pykale) - Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research
@@ -37,6 +21,7 @@ title: "Multimodal learning"
 
 ## Books
 - #BOOK [Multimodal Deep Learning (Akkus 2023)](https://arxiv.org/abs/2301.04856)
+		- https://slds-lmu.github.io/seminar_multimodal_dl/index.html
 
 ## References
 - #PAPER [Multi-modal Transformer for Video Retrieval (Gabeur 2020)](https://arxiv.org/abs/2007.10639)

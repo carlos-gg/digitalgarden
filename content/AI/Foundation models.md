@@ -4,15 +4,53 @@ title: "Foundation models"
 
 > A foundation model is a large artificial intelligence model trained on a vast quantity of unlabeled data at scale (usually by [[AI/Self-supervised learning]]) resulting in a model that can be adapted to a wide range of downstream tasks
 
-> See [[AI/Deep learning/Multimodal learning]]
+> See:
+> - [[AI/Deep learning/Multimodal learning]]
+> - [[AI/Deep learning/Generative modelling]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Foundation_models
+- https://en.wikipedia.org/wiki/Large_language_model
 - [Center for Research on Foundation Models (CRFM)](https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm)
 - [Foundation Models and the Future of Multi-Modal AI](https://lastweekin.ai/p/multi-modal-ai)
 - [Foundation models: 2022’s AI paradigm shift](https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/)
-- [ChatGPT, LLMs, and Foundation models — a closer look into the hype and implications for startups](https://betterprogramming.pub/chatgpt-llms-and-foundation-models-a-closer-look-into-the-hype-and-implications-for-startups-b2f1d82f4d46)
 - [Foundation Models: paradigm shift for AI or mere rebranding?](https://www.artificialintelligence.news/foundation-models-paradigm-shift-for-ai-or-mere-rebranding/)
+- [ChatGPT, LLMs, and Foundation models — a closer look into the hype and implications for startups](https://betterprogramming.pub/chatgpt-llms-and-foundation-models-a-closer-look-into-the-hype-and-implications-for-startups-b2f1d82f4d46)
+- [AI Image Generators Compared Side-By-Side Reveals Stark Differences](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/)
+
+### Language models
+- [GPT-4](https://openai.com/product/gpt-4)
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
+	- https://www.nature.com/articles/d41586-022-01705-z
+- [YaLM-100B](https://github.com/yandex/YaLM-100B)
+
+#### AI-based conversational models and search engines
+- [Bing chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
+- [Claude](https://www.anthropic.com/index/introducing-claude)
+- [ChatGPT](https://openai.com/blog/chatgpt)
+- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- [You chat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+- [Perplexity.ai](https://www.perplexity.ai/)
+- [Exper AI](https://www.experai.com/)
+- [Neeva](https://neeva.com/)
+- [Humata](https://www.humata.ai/) - Ask AI anything about your files
+- [Explainpaper](https://www.explainpaper.com/) - Understand papers instantly
+
+### Vision Models
+- [Midjourney](https://www.midjourney.com/home/)
+- [DALLE-2](https://openai.com/dall-e-2/)
+- [IMAGEN](https://imagen.research.google/)
+- [IMAGEN video](https://imagen.research.google/video/)
+- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)
+	- #CODE https://github.com/CompVis/stable-diffusion
+	- #CODE https://github.com/divamgupta/stable-diffusion-tensorflow
+	- [DreamStudio](https://beta.dreamstudio.ai) 
+	- [Two minute papers](https://www.youtube.com/watch?v=nVhmFski3vg)
+	- [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models | ML Coding Series](https://www.youtube.com/watch?v=f6PtJKdey8E)
+	- [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
+- [Make-A-Video](https://makeavideo.studio/)
+- [Leonardo.AI](https://leonardo.ai/)
 
 ## Courses
 - #COURSE [Large Language Models (Stanford CS324)](https://stanford-cs324.github.io/winter2022/)
@@ -37,6 +75,7 @@ title: "Foundation models"
 	- [Typingmind](https://www.typingmind.com/) - A better UI for ChatGPT
 	- [ChatGPT Cheat Sheet for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science)
 	- [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)
+- #PAPER [ChatGPT is not all you need. A State of the Art Review of large Generative AI models (Gozalo-Brizuela 2023)](https://arxiv.org/pdf/2301.04655)
 - #PAPER [LLaMA: Open and Efficient Foundation Language Models (Touvron 2023)](https://arxiv.org/pdf/2302.13971)
 	- [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 	- [Paper explained](https://www.youtube.com/watch?v=E5OnoYF2oAk)
@@ -44,6 +83,7 @@ title: "Foundation models"
 - #PAPER [GPT-4 Technical Report (OpenAI 2023)](https://cdn.openai.com/papers/gpt-4.pdf)
 	- https://openai.com/product/gpt-4
 	- [Paper explained](https://www.youtube.com/watch?v=2zW33LfffPc&t=8s)
+- #PAPER [ChatGPT: Jack of all trades, master of none (Kocon 2023)](https://arxiv.org/pdf/2302.10724)
 - #PAPER [OpenChatKit (Together 2023)](https://www.together.xyz/blog/openchatkit)
 	- https://huggingface.co/spaces/togethercomputer/OpenChatKit
 	- [Together Releases The First Open-Source ChatGPT Alternative Called OpenChatKit](https://www.marktechpost.com/2023/03/12/together-releases-the-first-open-source-chatgpt-alternative-called-openchatkit/)
@@ -54,4 +94,5 @@ title: "Foundation models"
 	- https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/
 	- https://github.com/tatsu-lab/stanford_alpaca#fine-tuning
 	- [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
-
+- #PAPER [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Wu 2023)](https://arxiv.org/pdf/2303.04671)
+	- Visual ChatGPT opens the door of combining ChatGPT and Visual Foundation Models and enables ChatGPT to handle complex visual tasks

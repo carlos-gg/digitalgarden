@@ -118,6 +118,9 @@ See [[AI/Problem Solving and Search]]
 ### Automated planning
 See [[AI/Automated planning]]
 
+### Evolutionary computation
+See [[AI/Evolutionary computation]]
+
 ### Fair AI
 See [[AI/FairAI]]
 
