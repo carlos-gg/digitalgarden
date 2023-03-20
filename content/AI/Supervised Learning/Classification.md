@@ -2,7 +2,10 @@
 title: "Classification"
 ---
 
+> In statistics, classification is the problem of identifying which of a set of categories (sub-populations) an observation (or observations) belongs to.
+
 ## Resources
+- https://en.wikipedia.org/wiki/Statistical_classification
 - https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb
 - Comparison of classifiers
 	- https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
@@ -12,11 +15,15 @@ title: "Classification"
 	- https://www.neuraldesigner.com/blog/methods-binary-classification
 	- http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 	- http://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html
-- Propensity models
-	- The term “propensity model” is a blanket term that covers multiple different statistical models that each are typically used to predict a binary outcome (something happens, or it doesn’t)
-	- [Propensity Model: How to Predict Customer Behavior Using Machine Learning](https://www.altexsoft.com/blog/propensity-model/)
-	- [psmpy: Propensity Score Matching in Python — and why it’s needed](https://towardsdatascience.com/psmpy-propensity-score-matching-in-python-a3e0cd4d2631)
-	- [Comparing Propensity Modeling Techniques to Predict Customer Behavior](https://www.blastanalytics.com/blog/comparing-propensity-modeling-techniques-to-predict-customer-behavior)
+
+### Propensity models
+- The term “propensity model” is a blanket term that covers multiple different statistical models that each are typically used to predict a binary outcome (something happens, or it doesn’t). These statistical models are used to predict the likelihood (propensity) of an individual or group to exhibit a certain behavior or outcome. Often used in marketing, advertising, and healthcare to identify potential customers, patients, or other individuals who are likely to exhibit a desired behavior or outcome.
+- For example, a marketing campaign might use a propensity model to identify potential customers who are likely to respond positively to a certain offer or product. The model might use variables such as demographic information, purchase history, and online behavior to predict the likelihood of a customer making a purchase or taking a desired action.
+- Propensity models can be built using a variety of statistical techniques, including logistic regression, decision trees, random forests, and neural networks. The choice of model depends on the specific characteristics of the data and the desired level of accuracy and interpretability.
+- Propensity models are closely related to classification models. In fact, propensity models are a type of classification model that is designed to predict the probability of a binary outcome (such as a customer making a purchase or not making a purchase). The key difference between propensity models and traditional classification models is that propensity models typically use logistic regression or a related technique to estimate probabilities, rather than simply classifying observations into discrete categories based on their characteristics.
+- [Propensity Model: How to Predict Customer Behavior Using Machine Learning](https://www.altexsoft.com/blog/propensity-model/)
+- [psmpy: Propensity Score Matching in Python — and why it’s needed](https://towardsdatascience.com/psmpy-propensity-score-matching-in-python-a3e0cd4d2631)
+- [Comparing Propensity Modeling Techniques to Predict Customer Behavior](https://www.blastanalytics.com/blog/comparing-propensity-modeling-techniques-to-predict-customer-behavior)
 
 ### Naive Bayes
 - https://blancosilva.wordpress.com/2012/06/21/naive-bayes/

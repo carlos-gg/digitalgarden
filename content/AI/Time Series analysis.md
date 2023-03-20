@@ -17,6 +17,7 @@ disableToc: false
 - https://github.com/cuge1995/awesome-time-series
 - http://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
 - [Python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+
 ## Code
 - See code in [[AI/Forecasting]]
 - #PAPER [A systematic review of Python packages for time series analysis (Siebert 2021)](https://arxiv.org/pdf/2104.07406)            
@@ -53,7 +54,7 @@ disableToc: false
 See [[AI/Forecasting]]
 
 ### Anomaly and Outlier Detection
-See [[AI/Anomaly and Outlier Detection]]
+See "For Time series" section in [[AI/Anomaly and Outlier Detection]]
 
 ### TS models
 - [Autoregressive](https://en.wikipedia.org/wiki/Autoregressive)

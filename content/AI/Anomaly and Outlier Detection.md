@@ -24,6 +24,15 @@ title: "Anomaly and Outlier Detection"
 	- Dbscan is a density based clustering algorithm, it is focused on finding neighbors by density (MinPts) on an ‘n-dimensional sphere’ with radius ɛ. A cluster can be defined as the maximal set of 'density connected points' in the feature space.
 	- Dbscan then defines different classes of points: core, border and outlier points.
 
+### For Time series
+- Z-Score: The z-score method is a statistical technique that involves calculating the mean and standard deviation of the time series data. Outliers are identified as data points that fall beyond a certain threshold (typically, 3 standard deviations from the mean).
+- Grubbs' Test: Grubbs' test is a statistical test that uses the maximum deviation from the mean to identify outliers. It involves calculating the test statistic (G-value) and comparing it with a critical value from a t-distribution. If the G-value is greater than the critical value, the data point is considered an outlier.
+- Moving Median/MAD: Moving median/MAD (Median Absolute Deviation) is a non-parametric approach that involves calculating the median and absolute deviation of the data within a sliding window. If a data point deviates from the median by a certain threshold (typically, 3 times the MAD), it is considered an outlier.
+- Exponential Smoothing: Exponential smoothing is a technique that involves smoothing the time series data by assigning weights to the data points. Outliers are detected by comparing the actual data with the smoothed data. Data points that deviate significantly from the smoothed data are considered outliers.
+- ARIMA: ARIMA (Autoregressive Integrated Moving Average) is a time series modeling technique that can be used to detect outliers. The residuals from the ARIMA model can be analyzed to identify data points that deviate significantly from the expected values.
+- Seasonal Hybrid ESD (S-H-ESD) method: This method is a seasonal extension of the ESD method (Extreme Studentized Deviate) and is used to detect anomalies in time series data that has a seasonal component. It works by identifying and removing seasonal trends in the data before applying the ESD method.
+- Singular Spectrum Analysis (SSA) method: This method involves decomposing the time series into different components using singular value decomposition (SVD) and then identifying outliers in the resulting components
+- ML techniques, such as Isolation Forest, Local Outlier Factor, and One-Class SVM. These methods are based on the idea that outliers are rare and different from the majority of the data points. Isolation Forest method uses a random forest approach to identify outliers in the time series data. It works by partitioning the data into subsets and then identifying subsets that are smaller than expected.
   
 ## Code
 - #CODE [Pyod](https://github.com/yzhao062/pyod)
