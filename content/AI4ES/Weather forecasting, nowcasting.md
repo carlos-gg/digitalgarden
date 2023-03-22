@@ -9,7 +9,6 @@ title: "Weather forecasting, nowcasting"
 > - [[AI/Deep learning/RNNs]]
 > - [[AI/Deep learning/Fourier Neural Operators]]
 
-
 ## Resources
 - [Artificial intelligence can create better lightning forecasts](https://phys.org/news/2021-12-artificial-intelligence-lightning.html)
 
@@ -120,6 +119,7 @@ title: "Weather forecasting, nowcasting"
 	- “Localized CNNs” - models that learn to treat the different locations/pixels in the input similarly, but not identically
 - #PAPER [Deep spatial transformers for autoregressive data-driven forecasting of geophysical turbulence (Chattopadhyay 2020)](https://dl.acm.org/doi/10.1145/3429309.3429325)
 	- https://eartharxiv.org/repository/view/118/
+- #PAPER #REVIEW [Statistical Postprocessing for Weather Forecasts -- Review, Challenges and Avenues in a Big Data World (Vannitsem 2020)](https://arxiv.org/pdf/2004.06582)
 - #PAPER [Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench (Rasp 2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002405)
 	- There are three fundamental techniques for creating data‐driven forecasts: direct, continuous and iterative. For direct forecasts, a separate model is trained directly for each desired forecast time. In continuous models, time is an additional input and a single model is trained to predict all forecast lead times (as in MetNet). Finally, iterative forecasts are created by training a direct model for a short forecast time (e.g., 6 h) and then running the model several times using its own output from the previous iteration. As mentioned above, this is the approach taken by Weyn et al. 2020
 	- First train our model using the 150 years of CMIP data described above. We then take the pretrained model and fine‐tune it using the ERA data

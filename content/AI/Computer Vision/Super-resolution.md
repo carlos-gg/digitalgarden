@@ -178,3 +178,9 @@ See [[AI/Deep learning/Diffusion models]]
 	- #CODE https://github.com/guillaumeboniface/super_resolution
 	- #CODE https://paperswithcode.com/paper/image-super-resolution-via-iterative
 	- https://beebom.com/google-new-ai-models-turn-low-resolution-images-into-high-quality/
+- #PAPER [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models (Li 2021)](https://arxiv.org/pdf/2104.14951)
+	- Novel single image super-resolution diffusion probabilistic model (SRDiff), first diffusion-based model for SISR
+	- SRDiff is optimized with a variant of the variational bound on the data likelihood and can provide diverse and realistic SR predictions by gradually transforming the Gaussian noise into a super-resolution (SR) image conditioned on an LR input through a Markov chain
+	- #CODE https://github.com/LeiaLi/SRDiff
+	- https://medium.com/@luisfelipechary/my-experience-with-diffusion-super-resolution-3386b6574696
+	- See Palette in [[AI/Deep learning/Diffusion models]]

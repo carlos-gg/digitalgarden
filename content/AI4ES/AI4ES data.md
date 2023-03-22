@@ -36,6 +36,7 @@ title: "AI4ES data"
 
 ### Benchmark datasets
 - See METER-ML in [[AI4ES/AC, AQ#Methane emission sources]]
+- [Eumetnet postprocessing benchmark dataset](https://github.com/EUPP-benchmark/climetlab-eumetnet-postprocessing-benchmark)
 - #PAPER [WeatherBench: A benchmark dataset for data-driven weather forecasting (Rasp 2020)](https://arxiv.org/abs/2002.00469)
 	- https://github.com/pangeo-data/WeatherBench
 - #PAPER [RainBench - Towards Global Precipitation Forecasting from Satellite Imagery (Schroeder de Witt 2020)](https://arxiv.org/abs/2012.09670	) 
@@ -52,6 +53,7 @@ title: "AI4ES data"
 	- IMERG combines microwave satellite observations from the Global Precipitation Measurement (GPM) satellite constellation to estimate precipitation on a global scale. As microwave measurements can penetrate the precipitating clouds, it provides crucial information on precipitation and clouds. 
 - #PAPER [WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models (Garg 2022)](https://arxiv.org/pdf/2205.00865)
 	- WeatherBench Probability extends WeatherBench to probabilistic forecasting by adding a set of established probabilistic verification metrics (continuous ranked probability score, spread-skill ratio and rank histograms) and a state-of-the-art operational baseline using the ECWMF IFS ensemble forecast
+- #PAPER #REVIEW [Challenges and Benchmark Datasets for Machine Learning in the Atmospheric Sciences: Definition, Status, and Outlook (Dueben 2022)](https://journals.ametsoc.org/view/journals/aies/1/3/AIES-D-21-0002.1.xml)
 
 #### Extreme events labeled data
 See [[AI4ES/Extremes events#Databases]]

@@ -7,10 +7,10 @@ title: "Pytorch"
 - [Named Tensors using First-class Dimensions in PyTorch](https://github.com/facebookresearch/torchdim)
 - [Accelerate your models to production with Google Cloud and PyTorch](https://opensource.googleblog.com/2022/09/accelerate-your-models-to-production-with-google-cloud-and-pytorch_0905763892.html)
 
-
 ## Courses
 - #COURSE [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-
+- #COURSE [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/)
+	- https://zerotomastery.io/courses/learn-pytorch/
 
 ## Code
 - #CODE [PyTorch (Facebook)](https://github.com/pytorch/pytorch)
@@ -47,7 +47,6 @@ title: "Pytorch"
 - #CODE [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 	- Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 	- https://analyticsindiamag.com/a-guide-to-parallel-deep-learning-with-colossal-ai/
-
 
 ## References
 - #PAPER [PyTorch: An Imperative Style, High-Performance Deep Learning Library (Paszke 2019)](https://arxiv.org/abs/1912.01703)

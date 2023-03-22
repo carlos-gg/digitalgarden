@@ -38,5 +38,8 @@ title: "Diffusion models"
 	- Diffusion models are a class of likelihood-based models that have shown to produce high-quality images with desired properties such as distribution coverage and easy scalability. These models generate samples by gradually removing noise from a signal. Previous research has shown that they improve reliably with increased compute. The proposed method brings improvements to diffusions models that have worked for GANs, such as improved model architecture and a scheme to trade off diversity for quality. The proposed diffusion model achieves several state-of-the-art results, surpassing GANs on several metrics and datasets
 	- [Paper explained](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
 - #PAPER [Classifier-Free Diffusion Guidance (Ho 2022)](https://arxiv.org/pdf/2207.12598)
-- #PAPER [Understanding Diffusion Models: A Unified Perspective (Luo 2022)](https://arxiv.org/pdf/2208.11970)
+- #PAPER #REVIEW [Understanding Diffusion Models: A Unified Perspective (Luo 2022)](https://arxiv.org/pdf/2208.11970)
 - #PAPER [High-Resolution Image Synthesis with Latent Diffusion Models (Rombach 2022)](https://arxiv.org/abs/2112.10752)
+- #PAPER [Palette: Image-to-Image Diffusion Models (Saharia 2022)](https://arxiv.org/pdf/2111.05826)
+	- https://iterative-refinement.github.io/palette/
+	- #CODE https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models
