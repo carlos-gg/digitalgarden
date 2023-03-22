@@ -15,7 +15,6 @@ title: "Causality"
 	- https://jakobrunge.github.io/tigramite/#tigramite-pcmci-pcmci
 	- PCMCI causal discovery for time series datasets. It is a 2-step causal discovery method for large-scale time series datasets. The first step is a condition-selection followed by the MCI conditional independence test.
 
-
 ## Talks
 - #TALK [Interview - Causal Reasoning, Counterfactuals, and the Path to AGI (Judea Pearl)](https://www.youtube.com/watch?v=pEBI0vF45ic)
 - #TALK Causality, Bernhard Schölkopf and Stefan Bauer, MLSS 2020: 
@@ -25,8 +24,9 @@ title: "Causality"
 		- https://drive.google.com/file/d/1_-bUoyY-Thfqu1ac4EwBSv6cCoS-qtnn/view
 - #TALK [Yoshua Bengio Guest Talk - Towards Causal Representation Learning](https://www.youtube.com/watch?v=rKZJ0TJWvTk)
 
-
 ## Code
+- #CODE [Causalai (Salesforce)](https://github.com/salesforce/causalai) - A Fast and Scalable framework for Causal Analysis of Time Series and Tabular Data
+	- https://opensource.salesforce.com/causalai/latest/index.html
 - #CODE [Causalml](https://github.com/uber/causalml)
 - #CODE [Causality - Tools for causal analysis](https://github.com/akelleh/causality)
 	- https://medium.com/@akelleh/causal-inference-with-pandas-dataframes-fc3e64fce5d
@@ -40,11 +40,11 @@ title: "Causality"
 - #PAPER [Towards a Learning Theory of Cause-Effect Inference (Lopez-Paz 2015)](https://arxiv.org/abs/1502.02398)
 - #PAPER [Unsupervised Discovery of El Nino Using Causal Feature Learning on Microlevel Climate Data (Chalupka 2016)](https://arxiv.org/abs/1605.09370)
 - #PAPER [Comparative Benchmarking of Causal Discovery Techniques (Singh 2017)](https://arxiv.org/abs/1708.06246)
-- #PAPER [A Physics-Based Approach to Unsupervised Discovery of Coherent Structures in Spatiotemporal Systems (Rupe 2017)](https://arxiv.org/abs/1709.03184) ^rupe17
+- #PAPER [A Physics-Based Approach to Unsupervised Discovery of Coherent Structures in Spatiotemporal Systems (Rupe 2017)](https://arxiv.org/abs/1709.03184) 
 - #PAPER [A Primer on Causal Analysis (2018)](https://arxiv.org/abs/1806.01488)
 - #PAPER [DAGs with NO TEARS: Continuous Optimization for Structure Learning (Zheng 2018)](https://arxiv.org/abs/1803.01422)
 	- #CODE https://github.com/xunzheng/notears
-- #PAPER [Local causal states and discrete coherent structures (Rupe 2018)](https://aip.scitation.org/doi/10.1063/1.5021130) ^f00b92
+- #PAPER [Local causal states and discrete coherent structures (Rupe 2018)](https://aip.scitation.org/doi/10.1063/1.5021130) 
 - #PAPER [Learning Functional Causal Models with Generative Neural Networks (Goudet 2018)](https://arxiv.org/abs/1709.05321)
 - #PAPER [Variable-lag Granger Causality for Time Series Analysis (2019)](https://arxiv.org/abs/1912.10829)
 - #PAPER [Learning Sparse Nonparametric DAGs (Zheng 2020)](https://arxiv.org/abs/1909.13189)
@@ -64,6 +64,9 @@ title: "Causality"
 	- https://syncedreview.com/2020/10/29/deepmind-introduces-algorithms-for-causal-reasoning-in-probability-trees/
 - #PAPER [Off-the-shelf deep learning is not enough, and requires parsimony, Bayesianity, and causality (Vasudevan 2021)](https://www.nature.com/articles/s41524-020-00487-0)
 - #PAPER [Towards Causal Representation Learning (Schölkopf 2021)](https://arxiv.org/abs/2102.11107)
+- #PAPER [Salesforce CausalAI Library: A Fast and Scalable Framework for Causal Analysis of Time Series and Tabular Data (Arpit 2023)](https://arxiv.org/pdf/2301.10859)
+	- [CausalAI: Answering Causality Questions Using Observational Data](https://blog.salesforceairesearch.com/causalai/)
+
 
 
 

@@ -1,14 +1,15 @@
 ---
 title: "Time series analysis"
-disableToc: false 
 ---
 
 > See: 
+> - [[AI/Supervised Learning/Regression]]
 > - [[AI/Forecasting]]
 > - [[AI/Deep learning/RNNs]]
 > - "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]]
 > - "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
 > - [[AI/Deep learning/Transformers]]
+> - [[AI/Causality]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series
@@ -19,7 +20,7 @@ disableToc: false
 - [Python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 ## Code
-- See code in [[AI/Forecasting]]
+- See "Code" in [[AI/Forecasting]]
 - #PAPER [A systematic review of Python packages for time series analysis (Siebert 2021)](https://arxiv.org/pdf/2104.07406)            
 - #CODE [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning library for Time Series and Sequences
 	- https://timeseriesai.github.io/tsai/
@@ -89,4 +90,7 @@ See "For Time series" section in [[AI/Anomaly and Outlier Detection]]
 
 ### Causality
 See [[AI/Causality]]
+
+### Explainability
+See [[AI/XAI]]
   

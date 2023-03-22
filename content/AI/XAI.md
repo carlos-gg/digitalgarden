@@ -19,7 +19,6 @@ title: "XAI"
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-2-input-gradient-layerwise-e077609b6377
 	- https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-3-shap-integrated-gradients-918fc9fedd9b
 
-
 ## Events, talks
 - [Workshop on Visualization for AI Explainability](http://visxai.io/)
 - [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/)
@@ -31,7 +30,6 @@ title: "XAI"
 - #TALK [Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (AAAI 2020)](https://xaitutorial2020.github.io/)
 	- https://xaitutorial2020.github.io/raw/master/slides/aaai_2020_xai_tutorial.pdf
 
-
 ## Books
 - #BOOK [ Interpretable Machine Learning (Molnar 2021)](https://christophm.github.io/interpretable-ml-book/)
 
@@ -39,42 +37,28 @@ title: "XAI"
 See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
-- #CODE [CARLA](https://github.com/carla-recourse/CARLA)
-	- CARLA is a python library to benchmark counterfactual explanation and recourse models
-	- #PAPER [CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021)](https://arxiv.org/abs/2108.00783)
-	- https://www.marktechpost.com/2021/08/22/university-of-tubingen-researchers-open-source-carla-a-python-library-for-benchmarking-counterfactual-explanation-methods-across-data-sets-and-machine-learning-models/
+- #CODE [InterpretML](https://github.com/interpretml/interpret) - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof
+	- https://interpret.ml/docs/intro.html
 - #CODE [Shapash](https://github.com/MAIF/shapash)
+	- Shapash is a Python library which aims to make machine learning interpretable and understandable by everyone. It provides several types of visualization that display explicit labels that everyone can understand.
 	- https://shapash.readthedocs.io/en/latest/
 - #CODE [ExplainerDashboard](https://github.com/oegedijk/explainerdashboard)
 	- https://explainerdashboard.readthedocs.io/en/latest/index.html#
 	- library for quickly building interactive dashboards for analyzing and explaining the predictions and workings of (scikit-learn compatible) machine learning models, including xgboost, catboost and lightgbm
 	- #TALK https://www.youtube.com/watch?v=1nMlfrDvwc8
-- #CODE [AIX360](https://github.com/Trusted-AI/AIX360) 
-	- Interpretability and explainability of data and machine learning models
-	- http://aix360.mybluemix.net/
-- #CODE [LIME: Local Interpretable Model-agnostic Explanations](https://github.com/marcotcr/lime) 
-- #CODE [Skater](https://github.com/datascienceinc/Skater)
-	- Skater is a python package for model agnostic interpretation of predictive models. With Skater, you can unpack the internal mechanics of arbitrary models; as long as you can obtain inputs, and use a function to obtain outputs, you can use Skater to learn about the models internal decision policies.
-	- https://datascienceinc.github.io/Skater/overview.html
-	- Understanding How and Why Your Model Works:  https://www.datascience.com/learn-data-science/fundamentals/model-interpretation-algorithms
-	- https://www.datascience.com/resources/tools/skater
-- #CODE [FairML - Auditing Black-Box Predictive Models](https://github.com/adebayoj/fairml)
-	- FairML is a python toolbox auditing the machine learning models for bias. 
-	- http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
-- #CODE [ELI5](https://github.com/TeamHG-Memex/eli5)
-	- ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API. It has built-in support for several ML frameworks and provides a way to explain black-box models.
-	- http://eli5.readthedocs.io/en/latest/
-- #CODE [BlackBox Auditing](https://github.com/algofairness/BlackBoxAuditing)
-- #CODE [SHAP](https://github.com/slundberg/shap) 
-	- Unified approach to explain the output of any machine learning model. SHAP connects game theory with local explanations, uniting several previous methods and representing the only possible consistent and locally accurate additive feature attribution method based on expectations.
-- #CODE [FastTreeSHAP](https://github.com/linkedin/FastTreeSHAP)
-	- Fast SHAP value computation for interpreting tree-based models
+- #CODE [LIME](https://github.com/marcotcr/lime) - Local Interpretable Model-agnostic Explanations
+- #CODE [SHAP](https://github.com/slundberg/shap) - Unified approach to explain the output of any machine learning model
+	- SHAP connects game theory with local explanations, uniting several previous methods and representing the only possible consistent and locally accurate additive feature attribution method based on expectations.
+- #CODE [FastTreeSHAP](https://github.com/linkedin/FastTreeSHAP) - Fast SHAP value computation for interpreting tree-based models
 	- [LinkedIn Researchers Open-Source FastTreeSHAP](https://www.marktechpost.com/2022/03/20/linkedin-researchers-open-source-fasttreeshap-a-python-package-that-enables-an-efficient-interpretation-of-tree-based-machine-learning-models/)
-- #CODE [InterpretML](https://github.com/interpretml/interpret). Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof
+- #CODE [CARLA](https://github.com/carla-recourse/CARLA) - library for benchmarking counterfactual explanations and recourse models
+	- #PAPER [CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms (Pawelczyk 2021)](https://arxiv.org/abs/2108.00783)
+	- https://www.marktechpost.com/2021/08/22/university-of-tubingen-researchers-open-source-carla-a-python-library-for-benchmarking-counterfactual-explanation-methods-across-data-sets-and-machine-learning-models/
 - #CODE [imodels](https://github.com/csinva/imodels)
 	- Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use
 	- [UC Berkeley Researchers Introduce ‘imodels: A Python Package For Fitting Interpretable Machine Learning Models](https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/)
-
+- #CODE [AIX360](https://github.com/Trusted-AI/AIX360) - Interpretability and explainability of data and ML models
+	- http://aix360.mybluemix.net/
 
 ## References
 - #PAPER [The Mythos of Model Interpretability (Lipton 2017)](https://arxiv.org/abs/1606.03490)
@@ -89,10 +73,11 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - #PAPER [Review Study of Interpretation Methods for Future Interpretable Machine Learning (Jian-Xun 2020)](https://ieeexplore.ieee.org/document/9234594)
 - #PAPER [Explainable neural networks that simulate reasoning (Blazek 2021)](https://www.nature.com/articles/s43588-021-00132-w)
 - #PAPER [Turning biases into hypotheses through method: A logic of scientific discovery for machine learning (Aagaard Enni 2021)](https://journals.sagepub.com/doi/full/10.1177/20539517211020775)
-	- bridging the gap in the understanding of ML models and their reasonableness requires a focus on developing an improved methodology for their creation
-	- this process has been likened to “alchemy” and criticized for involving a large degree of “black art,” owing to its reliance on poorly understood “best practices”
-	- authors soften this critique and argue that the seeming arbitrariness often is the result of a lack of explicit hypothesizing stemming from an empiricist and myopic focus on optimizing for predictive performance rather than from an occult or mystical process
-
+	- Bridging the gap in the understanding of ML models and their reasonableness requires a focus on developing an improved methodology for their creation
+	- This process has been likened to “alchemy” and criticized for involving a large degree of “black art,” owing to its reliance on poorly understood “best practices”
+	- Authors soften this critique and argue that the seeming arbitrariness often is the result of a lack of explicit hypothesizing stemming from an empiricist and myopic focus on optimizing for predictive performance rather than from an occult or mystical process
+- #PAPER #REVIEW [Toward Explainable AI for Regression Models (Letzgus 2021)](https://arxiv.org/pdf/2112.11407)
+	- Related to [[AI/Time Series analysis]] and [[AI/Supervised Learning/Regression]]
 
 ### Model-agnostic methods
 - https://christophm.github.io/interpretable-ml-book/agnostic.html
@@ -141,19 +126,16 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 	- https://www.slideshare.net/albahnsen/demystifying-machine-learning-using-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning
 
-
 ### Maximum activation analysis
 - See [[AI/Deep learning/Explainability methods for NNs]]
 - In maximum activation analysis, examples are found or simulated that maximally activate certain neurons, layers, or filters in a neural network or certain trees in decision tree ensembles. For the purposes of maximum activation analysis, low residuals for a certain tree are analogous to high-magnitude neuron output in a neural network.
 - Maximum activation analysis elucidates internal mechanisms of complex models by determining the parts of the response function that specific observations or groups of similar observations excite to the highest degree, either by high-magnitude output from neurons or by low residual output from trees.
-
 
 ### Sensitivity analysis
 - Sensitivity analysis investigates whether model behavior and outputs remain stable when data is intentionally perturbed or other changes are simulated in data. 
 - Beyond traditional assessment practices, sensitivity analysis of machine learning model predictions is perhaps the most important validation technique for machine learning models. 
 - Machine learning models can make drastically differing predictions from minor changes in input variable values. In practice, many linear model validation techniques focus on the numerical instability of regression parameters due to correlation between input variables or between input variables and the dependent variable
 - Sensitivity analysis can also test model behavior and outputs when interesting situations or known corner cases are simulated. Output distributions, error measurements, plots, and interpretation techniques can be used to explore the way models behave in important scenarios, how they change over time, or if models remain stable when data is subtly and intentionally corrupted
-
 
 ### Variable importance measures
 - Variable importance measures are typically seen in tree-based models but are sometimes also reported for other models.
@@ -169,7 +151,6 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 	- #PAPER [Trees, forests, and impurity-based variable importance (Scornet 2020)](https://arxiv.org/abs/2001.04295)
 - For neural networks, variable importance measures are typically associated with the aggregated, absolute magnitude of model parameters for a given variable of interest. 
 - Global variable importance techniques are typically model specific, and practitioners should be aware that unsophisticated measures of variable importance can be biased toward larger scale variables or variables with a high number of categories.
-
 
 ### Explainability methods for Neural Networks
 See [[AI/Deep learning/Explainability methods for NNs]]

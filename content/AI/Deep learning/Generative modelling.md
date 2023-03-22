@@ -33,12 +33,12 @@ See [[AI/Deep learning/Diffusion models]]
 
 ### Generative models for Image data
 See: 
-- [[AI/Computer Vision/Image-to-image translation]]
 - "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
 - "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]
 - "For Computer Vision" section in [[AI/Deep learning/Transformers]] 
 - [[AI/Deep learning/Diffusion models]]
 - [[AI/Deep learning/Multimodal learning]]
+- [[AI/Foundation models]]
 
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
@@ -69,3 +69,7 @@ See:
 - #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)
 - #PAPER [Autoregressive Image Generation using Residual Quantization (Lee 2022)](https://arxiv.org/pdf/2203.01941v2)            
 	- #CODE https://github.com/kakaobrain/rq-vae-transformer
+
+### Generative models for audio
+- #PAPER [MusicLM: Generating Music From Text (Agostinelli 2023)](https://arxiv.org/pdf/2301.11325)
+	- https://google-research.github.io/seanet/musiclm/examples/

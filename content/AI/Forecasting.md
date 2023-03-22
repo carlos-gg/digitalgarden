@@ -18,12 +18,20 @@ title: "Forecasting"
 - https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
 - https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
 - [Predicting energy demand with neural networks](https://towardsdatascience.com/forecasting-energy-consumption-using-neural-networks-xgboost-2032b6e6f7e2)
+- Time series forecasting:
+	- [Part 1 of 3: Understanding the fundamentals](https://medium.com/data-science-at-microsoft/time-series-forecasting-part-1-of-3-understanding-the-fundamentals-13b52eda3e5)
+	- [Part 2 of 3: Selecting algorithms](https://medium.com/data-science-at-microsoft/time-series-forecasting-part-2-of-3-selecting-algorithms-11b6635f61bb)
+	- [Part 3 of 3: Introducing AUTS (Adaptive Univariate Time Series forecasting algorithm)](https://medium.com/data-science-at-microsoft/time-series-forecasting-part-3-of-3-introducing-auts-adaptive-univariate-time-series-dfd7555ca8d4)
+- [Python Time Series Forecasting: A Practical Approach (WANDB)](https://wandb.ai/madhana/Time_Series/reports/Python-Time-Series-Forecasting-A-Practical-Approach--VmlldzoyODk4NjUz)
+- [The Reasonable Effectiveness of Deep Learning for Time Series Forecasting](https://towardsdatascience.com/the-reasonable-effectiveness-of-deep-learning-for-time-series-forecasting-60e2c8affb9)
 
 ## Code
 - #CODE [Skforecast](https://github.com/JoaquinAmatRodrigo/skforecast)
 	- https://joaquinamatrodrigo.github.io/skforecast/
 	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
 	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
+- #CODE [Pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
+	- https://pytorch-forecasting.readthedocs.io/en/stable/index.html#
 - #CODE [Deep_XF](https://github.com/ajayarunachalam/Deep_XF)
 - #CODE [statsforecast](https://github.com/Nixtla/statsforecast)
 	- StatsForecast offers a collection of widely used univariate time series forecasting models, including autoARIMA and ETS modeling optimized for high performance using numba
@@ -70,3 +78,8 @@ title: "Forecasting"
 	- [[AI/Deep learning/Transformers]]
 - #PAPER [Understanding forecast reconciliation (Hollyman 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0377221721000199)
 	- Forecast Reconciliation - a process by which independently generated forecasts of a collection of linearly related time series are reconciled via the introduction of accounting aggregations that naturally apply to the data
+- #PAPER [A Review on Deep Sequential Models for Forecasting Time Series Data (Mahdi Ahmed 2022)](https://www.hindawi.com/journals/acisc/2022/6596397/)
+- #PAPER [DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting (Woo 2022)](https://arxiv.org/pdf/2207.06046)
+	- #CODE https://github.com/salesforce/DeepTime
+	- DeepTime is a deep time-index based model trained via a meta-learning formulation, yielding a strong method for non-stationary time-series forecasting
+	- https://pub.towardsai.net/meta-learning-for-time-series-forecasting-deeptime-in-pytorch-lightning-3d97351099c6
