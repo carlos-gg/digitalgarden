@@ -112,6 +112,7 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 - #PAPER [A deep learning approach to solar radio flux forecasting (Stevenson 2022)](https://www.sciencedirect.com/science/article/pii/S009457652100415X)
 - #PAPER [RaVÆn: unsupervised change detection of extreme events using ML on‑board satellites (Ruzicka 2022)](https://www.nature.com/articles/s41598-022-19437-5.epdf)
 	- #CODE https://github.com/spaceml-org/RaVAEn
+- #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
 
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])

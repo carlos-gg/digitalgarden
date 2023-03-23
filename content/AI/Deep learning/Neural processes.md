@@ -8,6 +8,10 @@ title: "Neural processes"
 - [The Neural Process Family](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
 - [Conditional Neural Process](https://yanndubs.github.io/Neural-Process-Family/reproducibility/CNP.html)
 
+## Code
+- #CODE [Neuralprocesses](https://github.com/wesselb/neuralprocesses) - A framework for composing Neural Processes in Python
+	- https://wesselb.github.io/neuralprocesses/intro.html
+
 ## References
 - #PAPER [Neural Processes (Garnelo 2018)](https://arxiv.org/pdf/1807.01622)            
 - #PAPER [Conditional Neural Processes (Garnelo 2018)](https://arxiv.org/abs/1807.01613)
@@ -23,3 +27,4 @@ title: "Neural processes"
 - #PAPER [Contrastive Conditional Neural Processes (Ye 2022)](https://arxiv.org/abs/2203.03978)
 	- Conditional Neural Processes (CNPs) bridge neural networks with probabilistic inference to approximate functions of Stochastic Processes under meta-learning settings
 	- Proposed to equip CNPs by 1) aligning prediction with encoded ground-truth observation, and 2) decoupling metarepresentation adaptation from generative reconstruction
+- #PAPER #REVIEW [The Neural Process Family: Survey, Applications and Perspectives (Jha 2022)](https://arxiv.org/abs/2209.00517)

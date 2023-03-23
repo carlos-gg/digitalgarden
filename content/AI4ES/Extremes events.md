@@ -77,6 +77,7 @@ See [[AI4ES/AI4ES data#Extreme events labeled data]]
 - #PAPER [Development of a Combined Drought Indicator to detect agricultural drought in Europe (Sepulcre-Canto 2012)](https://doi.org/10.5194/nhess-12-3519-2012)
 - #PAPER [Seasonal Drought Prediction: Advances, Challenges, and Future Prospects (Hao 2018)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016RG000549)
 - #PAPER [Machine learning–based observation-constrained projections reveal elevated global socioeconomic risks from wildfire (Yu 2022)](https://www.nature.com/articles/s41467-022-28853-0)
+- #PAPER [Status and prospects for drought forecasting: opportunities in artificial intelligence and hybrid physical–statistical forecasting (AghaKouchak 2022)](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2021.0288)
 
 ### Wildfires
 - #PAPER [Seasonal predictions of Fire Weather Index: Paving the way for their operational applicability in Mediterranean Europe (Bedia 2018)](https://www.sciencedirect.com/science/article/pii/S2405880716300826)
@@ -84,6 +85,7 @@ See [[AI4ES/AI4ES data#Extreme events labeled data]]
 - #PAPER [Skillful forecasting of global fire activity using seasonal climate predictions (Turco 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6045620/)
 	- See [[AI4ES/S2S]]
 - #PAPER [The Global Fire Atlas of individual fire size, duration, speed and direction (Andela 2019)](https://essd.copernicus.org/articles/11/529/2019/)
+- #PAPER [Global Wildfire Outlook Forecast with Neural Networks (Song 2022)](https://www.mdpi.com/2072-4292/12/14/2246/htm)
 
 ### Atmospheric rivers
 - #PAPER [Daily Precipitation Extreme Events in the Iberian Peninsula and Its Association with Atmospheric Rivers (Ramos 2015)](https://journals.ametsoc.org/view/journals/hydr/16/2/jhm-d-14-0103_1.xml)
@@ -197,6 +199,7 @@ See [[AI/Supervised Learning/Supervised learning]]
 	- These models are referred to as IBTrACS-GFS, Heuristic-GFS, IBTrACS-GOES, and Heuristic-GOES. All four U-Nets are fast information extraction tools and perform with a ROI detection accuracy ranging from 80% to 99%
 	- These are additionally evaluated with the Dice and Tversky Intersection over Union (IoU) metrics, having Dice coefficient scores ranging from 0.51 to 0.76 and Tversky coefficients ranging from 0.56 to 0.74
 - #PAPER [Improving Emergency Response during Hurricane Season using Computer Vision (Bosch 2020)](https://arxiv.org/abs/2008.07418v2)
+- #PAPER [Precipitation Nowcasting with Orographic Enhanced Stacked Generalization: Improving Deep Learning Predictions on Extreme Events (Franch 202)](https://www.mdpi.com/2073-4433/11/3/267/htm)
 - #PAPER [Spatio-temporal segmentation and tracking of weather patterns with light-weight Neural Networks (Kapp-Schwoerer 2020)](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_55.pdf)
 	- Uses the ClimateNet [[AI4ES/AI4ES data#Extreme events labeled data]] and the CGNet architecture [[AI/Computer Vision/Semantic segmentation]]
 	- Weather pattern recognition by deep neural networks can work remarkably better than feature engineering, such as hand-crafted heuristics, used traditionally in climate science
@@ -249,6 +252,7 @@ See [[AI/Deep learning/GANs]]
 - #PAPER [ExGAN: Adversarial Generation of Extreme Samples (Bhatia 2021)](https://arxiv.org/abs/2009.08454)
 	- #CODE https://github.com/Stream-AD/ExGAN
 	- https://www.kdnuggets.com/2021/02/adversarial-generation-extreme-samples.html
+- #PAPER [Modeling and simulating spatial extremes by combining extreme value theory with generative adversarial networks (Boulaguiem 2022)](https://www.cambridge.org/core/journals/environmental-data-science/article/modeling-and-simulating-spatial-extremes-by-combining-extreme-value-theory-with-generative-adversarial-networks/AA3CEBA3CF1EF3C9C8D182C108289D7F)
 
 ### Causality studies
 See [[AI4ES/Causal modeling in ES#Extreme events]]

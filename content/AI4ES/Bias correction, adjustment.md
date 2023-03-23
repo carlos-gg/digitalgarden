@@ -70,5 +70,6 @@ title: "Bias correction, adjustment"
 	- The second one assesses the influence of nonstationary properties of climate simulations on the performance of MBC-CycleGAN to adjust spatial dependences
 	- For the performance assessment of the CycleGAN model during training, the energy distance is used
 	- This metric, already used in the bias correction literature permits to measure the statistical discrepancy between two multivariate distributions that are potentially in high dimension
+- #PAPER [Deep learning for bias correction of MJO prediction (Kim 2021)](https://www.nature.com/articles/s41467-021-23406-3)
 - #PAPER [On the use of convolutional Gaussian processes to improve the seasonal forecasting of precipitation and temperature (Wang 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0022169420313238?dgcid=rss_sd_all)
 - #PAPER [Correcting Coarse-Grid Weather and Climate Models by Machine Learning From Global Storm-Resolving Simulations (Bretherton 2022)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002794)

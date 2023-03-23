@@ -27,6 +27,7 @@ title: "Artificial Intelligence"
 	- [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 - [More Is Different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/)
 	- [More Is Different for AI - Scaling Up, Emergence, and Paperclip Maximizers (w/ Jacob Steinhardt)](https://www.youtube.com/watch?v=K-cXYoqHxBc)
+- [Explosion in number of papers (tweet by A. Karpathy)](https://twitter.com/karpathy/status/1577350692057980929)
 
 ### AI for scientific discovery
 See [[AI/AI-ML-DL for scientific discovery]]

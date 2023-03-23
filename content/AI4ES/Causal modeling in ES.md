@@ -37,6 +37,7 @@ title: "Causal modeling in ES"
 	- the resulting causal networks (fingerprints) offer an objective pathway for process-oriented model evaluation
 - #PAPER [Reconstructing regime-dependent causal relationships from observational time series (Saggioro 2020)](https://arxiv.org/abs/2007.00267)
 - #PAPER [Dominant patterns of interaction between the tropics and mid-latitudes in boreal summer: causal relationships and the role of timescales (Di Capua 2020)](https://wcd.copernicus.org/articles/1/519/2020/)
+- #PAPER [Learning Granger Causal Feature Representations (Varando 2021)](https://www.climatechange.ai/papers/icml2021/34)
 
 ### Extreme events
 - #PAPER [A Novel Data-driven Approach for Tropical Cyclone Tracks Prediction Based on Granger Causality and GRU (Dong 2019)](https://www.semanticscholar.org/paper/A-Novel-Data-driven-Approach-for-Tropical-Cyclone-Dong-Lian/a391af3f58933f373ba2f812305fa0fd9521f656) 

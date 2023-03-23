@@ -86,7 +86,7 @@ title: "Climate change"
 - #PAPER [Developing an Open Data Portal for the ESA Climate Change Initiative (Kershaw 2020)](https://www.researchgate.net/publication/340462964_Developing_an_Open_Data_Portal_for_the_ESA_Climate_Change_Initiative)
 - #PAPER [Global warming makes weather in boreal summer more persistent (Coumou 2020)](https://wcd.copernicus.org/preprints/wcd-2020-40/)
 - #PAPER [The Climate Response to Emissions Reductions Due to COVID‐19: Initial Results From CovidMIP (Jones 2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091883)
-- #PAPER [Artificial Intelligence and Climate Change (Kaack, CCAI people 2021)](https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change)
+- #PAPER #REVIEW [Artificial Intelligence and Climate Change (Kaack, CCAI people 2021)](https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change)
 - #PAPER [Increasing probability of record-shattering climate extremes (Fischer 2021)](https://www.nature.com/articles/s41558-021-01092-9)
 	- https://www.theguardian.com/environment/2021/jul/26/record-shattering-heat-becoming-much-more-likely-says-climate-study
 - #PAPER [The geographic disparity of historical greenhouse emissions and projected climate change (Van Houtan 2021)](https://advances.sciencemag.org/content/7/29/eabe4342.full)
