@@ -46,8 +46,8 @@ title: "Computer Vision"
 	- This rendering course is an MSc-level class at the Technical University of Vienna. It is about ray tracing, photorealistic rendering and global illumination
 	- [Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
-
 ## Code
+- See "Code" in [[AI/Computer Vision/Deep CV]]
 - #CODE [Scikit-image. Image processing in Python](https://github.com/scikit-image/scikit-image)
 	- http://scikit-image.org
 - #CODE [OpenCV (Open Source Computer Vision Library)](https://opencv.org/)
@@ -57,23 +57,7 @@ title: "Computer Vision"
 - #CODE [SimpleCV](https://github.com/sightmachine/SimpleCV)
 	- http://simplecv.org/
 	- SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV – without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. This is computer vision made easy.
-- #CODE [Imgaug. Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
-	- http://imgaug.readthedocs.io
-- #CODE [ChainerCV: a Library for Computer Vision in Deep Learning](https://github.com/chainer/chainercv)
-		- http://chainercv.readthedocs.io/en/stable/
-		- ChainerCV is a collection of tools to train and run neural networks for computer vision tasks using Chainer
-- #CODE [Openface. Free and open source face recognition with deep neural networks](https://cmusatyalab.github.io/openface/)
-- #CODE Vision - The torchvision package consists of popular datasets, model architectures, and common image transformations fo CV. 
-	- https://github.com/pytorch/vision
-- #CODE [Scenic](https://github.com/google-research/scenic)
-	- https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
-	- A Jax Library for Computer Vision Research and Beyond
-	- codebase with a focus on research around attention-based models for computer vision
-	- #PAPER [SCENIC: A JAX Library for Computer Vision Research and Beyond (2021)](https://arxiv.org/abs/2110.11403)
-- #CODE [Pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-	- PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
-	- https://rwightman.github.io/pytorch-image-models/
-
+	
 ## References
 - #PAPER [Brief review of image denoising techniques (Fan 2019)](https://vciba.springeropen.com/articles/10.1186/s42492-019-0016-7)
 
