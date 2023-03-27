@@ -28,6 +28,7 @@ title: "Artificial Intelligence"
 - [More Is Different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/)
 	- [More Is Different for AI - Scaling Up, Emergence, and Paperclip Maximizers (w/ Jacob Steinhardt)](https://www.youtube.com/watch?v=K-cXYoqHxBc)
 - [Explosion in number of papers (tweet by A. Karpathy)](https://twitter.com/karpathy/status/1577350692057980929)
+- [Can society adjust at the speed of artificial intelligence?](https://www.vox.com/future-perfect/2023/3/18/23645013/openai-gpt4-holden-karnofsky-artificial-intelligence-ai-safety-existential-risk)
 
 ### AI for scientific discovery
 See [[AI/AI-ML-DL for scientific discovery]]
@@ -47,7 +48,6 @@ See [[AI4G/AI4good]]
 - [AI & Deep Learning Conference (NVIDIA)](https://www.nvidia.com/en-us/gtc/)
 - [AAAI Conference on Artificial Intelligence](http://www.aaai.org/Conferences/conferences.php)
 - [World summit AI](https://worldsummit.ai/)
-
 
 ## Books
 - #BOOK [AI Transformation Playbook (Andrew Ng, 2018)](https://landing.ai/ai-transformation-playbook/)
@@ -86,6 +86,10 @@ See [[AI4G/AI4good]]
 - #TALK [Symbolic, Statistical and Causal Artificial Intelligence, MLSS 2020](https://www.youtube.com/watch?v=8staJlMbAig)
 - #TALK [Francois Chollet - Intelligence and Generalisation (Interview/podcast)](https://www.youtube.com/watch?v=J0p_thJJnoo)
 
+## References
+- #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
+	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI
+	- Graph with exponential growth in AI papers
 
 ## Related fields and concepts
 
@@ -99,7 +103,7 @@ See [[AI/DS and DataEng/Data engineering and computer science]]
 See [[AI/DS and DataEng/Data Science]]
 
 ### Machine Learning
-See [[AI/Machine Learning]]
+See [[AI/ML]]
 
 ### Computer vision
 See [[AI/Computer Vision/Computer vision]]

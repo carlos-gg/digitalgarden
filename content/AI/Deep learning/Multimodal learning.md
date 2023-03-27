@@ -85,3 +85,7 @@ title: "Multimodal learning"
 - #PAPER #REVIEW [The Creativity of Text-to-Image Generation (Oppenlaender 2022)](https://arxiv.org/pdf/2206.02904)
 - #PAPER [MultiMAE: Multi-modal Multi-task Masked Autoencoders (Bachman 2022)](https://arxiv.org/pdf/2204.01678)
 	- https://medium.com/syncedreview/epfls-multi-modal-multi-task-masked-autoencoder-a-simple-flexible-and-effective-vit-pretraining-3185c4aa62fc
+- #PAPER [GLIGEN: Open-Set Grounded Text-to-Image Generation (Li 2023)](https://arxiv.org/pdf/2301.07093)
+	- https://gligen.github.io/
+	- https://huggingface.co/spaces/gligen/demo
+	- https://the-decoder.com/gligen-gives-you-more-control-over-ai-image-generation/

@@ -17,8 +17,7 @@ title: "AI-ML-DL for scientific discovery"
 - #TALK [Using AI to Accelerate Scientific Discovery (Demis Hassabis, Deepmind)](https://www.youtube.com/watch?v=jocWJiztxYA)
 
 ## Code
-- #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) 
-	- GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process 
+- #CODE [Gt4sd-core (IBM)](https://github.com/GT4SD/gt4sd-core) - GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process 
 	- https://gt4sd.github.io/gt4sd-core/
 	- https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery
 	- https://thenewstack.io/ibms-open-source-gt4sd-generates-ideas-for-scientists/
@@ -28,10 +27,6 @@ title: "AI-ML-DL for scientific discovery"
 	- Deep Search extracts and structures data from documents in four steps: Parse, Interpret, Index, and Integrate
 	- [Handling Scientific Articles with Deep Search](https://opensource.science/handling-scientific-articles-with-deep-search-d3d7adebd3)
 - [Consensus - Ask a question, get conclusions from research papers](https://consensus.app/search/)
-- [Galactica (Meta AI)](https://galactica.org/)
-	- #PAPER [Galactica: A Large Language Model for Science (Taylor 2022)](https://arxiv.org/abs/2211.09085)
-	- #CODE https://github.com/paperswithcode/galai
-	- [Paper explained](https://www.youtube.com/watch?v=ZTs_mXwMCs8&t=1145s)
 
 ## Events
 - [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
@@ -56,6 +51,10 @@ title: "AI-ML-DL for scientific discovery"
 	- OpenMedIA is an open-source toolbox library containing a rich set of deep learning methods for medical image analysis under heterogeneous AI computing platforms
 - #PAPER [Leakage and the Reproducibility Crisis in ML-based Science (Kapoor 2022)](https://arxiv.org/abs/2207.07048)
 	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
-- #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
-	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI
 - #PAPER [Journal Impact Factor and Peer Review Thoroughness and Helpfulness: A Supervised Machine Learning Study (Severin 2022)](https://arxiv.org/pdf/2207.09821)
+- #PAPER [Galactica: A Large Language Model for Science (Taylor 2022)](https://arxiv.org/abs/2211.09085)
+	- [Paper explained](https://www.youtube.com/watch?v=ZTs_mXwMCs8&t=1145s)
+	- #CODE  https://github.com/paperswithcode/galai
+	- https://galactica.org/
+- #PAPER [How Generative AI models such as ChatGPT can be (Mis)Used in SPC  Practice, Education, and Research? An Exploratory Study (Megahed 2023)](https://arxiv.org/pdf/2302.10916)
+	- See [[AI/Foundation models]]

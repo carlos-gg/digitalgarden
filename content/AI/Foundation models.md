@@ -17,6 +17,9 @@ title: "Foundation models"
 - [Foundation Models: paradigm shift for AI or mere rebranding?](https://www.artificialintelligence.news/foundation-models-paradigm-shift-for-ai-or-mere-rebranding/)
 - [ChatGPT, LLMs, and Foundation models — a closer look into the hype and implications for startups](https://betterprogramming.pub/chatgpt-llms-and-foundation-models-a-closer-look-into-the-hype-and-implications-for-startups-b2f1d82f4d46)
 - [AI Image Generators Compared Side-By-Side Reveals Stark Differences](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+	- [RLHF+CHATGPT: What you must know](https://www.youtube.com/watch?v=PBH2nImUM5c)
+- [Langchain JS | How to Use GPT-3, GPT-4 to Reference your own Data | OpenAI Embeddings Intro](https://www.youtube.com/watch?v=veV2I-NEjaM)
 
 ### Language models
 - [GPT-4](https://openai.com/product/gpt-4)
@@ -29,6 +32,10 @@ title: "Foundation models"
 - [Bing chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
 - [Claude](https://www.anthropic.com/index/introducing-claude)
 - [ChatGPT](https://openai.com/blog/chatgpt)
+	- [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+	- [Typingmind](https://www.typingmind.com/) - A better UI for ChatGPT
+	- [ChatGPT Cheat Sheet for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science)
+	- [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 - [You chat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
 - [Perplexity.ai](https://www.perplexity.ai/)
@@ -72,9 +79,6 @@ title: "Foundation models"
 	- https://en.wikipedia.org/wiki/ChatGPT
 	- See GPT-3 in [[AI/Deep learning/Transformers]] 
 	- ChatGPT – a generative pre-trained transformer (GPT) – was fine-tuned on top of GPT-3.5 using [[Supervised learning]] as well as [[Reinforcement learning]]. Both approaches used human trainers to improve the model's performance. In the case of supervised learning, the model was provided with conversations in which the trainers played both sides: the user and the AI assistant. In the reinforcement learning step, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create 'reward models' that the model was further fine-tuned on using several iterations of Proximal Policy Optimization (PPO)
-	- [Typingmind](https://www.typingmind.com/) - A better UI for ChatGPT
-	- [ChatGPT Cheat Sheet for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science)
-	- [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)
 - #PAPER [ChatGPT is not all you need. A State of the Art Review of large Generative AI models (Gozalo-Brizuela 2023)](https://arxiv.org/pdf/2301.04655)
 - #PAPER [LLaMA: Open and Efficient Foundation Language Models (Touvron 2023)](https://arxiv.org/pdf/2302.13971)
 	- [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
@@ -94,5 +98,8 @@ title: "Foundation models"
 	- https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/
 	- https://github.com/tatsu-lab/stanford_alpaca#fine-tuning
 	- [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
+	- https://huggingface.co/mrm8488/Alpacoom
 - #PAPER [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Wu 2023)](https://arxiv.org/pdf/2303.04671)
 	- Visual ChatGPT opens the door of combining ChatGPT and Visual Foundation Models and enables ChatGPT to handle complex visual tasks
+- #PAPER [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (Bubeck 2023)](https://arxiv.org/pdf/2303.12712)
+	- [Paper explained](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)

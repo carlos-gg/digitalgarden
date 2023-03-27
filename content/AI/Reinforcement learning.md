@@ -2,7 +2,7 @@
 title: "Reinforcement learning (RL)"
 ---
 
-> Reinforcement learning (RL) is an area of [[AI/Machine Learning]] concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward
+> Reinforcement learning (RL) is an area of [[AI/ML]] concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward
 
 ## Resources
 - https://en.wikipedia.org/wiki/Reinforcement_learning

@@ -2,7 +2,7 @@
 title: "Deep Learning (DL)"
 ---
 
-> Deep learning (DL), also known as deep structured learning, is part of a broader family of [[AI/Machine Learning]] methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data
+> Deep learning (DL), also known as deep structured learning, is part of a broader family of [[AI/ML]] methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. DL uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data
 
 ## Resources
 - https://github.com/ChristosChristofidis/awesome-deep-learning
@@ -23,7 +23,6 @@ title: "Deep Learning (DL)"
 	- https://www.youtube.com/watch?v=81ES7IguZo4
 
 ### DL news aggregators
-- [DeepAI](https://deepai.org/)
 - [Papers with code](https://paperswithcode.com/)
 - [Deep learning monitor](https://deeplearn.org/)
 

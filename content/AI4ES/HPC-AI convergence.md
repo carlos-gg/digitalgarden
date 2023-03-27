@@ -10,7 +10,7 @@ title: "HPC-AI convergence"
 - #TALK [Innovator Insights: HW & SW Platforms for HPC, AI and ML](https://www.youtube.com/watch?v=g4gNb5sEqyM)
 - #TALK [HPC + AI: Machine Learning Models in Scientific Computing](https://www.youtube.com/watch?time_continue=1&v=SV3cnWf39kc&feature=emb_title)
 	- https://es.slideshare.net/insideHPC/hpc-ai-machine-learning-models-in-scientific-computing
-- The increasing interest in the usage of [[AI/Machine Learning]] (ML) and Artificial Intelligence techniques ([[AI/AI]]) to tackle high-impact research problems requires High Performance Computing (HPC) resources to efficiently compute and scale complex algorithms across thousands of nodes (Brayford et al. 2019). A diverse group of disciplines could be impacted by the integration of HPC and AI, especially those dealing with massive quantities of multi-dimensional data such as high energy physics, astrophysics and medical imaging.  
+- The increasing interest in the usage of [[AI/ML]] (ML) and Artificial Intelligence techniques ([[AI/AI]]) to tackle high-impact research problems requires High Performance Computing (HPC) resources to efficiently compute and scale complex algorithms across thousands of nodes (Brayford et al. 2019). A diverse group of disciplines could be impacted by the integration of HPC and AI, especially those dealing with massive quantities of multi-dimensional data such as high energy physics, astrophysics and medical imaging.  
 
 ### HPC vs AI programming models 
 - One of the main challenges in the convergence of HPC and AI is the gap between programming models. 

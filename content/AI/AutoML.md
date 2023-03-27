@@ -31,10 +31,16 @@ title: "AutoML"
 - http://www.kdnuggets.com/2017/01/current-state-automated-machine-learning.html
 - https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8
 
+### Neural architecture search (NAS)
+- NAS is closely related to hyperparameter optimization and is a subfield of automated machine learning (AutoML).
+- https://en.wikipedia.org/wiki/Neural_architecture_search
+	- Neural architecture search (NAS) is a technique for automating the design of artificial neural networks (ANN), a widely used model in the field of machine learning. NAS has been used to design networks that are on par or outperform hand-designed architectures. Methods for NAS can be categorized according to the search space, search strategy and performance estimation strategy used:
+	- The search space defines the type(s) of ANN that can be designed and optimized.
+	- The search strategy defines the approach used to explore the search space.
+	- The performance estimation strategy evaluates the performance of a possible ANN from its design (without constructing and training it).
 
 ## Books
 -  #BOOK [AutoML: Methods, systems, challenges](https://www.automl.org/book/)
-
 
 ## Code
 - #CODE [FLAML - Fast and Lightweight AutoML](https://github.com/microsoft/FLAML)
@@ -60,15 +66,10 @@ title: "AutoML"
 	- Automated modeling and machine learning framework
 	- https://fedot.readthedocs.io/en/latest/
 
+## References
+- #PAPER #REVIEW [An improved hyperparameter optimization framework for AutoML systems using evolutionary algorithms (Vincent 2023)](https://www.nature.com/articles/s41598-023-32027-3)
 
-## Neural architecture search (NAS)
-- NAS is closely related to hyperparameter optimization and is a subfield of automated machine learning (AutoML).
-- https://en.wikipedia.org/wiki/Neural_architecture_search
-	- Neural architecture search (NAS) is a technique for automating the design of artificial neural networks (ANN), a widely used model in the field of machine learning. NAS has been used to design networks that are on par or outperform hand-designed architectures. Methods for NAS can be categorized according to the search space, search strategy and performance estimation strategy used:
-	- The search space defines the type(s) of ANN that can be designed and optimized.
-	- The search strategy defines the approach used to explore the search space.
-	- The performance estimation strategy evaluates the performance of a possible ANN from its design (without constructing and training it).
-
+### NAS
 - [Literature on NAS](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 - #PAPER [AdaNet: Adaptive Structural Learning of Artificial Neural Networks (Cortes 2017)](http://proceedings.mlr.press/v70/cortes17a.html)
 	- https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html?m=1

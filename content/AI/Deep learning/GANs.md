@@ -19,7 +19,7 @@ title: "Generative Adversarial Networks (GANs)"
 - [Play with GANs in your browser](https://poloclub.github.io/ganlab/)
 - [Do GANs actually do distribution learning?](http://www.offconvex.org/2017/07/06/GANs3/)
 - [The GAN Zoo - A list of all named GANs!](https://deephunt.in/the-gan-zoo-79597dc8c347)
-- [Advances in Generative Adversarial Networks](https://beyondminds.ai/advances-in-generative-adversarial-networks-gans/) ^advancesingans
+- [Advances in Generative Adversarial Networks](https://beyondminds.ai/advances-in-generative-adversarial-networks-gans/) 
 	- Drawbacks of using GANs: Mode collapse, Convergence, Quality evaluation, Metrics
 	- Techniques for Improving Performance:
 		- Alternative Loss Functions: One of the most popular fixes to the shortcomings of GANs is the Wasserstein GAN. It essentially replaces the Jensen Shannon divergence of conventional GANs with the Earth Mover distance (Wasserstein-1 distance or EM distance)

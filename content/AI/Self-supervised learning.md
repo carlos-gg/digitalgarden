@@ -46,3 +46,6 @@ title: "Self-supervised learning"
 	- #CODE https://keras.io/examples/vision/supervised-contrastive-learning/
 	- extended the self-supervised batch contrastive approach to the fully-supervised setting, allowing us to effectively leverage label information
 	- clusters of points belonging to the same class are pulled together in embedding space, while simultaneously pushing apart clusters of samples from different classes
+- #PAPER [Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language (Auli 2022)](https://ai.facebook.com/research/publications/efficient-self-supervised-learning-with-contextualized-target-representations-for-vision-speech-and-language)
+	- [Data2vec 2.0: Highly efficient self-supervised learning for vision, speech and text](https://ai.facebook.com/blog/ai-self-supervised-learning-data2vec/)
+	- #CODE https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec
