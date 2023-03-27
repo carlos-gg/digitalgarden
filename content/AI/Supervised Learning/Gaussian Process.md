@@ -23,11 +23,11 @@ title: "Gaussian Process"
 - #CODE [GPflux](https://github.com/secondmind-labs/GPflux)
 	- GPflux uses the mathematical building blocks from GPflow and marries these with the powerful layered deep learning API provided by Keras. 
 	- https://secondmind-labs.github.io/GPflux/tutorials.html
-
+- #CODE [Gpax](https://github.com/ziatdinovmax/gpax) - Structured Gaussian Processes and Deep Kernel Learning
+	- GPax is a small Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX
 
 ## Books
 - #BOOK [Bayesian Optimization Book (Garnett 2021)](https://bayesoptbook.com/)
-
 
 ## References
 - #PAPER [Gaussian Processes for Machine Learning (Rasmussen and Williams 2006)](http://www.gaussianprocess.org/gpml/)
@@ -41,3 +41,4 @@ title: "Gaussian Process"
 	- #CODE https://github.com/PredictiveIntelligenceLab/GP-NODEs
 - #PAPER #REVIEW [An Intuitive Tutorial to Gaussian Processes Regression (Wang 2021)](https://arxiv.org/abs/2009.10862)
 - #PAPER #REVIEW [Deep Gaussian Processes: A Survey (Jakkala 2021)](https://arxiv.org/abs/2106.12135)
+- #PAPER [Physics makes the difference: Bayesian optimization and active learning via augmented Gaussian process (Ziatdinov 2021)](https://arxiv.org/pdf/2108.10280)

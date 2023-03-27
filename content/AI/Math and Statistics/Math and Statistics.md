@@ -239,7 +239,7 @@ See [[AI/Time Series analysis]]
 ### Regression analysis
 See [[AI/Supervised Learning/Regression]]
 - https://en.wikipedia.org/wiki/Regression_analysis
-- Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[AI/Machine Learning]]
+- Regression analysis is widely used for prediction and forecasting, where its use has substantial overlap with the field of [[AI/ML]]
 
 ### Compressed sensing
 See [[AI/Unsupervised learning/Sparse dictionary learning]]

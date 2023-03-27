@@ -35,11 +35,15 @@ title: "Anomaly and Outlier Detection"
 - ML techniques, such as Isolation Forest, Local Outlier Factor, and One-Class SVM. These methods are based on the idea that outliers are rare and different from the majority of the data points. Isolation Forest method uses a random forest approach to identify outliers in the time series data. It works by partitioning the data into subsets and then identifying subsets that are smaller than expected.
   
 ## Code
-- #CODE [Pyod](https://github.com/yzhao062/pyod)
+- #CODE [Pyod](https://github.com/yzhao062/pyod) - Comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data
 	- https://pyod.readthedocs.io/en/latest/
-	- PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. This exciting yet challenging field is commonly referred as Outlier Detection or Anomaly Detection.
- - #CODE [Anomaly detection (Twitter, for R)](https://github.com/twitter/AnomalyDetection)
-  
+- #CODE [Anomaly detection (Twitter, for R)](https://github.com/twitter/AnomalyDetection)
+- #CODE [Anomalib](https://github.com/openvinotoolkit/anomalib) - DL library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets
+	- An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference
+	- https://openvinotoolkit.github.io/anomalib/
+- #CODE [Orion](https://github.com/signals-dev/Orion) - A machine learning library for detecting anomalies in signals
+	- https://sintel.dev/Orion/
+	- Orion is a machine learning library built for unsupervised time series anomaly detection
   
 ## References
 - #PAPER [Isolation forest (Liu 2008)](https://ieeexplore.ieee.org/document/4781136 )
@@ -52,10 +56,8 @@ title: "Anomaly and Outlier Detection"
 - #PAPER [Modeling Extreme Events in Time Series Prediction (Ding 2019)](http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf)
 - #PAPER [Bayesian Anomaly Detection and Classification (2019)](https://arxiv.org/abs/1902.08627  )
 
-
 ### DL-based
-See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
-
+- See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
 - #PAPER [Learning Deep Features for One-Class Classification (Perera 2018)](https://arxiv.org/abs/1801.05365)
 - #PAPER [Deep One-Class Classification (Ruff 2018)](http://proceedings.mlr.press/v80/ruff18a.html)
 - #PAPER [Learning and Evaluating Representations for Deep One-Class Classification (Sohn 2021)](https://openreview.net/forum?id=HCSgyPUfeDj)
@@ -66,12 +68,4 @@ See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
 	- [Paper explained](https://www.youtube.com/watch?v=i-J4T3uLC9M&list=WL&index=59&t=4s)
 - #PAPER [AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection (Dragoi 2022)](https://arxiv.org/pdf/2206.15476v1)
 	- #CODE https://github.com/bit-ml/anoshift
-
-#### Code
-- #CODE [Anomalib](https://github.com/openvinotoolkit/anomalib)
-	- An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference
-	- https://openvinotoolkit.github.io/anomalib/
-	- Anomalib is a deep learning library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets
-- #CODE [Orion - A machine learning library for detecting anomalies in signals](https://github.com/signals-dev/Orion) ^oriontfanomalies
-	- https://sintel.dev/Orion/
-	- Orion is a machine learning library built for unsupervised time series anomaly detection
+- #PAPER #REVIEW [Deep learning for anomaly detection in multivariate time series: Approaches, applications, and challenges (Li 2023)](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001774)

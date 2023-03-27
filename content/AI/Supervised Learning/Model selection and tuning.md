@@ -5,29 +5,13 @@ title: "Model selection and tuning"
 > See: 
 > - [[AI/AutoML]] 
 > - [[AI/DS and DataEng/Data engineering and computer science]]
+> - [[AI/DS and DataEng/ML Ops]]
 
 
 ## Resources
 - [Model selection and evaluation](https://scikit-learn.org/stable/model_selection.html)
 
-## Code
-See [[AI/DS and DataEng/ML Ops]]
-- #CODE [Optuna - A hyperparameter optimization framework](https://github.com/optuna/optuna)
-	- https://optuna.org/
-- #CODE [Yellowbrick. Visual analysis and diagnostic tools to facilitate machine learning model selection](http://www.scikit-yb.org/en/latest/)
-- #CODE [Tune-sklearn](https://github.com/ray-project/tune-sklearn)
-	- Tune-sklearn is a drop-in replacement for Scikit-Learn’s model selection module (GridSearchCV, RandomizedSearchCV) with cutting edge hyperparameter tuning techniques
-- #CODE [Talos. Hyperparameter Optimization for Keras Models](https://autonomio.github.io/docs_talos/#introduction)
-- #CODE [Hyperopt. Distributed Asynchronous Hyperparameter Optimization in Python](http://hyperopt.github.io/hyperopt)
-	- [Hyperparameter optimization for neural networks](https://github.com/hyperopt/hyperopt-nnet)
-	- [Hyperopt-sklearn](http://hyperopt.github.io/hyperopt-sklearn/)
-	- #CODE [Hyperas- Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization](https://github.com/maxpumperla/hyperas)
-		- http://maxpumperla.github.io/hyperas/
-- #CODE [Hyperband - A Novel Bandit-Based Approach to Hyperparameter Optimization](https://github.com/zygmuntz/hyperband)
-	- #PAPER https://arxiv.org/abs/1603.06560
-	- http://fastml.com/tuning-hyperparams-fast-with-hyperband/
-
-## Bias-variance trade-off
+### Bias-variance trade-off
 - Problem of minimizing two sources of errors that prevent a supervised learning algorithm from generalizing beyond the training set:
 	- High bias  ->  underfitting
 	- High variance  ->  overfitting
@@ -41,7 +25,7 @@ See [[AI/DS and DataEng/ML Ops]]
 	- https://www.quora.com/How-can-I-avoid-overfitting
 	- https://www.quora.com/How-do-we-detect-overfitting-and-under-fitting-in-Machine-Learning
 
-## Cross-validation
+### Cross-validation
 - [Train, test and validation](https://machinelearningmastery.com/difference-test-validation-datasets/)
 - [Train, test, validation split and cross-validation (scikit-learn documentation)](http://scikit-learn.org/stable/modules/cross_validation.html)
 - http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html
@@ -52,5 +36,27 @@ See [[AI/DS and DataEng/ML Ops]]
 - http://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_10_cross_val.ipynb
 - [Hyperparameter optimization](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))
 - [Tuning the hyper-parameters of an estimator (scikit-learn documentation)](https://scikit-learn.org/stable/modules/grid_search.html)
+
+## Code
+- See [[AI/DS and DataEng/ML Ops]]
+- #CODE [Vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service
+	- https://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html
+	- #PAPER [Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization (Song 2023)](https://arxiv.org/pdf/2207.13676)
+	- https://www.marktechpost.com/2023/02/04/google-ai-open-sources-vizier-a-standalone-python-package-designed-for-managing-and-optimizing-machine-learning-experiments-at-scale/
+- #CODE [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+	- https://optuna.org/
+- #CODE [Yellowbrick](http://www.scikit-yb.org/en/latest/) - Visual analysis and diagnostic tools to facilitate machine learning model selection
+- #CODE [Tune-sklearn](https://github.com/ray-project/tune-sklearn) - Drop-in replacement for Scikit-Learn’s model selection module (GridSearchCV, RandomizedSearchCV) with cutting edge hyperparameter tuning techniques
+- #CODE [Talos](https://autonomio.github.io/docs_talos/#introduction) - Hyperparameter Optimization for TensorFlow, Keras and PyTorch
+- #CODE [Hyperopt](http://hyperopt.github.io/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
+	- [Hyperparameter optimization for neural networks](https://github.com/hyperopt/hyperopt-nnet)
+	- [Hyperopt-sklearn](http://hyperopt.github.io/hyperopt-sklearn/)
+	- #CODE [Hyperas- Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization](https://github.com/maxpumperla/hyperas)
+		- http://maxpumperla.github.io/hyperas/
+- #CODE [Hyperband](https://github.com/zygmuntz/hyperband) - A Novel Bandit-Based Approach to Hyperparameter Optimization
+	- #PAPER https://arxiv.org/abs/1603.06560
+	- http://fastml.com/tuning-hyperparams-fast-with-hyperband/
+
+
   
   

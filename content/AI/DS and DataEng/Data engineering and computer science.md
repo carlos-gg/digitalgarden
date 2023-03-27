@@ -29,7 +29,6 @@ See [[AI/DS and DataEng/Python]]
 ### Bash
 - [free GNU/Linux Online Terminal and Programming IDE](http://www.webminal.org/)
 
-
 ### CUDA
 - https://developer.nvidia.com/cuda-education
 - https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA
@@ -41,7 +40,6 @@ see ""Books" section in [[AI/DS and DataEng/Python]]
 - #BOOK [Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE)](http://www.mmds.org/)
 - #BOOK [Advanced Analytics with Spark (Ryza, 2017 OREILLY)](http://shop.oreilly.com/product/0636920056591.do)
 	- [Advanced Analytics with Spark, 2nd Edition.pdf](https://github.com/analystfreakabhi/btb_spark/blob/master/Advanced%20Analytics%20with%20Spark%2C%202nd%20Edition.pdf)
-- #BOOK [Pandas cookbook (Petrou, 2017 PACKT)](https://packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
 - #BOOK [The Big Book of Data Engineering (Databricks)](https://databricks.com/p/ebook/the-big-book-of-data-engineering)
 
 ### R
@@ -54,8 +52,7 @@ see ""Books" section in [[AI/DS and DataEng/Python]]
 - #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
 
 ## Courses
-See "Courses" section in [[AI/DS and DataEng/Python]]
-
+- See "Courses" section in [[AI/DS and DataEng/Python]]
 - #COURSE [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - #COURSE [Mining Massive Data Sets (CS246 Stanford)](http://web.stanford.edu/class/cs246/)
 	- https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about
@@ -66,10 +63,9 @@ See "Courses" section in [[AI/DS and DataEng/Python]]
 		- https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 		- https://github.com/FavioVazquez/ds-cheatsheets/tree/master/SQL
 
-
 ## Code
-- #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags)
-	- Defines a distributed command line system and manual argument parsing
+- See [[AI/DS and DataEng/ML Ops]]
+- #CODE [ABSL.flags](https://abseil.io/docs/python/guides/flags) - Defines a distributed command line system and manual argument parsing
 	- https://999999999.hatenablog.com/entry/argument_parse_with_abseil
 	- https://github.com/abseil/abseil-py/blob/main/smoke_tests/sample_app.py
 - #CODE [Memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -81,20 +77,9 @@ See "Courses" section in [[AI/DS and DataEng/Python]]
 - #CODE [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 	- https://www.pola.rs/benchmarks.html
 	- https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e
-- #CODE [Pandas](https://github.com/pandas-dev/pandas)
-	- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-	- https://www.youtube.com/watch?v=9d5-Ti6onew
-	- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-	- [Merge, Join and concatenate](http://pandas.pydata.org/pandas-docs/stable/merging.html)
-	- [SQL for pandas](http://blog.yhat.com/posts/pandasql-intro.html)
-	- [Plotting in pandas](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
-	- http://jakevdp.github.io/blog/2017/03/22/group-by-from-scratch/
-	- [Essential Descriptive Statistics in Pandas](https://simplyml.com/essential-descriptive-statistics-in-pandas/)
-	- Selecting Subsets of Data in Pandas:
-		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
-		- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c
+- #CODE Pandas [[AI/DS and DataEng/Pandas]]
 - #CODE [Modin - Scale your pandas workflows by changing one line of code](https://github.com/modin-project/modin)
-- #CODE [Xarray](AI/DS%20and%20DataEng/Xarray.md)
+- #CODE Xarray [[AI/DS and DataEng/Xarray]]
 - #CODE [Dedupe - A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution](https://github.com/dedupeio/dedupe)
 	- http://blog.districtdatalabs.com/basics-of-entity-resolution
 - #CODE [PyTables](https://github.com/PyTables/PyTables)

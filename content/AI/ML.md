@@ -5,8 +5,8 @@ title: "Machine Learning (ML)"
 > The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyse and draw inferences from patterns in data
 
 ## Resources
-- [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
-- [Machine Learning Research Articles](https://deepai.org/publications/statistics-machine-learning/1)
+- https://github.com/josephmisiti/awesome-machine-learning
+- [The Illustrated Machine Learning website](https://illustrated-machine-learning.github.io/index.html)
 - [Rules of ML (Google)](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Jason's Machine Learning 101 (Google)](https://www.youtube.com/watch?v=JpTYbmpoHT0)
 	- https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview

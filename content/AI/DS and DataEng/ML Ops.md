@@ -22,6 +22,7 @@ title: "Machine Learning Operations (MLOps)"
 	- Open source, stable-diffusion production server to show how to deploy diffusion models in a real production environment with: load-balancing, gpu-inference, performance-testing, micro-services orchestration and more. All handled easily with the Lightning Apps framework
 
 ### Experiment tracking
+- See [[AI/Supervised Learning/Model selection and tuning]]
 - https://neptune.ai/blog/best-ml-experiment-tracking-tools
 - #CODE [Weights & Biases](https://github.com/wandb/wandb) - A tool for visualizing and tracking your machine learning experiments
 	- https://docs.wandb.com/

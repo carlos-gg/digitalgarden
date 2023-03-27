@@ -30,6 +30,7 @@ title: "Forecasting"
 	- https://joaquinamatrodrigo.github.io/skforecast/
 	- Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code
 	- https://www.kdnuggets.com/2021/12/sota-explainable-forecasting-and-nowcasting.html
+	- [Skforecast: time series forecasting with Python and Scikit-learn](https://www.cienciadedatos.net/documentos/py27-time-series-forecasting-python-scikitlearn.html)
 - #CODE [Pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
 	- https://pytorch-forecasting.readthedocs.io/en/stable/index.html#
 - #CODE [Deep_XF](https://github.com/ajayarunachalam/Deep_XF)
@@ -83,3 +84,5 @@ title: "Forecasting"
 	- #CODE https://github.com/salesforce/DeepTime
 	- DeepTime is a deep time-index based model trained via a meta-learning formulation, yielding a strong method for non-stationary time-series forecasting
 	- https://pub.towardsai.net/meta-learning-for-time-series-forecasting-deeptime-in-pytorch-lightning-3d97351099c6
+- #PAPER [Forecast evaluation for data scientists: common pitfalls and best practices (Hewamalage 2022)](https://link.springer.com/article/10.1007/s10618-022-00894-5)
+- #PAPER #REVIEW [Review of ML and AutoML Solutions to Forecast Time-Series Data (Alsharef 2022)](https://link.springer.com/article/10.1007/s11831-022-09765-0)

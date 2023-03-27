@@ -119,7 +119,7 @@ title: "Data Science"
 See [[AI/Math and Statistics/Math and Statistics]]
 
 ### Machine Learning
-See [[AI/Machine Learning]]
+See [[AI/ML]]
 
 ### Data engineering and Computer Science
 See [[AI/DS and DataEng/Data engineering and computer science]]

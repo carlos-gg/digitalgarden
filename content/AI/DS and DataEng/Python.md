@@ -68,6 +68,9 @@ twine upload dist/*
 ## Code
 > Most of the code entries in this digital knowledge garden are in Python. Just look around!
 
+- #CODE [Codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+	- https://docs.exaloop.io/codon
+
 ### Package documentation
 - https://realpython.com/documenting-python-code/
 - [Documenting Python code](https://aboucaud.github.io/slides/2016/python-docstrings)

@@ -2,7 +2,7 @@
 title: "AI4ES"
 ---
 
-> Applications of [[AI/Machine Learning]] and [[AI/AI]] to Earth Sciences
+> Applications of [[AI/ML]] and [[AI/AI]] to Earth Sciences
 
 > See:
 > - [[AI4ES/EO]]
@@ -213,7 +213,7 @@ See [[AI4ES/XAI for ES]] and [[AI4ES/Causal modeling in ES]]
 
 ## Events
 - See [[AI4ES/EO#Events]] and [[AI4ES/Geospatial science#Events]]
-- Conferences, events, workshops and courses related to [[AI/AI]], [[AI4ES/EO]], [[AI4ES/Geospatial science]] and [[AI/Machine Learning]] applied to Earth Sciences.
+- Conferences, events, workshops and courses related to [[AI/AI]], [[AI4ES/EO]], [[AI4ES/Geospatial science]] and [[AI/ML]] applied to Earth Sciences.
 - [AI for Good. Discovery - AI and Climate Science](https://aiforgood.itu.int/eventcat/discovery-ai-and-climate-science/)
 - https://spcl.inf.ethz.ch/Bcast/
 

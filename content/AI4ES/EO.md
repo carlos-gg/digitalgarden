@@ -3,6 +3,7 @@ title: "EO"
 ---
 
 ## Resources
+- https://github.com/satellite-image-deep-learning/techniques
 - [Towards a European AI for Earth Observation Research & Innovation Agenda](http://blogs.esa.int/philab/files/2018/07/Towards-a-European-AI-for-Earth-Observation-Research-Innovation-Agenda-.pdf)
 - [Is DS 4 EO BS?](https://labo.obs-mip.fr/multitemp/is-ds-4-eo-bs/)
 - [The value of super resolution — real world use case](https://medium.com/sentinel-hub/the-value-of-super-resolution-real-world-use-case-2ba811f4cd7f)
@@ -22,6 +23,8 @@ title: "EO"
 - [ESA Living Planet symposium](https://www.eumetsat.int/living-planet-symposium)
 
 ## Courses
+- #COURSE [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
+	- https://www.eefabook.org/videos.html
 - #COURSE [Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
 - #COURSE [ESA MOOCs](https://eo4society.esa.int/training-education/massive-open-online-courses-moocs/)
 - #COURSE [ESA ML lectures 2018](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
@@ -113,6 +116,7 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 - #PAPER [RaVÆn: unsupervised change detection of extreme events using ML on‑board satellites (Ruzicka 2022)](https://www.nature.com/articles/s41598-022-19437-5.epdf)
 	- #CODE https://github.com/spaceml-org/RaVAEn
 - #PAPER [Spatially autocorrelated training and validation samples inflate performance assessment of convolutional neural networks (Kattenborn 2022)](https://www.sciencedirect.com/science/article/pii/S2667393222000072)
+- #PAPER [Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives (Sumbul 2023)](https://arxiv.org/pdf/2004.01613)
 
 ### Object detection/recognition
 - #PAPER DIOR (see [[AI4ES/AI4ES data#EO and Satellite data]])
