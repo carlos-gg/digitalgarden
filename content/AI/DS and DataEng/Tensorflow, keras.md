@@ -18,6 +18,7 @@ title: "Tensorflow, Keras"
 - [Understanding Tensorflow's tensors shape: static and dynamic](https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/)
 - [How to Write TensorFlow 2 Custom Loops](https://towardsdatascience.com/writing-tensorflow-2-custom-loops-438b1ab6eb6c)
 - [Solving the TensorFlow Keras Model Loss Problem](https://towardsdatascience.com/solving-the-tensorflow-keras-model-loss-problem-fd8281aeeb11)
+- [Building the Future of TensorFlow](https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html)
 
 ### Mixed precision
 - https://www.tensorflow.org/guide/mixed_precision
@@ -104,6 +105,8 @@ Data lazy loading:
 	- http://keras.io/
 	- https://keras.io/getting_started/intro_to_keras_for_researchers/
 	- [Modern Keras design patterns](https://www.youtube.com/watch?v=FCz9m4T0DI0)
+- #CODE [Keras-cv](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras
+- #CODE [Keras-nlp](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras
 - #CODE [AutoKeras - Auto-Keras is an open source software library for automated machine learning (AutoML)](https://github.com/keras-team/autokeras)
 	- http://autokeras.com/
 	- #PAPER [Auto-Keras: An Efficient Neural Architecture Search System (Jin 2019)](https://arxiv.org/abs/1806.10282)

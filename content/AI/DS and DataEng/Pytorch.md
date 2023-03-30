@@ -6,6 +6,7 @@ title: "Pytorch"
 ## Resources
 - [Named Tensors using First-class Dimensions in PyTorch](https://github.com/facebookresearch/torchdim)
 - [Accelerate your models to production with Google Cloud and PyTorch](https://opensource.googleblog.com/2022/09/accelerate-your-models-to-production-with-google-cloud-and-pytorch_0905763892.html)
+- [PyTorch 2.0 brings new fire to open-source machine learning](https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/)
 
 ## Courses
 - #COURSE [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)

@@ -88,15 +88,13 @@ See [[AI/DS and DataEng/Open ML data]]
 	- PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows
 	- PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks such as scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Optuna, Hyperopt, Ray, and many more
 	- PyCaret >= 2.2 provides the option to use GPU for select model training and hyperparameter tuning
-- #CODE [Hypertools](https://github.com/ContextLab/hypertools)
-	-  A python toolbox for visualizing and manipulating high-dimensional data
+- #CODE [Hypertools](https://github.com/ContextLab/hypertools) - Python toolbox for visualizing and manipulating high-dimensional data
 	- http://hypertools.readthedocs.io/en/latest/
 	- https://github.com/ContextLab/hypertools-paper-notebooks
 	- http://blog.kaggle.com/2017/04/10/exploring-the-structure-of-high-dimensional-data-with-hypertools-in-kaggle-kernels/
-- #CODE [PySAL: Python Spatial Analysis Library Meta-Package](https://github.com/pysal/pysal)
+- #CODE [PySAL](https://github.com/pysal/pysal) - Python Spatial Analysis Library Meta-Package
 	- http://pysal.org/pysal/
-- #CODE [MLxtend](http://rasbt.github.io/mlxtend/)
-	- A library of extension and helper modules for Python's data analysis and machine learning libraries
+- #CODE [MLxtend](http://rasbt.github.io/mlxtend/) - Library of extension and helper modules for Python's data analysis and machine learning libraries
 - #CODE [H2O](https://github.com/h2oai/)
 	- http://www.h2o.ai/
 	- https://github.com/h2oai/h2o-3
@@ -114,7 +112,7 @@ See [[AI/DS and DataEng/Open ML data]]
 - #CODE [DMTK (Microsoft)](https://github.com/Microsoft/DMTK)
 	- http://www.dmtk.io/
 	- [Light LDA - Scalable, fast, and lightweight system for large-scale topic modeling](http://www.dmtk.io)
-- #CODE [RAPIDS - GPU data science](https://github.com/rapidsai, https://rapids.ai/)
+- #CODE [RAPIDS](https://github.com/rapidsai, https://rapids.ai/) - GPU data science
 	- #CODE [cuML - RAPIDS Machine Learning Library](https://github.com/rapidsai/cuml)
 	- #CODE [cuspatial - CUDA-accelerated GIS and spatiotemporal algorithms](https://github.com/rapidsai/cuspatial)
 	- #CODE [cuSignal - RAPIDS Signal Processing Library](https://github.com/rapidsai/cusignal)
@@ -124,31 +122,29 @@ See [[AI/DS and DataEng/Open ML data]]
 		- https://cupy.chainer.org/
 		- https://docs-cupy.chainer.org/en/stable/
 		- https://docs-cupy.chainer.org/en/stable/tutorial/
-- #CODE [ArrayFire](https://github.com/arrayfire/arrayfire-python)
-	- ArrayFire is a high performance library for parallel computing with an easy-to-use API. It enables users to write scientific computing code that is portable across CUDA, OpenCL and CPU devices. This project provides Python bindings for the ArrayFire library.
+- #CODE [ArrayFire](https://github.com/arrayfire/arrayfire-python) - High performance library for parallel computing with an easy-to-use API
+	- It enables users to write scientific computing code that is portable across CUDA, OpenCL and CPU devices. This project provides Python bindings for the ArrayFire library.
 	- https://arrayfire.com/
-- #CODE [TuriCreate (Apple)](https://github.com/apple/turicreate)
-	- TuriCreate simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app
-	- https://developer.apple.com/videos/play/wwdc2018/712/
-- #CODE [ThunderSVM - A Fast SVM Library on GPUs and CPUs](https://github.com/zeyiwen/thundersvm)
+- #CODE [ThunderSVM](https://github.com/zeyiwen/thundersvm) - A Fast SVM Library on GPUs and CPUs
 - #CODE [PyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
 	- https://pygam.readthedocs.io
-- #CODE [SurPRISE - A Python scikit for building and analyzing recommender systems](http://surpriselib.com)
+- #CODE [SurPRISE](http://surpriselib.com) - A Python scikit for building and analyzing recommender systems
 - #CODE [Facets](https://github.com/PAIR-code/facets)
 	- visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive. The visualizations are implemented as Polymer web components, backed by Typescript code and can be easily embedded into Jupyter notebooks or webpages
 	- https://pair-code.github.io/facets/
 - #CODE [PyCM](https://github.com/sepandhaghighi/pycm)
 	- PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 	- http://www.pycm.ir/
-
+- #CODE [Pycircular](https://github.com/albahnsen/pycircular) - Python module for circular data analysis
+	- https://towardsdatascience.com/introducing-pycircular-a-python-library-for-circular-data-analysis-bfd696a6a42b
 
 ## References
-See [[AI/AI-ML-DL for scientific discovery]]
+- See [[AI/AI-ML-DL for scientific discovery]]
 - #PAPER [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (Raschka 2020)](https://arxiv.org/abs/2002.04803)
 - #PAPER [How to avoid machine learning pitfalls: a guide for academic researchers (Lones 2021)](https://arxiv.org/abs/2108.02497)
 	- https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/
 - #PAPER [Pen and Paper Exercises in Machine Learning (Gutmann 2022)](https://arxiv.org/pdf/2206.13446)
-
+- #PAPER [How to avoid machine learning pitfalls: a guide for academic researchers (Lones 2023)](https://arxiv.org/pdf/2108.02497)
 
 ## Subtopics
 

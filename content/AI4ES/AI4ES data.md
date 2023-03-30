@@ -264,3 +264,4 @@ See [[AI4ES/Extremes events#Databases]]
 - [Word pop](https://www.worldpop.org/)
 - [GHS-pop](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop)
 - [Open Government Building Data](https://ual.sg/project/ogbd/)
+- [Urban Atlas (Copernicus - Land monitoring service)](https://land.copernicus.eu/local/urban-atlas)

@@ -146,3 +146,5 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [Earthformer: Exploring Space-Time Transformers for Earth System Forecasting (Gao 2022)](https://arxiv.org/pdf/2207.05833)
 	- Earthformer is a space-time Transformer for Earth system forecasting. Earthformer is based on a generic, flexible and efficient space-time attention block, named Cuboid Attention
 	- The idea is to decompose the data into cuboids and apply cuboid-level self-attention in parallel. These cuboids are further connected with a collection of global vectors
+- #PAPER [GraphCast: Learning skillful medium-range global weather forecasting (Lam 2022)](https://arxiv.org/pdf/2212.12794)
+	- https://www.marktechpost.com/2022/12/30/deepmind-and-google-introduce-graphcast-a-fast-and-scalable-machine-learning-weather-simulator/

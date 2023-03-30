@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence (AI)"
 ---
 
 > The expression _artificial intelligence_ is an umbrella term encompassing a suite of technologies that can perform complex tasks when acting in conditions of uncertainty, including visual perception, speech recognition, natural language processing, reasoning, learning from data, and a range of optimisation problems.
@@ -38,6 +38,9 @@ See [[AI4ES/AI4ES]]
 
 ### AI for good
 See [[AI4G/AI4good]]
+
+### Fair AI
+See [[AI/FairAI]]
 
 ## Events
 - [Neural Information Processing Systems Conference (NeurIPS)](https://nips.cc/)
@@ -125,9 +128,6 @@ See [[AI/Automated planning]]
 
 ### Evolutionary computation
 See [[AI/Evolutionary computation]]
-
-### Fair AI
-See [[AI/FairAI]]
 
 ### Explainable AI
 See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]

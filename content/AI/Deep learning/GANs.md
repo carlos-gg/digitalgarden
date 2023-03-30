@@ -99,27 +99,23 @@ title: "Generative Adversarial Networks (GANs)"
 ### GANs for super-resolution
 See "GAN-based" section in [[AI/Computer Vision/Super-resolution]]
 
-
 ### GANs for missing data, imputation and inpainting
 See "GAN-based" section in [[AI/Computer Vision/Inpainting and restoration]]
 
-
 ### Image-to-image translation. Conditional GANs
 See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
-
 
 ### GANs for spatio-temporal data generation
 - #PAPER [COT-GAN: Generating Sequential Data via Causal Optimal Transport (Xu 2020)](https://arxiv.org/abs/2006.08571)
 - #PAPER [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss (Klemmer 2021)](https://arxiv.org/abs/2109.15044#) ^spate-gan
 	- #CODE https://github.com/konstantinklemmer/spate-gan
 
-
 ### GANs for representation learning and image synthesis 
 - #PAPER [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, Laplacian GAN (Denton 2015)](https://arxiv.org/abs/1506.05751)
 - #PAPER [Adversarial feature learning, BiGAN (Donahue 2017)](https://arxiv.org/abs/1605.09782)
 - #PAPER [Large Scale Adversarial Representation Learning, BigBiGAN (Donahue 2019)](https://arxiv.org/abs/1907.02544)
 - #PAPER [Large Scale GAN Training for High Fidelity Natural Image Synthesis, BigGAN (Brock 2019)](https://arxiv.org/abs/1809.11096)
-- #PAPER [Self-Attention GANs, SAGAN (Zhang 2019)](https://arxiv.org/abs/1805.08318) ^sagan
+- #PAPER [Self-Attention GANs, SAGAN (Zhang 2019)](https://arxiv.org/abs/1805.08318) 
 	- #CODE https://github.com/brain-research/self-attention-gan
 - #PAPER [In-domain GAN Inversion for Real Image Editing (Zhu 2020)](https://genforce.github.io/idinvert/)
 	- [Paper explained](https://www.youtube.com/watch?v=2qMw8sOsNg0)
@@ -136,9 +132,8 @@ See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
 - #PAPER [Instance-Conditioned GAN (Casanova 2021)](https://arxiv.org/abs/2109.05070)
 	- #CODE https://paperswithcode.com/paper/instance-conditioned-gan?from=n17
 
-
 ### Semi-supervised GANs
-- #PAPER [Improved Techniques for Training GANs (Saliman 2016)](https://arxiv.org/abs/1606.03498) ^improvedgans
+- #PAPER [Improved Techniques for Training GANs (Saliman 2016)](https://arxiv.org/abs/1606.03498) 
 	- https://towardsdatascience.com/semi-supervised-learning-with-gans-9f3cb128c5e
 	- https://hjweide.github.io/semi-supervised-dcgan
 - #PAPER [Semi-Supervised Learning with Generative Adversarial Networks (Odena 2016)](https://arxiv.org/abs/1606.01583)
@@ -147,13 +142,11 @@ See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
 - #PAPER [Semi-supervised Learning in Generative Adversarial Networks, review (2018)](https://farzadab.github.io/assets/projects/pdf/Review__SSL_in_GANs.pdf)
     - The GAN framework can be integrated with almost any available neural network classifier in order to make use of unlabeled data
 
-
 ### Few/one-shot learning GANs 
 See "Few one-shot learning GANs" section in [[AI/One, few-shot learning]]
-
 
 ### GANs for anomaly detection
 - #PAPER [A Survey on GANs for Anomaly Detection (Di Mattia 2019)](https://arxiv.org/abs/1906.11632 )
 - #PAPER [TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks (Geiger 2020)](https://arxiv.org/abs/2009.07769)
-	- #CODE ^oriontfanomalies in [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
+	- #CODE "Orion" in [Anomaly and Outlier Detection](AI/Anomaly%20and%20Outlier%20Detection.md)
 	- https://analyticsindiamag.com/hands-on-guide-to-tadgan-with-python-codes/

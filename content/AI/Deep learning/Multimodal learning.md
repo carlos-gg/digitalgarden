@@ -89,3 +89,13 @@ title: "Multimodal learning"
 	- https://gligen.github.io/
 	- https://huggingface.co/spaces/gligen/demo
 	- https://the-decoder.com/gligen-gives-you-more-control-over-ai-image-generation/
+- #PAPER [Scaling up GANs for Text-to-Image Synthesis (Kang 2023)](https://arxiv.org/pdf/2303.05511)
+	- [[AI/Deep learning/GANs]]
+	- [Scaling up GANs for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/)
+- #PAPER [OpenFlamingo (Awadalla 2023)](https://laion.ai/blog/open-flamingo/)
+	- An open-source framework for training vision-language models with in-context learning (like GPT-4!)
+	- Includes a Python framework to train Flamingo-style LMMs, a large-scale multimodal dataset with interleaved image and text sequences, an in-context learning evaluation benchmark for vision-language tasks and a trained models (eg OpenFlamingo-9B model based on LLaMA)
+	- [Demo](https://7164d2142d11.ngrok.app/)
+- #PAPER [Modulating Pretrained Diffusion Models for Multimodal Image Synthesis (Ham 2023)](https://arxiv.org/pdf/2302.12764)
+	- https://www.marktechpost.com/2023/03/16/one-diffusion-to-rule-diffusion-modulating-pre-trained-diffusion-models-for-multimodal-image-synthesis/
+	- [[AI/Deep learning/Diffusion models]]
