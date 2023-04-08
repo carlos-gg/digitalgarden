@@ -10,8 +10,11 @@ title: "Machine Learning Operations (MLOps)"
 - https://github.com/visenger/awesome-mlops
 - https://github.com/EthicalML/awesome-production-machine-learning
 - [More Data, More Problems: Using DVC to handle data versioning for a computer vision problem](https://mlops.systems/tools/redactionmodel/computervision/mlops/2022/05/24/data-versioning-dvc.html)
+- [What is MLOps and how to get started? | MLOps series](https://www.youtube.com/watch?v=LdLFJUlPa4Y)
 
 ## Courses
+- #COURSE [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) (CS 329S, Stanford)
+- #COURSE [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production) (Coursera, DeepLearning.AI)
 - #COURSE [Effective MLOps - Model development](https://www.wandb.courses/courses/effective-mlops-model-development) (Weights & Biases)
 - #COURSE [CI/CD for Machine Learning (GitOps)](https://www.wandb.courses/courses/ci-cd-for-machine-learning) (Weights & Biases)
 - #COURSE [MLOps Course](https://github.com/GokuMohandas/mlops-course)

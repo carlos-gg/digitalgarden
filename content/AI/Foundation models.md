@@ -23,6 +23,7 @@ title: "Foundation models"
 
 ### Language models
 - [GPT-4](https://openai.com/product/gpt-4)
+	- [OpenAI GPT-4 - The Future Is Here!](https://www.youtube.com/watch?v=7VSWyghVZIg)
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
 	- https://www.nature.com/articles/d41586-022-01705-z

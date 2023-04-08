@@ -93,6 +93,9 @@ See [[AI/FairAI]]
 - #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
 	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI
 	- Graph with exponential growth in AI papers
+- #PAPER [Reflexion: an autonomous agent with dynamic memory and self-reflection (Shinn 2023)](https://arxiv.org/pdf/2303.11366)
+	- See [[AI/Foundation models]]
+	- [Paper explained - GPT 4 Can Improve Itself](https://www.youtube.com/watch?v=5SgJKZLBrmg)
 
 ## Related fields and concepts
 
