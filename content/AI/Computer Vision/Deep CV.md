@@ -34,7 +34,6 @@ See:
 ## Code
 - #CODE [ChainerCV: a Library for Computer Vision in Deep Learning](https://github.com/chainer/chainercv)
 		- http://chainercv.readthedocs.io/en/stable/
-- #CODE [Openface. Free and open source face recognition with deep neural networks](https://cmusatyalab.github.io/openface/)
 - #CODE [Vision](https://github.com/pytorch/vision) - The torchvision package consists of popular datasets, model architectures, and common image transformations fo CV
 - #CODE [Scenic](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond
 	- https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
@@ -45,6 +44,7 @@ See:
 	- https://rwightman.github.io/pytorch-image-models/
 - #CODE [Imgaug. Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
 	- http://imgaug.readthedocs.io
+- #CODE [Openface. Free and open source face recognition with deep neural networks](https://cmusatyalab.github.io/openface/)
 
 ## References
 - #PAPER #REVIEW [Deep Learning for Computer Vision: A Brief Review (Voulodimos 2017)](https://www.hindawi.com/journals/cin/2018/7068349/)

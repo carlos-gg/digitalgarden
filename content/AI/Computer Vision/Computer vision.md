@@ -48,15 +48,15 @@ title: "Computer Vision"
 
 ## Code
 - See "Code" in [[AI/Computer Vision/Deep CV]]
-- #CODE [Scikit-image. Image processing in Python](https://github.com/scikit-image/scikit-image)
+- #CODE [Scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 	- http://scikit-image.org
-- #CODE [OpenCV (Open Source Computer Vision Library)](https://opencv.org/)
+- #CODE [OpenCV](https://opencv.org/) - Open Source Computer Vision Library
 	- OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications. Written in optimized C/C++, the library can take advantage of multi-core processing. Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform.
 	- https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV
 	- #PAPER [Real-time computer vision with OpenCV (Pulli 2012)](https://dl.acm.org/doi/10.1145/2184319.2184337)
-- #CODE [SimpleCV](https://github.com/sightmachine/SimpleCV)
-	- http://simplecv.org/
-	- SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV – without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. This is computer vision made easy.
+- #CODE [Pillow](https://github.com/python-pillow/Pillow) - The Python Imaging Library adds image processing capabilities to your Python interpreter
+	- https://python-pillow.org/
+	- https://pillow.readthedocs.io/en/stable/
 	
 ## References
 - #PAPER [Brief review of image denoising techniques (Fan 2019)](https://vciba.springeropen.com/articles/10.1186/s42492-019-0016-7)

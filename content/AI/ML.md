@@ -65,7 +65,7 @@ See [[AI/DS and DataEng/Open ML data]]
 	- https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
 
 ## Code 
-- See [[AI/DS and DataEng/ML Ops#Code]]
+- See "Code" section in [[AI/DS and DataEng/ML Ops]] and [[AI/DS and DataEng/Cloud platforms]]
 - #CODE [Benchmarks of ML libraries](https://github.com/szilard/benchm-ml)
 - #CODE [Ludwig](https://github.com/ludwig-ai/ludwig) - declarative machine learning framework
 	- https://medium.com/predibase/ludwig-automl-for-text-classification-7c1759f3b150

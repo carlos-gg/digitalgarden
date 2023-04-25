@@ -6,7 +6,7 @@ title: "Artificial Intelligence (AI)"
 
 ## Resources
 - https://en.wikipedia.org/wiki/Artificial_intelligence
-- [AtHomeWithAI | Deepmind](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+- [AtHomeWithAI (Deepmind)](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/amusi/awesome-ai-awesomeness
 - https://github.com/JosPolfliet/awesome-ai-usecases
