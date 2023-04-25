@@ -154,6 +154,11 @@ title: "AI4ES"
 ### Climate models
 See [[AI4ES/ESMs, GCMs]], [[AI4ES/Ensembles, multi-models]] and [[AI4ES/Weather forecasting, nowcasting]], [[AI/Computer Vision/Image-to-image translation]], [[AI/Computer Vision/Video segmentation and prediction]] (next frame prediction) using the temporal dimension
 
+### Foundation models
+- #PAPER [ClimaX: A foundation model for weather and climate (Nguyen 2023)](https://arxiv.org/pdf/2301.10343)
+	- #CODE https://microsoft.github.io/ClimaX/
+	- https://syncedreview.com/2023/01/30/microsoft-ucla-introduce-climax-a-foundation-model-for-climate-and-weather-modelling/
+
 ### Filling observational gaps
 See [[AI4ES/Filling observational gaps]]
 
