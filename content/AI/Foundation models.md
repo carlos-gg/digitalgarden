@@ -22,28 +22,39 @@ title: "Foundation models"
 - [Langchain JS | How to Use GPT-3, GPT-4 to Reference your own Data | OpenAI Embeddings Intro](https://www.youtube.com/watch?v=veV2I-NEjaM)
 
 ### Language models
-- [GPT-4](https://openai.com/product/gpt-4)
+- [GPT-4 (OpenAI)](https://openai.com/product/gpt-4)
 	- [OpenAI GPT-4 - The Future Is Here!](https://www.youtube.com/watch?v=7VSWyghVZIg)
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [LLaMA (Meta)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [Introducing The World’s Largest Open Multilingual Language Model: BLOOM](https://bigscience.huggingface.co/blog/bloom)
 	- https://www.nature.com/articles/d41586-022-01705-z
 - [YaLM-100B](https://github.com/yandex/YaLM-100B)
+- [Stable LM (Stability AI)](https://github.com/Stability-AI/StableLM)
+	- https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
+- [Pythia (EleutherAI)](https://github.com/EleutherAI/pythia)
 
-#### AI-based conversational models and search engines
-- [Bing chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
+##### Instruction-following models
 - [Claude](https://www.anthropic.com/index/introducing-claude)
-- [ChatGPT](https://openai.com/blog/chatgpt)
+- [ChatGPT (OpenAI)](https://openai.com/blog/chatgpt)
 	- [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 	- [Typingmind](https://www.typingmind.com/) - A better UI for ChatGPT
 	- [ChatGPT Cheat Sheet for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science)
 	- [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)
-- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- [Bard (Google)](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- [Dolly (Databricks)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+	- [databricks-dolly-15k dataset](https://github.com/databrickslabs/dolly/tree/master/data) - 15k high-quality human-generated prompt / response pairs specifically designed for instruction tuning LLMs
+- [Alpaca (Stanford)](https://crfm.stanford.edu/2023/03/13/alpaca.html) - Fine-tuned LlaMA model
+- ColossalChat
+
+##### Search engines
+- [Bing chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
 - [You chat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
-- [Perplexity.ai](https://www.perplexity.ai/)
-- [Exper AI](https://www.experai.com/)
 - [Neeva](https://neeva.com/)
+- [Perplexity.ai](https://www.perplexity.ai/)
+
+##### Summarization services
 - [Humata](https://www.humata.ai/) - Ask AI anything about your files
 - [Explainpaper](https://www.explainpaper.com/) - Understand papers instantly
+- [Exper AI](https://www.experai.com/) - Expert chat bots
 
 ### Vision Models
 - [Midjourney](https://www.midjourney.com/home/)
@@ -104,3 +115,4 @@ title: "Foundation models"
 	- Visual ChatGPT opens the door of combining ChatGPT and Visual Foundation Models and enables ChatGPT to handle complex visual tasks
 - #PAPER [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (Bubeck 2023)](https://arxiv.org/pdf/2303.12712)
 	- [Paper explained](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)
+- #PAPER [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling (Biderman 2023)](https://arxiv.org/pdf/2304.01373)

@@ -11,12 +11,18 @@ title: "Generative modeling"
 	- [Introduction to deep generative modeling: Why, Where and How](https://jmtomczak.github.io/blog/1/1_introduction.html)
 	- [Introduction to deep generative modeling: Energy-based Models](https://jmtomczak.github.io/blog/11/11_energy_based_models.html)
 
-
 ## Courses
 - #COURSE [Deep Generative Modeling: VAEs and GANs (MIT 6.S191)](https://www.youtube.com/watch?v=rZufA635dq4&t=1062s)
 - #COURSE [Deep Generative Models (Stanford CS236 - Fall 2021)](https://deepgenerativemodels.github.io/)
 - #COURSE [Deep Generative Models lecture (Carnegie Mellon University)](https://www.youtube.com/watch?v=qEbYtPhG768)
+- #COURSE [Generative Deep Learning with TensorFlow (Deeplearning.AI coursera)](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow)
 
+## Code
+- #CODE https://keras.io/examples/generative/
+
+## Books
+* #BOOK [Generative Deep Learning (Foster 2023)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+	* #CODE https://github.com/davidADSP/GDL_code
 
 ## Subtopics
 ### Variational Autoencoders
@@ -31,7 +37,10 @@ See [[AI/Deep learning/Normalizing flows]]
 ### Diffusion models
 See [[AI/Deep learning/Diffusion models]]
 
-### Generative models for Image data
+### GFlow nets
+See [[AI/Deep learning/GFlowNets|GFlowNets]] 
+
+### Generative models for computer vision
 See: 
 - "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
 - "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]

@@ -140,3 +140,14 @@ See [[AI/Neuro-symbolic AI]]
 
 ### Foundation models
 See [[AI/Foundation models]]
+
+### AI agents
+- See [[AI/Foundation models]] and [[AI/Deep learning/Multimodal learning]] 
+- [ChatGPT’s next level is Agent AI: Auto-GPT, BabyAGI, AgentGPT, Microsoft Jarvis & friends](https://medium.com/the-generator/chatgpts-next-level-is-agent-ai-auto-gpt-babyagi-agentgpt-microsoft-jarvis-friends-d354aa18f21)
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous
+	- https://significant-gravitas.github.io/Auto-GPT/
+	- https://autogpt.net/
+- [JARVIS / HuggingGPT](https://github.com/microsoft/JARVIS)
+	- #PAPER  [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (Shen 2023)](https://arxiv.org/pdf/2303.17580)
+- [AgentGPT](https://agentgpt.reworkd.ai/es)
+- [BabyAGI](https://babyagi.org/)
