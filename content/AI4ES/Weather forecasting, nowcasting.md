@@ -56,6 +56,7 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [MetNet: A Neural Weather Model for Precipitation Forecasting (Sonderby 2020)](https://arxiv.org/abs/2003.12140)
 	- #TALK https://vimeo.com/417618472
 		- https://www.ecmwf.int/sites/default/files/medialibrary/2020-05/12_May.pdf
+	- https://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html?m=1
 - #PAPER [TRU-NET: A Deep Learning Approach to High Resolution Prediction of Rainfall (Adewoyin 2020)](https://arxiv.org/abs/2008.09090v1)
 	- #CODE https://github.com/Akanni96/TRUNET
 - #PAPER [Predicting clustered weather patterns: A test case for applications of convolutional neural networks to spatio-temporal climate data (Chattopadhyay, 2020)](https://www.nature.com/articles/s41598-020-57897-9) 
@@ -123,6 +124,11 @@ title: "Weather forecasting, nowcasting"
 - #PAPER [Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench (Rasp 2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002405)
 	- There are three fundamental techniques for creating data‐driven forecasts: direct, continuous and iterative. For direct forecasts, a separate model is trained directly for each desired forecast time. In continuous models, time is an additional input and a single model is trained to predict all forecast lead times (as in MetNet). Finally, iterative forecasts are created by training a direct model for a short forecast time (e.g., 6 h) and then running the model several times using its own output from the previous iteration. As mentioned above, this is the approach taken by Weyn et al. 2020
 	- First train our model using the 150 years of CMIP data described above. We then take the pretrained model and fine‐tune it using the ERA data
+- #PAPER [Skilful precipitation nowcasting using deep generative models of radar (Ravuri 2021)](https://www.nature.com/articles/s41586-021-03854-z)
+	- https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain
+- #PAPER [Precipitaion Nowcasting using Deep Neural Network (Chafik Bakkay 2022)](https://arxiv.org/pdf/2203.13263)
+	- https://techxplore.com/news/2022-04-deep-imminent-precipitations.html
+- #PAPER [Deep learning for twelve hour precipitation forecasts (Espeholt 2022)](https://www.nature.com/articles/s41467-022-32483-x)
 - #PAPER [Evaluation and interpretation of convolutional long short-term memory networks for regional hydrological modelling (Anderson 2022)](https://hess.copernicus.org/articles/26/795/2022/hess-26-795-2022.html)
 	- #CODE https://github.com/andersonsam/cnn_lstm_era
 - #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (Pathak 2022)](https://arxiv.org/abs/2202.11214)            

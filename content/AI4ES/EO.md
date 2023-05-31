@@ -17,6 +17,7 @@ title: "EO"
 - [Image Classification with Hugging Face Transformers and Keras (EuroSAT dataset)](https://www.philschmid.de/image-classification-huggingface-transformers-keras)
 - [The most misunderstood words in Earth Observation - Spatial resolution](https://medium.com/sentinel-hub/the-most-misunderstood-words-in-earth-observation-d0106adbe4b0)
 - [U-Net for Semantic Segmentation on Unbalanced Aerial Imagery](https://towardsdatascience.com/u-net-for-semantic-segmentation-on-unbalanced-aerial-imagery-3474fa1d3e56)
+- [How to Co-Register Temporal Stacks of Satellite Images](https://medium.com/sentinel-hub/how-to-co-register-temporal-stacks-of-satellite-images-5167713b3e0b)
 
 ## Events
 - [ESA EO Phi-week](https://phiweek.esa.int/)
@@ -141,6 +142,8 @@ See [[AI4ES/AI4ES data#EO and Satellite data]]
 - #PAPER [Evaluation of Semantic Segmentation Methods for Land Use with Spectral Imaging Using Sentinel-2 and PNOA Imagery (Pedrayes 2021)](https://www.mdpi.com/2072-4292/13/12/2292/htm)
 - #PAPER [Deep Residual Involution Network for Hyperspectral Image Classification (Meng 2021)](https://www.mdpi.com/2072-4292/13/16/3055/htm)
 - #PAPER #REVIEW [Hyperspectral Image Classification Using Deep Learning Models: A Review (Kumar 2021)](https://iopscience.iop.org/article/10.1088/1742-6596/1950/1/012087)
+- #PAPER [Universal Domain Adaptation for Remote Sensing Image Scene Classification (Xu 2023)](https://ieeexplore.ieee.org/document/10043671)
+	- https://techxplore.com/news/2023-02-universal-domain-technique-remote-image.html
 
 ### Super-resolution
 See [[AI/Computer Vision/Super-resolution]] and [[AI4ES/Statistical downscaling]]
