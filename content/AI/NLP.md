@@ -203,8 +203,14 @@ See "For NLP" section in [[AI/Deep learning/Transformers]]
 	- https://nicschrading.com/project/Intro-to-NLP-with-spaCy/
 	- http://blog.thedataincubator.com/2016/04/nltk-vs-spacy-natural-language-processing-in-python/
 - #CODE [ParlAI](http://www.parl.ai/) - A unified platform for sharing, training and evaluating dialogue models across many tasks
-- #CODE [Spark-NLP](https://github.com/johnsnowlabs/spark-nlp)
 - #CODE [Gensim](https://radimrehurek.com/gensim/) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora
+- #CODE [Spark-NLP](https://github.com/johnsnowlabs/spark-nlp) - State-of-the-art Natural Language Processing library built on top of Apache Spark
+
+### LLMs 
+- #CODE [Langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
+	- https://python.langchain.com/en/latest/index.html
+	- [LangChain explained - The hottest new Python framework](https://www.youtube.com/watch?v=RoR4XJw8wIc)
+	- [LangChain Crash Course - Build apps with language models](https://www.youtube.com/watch?v=LbT1yp6quS8)
 
 ### Speech
 - #CODE [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - toolkit for tasks in speech and audio, with the state-of-art and influential models

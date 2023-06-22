@@ -16,25 +16,28 @@ title: "Supervised Learning"
 
 
 ### Classification
-See [[AI/Supervised Learning/Classification]]
+See [[AI/Supervised Learning/Classification|Classification]]
 
 ### Regression
-See [[AI/Supervised Learning/Regression]]
+See [[AI/Supervised Learning/Regression|Regression]]
 
 ### Structured learning
 - https://en.wikipedia.org/wiki/Structured_prediction
 
 ### Ensemble learning
-See [[AI/Supervised Learning/Ensemble learning]]
+See [[AI/Supervised Learning/Ensemble learning|Ensemble learning]]
 
 ### Class imbalance
-See [[AI/Supervised Learning/Class imbalance]]
+See [[AI/Supervised Learning/Class imbalance|Class imbalance]]
 
-### Data augmentation
-See [[AI/Supervised Learning/Data augmentation]]
+### Data augmentation
+See [[AI/Supervised Learning/Data augmentation|Data augmentation]]
 
 ### Model selection and tuning
-See [[AI/Supervised Learning/Model selection and tuning]]
+See [[AI/Supervised Learning/Model selection and tuning|Model selection and tuning]]
+
+### Model validation and drift
+See [[AI/Supervised Learning/Model validation and drift|Model validation and drift]]
 
 ### Probability calibration
 - https://en.wikipedia.org/wiki/Calibration_(statistics)
