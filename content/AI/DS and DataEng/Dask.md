@@ -4,7 +4,6 @@ title: "Dask"
 
 > See:
 > - [[AI/DS and DataEng/Xarray]]
-> - [[AI4ES/Pangeo]]
 
 ## Resources
 - [Parallel computing with Dask](https://xarray.pydata.org/en/v0.10.1/dask.html)

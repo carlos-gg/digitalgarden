@@ -28,9 +28,6 @@ title: "Data Science"
 - [Updated DS Venn diagram](http://www.kdnuggets.com/2016/09/new-data-science-venn-diagram.html)
 - [DS vs STATS vs DATA-ENG](https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/)
 
-### Data Science for good
-- See [[AI4G/AI4good]]
-
 ## References
 - #PAPER [Science and data science (Blei 2017)](https://www.pnas.org/content/114/33/8689)
 - #PAPER [50 Years of Data Science (Donoho 2017)](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
@@ -54,7 +51,6 @@ title: "Data Science"
 - #BOOK [Statistical Inference via Data Science (Ismay 2020)](https://moderndive.com/)
 - #BOOK [Data Science Live Book (Casas 2020)](https://livebook.datascienceheroes.com/)
 - #BOOK [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
-	- See [[AI4ES/Geospatial science]]
 - #BOOK [Introduction to Data Science, Data Analysis and Prediction Algorithms with R (Irizarry 2019)](https://flowingdata.com/2022/10/13/introduction-to-data-science-an-open-source-book/)
 - #BOOK [Data Science Live Book -- in R (Casas 2019))](https://livebook.datascienceheroes.com/)
 - #BOOK [Python Programming for Data Science (Beuzen 2019)](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)

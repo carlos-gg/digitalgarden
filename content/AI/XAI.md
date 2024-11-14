@@ -34,7 +34,7 @@ title: "XAI"
 - #BOOK [ Interpretable Machine Learning (Molnar 2021)](https://christophm.github.io/interpretable-ml-book/)
 
 ## Code
-See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
+See [[AI/Deep learning/Explainability methods for NNs#Code]]
 - https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b
 
 - #CODE [InterpretML](https://github.com/interpretml/interpret) - Microsoft open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof
@@ -66,7 +66,7 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - #PAPER [Towards Explainable Artificial Intelligence (Samek & Muller 2019)](https://arxiv.org/abs/1909.12072)
 - #PAPER [Explaining Explanations: An Overview of Interpretability of Machine Learning (Gilpin et al. 2019)](https://arxiv.org/abs/1806.00069)
 - #PAPER [One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques (Arya 2019)](https://arxiv.org/abs/1909.03012)
-	- #CODE See Code section
+	- #CODE See [[#Code]]
 - #PAPER [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead (Rudin 2019)](https://www.nature.com/articles/s42256-019-0048-x)
 	- https://arxiv.org/abs/1811.10154
 - #PAPER [Explainable Machine Learning for Scientific Insights and Discoveries (Roscher 2020)](https://arxiv.org/abs/1905.08883)
@@ -88,7 +88,7 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 - #PAPER [Model-Agnostic Interpretability of Machine Learning (Tulio Ribeiro 2016)](https://arxiv.org/abs/1606.05386)
 - #PAPER [SHAP - A Unified Approach to Interpreting Model Predictions (Lundberg 2017)](https://arxiv.org/abs/1705.07874)
 	- SHAP (SHapley Additive exPlanations)
-	- #CODE See Code section
+	- #CODE See [[#Code]]
 	- Can be used for computer vision tasks
 - #PAPER [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (Yang 2021)](https://arxiv.org/abs/2109.09847)
 - #PAPER [ExSum: From Local Explanations to Model Understanding (Zhou 2022)](https://arxiv.org/pdf/2205.00130)
@@ -116,8 +116,8 @@ See "Code" section in [[AI/Deep learning/Explainability methods for NNs]]
 #### Surrogate models
 - A surrogate model is a simple model that is used to explain a complex model. Surrogate models are usually created by training a linear regression or decision tree on the original inputs and predictions of a complex model. Coefficients, variable importance, trends, and interactions displayed in the surrogate model are then assumed to be indicative of the internal mechanisms of the complex model. There are few, possibly no, theoretical guarantees that the simple surrogate model is highly representative of the more complex model.
 - The globally interpretable attributes of a simple model are used to explain global attributes of a more complex model. However, there is nothing to preclude fitting surrogate models to more local regions of a complex model's conditional distribution, such as clusters of input records and their corresponding predictions and their corresponding input rows. Because small sections of the conditional distribution are more likely to be linear, monotonic, or otherwise well-behaved, local surrogate models can be more accurate than global surrogate models.
-- #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) ^lime
-	- #CODE See Code section
+- #PAPER [LIME - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) 
+	- #CODE See [[#Code]]
 	- Formalized approach for local surrogate models. It is meant to shed light on how decisions are made for specific observations. LIME requires that a set of explainable records be found, simulated, or created.
 	- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 	- https://github.com/albahnsen/Talk_Demystifying_Machine_Learning

@@ -41,6 +41,8 @@ title: "Fourier Neural Operator (FNO)"
 	- Adaptive FNO (AFNO) - connection between transformers and FNOs
 	- Transformers are a special case of neural operators
 	- AFNO is efficient for that it splits the grid (efficient token mixing) 
-- #PAPER FourCastNet (2022)
-	- See [[AI4ES/Weather forecasting, nowcasting]]
+- #PAPER [FourCastNet: A Global Data-driven High-resolution Weather Model using  Adaptive Fourier Neural Operators (2022)](https://arxiv.org/pdf/2202.11214)
+	- [FourCastNet - NVIDIA Docs](https://docs.nvidia.com/deeplearning/modulus/modulus-sym/user_guide/neural_operators/fourcastnet.html)
+	- #CODE [GitHub - NVlabs/FourCastNet: Initial public release of code, data, and model weights for FourCastNet](https://github.com/NVlabs/FourCastNet)
+
 

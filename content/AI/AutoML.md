@@ -27,7 +27,8 @@ title: "AutoML"
 		- Misconfiguration detection
 	- Analysis of results obtained
 	- User interfaces and visualizations for automated machine learning
-- https://www.automl.org/
+- AutoML conference: https://www.automl.org/
+- https://www.rapidcanvas.ai/blogs/benchmarking-automl-exploring-the-top-automl-libraries
 - http://www.kdnuggets.com/2017/01/current-state-automated-machine-learning.html
 - https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8
 

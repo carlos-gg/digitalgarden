@@ -6,7 +6,7 @@ title: "Transfer learning"
 
 > See:
 > - [[AI/Multi-task learning]]
-> - [[AI/Foundation models]]
+> - [[AI/Generative AI/Foundation models]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Transfer_learning

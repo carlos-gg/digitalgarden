@@ -6,10 +6,10 @@ title: "Time series analysis"
 > - [[AI/Supervised Learning/Regression]]
 > - [[AI/Forecasting]]
 > - [[AI/Deep learning/RNNs]]
-> - "Sequence (time series) modelling" section in [[AI/Deep learning/CNNs]]
-> - "Deep learning for tabular data" section in [[AI/Deep learning/DL]]
+> - [[AI/Deep learning/CNNs#Sequence (time series) modelling]]
+> - [[AI/Deep learning/DL#DL for tabular data]]
 > - [[AI/Deep learning/Transformers]]
-> - [[AI/Causality]]
+> - [[AI/Causality/Causality]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/Time_series
@@ -55,7 +55,7 @@ title: "Time series analysis"
 See [[AI/Forecasting]]
 
 ### Anomaly and Outlier Detection
-See "For Time series" section in [[AI/Anomaly and Outlier Detection]]
+See [[AI/Anomaly and Outlier Detection#For Time series]]
 
 ### TS models
 - [Autoregressive](https://en.wikipedia.org/wiki/Autoregressive)
@@ -89,7 +89,7 @@ See "For Time series" section in [[AI/Anomaly and Outlier Detection]]
 	- [Understanding FFTs and Windowing](https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf)
 
 ### Causality
-See [[AI/Causality]]
+See [[AI/Causality/Causality]]
 
 ### Explainability
 See [[AI/XAI]]

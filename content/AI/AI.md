@@ -33,12 +33,6 @@ title: "Artificial Intelligence (AI)"
 ### AI for scientific discovery
 See [[AI/AI-ML-DL for scientific discovery]]
 
-### AI for Earth Sciences
-See [[AI4ES/AI4ES]]
-
-### AI for good
-See [[AI4G/AI4good]]
-
 ### Fair AI
 See [[AI/FairAI]]
 
@@ -93,9 +87,6 @@ See [[AI/FairAI]]
 - #PAPER [Predicting the Future of AI with AI: High-quality link prediction in an  exponentially growing knowledge network (Krenn 2022)](https://arxiv.org/pdf/2210.00881)
 	- #CODE https://github.com/artificial-scientist-lab/FutureOfAIviaAI
 	- Graph with exponential growth in AI papers
-- #PAPER [Reflexion: an autonomous agent with dynamic memory and self-reflection (Shinn 2023)](https://arxiv.org/pdf/2303.11366)
-	- See [[AI/Foundation models]]
-	- [Paper explained - GPT 4 Can Improve Itself](https://www.youtube.com/watch?v=5SgJKZLBrmg)
 
 ## Related fields and concepts
 
@@ -121,7 +112,7 @@ See [[AI/NLP]]
 See [[AI/Deep learning/DL]]
 
 ### Causality
-See [[AI/Causality]]
+See [[AI/Causality/Causality]]
 
 ### Problem Solving and Search
 See [[AI/Problem Solving and Search]]
@@ -139,15 +130,10 @@ See [[AI/XAI]] and [[AI/Deep learning/Explainability methods for NNs]]
 See [[AI/Neuro-symbolic AI]]
 
 ### Foundation models
-See [[AI/Foundation models]]
+See [[AI/Generative AI/Foundation models]]
+
+### Generative AI
+See [[AI/Generative AI/GenAI|GenAI]]
 
 ### AI agents
-- See [[AI/Foundation models]] and [[AI/Deep learning/Multimodal learning]] 
-- [ChatGPT’s next level is Agent AI: Auto-GPT, BabyAGI, AgentGPT, Microsoft Jarvis & friends](https://medium.com/the-generator/chatgpts-next-level-is-agent-ai-auto-gpt-babyagi-agentgpt-microsoft-jarvis-friends-d354aa18f21)
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous
-	- https://significant-gravitas.github.io/Auto-GPT/
-	- https://autogpt.net/
-- [JARVIS / HuggingGPT](https://github.com/microsoft/JARVIS)
-	- #PAPER  [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (Shen 2023)](https://arxiv.org/pdf/2303.17580)
-- [AgentGPT](https://agentgpt.reworkd.ai/es)
-- [BabyAGI](https://babyagi.org/)
+See [[AI/Generative AI/Agents|Agents]]

@@ -2,13 +2,13 @@
 title: "Computer Vision"
 ---
 
-> Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do
+> Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do.
 
 > See: 
 > - [[AI/Deep learning/CNNs]]
-> - "MLPs for vision and language" section in [[AI/Deep learning/MLPs]]
-> - "For Computer Vision" section in [[AI/Deep learning/Transformers]]
-> - "Generative models for Image data" section in [[AI/Deep learning/Generative modelling]]
+> - [[AI/Deep learning/MLPs#MLPs for vision and language]]
+> - [[AI/Deep learning/Transformers#For Computer Vision]]
+> - [[AI/Generative AI/GenAI#Generative models for computer vision]]
 > - [[AI/Deep learning/GANs]]
 > - [[AI/Unsupervised learning/Sparse dictionary learning]]
 

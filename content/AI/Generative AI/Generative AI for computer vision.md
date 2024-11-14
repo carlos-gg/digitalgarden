@@ -1,54 +1,24 @@
 ---
-title: "Generative modeling"
+title: Generative AI for computer vision
 ---
 
+>  See:
+>  - [[AI/Generative AI/VLMs|VLMs]]
+>  - [[AI/Computer Vision/Deep CV|Deep CV]]
 
 ## Resources
-- [Generative models](https://openai.com/blog/generative-models/ )
-- [Deep Generative Models](https://www.cs.toronto.edu/~slwang/generative_model.pdf)
-- [Taxonomy of Generative Models](https://christineai.blog/taxonomy/)
-- Jakub Tomczak [blog](https://jmtomczak.github.io/blog.html):
-	- [Introduction to deep generative modeling: Why, Where and How](https://jmtomczak.github.io/blog/1/1_introduction.html)
-	- [Introduction to deep generative modeling: Energy-based Models](https://jmtomczak.github.io/blog/11/11_energy_based_models.html)
+- [Text to video model arena](https://artificialanalysis.ai/text-to-video/arena?tab=Arena)
+- [How Far is Video Generation from World Model: A Physical Law Perspective](https://phyworld.github.io/)
 
-## Courses
-- #COURSE [Deep Generative Modeling: VAEs and GANs (MIT 6.S191)](https://www.youtube.com/watch?v=rZufA635dq4&t=1062s)
-- #COURSE [Deep Generative Models (Stanford CS236 - Fall 2021)](https://deepgenerativemodels.github.io/)
-- #COURSE [Deep Generative Models lecture (Carnegie Mellon University)](https://www.youtube.com/watch?v=qEbYtPhG768)
-- #COURSE [Generative Deep Learning with TensorFlow (Deeplearning.AI coursera)](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow)
+### Models
+- #MODEL https://huggingface.co/genmo/mochi-1-preview
+	- Mochi is an open source state-of-the-art video generation model and is released by [Genmo](https://www.linkedin.com/company/genmoai/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BxZWne9ONSX6J69MqasipVw%3D%3D)
+	- [genmo.ai](https://www.genmo.ai/blog?utm_source=pocket_saves)
+- #MODEL [Infinite AI Artboard - Recraft](https://www.recraft.ai/)
 
 ## Code
-- #CODE https://keras.io/examples/generative/
 
-## Books
-* #BOOK [Generative Deep Learning (Foster 2023)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
-	* #CODE https://github.com/davidADSP/GDL_code
-
-## Subtopics
-### Variational Autoencoders
-See "VAEs" section in [[AI/Deep learning/Autoencoders]]
-
-### GANs
-See [[AI/Deep learning/GANs]]
-
-### Normalizing flows
-See [[AI/Deep learning/Normalizing flows]]
-
-### Diffusion models
-See [[AI/Deep learning/Diffusion models]]
-
-### GFlow nets
-See [[AI/Deep learning/GFlowNets|GFlowNets]] 
-
-### Generative models for computer vision
-See: 
-- "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
-- "GANs for representation learning and image synthesis" section in [[AI/Deep learning/GANs]]
-- "For Computer Vision" section in [[AI/Deep learning/Transformers]] 
-- [[AI/Deep learning/Diffusion models]]
-- [[AI/Deep learning/Multimodal learning]]
-- [[AI/Foundation models]]
-
+## References
 - #PAPER [Video Pixel Networks (Kalchbrenner 2016)](https://arxiv.org/abs/1610.00527)
 - #PAPER [Pixel RNNs - Pixel Recurrent Neural Networks (van den Oord 2016)](https://arxiv.org/abs/1601.06759)
 	- Pixel-RNN presents a novel architecture with recurrent layers and residual connections that predicts pixels across the vertical and horizontal axes. The architecture models the joint distribution of pixels as a product of conditional distributions of horizontal and diagonal pixels. The model achieves state-of-the-art in the generation of natural images.
@@ -78,7 +48,5 @@ See:
 - #PAPER [Diverse Generation from a Single Video Made Possible (Haim 2021)](https://arxiv.org/abs/2109.08591)
 - #PAPER [Autoregressive Image Generation using Residual Quantization (Lee 2022)](https://arxiv.org/pdf/2203.01941v2)            
 	- #CODE https://github.com/kakaobrain/rq-vae-transformer
-
-### Generative models for audio
-- #PAPER [MusicLM: Generating Music From Text (Agostinelli 2023)](https://arxiv.org/pdf/2301.11325)
-	- https://google-research.github.io/seanet/musiclm/examples/
+- #PAPER [GenAI Arena: An Open Evaluation Platform for Generative Models (2024)](https://arxiv.org/pdf/2406.04485v3)
+	- https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena

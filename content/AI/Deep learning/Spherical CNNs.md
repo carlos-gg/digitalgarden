@@ -25,7 +25,6 @@ title: "Spherical CNNs"
 	- Additionally, studied the effect of including the information that the two hemispheres of the Earth have “flipped” properties - for example cyclones circulating in opposite directions - into the structure of the network
 	- Using spherical convolution leads to an additional improvement in forecast skill, especially close to the poles in the first days of the forecast
 	- The spherical convolution is implemented flexibly and scales well to high resolution datasets, but is still significantly more expensive than a standard convolution operation
-	- See [[AI4ES/Weather forecasting, nowcasting]]
 - #PAPER [DeepSphere: a graph-based spherical CNN (Defferrard 2020)](https://arxiv.org/abs/2012.15000) 
 	- #CODE https://github.com/deepsphere
 - #PAPER [Efficient Generalized Spherical CNNs (Cobb 2021)](https://arxiv.org/pdf/2010.11661)

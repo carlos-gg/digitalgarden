@@ -50,6 +50,7 @@ twine upload dist/*
 ```
 
 ## Books
+- #BOOK [El libro de Python](https://ellibrodepython.com/?utm_source=pocket_saves)
 - #BOOK [Learning Scientific Programming with Python (Hill 2020)](https://scipython.com/about/the-book/)
 - #BOOK [Problem Solving with Algorithms and Data Structures using Python (Interactive book)](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - #BOOK [Large Scale Machine Learning with Python (Sjandin 2016, PACKT)](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python)

@@ -5,7 +5,7 @@ title: "Natural Language Processing (NLP)"
 > A Computer Science field connected to Artificial Intelligence and Computational Linguistics which focuses on interactions between computers and human language and a machine’s ability to understand, or mimic the understanding of human language
 
 > See:
-> - [[AI/Foundation models]]
+> - [[AI/Generative AI/Foundation models]]
 > - [[AI/Deep learning/Multimodal learning]]
 
 ## Resources
@@ -147,7 +147,7 @@ See [[AI/Deep learning/RNNs]]
 - https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html   
 
 #### Transformer-based
-See "For NLP" section in [[AI/Deep learning/Transformers]]
+See [[AI/Deep learning/Transformers#For NLP]]
 
 ## Books
 - #BOOK [Natural Language Processing with Python (Bird, 2013 OREILLY)](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)

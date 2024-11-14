@@ -40,8 +40,8 @@ title: "Deep Learning (DL)"
 ## Books
 * #BOOK [Understanding Deep Learning (Prince 2023, MIT)](https://udlbook.github.io/udlbook/)
 	* #CODE https://github.com/udlbook/udlbook
-- #BOOK [Deep Learning with R, 2nd Edition (Kalinowski 2022)](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
 - #BOOK [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (Kashani 2022)](https://arxiv.org/abs/2201.00650)
+- #BOOK [Deep Learning with R, 2nd Edition (Kalinowski 2022)](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
 - #BOOK [Physics-based Deep Learning Book (Thuerey 2021)](https://physicsbaseddeeplearning.org/intro.html) ^PBDL
 - #BOOK [The Principles of DL Theory: An Effective Theory Approach to Understanding Neural Networks (Roberts 2022)](https://deeplearningtheory.com/PDLT.pdf)
 	- https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
@@ -171,7 +171,7 @@ State of ML frameworks:
 
 ## References
 - #PAPER [Deep learning in NNs: An overview (Schmidhuber 2015)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
-- #PAPER [Deep learning (LeCun 2015)](https://www.nature.com/articles/nature14539) ^dllecun15
+- #PAPER [Deep learning (LeCun 2015)](https://www.nature.com/articles/nature14539) 
 	- https://www.researchgate.net/profile/Y_Bengio/publication/277411157_Deep_Learning/links/55e0cdf908ae2fac471ccf0f/Deep-Learning.pdf
 - #PAPER [Deep Neural Decision Forests (Kontschieder 2016)](https://www.ijcai.org/Proceedings/16/Papers/628.pdf)
 	- #CODE https://keras.io/examples/structured_data/deep_neural_decision_forests/
@@ -350,7 +350,7 @@ See [[AI/Supervised Learning/Data augmentation]]
 See [[AI/DS and DataEng/Distributed DL]]
 
 ### Attention
-- See "For NLP" section in [[AI/Deep learning/Transformers]] and "Channel/Visual attention" section in [[/AI/Deep learning/CNNs]]
+- See [[AI/Deep learning/Transformers#For NLP]] and [[/AI/Deep learning/CNNs#Visual/Channel attention and Saliency]]
 - #COURSE [Attention and Memory in Deep Learning (DeepMind x UCL | Deep Learning Lectures | 8/12)](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
 
@@ -360,7 +360,7 @@ See [[AI/Deep learning/Explainability methods for NNs]]
 ## Applications
 
 ### DL for multi-dimensional data
-- See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Deep learning/Generative modelling]]
+- See [[AI/Computer Vision/Video segmentation and prediction]], [[AI/Deep learning/Encoder-decoder networks]], [[AI/Deep learning/Transformers]] and [[AI/Generative AI/GenAI]]
 - #PAPER [Demystifying Deep Learning in Predictive Spatio-Temporal Analytics: An Information-Theoretic Framework (Tan 2020)](https://arxiv.org/abs/2009.06304)
 
 ### DL for tabular data
@@ -456,4 +456,9 @@ See [[AI/Deep learning/Probabilistic deep learning]]
 
 ### Implicit Neural Representations
 See [[AI/Deep learning/Implicit Neural Representations]]
+
+### Kolmogorov-Arnord networks
+See [[AI/Deep learning/KANs]]
+
+
 

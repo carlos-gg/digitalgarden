@@ -34,7 +34,6 @@ title: "Linear Algebra"
 - [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
 - [QR decomposition](https://en.wikipedia.org/wiki/QR_decomposition)
 
-
 ## Code
 - #CODE [Tensorly](https://github.com/tensorly/tensorly)
 	- http://tensorly.org
@@ -45,9 +44,9 @@ title: "Linear Algebra"
 - #CODE https://github.com/rballester/tntorch
 
 ## Books
+- #BOOK [Linear Algebra for Data Science (2024)](https://kyunghyuncho.me/linear-algebra-for-data-science/)
 - #BOOK [Templates for the Solution of Algebraic Eigenvalue Problems (Bai, Demmel 2000)](https://www.cs.ucdavis.edu/~bai/ET/contents.html)
 - #BOOK [High Dimensional Data Analysis 2020 (HDA2020)](https://statomics.github.io/HDA2020/index.html)
-
 
 ## References
 - #PAPER [tntorch: Tensor Network Learning with PyTorch (Usvyatsov 2022)](https://arxiv.org/pdf/2206.11128)

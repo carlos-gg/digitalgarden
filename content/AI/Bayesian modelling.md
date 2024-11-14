@@ -45,7 +45,7 @@ title: "Bayesian modelling"
 	- #CODE https://github.com/fraseriainlewis/towardsdatascience
 
 ### MCMC
-- See MCMC section in [[AI/Math and Statistics/Monte Carlo methods]]
+- [[AI/Math and Statistics/Monte Carlo methods#MCMC]]
 
 ## Code
 - #CODE [Stan](https://github.com/stan-dev/stan)

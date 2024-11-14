@@ -35,7 +35,7 @@ See [[AI/DS and DataEng/Python]]
 
 
 ## Books
-see ""Books" section in [[AI/DS and DataEng/Python]]
+See [[AI/DS and DataEng/Python#Books]]
 
 - #BOOK [Mining of Massive Datasets (Leskovec, 2014 CAMBRIDGE)](http://www.mmds.org/)
 - #BOOK [Advanced Analytics with Spark (Ryza, 2017 OREILLY)](http://shop.oreilly.com/product/0636920056591.do)
@@ -52,7 +52,7 @@ see ""Books" section in [[AI/DS and DataEng/Python]]
 - #BOOK [R Packages (Wickham 2020)](https://r-pkgs.org/)
 
 ## Courses
-- See "Courses" section in [[AI/DS and DataEng/Python]]
+- See [[AI/DS and DataEng/Python#Courses]]
 - #COURSE [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - #COURSE [Mining Massive Data Sets (CS246 Stanford)](http://web.stanford.edu/class/cs246/)
 	- https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about

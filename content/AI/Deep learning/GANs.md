@@ -4,22 +4,20 @@ title: "Generative Adversarial Networks (GANs)"
 
 > A GAN consists of two networks; a generator (G) and a discriminator (D), given a set of training examples, G will generate outputs and D will classify them as either being from the same distribution as the training examples or not. In doing so D is optimized so as to be able to discriminate between examples from the training example and from the generator network which in turn is optimized to fool D into classifying its output as being drawn from the training examples. After such training G can now generate samples with properties very similar to those of the training examples. GANs tend to be devilishly hard to train
 
-> See [[AI/Deep learning/Generative modelling]]
+> See [[AI/Generative AI/GenAI]]
 
 ## Resources 
 - [List of papers and other on Generative Adversarial Networks](https://github.com/pshams55/GAN-Case-Study)
+- [Introduction to deep generative modeling: Generative Adversarial Networks (GANs)](https://jmtomczak.github.io/blog/12/12_gans.html)
 - [Generative Adversarial Networks](https://spectra.pub/ml/gans)
 - [Generative adversarial networks](https://deepgenerativemodels.github.io/notes/gan/ )
-- [Introduction to deep generative modeling: Generative Adversarial Networks (GANs)](https://jmtomczak.github.io/blog/12/12_gans.html)
 - [Generative adversarial networks for beginners](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
 - [Intuitive explanation of GANs. Subtypes](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
-- https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
 - http://www.openias.org/hybrid-generative-discriminative
 - http://edwardlib.org/tutorials/gan
 - [Play with GANs in your browser](https://poloclub.github.io/ganlab/)
 - [Do GANs actually do distribution learning?](http://www.offconvex.org/2017/07/06/GANs3/)
-- [The GAN Zoo - A list of all named GANs!](https://deephunt.in/the-gan-zoo-79597dc8c347)
-- [Advances in Generative Adversarial Networks](https://beyondminds.ai/advances-in-generative-adversarial-networks-gans/) 
+- [Advances in Generative Adversarial Networks](https://medium.com/beyondminds/advances-in-generative-adversarial-networks-7bad57028032) 
 	- Drawbacks of using GANs: Mode collapse, Convergence, Quality evaluation, Metrics
 	- Techniques for Improving Performance:
 		- Alternative Loss Functions: One of the most popular fixes to the shortcomings of GANs is the Wasserstein GAN. It essentially replaces the Jensen Shannon divergence of conventional GANs with the Earth Mover distance (Wasserstein-1 distance or EM distance)
@@ -97,17 +95,17 @@ title: "Generative Adversarial Networks (GANs)"
 ## Subtopics
 
 ### GANs for super-resolution
-See "GAN-based" section in [[AI/Computer Vision/Super-resolution]]
+See [[AI/Computer Vision/Super-resolution#GAN-based]]
 
 ### GANs for missing data, imputation and inpainting
-See "GAN-based" section in [[AI/Computer Vision/Inpainting and restoration]]
+See [[AI/Computer Vision/Inpainting and restoration#GAN-based]]
 
 ### Image-to-image translation. Conditional GANs
-See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
+See [[AI/Computer Vision/Image-to-image translation#GAN-based]]
 
 ### GANs for spatio-temporal data generation
 - #PAPER [COT-GAN: Generating Sequential Data via Causal Optimal Transport (Xu 2020)](https://arxiv.org/abs/2006.08571)
-- #PAPER [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss (Klemmer 2021)](https://arxiv.org/abs/2109.15044#) ^spate-gan
+- #PAPER [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss (Klemmer 2021)](https://arxiv.org/abs/2109.15044#) 
 	- #CODE https://github.com/konstantinklemmer/spate-gan
 
 ### GANs for representation learning and image synthesis 
@@ -143,7 +141,7 @@ See "GAN-based" section in [[AI/Computer Vision/Image-to-image translation]]
     - The GAN framework can be integrated with almost any available neural network classifier in order to make use of unlabeled data
 
 ### Few/one-shot learning GANs 
-See "Few one-shot learning GANs" section in [[AI/One, few-shot learning]]
+See [[AI/One, few-shot learning#Few/one-shot learning GANs]]
 
 ### GANs for anomaly detection
 - #PAPER [A Survey on GANs for Anomaly Detection (Di Mattia 2019)](https://arxiv.org/abs/1906.11632 )

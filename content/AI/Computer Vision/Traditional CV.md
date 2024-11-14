@@ -84,7 +84,7 @@ See [[AI/Computer Vision/Background subtraction]]
 - https://en.wikipedia.org/wiki/Template_matching
 
 #### Template based
-- See the "Filtering" section
+- See [[#Filtering]]
 - http://aishack.in/tutorials/template-matching/
 - For templates without strong features, or for when the bulk of the template image constitutes the matching image, a template-based approach may be effective.
 - Cross-correlation. Linear filtering: function is a weighted sum/difference of pixel values (dot products at each position)

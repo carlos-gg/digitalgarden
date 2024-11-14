@@ -4,7 +4,7 @@ title: "AI-ML-DL for scientific discovery"
 
 > See: 
 > - [[AI/Deep learning/Neural ODEs]]
-> - "AI-based conversational models and search engines" in [[AI/Foundation models]]
+> - "AI-based conversational models and search engines" in [[AI/Generative AI/Foundation models]]
 
 
 ## Resources
@@ -30,7 +30,7 @@ title: "AI-ML-DL for scientific discovery"
 
 ## Events
 - [NeurIPS - Machine Learning and the Physical Sciences](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862)
-
+- [Machine Learning and the Physical Sciences, NeurIPS 2024](https://ml4physicalsciences.github.io/2024/)
 ## References
 - #PAPER [Artificial intelligence in research (Musib 2017)](https://science.sciencemag.org/content/357/6346/28)
 - #PAPER [Machine learning and the physical sciences (Carleo 2019)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002)
@@ -52,9 +52,14 @@ title: "AI-ML-DL for scientific discovery"
 - #PAPER [Leakage and the Reproducibility Crisis in ML-based Science (Kapoor 2022)](https://arxiv.org/abs/2207.07048)
 	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 - #PAPER [Journal Impact Factor and Peer Review Thoroughness and Helpfulness: A Supervised Machine Learning Study (Severin 2022)](https://arxiv.org/pdf/2207.09821)
-- #PAPER [Galactica: A Large Language Model for Science (Taylor 2022)](https://arxiv.org/abs/2211.09085)
+- #PAPER [Galactica: A Large Language Model for Science (2022)](https://arxiv.org/abs/2211.09085)
 	- [Paper explained](https://www.youtube.com/watch?v=ZTs_mXwMCs8&t=1145s)
 	- #CODE  https://github.com/paperswithcode/galai
 	- https://galactica.org/
-- #PAPER [How Generative AI models such as ChatGPT can be (Mis)Used in SPC  Practice, Education, and Research? An Exploratory Study (Megahed 2023)](https://arxiv.org/pdf/2302.10916)
-	- See [[AI/Foundation models]]
+- #PAPER [How Generative AI models such as ChatGPT can be (Mis)Used in SPC  Practice, Education, and Research? An Exploratory Study (2023)](https://arxiv.org/pdf/2302.10916)
+- #PAPER  [SciAgents: Automating scientific discovery through multi-agent  intelligent graph reasoning (2024)](https://arxiv.org/pdf/2409.05556)
+	- #CODE [GitHub - lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) 
+	- Built with Autogen
+- #PAPER [Artificial intelligence and scientific discovery: a model of prioritized search - ScienceDirect (2024)](https://www.sciencedirect.com/science/article/abs/pii/S0048733324000386)
+- #PAPER [Artificial Intelligence, Scientific Discovery, and Product Innovation (2024)](https://marginalrevolution.com/marginalrevolution/2024/11/artificial-intelligence-scientific-discovery-and-product-innovation.html)
+

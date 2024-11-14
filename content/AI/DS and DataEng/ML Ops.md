@@ -3,6 +3,7 @@ title: "Machine Learning Operations (MLOps)"
 ---
 
 > Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently. The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field
+> See [[AI/Generative AI/LLM Ops|LLM Ops]]
 
 ## Resources
 - https://en.wikipedia.org/wiki/MLOps
@@ -13,6 +14,9 @@ title: "Machine Learning Operations (MLOps)"
 - [What is MLOps and how to get started? | MLOps series](https://www.youtube.com/watch?v=LdLFJUlPa4Y)
 
 ## Courses
+- #COURSE [MLOps Coding Course](https://mlops-coding-course.fmind.dev/)
+	- https://github.com/MLOps-Courses/mlops-coding-course
+	- https://github.com/fmind/mlops-python-package
 - #COURSE [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) (CS 329S, Stanford)
 - #COURSE [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production) (Coursera, DeepLearning.AI)
 - #COURSE [Effective MLOps - Model development](https://www.wandb.courses/courses/effective-mlops-model-development) (Weights & Biases)
@@ -60,7 +64,8 @@ title: "Machine Learning Operations (MLOps)"
 	- https://medium.com/datasd/why-data-automation-matters-4391d59e1952
 - #CODE [Luigi (Spotify)](https://github.com/spotify/luigi)
 	- https://luigi.readthedocs.io/en/latest/
-- #CODE [Kubeflow](https://github.com/kubeflow/kubeflow) - cloud-native platform for machine learning operations - pipelines, training and deployment
+- #CODE [Kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+	- Cloud-native platform for machine learning operations - pipelines, training and deployment
 	- https://www.kubeflow.org/
 - #CODE [Azkaban](https://github.com/azkaban/azkaban)
 - #CODE [PredictionIO (Apache)](https://predictionio.apache.org)

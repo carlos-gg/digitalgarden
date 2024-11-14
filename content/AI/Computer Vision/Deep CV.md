@@ -8,7 +8,7 @@ title: "Deep CV"
 > - [[AI/Deep learning/CNNs]]
 > - [[AI/Deep learning/GANs]]
 > - [[AI/Deep learning/Normalizing flows]] 
-> - "For Computer Vision" section in [[AI/Deep learning/Transformers]]
+> - [[AI/Deep learning/Transformers#For Computer Vision]]
 > - [[AI/Computer Vision/Deep image prior]]
 
 

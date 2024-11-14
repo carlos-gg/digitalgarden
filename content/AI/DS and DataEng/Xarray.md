@@ -4,7 +4,6 @@ title: "Xarray"
 
 > See: 
 > - [[AI/DS and DataEng/Dask]]
-> - [[AI4ES/Pangeo]]
 
 ## Code
 - #CODE [Xarray - N-D labeled arrays and datasets in Python](https://github.com/pydata/xarray)

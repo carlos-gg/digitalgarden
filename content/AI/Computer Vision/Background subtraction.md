@@ -16,6 +16,8 @@ title: "Background subtraction"
 ## Code
 - [LRSlibrary](https://github.com/andrewssobral/lrslibrary) 
 	- Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos 
+- [BGSlibrary](https://github.com/andrewssobral/bgslibrary)
+	- A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT
 
 ## References
 - #PAPER [Mixture of Gaussians models. Adaptive background mixture models for real-time tracking (Straufer 1998)](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)

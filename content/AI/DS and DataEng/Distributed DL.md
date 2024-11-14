@@ -15,7 +15,7 @@ title: "Distributed Deep learning"
 - #TALK [Scaling Neural Networks Training - Thorsten Kurth](https://www.youtube.com/watch?v=cRjiwIi_kuc)
 
 ## Code
-See "Distributed training" section in [[AI/DS and DataEng/Tensorflow, keras]]
+See [[AI/DS and DataEng/Tensorflow, keras#Distributed training]]
 
 - #CODE [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
 	- Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
@@ -62,6 +62,6 @@ See "Distributed training" section in [[AI/DS and DataEng/Tensorflow, keras]]
 	- [Phylanx provides a high-productivity debugable Python-based interactive interface, JetLag](https://github.com/STEllAR-GROUP/JetLag)
 	- Tests only on CPU. Does it support GPUs?
 - #PAPER [Distributed Training of Deep Learning Models: A Taxonomic Perspective (Langer 2020)](https://arxiv.org/abs/2007.03970)
-- #PAPER [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training (Bian 2021)](https://arxiv.org/abs/2110.14883) ^colossalai
+- #PAPER [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training (Bian 2021)](https://arxiv.org/abs/2110.14883) 
 - #PAPER [Pathways: Asynchronous Distributed Dataflow for ML (Barham 2022)](https://arxiv.org/pdf/2203.12533)            
 - #PAPER [Scaling Laws vs Model Architectures: How does Inductive Bias Influence  Scaling? (Tay 2022)](https://arxiv.org/pdf/2207.10551v1)

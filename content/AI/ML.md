@@ -65,7 +65,7 @@ See [[AI/DS and DataEng/Open ML data]]
 	- https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
 
 ## Code 
-- See "Code" section in [[AI/DS and DataEng/ML Ops]] and [[AI/DS and DataEng/Cloud platforms]]
+- See [[AI/DS and DataEng/ML Ops#Code]] and [[AI/DS and DataEng/Cloud platforms]]
 - #CODE [Benchmarks of ML libraries](https://github.com/szilard/benchm-ml)
 - #CODE [Ludwig](https://github.com/ludwig-ai/ludwig) - declarative machine learning framework
 	- https://medium.com/predibase/ludwig-automl-for-text-classification-7c1759f3b150
@@ -145,7 +145,13 @@ See [[AI/DS and DataEng/Open ML data]]
 	- https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/
 - #PAPER [Pen and Paper Exercises in Machine Learning (Gutmann 2022)](https://arxiv.org/pdf/2206.13446)
 - #PAPER [How to avoid machine learning pitfalls: a guide for academic researchers (Lones 2023)](https://arxiv.org/pdf/2108.02497)
-
+- #PAPER [Questionable practices in machine learning (2024)](https://arxiv.org/pdf/2407.12220)
+	- The paper categorizes the 43 questionable research practices (QRPs) in machine learning into several broad areas, such as:
+		- Data Handling: Issues like cherry-picking data, inappropriate data splits, and using test data in training.
+		- Model Evaluation: Inadequate baselines, selective reporting of results, and misuse of metrics.
+		- Experimental Design: Running multiple experiments and only reporting successful ones.
+		- Reproducibility: Lack of transparency in code and data sharing.
+		- Publication Practices: Hype-driven narratives and insufficient detail in methods sections.
 ## Subtopics
 
 ### Feature selection
@@ -191,7 +197,7 @@ See [[AI/Learning to rank]]
 See [[AI/Multi-task learning]]
 
 ### Generative modelling
-See [[AI/Deep learning/Generative modelling]]
+See [[AI/Generative AI/GenAI]]
 
 ### Explainable AI
 See [[AI/XAI]]

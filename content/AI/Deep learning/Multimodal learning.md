@@ -4,7 +4,7 @@ title: "Multimodal learning"
 
 > General-purpose neural networks capable of handling diverse inputs and output tasks
 > 
-> See [[AI/Foundation models]]
+> See [[AI/Generative AI/Foundation models]]
 
 ## Resources
 - [Multimodal Deep Learning](https://multimodal-dl.mpi-inf.mpg.de/)
@@ -99,3 +99,6 @@ title: "Multimodal learning"
 - #PAPER [Modulating Pretrained Diffusion Models for Multimodal Image Synthesis (Ham 2023)](https://arxiv.org/pdf/2302.12764)
 	- https://www.marktechpost.com/2023/03/16/one-diffusion-to-rule-diffusion-modulating-pre-trained-diffusion-models-for-multimodal-image-synthesis/
 	- [[AI/Deep learning/Diffusion models]]
+- #PAPER[4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities (2024)](https://arxiv.org/pdf/2406.09406)
+	-  https://4m.epfl.ch/
+	- #CODE https://github.com/apple/ml-4m?tab=readme-ov-file&utm_source=pocket_shared

@@ -17,11 +17,12 @@ title: "Object detection"
 - #CODE [Detectron2](https://github.com/facebookresearch/detectron2)
 	- Detectron2 is FAIR's next-generation platform for object detection and segmentation
 - #CODE https://github.com/jinwchoi/awesome-action-recognition#object-detection
-- #CODE [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+- #CODE [YOLO: Real-Time Object Detection](https://github.com/ultralytics/ultralytics
+	- [Ultralytics Docs](https://docs.ultralytics.com/)
 
 ## References
 - #PAPER [Multiple Object Recognition with Visual Attention (Ba 2015)](http://arxiv.org/abs/1412.7755)
-- #PAPER Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks (Oquab 2015): 
+- #PAPER I[s object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks](https://inria.hal.science/hal-01015140v2) (2015): 
 	- http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf
 	- https://www.di.ens.fr/willow/research/weakcnn/
 - #PAPER [DeepLab - Weakly-and semi-supervised learning of a DCNN for semantic image segmentation (Papandreou 2015)](http://arxiv.org/abs/1502.02734)

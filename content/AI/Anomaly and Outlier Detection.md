@@ -4,7 +4,7 @@ title: "Anomaly and Outlier Detection"
 
 > Most of the outlier detection approaches belong to [[AI/Unsupervised learning/Unsupervised learning]] although it might be framed as a [[AI/Semi-supervised learning]] problem. In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
 
-> See "Active learning for anomaly discovery" section in [[AI/Active learning]]
+> [[AI/Active learning#Active learning for anomaly discovery]]
 
 ## Resources
 - https://towardsdatascience.com/density-based-algorithm-for-outlier-detection-8f278d2f7983 
@@ -57,7 +57,7 @@ title: "Anomaly and Outlier Detection"
 - #PAPER [Bayesian Anomaly Detection and Classification (2019)](https://arxiv.org/abs/1902.08627  )
 
 ### DL-based
-- See "GANs for anomaly detection" section in [[AI/Deep learning/GANs]]
+- [[AI/Deep learning/GANs#GANs for anomaly detection]]
 - #PAPER [Learning Deep Features for One-Class Classification (Perera 2018)](https://arxiv.org/abs/1801.05365)
 - #PAPER [Deep One-Class Classification (Ruff 2018)](http://proceedings.mlr.press/v80/ruff18a.html)
 - #PAPER [Learning and Evaluating Representations for Deep One-Class Classification (Sohn 2021)](https://openreview.net/forum?id=HCSgyPUfeDj)

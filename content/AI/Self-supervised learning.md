@@ -4,7 +4,7 @@ title: "Self-supervised learning"
 
 > Self-supervised learning deals with learning from unlabeled sample data. It can be regarded as an intermediate form between [[AI/Supervised Learning/Supervised learning]] and [[AI/Unsupervised learning/Unsupervised learning]]
 
-> See "Self-supervised vision transformers" subsection in [[AI/Deep learning/Transformers]]
+> See [[AI/Deep learning/Transformers#Self-supervised vision transformers]]
 
 ## Resources
 - https://github.com/jason718/awesome-self-supervised-learning
@@ -18,7 +18,6 @@ title: "Self-supervised learning"
 - [Grokking self-supervised (representation) learning: how it works in computer vision and why](https://theaisummer.com/self-supervised-representation-learning-computer-vision/)
 - [Self-supervised learning tutorial: Implementing SimCLR with pytorch lightning](https://theaisummer.com/simclr/)
 	
- 
 ## Code
 - #CODE [VISSL](https://github.com/facebookresearch/vissl)
 	- FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images

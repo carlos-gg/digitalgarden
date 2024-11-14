@@ -4,7 +4,7 @@ title: "Video segmentation and prediction"
 
 > See: 
 > - [[AI/Deep learning/Encoder-decoder networks]]
-> - "Deep learning for multi-dimensional data" section in [[AI/Deep learning/DL]]
+> - [[AI/Deep learning/DL#DL for multi-dimensional data]]
 > - [[AI/Deep learning/RNNs]]
 
 ## Resources

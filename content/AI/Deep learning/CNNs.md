@@ -11,16 +11,16 @@ title: "Convolutional Neural Networks (CNNs)"
 - [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - http://cs231n.github.io/convolutional-networks/
 - http://cs231n.github.io/understanding-cnn/
-- https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/
+- [Deep Convolutional Neural Networks as Models of the Visual System: Q&A | Grace W. Lindsay](https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/)
 * [Best deep CNN architectures and their principles: from AlexNet to EfficientNet](https://theaisummer.com/cnn-architectures/)
 
 ### Convolutions
 - [Understanding convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [An Introduction to different Types of Convolutions in DL](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
-- https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
-- https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+- [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning | by Kunlun Bai | Towards Data Science](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
+- [An Introduction to different Types of Convolutions in Deep Learning | by Paul-Louis Pröve | Towards Data Science](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 - [Depthwise separable convolution](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
-- https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n 
+- [Intuitive understanding of 1D, 2D, and 3D convolutions in convolutional neural networks - Stack Overflow](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n) 
 - https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 - [Convolutions Over Volumes (channels)](https://www.youtube.com/watch?v=KTB_OFoAQcc )
 
@@ -28,10 +28,10 @@ title: "Convolutional Neural Networks (CNNs)"
 - 1x1 convolutions: https://d2l.ai/chapter_convolutional-neural-networks/channels.html#times-1-convolutional-layer
 - [1x1 convolutions](https://www.youtube.com/watch?v=qVP574skyuM)
 - [Networks in Networks and 1x1 Convolutions](https://www.youtube.com/watch?v=vcp0XvDAX68)
-- https://iamaaditya.github.io/2016/03/one-by-one-convolution/
-- https://towardsdatascience.com/1x1-convolution-5219bbc09027
-- https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578
-- https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/
+- [One by One \[ 1 x 1 \] Convolution - counter-intuitively useful – Aaditya Prakash (Adi) – Machine Learning](https://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+- [1x1 Convolutions: Demystified by Anwesh Marwade | Towards Data Science](https://towardsdatascience.com/1x1-convolution-5219bbc09027)
+- [1X1 Convolution, CNN, CV, Neural Networks | Analytics Vidhya](https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578)
+- [A Gentle Introduction to 1x1 Convolutions to Manage Model Complexity - MachineLearningMastery.com](https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/)
 	- A convolutional layer with a 1×1 filter is used at any point in a CNN to control the number of feature maps. It's often referred to as a projection operation or projection layer, or even a feature map or channel pooling layer
 
 ### Human pose estimation and activity recognition
@@ -50,17 +50,16 @@ title: "Convolutional Neural Networks (CNNs)"
 
 
 ### Channel/visual attention
-- #CODE [Visual-attention-tf](https://github.com/vinayak19th/Visual_attention_tf) ^tfvisualattention
+- #CODE [Visual-attention-tf](https://github.com/vinayak19th/Visual_attention_tf) 
 	- Pixel Attention
 	- Channel Attention (CBAM)
 	- Efficient Channel Attention
-- #CODE [Convolution Variants](https://github.com/JinLi711/Convolution_Variants) ^kerasconvvariants
+- #CODE [Convolution Variants](https://github.com/JinLi711/Convolution_Variants) 
 	- Attention Augmented (AA) Convolution Layer
 	- Mixed Depthwise Convolution Layer
 	- Drop Block
 	- Efficient Channel Attention (ECA) Layer
 	- Convolutional Block Attention Module (CBAM) Layer
-
 
 ## References
 - #PAPER [A guide to convolution arithmetic for deep learning (Dumoulin, 2016)](https://arxiv.org/abs/1603.07285)
@@ -79,7 +78,7 @@ title: "Convolutional Neural Networks (CNNs)"
 - #PAPER [Non-deep Networks (Goyal 2021)](https://arxiv.org/abs/2110.07641)
 	- #CODE https://paperswithcode.com/paper/non-deep-networks-1?from=n19
 	- use parallel subnetworks instead of stacking one layer after another. This helps effectively reduce depth while maintaining high performance
-* #PAPER [ConvNext: A ConvNet for the 2020s (Liu 2022)](https://arxiv.org/abs/2201.03545) ^convnext
+* #PAPER [ConvNext: A ConvNet for the 2020s (Liu 2022)](https://arxiv.org/abs/2201.03545)
 	* #CODE https://github.com/facebookresearch/ConvNeXt
 	* #CODE https://github.com/bamps53/convnext-tf/
 	* #CODE https://github.com/sayakpaul/ConvNeXt-TF
@@ -129,13 +128,13 @@ See [[AI/Computer Vision/Image and video captioning]]
 See [[AI/Computer Vision/Image-to-image translation]]
 
 ### Super-resolution 
-See "CNN-based" section in [[AI/Computer Vision/Super-resolution]]
+See [[AI/Computer Vision/Super-resolution#Supervised CNN-based]]
 
 ### Inpainting
-See "CNN-based" section in [[AI/Computer Vision/Inpainting and restoration]]
+See [[AI/Computer Vision/Inpainting and restoration#CNN-based]]
 
 ### Background subtraction, foreground detection
-See "CNN-based" section in [[AI/Computer Vision/Background subtraction]]
+See [[AI/Computer Vision/Background subtraction#CNN based]]
 
 ### Edge detection
 - #PAPER [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://arxiv.org/pdf/1412.1123)
@@ -153,8 +152,8 @@ See "CNN-based" section in [[AI/Computer Vision/Background subtraction]]
 - #PAPER [Deep Convolutional Neural Network for Image Deconvolution (Xu 2014)](http://lxu.me/projects/dcnn/)
 
 ### Visual/Channel attention and Saliency
-See "Neural Networks explainability" section in [[AI/XAI]]
- - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) ^senets
+See [[AI/XAI#Explainability methods for Neural Networks]]
+ - #PAPER [Squeeze-and-Excitation Networks, SENets (Hu 2017)](https://arxiv.org/abs/1709.01507) 
 	- Features can incorporate global context
 	- Since SENet only revolves around providing channel attention by using dedicated global feature descriptors, which in this case is Global Average Pooling (GAP), there is a loss of information and the attention provided is point-wise. This means that all pixels are mapped in the spatial domain of a feature map uniformly, and thus not discriminating between important or class-deterministic pixels versus those which are part of the background or not containing useful information.
 	- Thus, the importance/need for spatial attention is justified to be coupled with channel attention. One of the prime examples of the same is CBAM (published at ECCV 2018) 
@@ -163,7 +162,7 @@ See "Neural Networks explainability" section in [[AI/XAI]]
 	- https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/
 	- https://programmerclick.com/article/4934219785/
 	- https://pyimagesearch.com/2022/05/30/attending-to-channels-using-keras-and-tensorflow/
- - #PAPER [CBAM: Convolutional Block Attention Module (Woo 2018)](https://arxiv.org/abs/1807.06521) ^cbam
+ - #PAPER [CBAM: Convolutional Block Attention Module (Woo 2018)](https://arxiv.org/abs/1807.06521) 
 	 - #CODE https://kobiso.github.io//research/research-CBAM/
 	 - https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671
 	 - https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/
