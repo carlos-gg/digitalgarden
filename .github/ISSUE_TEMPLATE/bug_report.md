@@ -1,10 +1,9 @@
 ---
 name: Bug report
 about: Something about Quartz isn't working the way you expect
-title: ''
+title: ""
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 **Describe the bug**
@@ -12,6 +11,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -20,13 +20,21 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots and Source**
 If applicable, add screenshots to help explain your problem.
 
+You can help speed up fixing the problem by either
+
+1. providing a simple reproduction
+2. linking to your Quartz repository where the problem can be observed
+
 **Desktop (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+
+- Quartz Version: [e.g. v4.1.2]
+- `node` Version: [e.g. v18.16]
+- `npm` version: [e.g. v10.1.0]
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
 
 **Additional context**
 Add any other context about the problem here.
