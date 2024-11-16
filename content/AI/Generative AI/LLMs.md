@@ -13,6 +13,7 @@ title: LLMs
 
 ## Resources
 - [eugeneyan/open-llms: 📋 A list of open LLMs available for commercial use. (github.com)](https://github.com/eugeneyan/open-llms)
+- [GitHub - SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook?utm_source=substack&utm_medium=email) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications
 - [NiuTrans/ABigSurveyOfLLMs: A collection of 150+ surveys on LLMs (github.com)](https://github.com/NiuTrans/ABigSurveyOfLLMs)
 - [Question answering using embeddings-based search | OpenAI Cookbook](https://cookbook.openai.com/examples/question_answering_using_embeddings)
 - [Chat with your PDF: Using Langchain, F.A.I.S.S., and OpenAI to Query PDFs | by johnthuo | Medium](https://medium.com/@johnthuo/chat-with-your-pdf-using-langchain-f-a-i-s-s-and-openai-to-query-pdfs-e7bfde086155)

@@ -1,7 +1,7 @@
 ---
 title: Agents
 ---
-
+> An AI agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system by designing its workflow and utilizing available tools.
 > See: 
 > - [[AI/Generative AI/Foundation models]] 
 > - [[AI/Deep learning/Multimodal learning]] 
@@ -12,7 +12,6 @@ title: Agents
 	- https://significant-gravitas.github.io/Auto-GPT/
 	- https://autogpt.net/
 - [AgentGPT](https://agentgpt.reworkd.ai/es)
-- [BabyAGI](https://babyagi.org/)
 - [JARVIS / HuggingGPT](https://github.com/microsoft/JARVIS)
 - [Agents in AutoGen | AutoGen (microsoft.github.io)](https://microsoft.github.io/autogen/blog/2024/05/24/Agent/)
     - Agent - an entity that can act on behalf of human intent
