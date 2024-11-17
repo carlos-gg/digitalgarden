@@ -1,5 +1,8 @@
 # AI digital knowledge garden
 
+> [!NOTE]  
+> This digital garden will not be updated anymore. Go to my [AI notes](https://aigarden.vercel.app/) instead.
+
 Welcome to my personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science. The garden is composed of markdown files, stored in the ``content`` folder of this repository, which are turned into a website by [Quartz](https://quartz.jzhao.xyz/). 
 
 ## Quartz
