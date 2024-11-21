@@ -2,6 +2,8 @@
 title: CarlosGG's AI Knowledge Garden 🪴 
 ---
 
+> **_NOTE:_**  This digital garden will be no longer maintained. Go to the new version of my [AI Notes](https://aigarden.vercel.app/).
+
 Welcome to my personal digital knowledge garden, a collection of notes and resources that I started to compile a couple of years ago as my best attempt to become a somewhat functional _information junkie_. Here I curate, organize and catalog the stuff I ~~read~~ [skim over](https://learningcenter.unc.edu/tips-and-tools/skimming/) everyday. 
 
 ## About digital knowledge gardens
